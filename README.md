@@ -8,4 +8,9 @@ I made this when I worked out that there's some image URLs that point directly t
 
 `./scripts/update_articles.sh` to pull latest data and download the articles
 
+## Included help centers
+
+- hatenablogmedia.zendesk.com
+- hatena.zendesk.com
+- mackerelio.zendesk.com (this is normally aliases as support.mackerel.io)
 
