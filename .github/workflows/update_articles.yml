@@ -1,0 +1,23 @@
+name: Update all Zendesk articles
+
+on:
+  push:
+  workflow_dispatch:
+  schedule:
+    - cron: '0 */6 * * *'
+
+jobs:
+  run-script:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - name: Try to fetch new articles and update as needed
+        run: ./scripts/update_all.sh
+      - name: Commit and push if it changed
+        run: |-
+          git config user.name "Automated"
+          git config user.email "actions@users.noreply.github.com"
+          git add -A
+          timestamp=$(date -u)
+          git commit -m "Update Zendesk articles: ${timestamp}" || exit 0
+          git push
