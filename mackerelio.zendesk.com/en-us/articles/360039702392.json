@@ -1,1 +1,29 @@
-{"article":{"id":360039702392,"url":"https://mackerelio.zendesk.com/api/v2/help_center/en-us/articles/360039702392.json","html_url":"https://support.mackerel.io/hc/en-us/articles/360039702392-I-m-not-receiving-any-emails-","author_id":390085917472,"comments_disabled":true,"draft":false,"promoted":false,"position":0,"vote_sum":-3,"vote_count":3,"section_id":360008015791,"created_at":"2020-02-24T08:44:33Z","updated_at":"2021-08-20T04:09:06Z","name":"I’m not receiving any emails.","title":"I’m not receiving any emails.","source_locale":"ja","locale":"en-us","outdated":false,"outdated_locales":[],"edited_at":"2020-03-09T08:55:20Z","user_segment_id":null,"permission_group_id":1305671,"content_tag_ids":[],"label_names":[],"body":"\u003cp\u003eAccount confirmation, alert notification, and other various emails are sent from Mackerel. If for some reason emails from Mackerel are not appearing, please refer to the following list of possible causes.\u003c/p\u003e\n\u003cul\u003e\n\u003cli\u003eemails from \u003ccode\u003enoreply@mackerel.io\u003c/code\u003e can not be received\n\u003cul\u003e\n\u003cli\u003eIf you are using email filtering, please make sure that your filter settings are configured so that \u003ccode\u003emackerel.io\u003c/code\u003e emails can be received.\u003c/li\u003e\n\u003c/ul\u003e\n\u003c/li\u003e\n\u003cli\u003eMail from \u003ccode\u003emackerel.io\u003c/code\u003e gets recognized as spam.\n\u003cul\u003e\n\u003cli\u003eIf emails from Mackerel are being filtered as spam or junk mail, please check your spam filter settings. If you are using gmail, please refer to the gmail support page. (\u003ca href=\"https://support.google.com/mail/answer/1366858\"\u003ehttps://support.google.com/mail/answer/1366858\u003c/a\u003e )\u003c/li\u003e\n\u003cli\u003emackerel.io is an \u003ca href=\"http://wikipedia.org/wiki/Sender_Policy_Framework\"\u003eSPF-verified domain\u003c/a\u003e. In your spam filter settings, there should be an option to allow mail from SPF-verified domains.\u003c/li\u003e\n\u003c/ul\u003e\n\u003c/li\u003e\n\u003cli\u003eNo alert notification emails.\n\u003cul\u003e\n\u003cli\u003eAlert notification emails will not be sent if you have not completed registration. To begin receiving alert notification email, please complete registration by verifying your account via the account verification email that was sent.\u003c/li\u003e\n\u003c/ul\u003e\n\u003c/li\u003e\n\u003c/ul\u003e"}}
+{
+  "article": {
+    "id": 360039702392,
+    "url": "https://mackerelio.zendesk.com/api/v2/help_center/en-us/articles/360039702392.json",
+    "html_url": "https://support.mackerel.io/hc/en-us/articles/360039702392-I-m-not-receiving-any-emails-",
+    "author_id": 390085917472,
+    "comments_disabled": true,
+    "draft": false,
+    "promoted": false,
+    "position": 0,
+    "vote_sum": -3,
+    "vote_count": 3,
+    "section_id": 360008015791,
+    "created_at": "2020-02-24T08:44:33Z",
+    "updated_at": "2021-08-20T04:09:06Z",
+    "name": "I’m not receiving any emails.",
+    "title": "I’m not receiving any emails.",
+    "source_locale": "ja",
+    "locale": "en-us",
+    "outdated": false,
+    "outdated_locales": [],
+    "edited_at": "2020-03-09T08:55:20Z",
+    "user_segment_id": null,
+    "permission_group_id": 1305671,
+    "content_tag_ids": [],
+    "label_names": [],
+    "body": "<p>Account confirmation, alert notification, and other various emails are sent from Mackerel. If for some reason emails from Mackerel are not appearing, please refer to the following list of possible causes.</p>\n<ul>\n<li>emails from <code>noreply@mackerel.io</code> can not be received\n<ul>\n<li>If you are using email filtering, please make sure that your filter settings are configured so that <code>mackerel.io</code> emails can be received.</li>\n</ul>\n</li>\n<li>Mail from <code>mackerel.io</code> gets recognized as spam.\n<ul>\n<li>If emails from Mackerel are being filtered as spam or junk mail, please check your spam filter settings. If you are using gmail, please refer to the gmail support page. (<a href=\"https://support.google.com/mail/answer/1366858\">https://support.google.com/mail/answer/1366858</a> )</li>\n<li>mackerel.io is an <a href=\"http://wikipedia.org/wiki/Sender_Policy_Framework\">SPF-verified domain</a>. In your spam filter settings, there should be an option to allow mail from SPF-verified domains.</li>\n</ul>\n</li>\n<li>No alert notification emails.\n<ul>\n<li>Alert notification emails will not be sent if you have not completed registration. To begin receiving alert notification email, please complete registration by verifying your account via the account verification email that was sent.</li>\n</ul>\n</li>\n</ul>"
+  }
+}

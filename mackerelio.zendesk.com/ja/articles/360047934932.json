@@ -1,1 +1,43 @@
-{"article":{"id":360047934932,"url":"https://mackerelio.zendesk.com/api/v2/help_center/ja/articles/360047934932.json","html_url":"https://support.mackerel.io/hc/ja/articles/360047934932","author_id":390436787231,"comments_disabled":true,"draft":false,"promoted":false,"position":0,"vote_sum":0,"vote_count":0,"section_id":360008016131,"created_at":"2020-08-20T08:40:46Z","updated_at":"2022-04-26T08:08:53Z","name":"クレジットカード払い 決済処理に失敗する原因と対処法は？","title":"クレジットカード払い 決済処理に失敗する原因と対処法は？","source_locale":"ja","locale":"ja","outdated":false,"outdated_locales":[],"edited_at":"2022-04-26T08:08:53Z","user_segment_id":null,"permission_group_id":1305651,"content_tag_ids":[],"label_names":["決済","失敗","クレジットカード","有効期限切れ","上限額","カード情報","支払い情報","カード会社","payment","card","credit","declined","クレカ"],"body":"\u003cp\u003eご利用料金のお支払い方法として設定されているクレジットカードによる決済に失敗した場合、以下のようなメールをお送りしています。\u003c/p\u003e\n\u003cpre class=\"code\" data-lang=\"\" data-unlink=\"\"\u003eMackerel をご利用いただきありがとうございます。\u003cbr\u003e\u003cbr\u003eご利用料金につきまして、決済処理を試みましたが以下の原因により失敗しました。\u003cbr\u003e\u003cbr\u003eカードによる決済に失敗しました\u003cbr\u003e\u003cbr\u003e以下のページにアクセスいただき確認をお願い致します。\u003cbr\u003ehttps://mackerel.io/my?tab=plan\u003c/pre\u003e\n\u003cp\u003eクレジットカードの有効期限切れや決済上限額への到達など、決済に失敗した理由等に関しましてはご利用のクレジットカードのカード会社にお問い合わせください。\u003c/p\u003e\n\u003cp\u003e問題の解決がすぐにはおこなえず、登録しているカード情報を変更したい場合には、\u003ca href=\"https://mackerel.io/my?tab=plan\" target=\"_blank\" rel=\"noopener noreferrer\"\u003eMackerel Webコンソール\u003c/a\u003eより、\u003ca href=\"https://mackerel.io/my/plan/-/update-payment\" target=\"_blank\" rel=\"noopener noreferrer\"\u003e支払情報の変更\u003c/a\u003eを実施してください。翌日、再度決済処理が自動的に実行されます。\u003c/p\u003e\n\u003cp\u003e上記の問題が解決しそのまま同一のクレジットカードで決済を実施されたい場合は、特に作業をおこなっていただく必要はありません。翌日、再度決済処理が自動的に実行されます。\u003c/p\u003e"}}
+{
+  "article": {
+    "id": 360047934932,
+    "url": "https://mackerelio.zendesk.com/api/v2/help_center/ja/articles/360047934932.json",
+    "html_url": "https://support.mackerel.io/hc/ja/articles/360047934932",
+    "author_id": 390436787231,
+    "comments_disabled": true,
+    "draft": false,
+    "promoted": false,
+    "position": 0,
+    "vote_sum": 0,
+    "vote_count": 0,
+    "section_id": 360008016131,
+    "created_at": "2020-08-20T08:40:46Z",
+    "updated_at": "2022-04-26T08:08:53Z",
+    "name": "クレジットカード払い 決済処理に失敗する原因と対処法は？",
+    "title": "クレジットカード払い 決済処理に失敗する原因と対処法は？",
+    "source_locale": "ja",
+    "locale": "ja",
+    "outdated": false,
+    "outdated_locales": [],
+    "edited_at": "2022-04-26T08:08:53Z",
+    "user_segment_id": null,
+    "permission_group_id": 1305651,
+    "content_tag_ids": [],
+    "label_names": [
+      "決済",
+      "失敗",
+      "クレジットカード",
+      "有効期限切れ",
+      "上限額",
+      "カード情報",
+      "支払い情報",
+      "カード会社",
+      "payment",
+      "card",
+      "credit",
+      "declined",
+      "クレカ"
+    ],
+    "body": "<p>ご利用料金のお支払い方法として設定されているクレジットカードによる決済に失敗した場合、以下のようなメールをお送りしています。</p>\n<pre class=\"code\" data-lang=\"\" data-unlink=\"\">Mackerel をご利用いただきありがとうございます。<br><br>ご利用料金につきまして、決済処理を試みましたが以下の原因により失敗しました。<br><br>カードによる決済に失敗しました<br><br>以下のページにアクセスいただき確認をお願い致します。<br>https://mackerel.io/my?tab=plan</pre>\n<p>クレジットカードの有効期限切れや決済上限額への到達など、決済に失敗した理由等に関しましてはご利用のクレジットカードのカード会社にお問い合わせください。</p>\n<p>問題の解決がすぐにはおこなえず、登録しているカード情報を変更したい場合には、<a href=\"https://mackerel.io/my?tab=plan\" target=\"_blank\" rel=\"noopener noreferrer\">Mackerel Webコンソール</a>より、<a href=\"https://mackerel.io/my/plan/-/update-payment\" target=\"_blank\" rel=\"noopener noreferrer\">支払情報の変更</a>を実施してください。翌日、再度決済処理が自動的に実行されます。</p>\n<p>上記の問題が解決しそのまま同一のクレジットカードで決済を実施されたい場合は、特に作業をおこなっていただく必要はありません。翌日、再度決済処理が自動的に実行されます。</p>"
+  }
+}

@@ -1,1 +1,29 @@
-{"article":{"id":360043006972,"url":"https://mackerelio.zendesk.com/api/v2/help_center/en-us/articles/360043006972.json","html_url":"https://support.mackerel.io/hc/en-us/articles/360043006972-Support-related-questions","author_id":390085917472,"comments_disabled":true,"draft":false,"promoted":false,"position":0,"vote_sum":0,"vote_count":2,"section_id":4412617458329,"created_at":"2020-05-12T05:21:05Z","updated_at":"2022-02-08T03:55:47Z","name":"Support related questions","title":"Support related questions","source_locale":"ja","locale":"en-us","outdated":false,"outdated_locales":[],"edited_at":"2022-02-08T03:55:47Z","user_segment_id":null,"permission_group_id":1305651,"content_tag_ids":[],"label_names":[],"body":"\u003cul\u003e\n\u003cli\u003eAll inquiries are answered via the \"\u003ca href=\"https://support.mackerel.io/hc/en-us/requests/new\" target=\"_blank\" rel=\"noopener\"\u003eContact Us\u003c/a\u003e\" webform on the Mackerel web console.\n\u003cul\u003e\n\u003cli\u003eWe do not provide telephone support. Even if you call the representative number, we will not be able to assist you.\u003c/li\u003e\n\u003cli\u003eWe respond to inquiries in the order that they are received, and we can not make exceptions even if you are in a hurry. We appreciate your cooperation.\u003c/li\u003e\n\u003c/ul\u003e\n\u003c/li\u003e\n\u003cli\u003eOur hours of availability are from 10:00 - 7:00 on business days. (JST)\u003c/li\u003e\n\u003cli\u003eWe will try our best to respond to all inquiries received within 2 business days.\u003c/li\u003e\n\u003cli\u003eYour usage plan (Trial / Free / Standard) does not affect the support you receive.\u003c/li\u003e\n\u003c/ul\u003e"}}
+{
+  "article": {
+    "id": 360043006972,
+    "url": "https://mackerelio.zendesk.com/api/v2/help_center/en-us/articles/360043006972.json",
+    "html_url": "https://support.mackerel.io/hc/en-us/articles/360043006972-Support-related-questions",
+    "author_id": 390085917472,
+    "comments_disabled": true,
+    "draft": false,
+    "promoted": false,
+    "position": 0,
+    "vote_sum": 0,
+    "vote_count": 2,
+    "section_id": 4412617458329,
+    "created_at": "2020-05-12T05:21:05Z",
+    "updated_at": "2022-02-08T03:55:47Z",
+    "name": "Support related questions",
+    "title": "Support related questions",
+    "source_locale": "ja",
+    "locale": "en-us",
+    "outdated": false,
+    "outdated_locales": [],
+    "edited_at": "2022-02-08T03:55:47Z",
+    "user_segment_id": null,
+    "permission_group_id": 1305651,
+    "content_tag_ids": [],
+    "label_names": [],
+    "body": "<ul>\n<li>All inquiries are answered via the \"<a href=\"https://support.mackerel.io/hc/en-us/requests/new\" target=\"_blank\" rel=\"noopener\">Contact Us</a>\" webform on the Mackerel web console.\n<ul>\n<li>We do not provide telephone support. Even if you call the representative number, we will not be able to assist you.</li>\n<li>We respond to inquiries in the order that they are received, and we can not make exceptions even if you are in a hurry. We appreciate your cooperation.</li>\n</ul>\n</li>\n<li>Our hours of availability are from 10:00 - 7:00 on business days. (JST)</li>\n<li>We will try our best to respond to all inquiries received within 2 business days.</li>\n<li>Your usage plan (Trial / Free / Standard) does not affect the support you receive.</li>\n</ul>"
+  }
+}

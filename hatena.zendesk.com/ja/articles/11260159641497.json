@@ -1,1 +1,32 @@
-{"article":{"id":11260159641497,"url":"https://hatena.zendesk.com/api/v2/help_center/ja/articles/11260159641497.json","html_url":"https://hatena.zendesk.com/hc/ja/articles/11260159641497","author_id":394723693172,"comments_disabled":true,"draft":false,"promoted":false,"position":0,"vote_sum":5,"vote_count":5,"section_id":900000475543,"created_at":"2022-10-07T05:59:10Z","updated_at":"2022-12-15T23:02:45Z","name":"ブログを収益化するにはどのような方法がありますか","title":"ブログを収益化するにはどのような方法がありますか","source_locale":"ja","locale":"ja","outdated":false,"outdated_locales":[],"edited_at":"2022-10-07T07:09:40Z","user_segment_id":null,"permission_group_id":972311,"content_tag_ids":[],"label_names":["アフェリエイト","物販"],"body":"\u003cp\u003eブログ広告を利用して収益化する方法はさまざまです。代表的なものでは下記のような収益化があります。\u003c/p\u003e\n\u003cp\u003e\u003cspan class=\"wysiwyg-font-size-x-large\"\u003e\u003cstrong\u003e1 \u003c/strong\u003e\u003c/span\u003e\u003cstrong\u003eGoogle Adsenseなど、ブログ記事に自動配信されるバナー広告を掲載して広告収益を得る\u003c/strong\u003e\u003c/p\u003e\n\u003cp\u003e\u003cspan class=\"wysiwyg-font-size-x-large\"\u003e\u003cstrong\u003e2 \u003c/strong\u003e\u003c/span\u003e\u003cstrong\u003eアフィリエイト広告の配信事業者と契約し、事業者と提携して商品の販売やサービス契約に誘導する広告を掲載し、成約に応じて収益を得る\u003c/strong\u003e\u003c/p\u003e\n\u003cp\u003e\u003cspan class=\"wysiwyg-font-size-x-large\"\u003e\u003cstrong\u003e3 \u003c/strong\u003e\u003c/span\u003e\u003cstrong\u003eご自身で販売している商材や、運営しているサービス・\u003c/strong\u003e\u003cstrong\u003e店舗などを、ブログで宣伝して集客し、販売やサービス利用につなげる\u003c/strong\u003e\u003c/p\u003e\n\u003cp\u003e\u003cspan class=\"wysiwyg-font-size-x-large\"\u003e\u003cstrong\u003e4 \u003c/strong\u003e\u003c/span\u003e\u003cstrong\u003e企業と契約し、タイアップ広告記事をブログに掲載して収益を得る\u003c/strong\u003e\u003c/p\u003e\n\u003cp\u003e \u003c/p\u003e\n\u003cp\u003e誰がやっても確実に収益が得られるという方法はなく、それぞれのブログの運営方針や読者の傾向によって適切な収益化方法は異なってきます。\u003c/p\u003e\n\u003cp\u003eまた、どのような方法であっても、ブログを開設した最初から収益を得ることは難しく、ある程度の期間ブログを運営し、良質な記事が掲載されており多くの方に閲覧されるブログとして実績を蓄積することが必要になってきます。\u003cbr\u003e\u003cbr\u003eはてなブログでは、1に記載した Google Adsense の導入方法を「\u003ca href=\"https://blog.hatenablog.com/pro-monetize-campaign\" target=\"_blank\" rel=\"noopener noreferrer\"\u003eはてなブログ 収益化攻略ガイド\u003c/a\u003e」にて公開しています。\u003c/p\u003e\n\u003cp\u003eまた、2に記載したアフィリエイトについては、Amazonアソシエイトと、楽天アフィリエイトとの連携に対応しており、設定方法は「\u003ca href=\"https://hatena.zendesk.com/hc/ja/articles/900003099286\" target=\"_blank\" rel=\"noopener noreferrer\"\u003eはてなブログでのアフィリエイトブログの始め方\u003c/a\u003e」にご案内しています。\u003cbr\u003eアフィリエイト広告配信サービスは他にも多数あり、ポルノや出会い系サービスなど成人向け商材や、過大な成果を謳うなど詐欺に類する商材、違法な商材以外は自由に掲載できます。\u003cbr\u003eいずれも、ご自身でサービス事業者と契約していただいた後、事業者から提供される広告コードをはてなブログに掲載するという方法で広告を掲載することになります。\u003cbr\u003e\u003cbr\u003eはてなブログでは、収益を目的としたブログに対しては「\u003ca href=\"https://help.hatenablog.com/entry/commercial-guidelines\" target=\"_blank\" rel=\"noopener noreferrer\"\u003e個人営利利用ガイドライン\u003c/a\u003e」が適用されます。連絡先の表示など、義務付けている事項がございますので、ご一読いただきますようお願いいたします。\u003c/p\u003e\n\u003cp\u003e \u003c/p\u003e"}}
+{
+  "article": {
+    "id": 11260159641497,
+    "url": "https://hatena.zendesk.com/api/v2/help_center/ja/articles/11260159641497.json",
+    "html_url": "https://hatena.zendesk.com/hc/ja/articles/11260159641497",
+    "author_id": 394723693172,
+    "comments_disabled": true,
+    "draft": false,
+    "promoted": false,
+    "position": 0,
+    "vote_sum": 5,
+    "vote_count": 5,
+    "section_id": 900000475543,
+    "created_at": "2022-10-07T05:59:10Z",
+    "updated_at": "2022-12-15T23:02:45Z",
+    "name": "ブログを収益化するにはどのような方法がありますか",
+    "title": "ブログを収益化するにはどのような方法がありますか",
+    "source_locale": "ja",
+    "locale": "ja",
+    "outdated": false,
+    "outdated_locales": [],
+    "edited_at": "2022-10-07T07:09:40Z",
+    "user_segment_id": null,
+    "permission_group_id": 972311,
+    "content_tag_ids": [],
+    "label_names": [
+      "アフェリエイト",
+      "物販"
+    ],
+    "body": "<p>ブログ広告を利用して収益化する方法はさまざまです。代表的なものでは下記のような収益化があります。</p>\n<p><span class=\"wysiwyg-font-size-x-large\"><strong>1 </strong></span><strong>Google Adsenseなど、ブログ記事に自動配信されるバナー広告を掲載して広告収益を得る</strong></p>\n<p><span class=\"wysiwyg-font-size-x-large\"><strong>2 </strong></span><strong>アフィリエイト広告の配信事業者と契約し、事業者と提携して商品の販売やサービス契約に誘導する広告を掲載し、成約に応じて収益を得る</strong></p>\n<p><span class=\"wysiwyg-font-size-x-large\"><strong>3 </strong></span><strong>ご自身で販売している商材や、運営しているサービス・</strong><strong>店舗などを、ブログで宣伝して集客し、販売やサービス利用につなげる</strong></p>\n<p><span class=\"wysiwyg-font-size-x-large\"><strong>4 </strong></span><strong>企業と契約し、タイアップ広告記事をブログに掲載して収益を得る</strong></p>\n<p> </p>\n<p>誰がやっても確実に収益が得られるという方法はなく、それぞれのブログの運営方針や読者の傾向によって適切な収益化方法は異なってきます。</p>\n<p>また、どのような方法であっても、ブログを開設した最初から収益を得ることは難しく、ある程度の期間ブログを運営し、良質な記事が掲載されており多くの方に閲覧されるブログとして実績を蓄積することが必要になってきます。<br><br>はてなブログでは、1に記載した Google Adsense の導入方法を「<a href=\"https://blog.hatenablog.com/pro-monetize-campaign\" target=\"_blank\" rel=\"noopener noreferrer\">はてなブログ 収益化攻略ガイド</a>」にて公開しています。</p>\n<p>また、2に記載したアフィリエイトについては、Amazonアソシエイトと、楽天アフィリエイトとの連携に対応しており、設定方法は「<a href=\"https://hatena.zendesk.com/hc/ja/articles/900003099286\" target=\"_blank\" rel=\"noopener noreferrer\">はてなブログでのアフィリエイトブログの始め方</a>」にご案内しています。<br>アフィリエイト広告配信サービスは他にも多数あり、ポルノや出会い系サービスなど成人向け商材や、過大な成果を謳うなど詐欺に類する商材、違法な商材以外は自由に掲載できます。<br>いずれも、ご自身でサービス事業者と契約していただいた後、事業者から提供される広告コードをはてなブログに掲載するという方法で広告を掲載することになります。<br><br>はてなブログでは、収益を目的としたブログに対しては「<a href=\"https://help.hatenablog.com/entry/commercial-guidelines\" target=\"_blank\" rel=\"noopener noreferrer\">個人営利利用ガイドライン</a>」が適用されます。連絡先の表示など、義務付けている事項がございますので、ご一読いただきますようお願いいたします。</p>\n<p> </p>"
+  }
+}

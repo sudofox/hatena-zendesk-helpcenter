@@ -1,1 +1,29 @@
-{"article":{"id":360043006992,"url":"https://mackerelio.zendesk.com/api/v2/help_center/ja/articles/360043006992.json","html_url":"https://support.mackerel.io/hc/ja/articles/360043006992","author_id":390085917472,"comments_disabled":true,"draft":false,"promoted":false,"position":1,"vote_sum":-2,"vote_count":2,"section_id":360008120511,"created_at":"2020-05-12T05:24:05Z","updated_at":"2021-12-21T05:10:49Z","name":"エージェントが「x509: certificate signed by unknown authority」エラーを出力しています","title":"エージェントが「x509: certificate signed by unknown authority」エラーを出力しています","source_locale":"ja","locale":"ja","outdated":false,"outdated_locales":[],"edited_at":"2020-05-12T05:25:00Z","user_segment_id":null,"permission_group_id":1305651,"content_tag_ids":[],"label_names":[],"body":"\u003cp\u003emackerel-agent が以下のようなログを出力した場合、\u003c/p\u003e\n\u003cpre class=\"code\" data-lang=\"\" data-unlink=\"\"\u003eFailed to post metrics value (will retry): Post https://mackerel.io/api/v0/tsdb: x509: certificate signed by unknown authority\u003c/pre\u003e\n\u003cp\u003emackerel-agent がインストールされているホストのCA証明書が古い可能性があります。 \u003ccode\u003eca-certificates\u003c/code\u003e パッケージの更新や Windows Update の実施をご検討ください。（\u003ccode\u003ewill retry\u003c/code\u003e という出力のとおり、通信が正常な状態に復帰した際にメトリックの投稿はリトライされます。）\u003c/p\u003e\n\u003cp\u003eまた、ご利用のOSが\u003ca href=\"https://mackerel.io/ja/docs/entry/overview#support-environments\"\u003e公式サポート対象\u003c/a\u003eのものであることも合わせてご確認ください。\u003c/p\u003e\n\u003cp\u003eこれは例えば、SSL/TLS通信を確立するために必要となる証明書の更新により発生する場合があります。この事象は Mackerel に限らず、そのホストから SSL/TLS 通信を行う全ての場合に起こり得るものとなりますので、ホストのCA証明書は定期的に更新することをおすすめいたします。\u003c/p\u003e"}}
+{
+  "article": {
+    "id": 360043006992,
+    "url": "https://mackerelio.zendesk.com/api/v2/help_center/ja/articles/360043006992.json",
+    "html_url": "https://support.mackerel.io/hc/ja/articles/360043006992",
+    "author_id": 390085917472,
+    "comments_disabled": true,
+    "draft": false,
+    "promoted": false,
+    "position": 1,
+    "vote_sum": -2,
+    "vote_count": 2,
+    "section_id": 360008120511,
+    "created_at": "2020-05-12T05:24:05Z",
+    "updated_at": "2021-12-21T05:10:49Z",
+    "name": "エージェントが「x509: certificate signed by unknown authority」エラーを出力しています",
+    "title": "エージェントが「x509: certificate signed by unknown authority」エラーを出力しています",
+    "source_locale": "ja",
+    "locale": "ja",
+    "outdated": false,
+    "outdated_locales": [],
+    "edited_at": "2020-05-12T05:25:00Z",
+    "user_segment_id": null,
+    "permission_group_id": 1305651,
+    "content_tag_ids": [],
+    "label_names": [],
+    "body": "<p>mackerel-agent が以下のようなログを出力した場合、</p>\n<pre class=\"code\" data-lang=\"\" data-unlink=\"\">Failed to post metrics value (will retry): Post https://mackerel.io/api/v0/tsdb: x509: certificate signed by unknown authority</pre>\n<p>mackerel-agent がインストールされているホストのCA証明書が古い可能性があります。 <code>ca-certificates</code> パッケージの更新や Windows Update の実施をご検討ください。（<code>will retry</code> という出力のとおり、通信が正常な状態に復帰した際にメトリックの投稿はリトライされます。）</p>\n<p>また、ご利用のOSが<a href=\"https://mackerel.io/ja/docs/entry/overview#support-environments\">公式サポート対象</a>のものであることも合わせてご確認ください。</p>\n<p>これは例えば、SSL/TLS通信を確立するために必要となる証明書の更新により発生する場合があります。この事象は Mackerel に限らず、そのホストから SSL/TLS 通信を行う全ての場合に起こり得るものとなりますので、ホストのCA証明書は定期的に更新することをおすすめいたします。</p>"
+  }
+}

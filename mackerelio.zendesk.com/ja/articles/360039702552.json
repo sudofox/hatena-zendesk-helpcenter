@@ -1,1 +1,29 @@
-{"article":{"id":360039702552,"url":"https://mackerelio.zendesk.com/api/v2/help_center/ja/articles/360039702552.json","html_url":"https://support.mackerel.io/hc/ja/articles/360039702552","author_id":390085917472,"comments_disabled":true,"draft":false,"promoted":false,"position":3,"vote_sum":0,"vote_count":0,"section_id":360008015871,"created_at":"2020-02-24T09:05:56Z","updated_at":"2021-12-21T05:10:58Z","name":"インテグレーションを利用しているが、ホストが退役されずに残っている","title":"インテグレーションを利用しているが、ホストが退役されずに残っている","source_locale":"ja","locale":"ja","outdated":false,"outdated_locales":[],"edited_at":"2020-02-24T09:21:53Z","user_segment_id":null,"permission_group_id":1305651,"content_tag_ids":[],"label_names":[],"body":"\u003cp\u003e\u003ca href=\"https://mackerel.io/ja/docs/entry/integrations/aws\"\u003eAWSインテグレーション\u003c/a\u003eや\u003ca href=\"https://mackerel.io/ja/docs/entry/integrations/azure\"\u003eAzureインテグレーション\u003c/a\u003eを利用することにより、エージェントソフトウェア（mackerel-agent）をインストールすることなく、Mackerelでモニタリングをおこなえます。\u003c/p\u003e\n\u003cp\u003eただし、Mackerelのインテグレーション機能は「ホストの登録（連携）」のために利用することはできますが、連携の解除（\u003ca href=\"https://mackerel.io/ja/docs/entry/howto/host-retirement\"\u003eホストの退役\u003c/a\u003e）は自動ではおこなわれません。実体となる仮想サーバーが削除された場合でも、Mackerelに連携済みのホスト情報は登録されたままとなります。また、インテグレーション設定を削除した際にも、ホスト情報は登録されたままとなります。\u003c/p\u003e\n\u003cp\u003e対象のホスト情報が不要な場合は、別途\u003ca href=\"https://mackerel.io/ja/docs/entry/howto/host-retirement\"\u003e登録されたホストを Mackerel の管理対象から外す\u003c/a\u003e作業の実施をおこなってください。\u003c/p\u003e"}}
+{
+  "article": {
+    "id": 360039702552,
+    "url": "https://mackerelio.zendesk.com/api/v2/help_center/ja/articles/360039702552.json",
+    "html_url": "https://support.mackerel.io/hc/ja/articles/360039702552",
+    "author_id": 390085917472,
+    "comments_disabled": true,
+    "draft": false,
+    "promoted": false,
+    "position": 3,
+    "vote_sum": 0,
+    "vote_count": 0,
+    "section_id": 360008015871,
+    "created_at": "2020-02-24T09:05:56Z",
+    "updated_at": "2021-12-21T05:10:58Z",
+    "name": "インテグレーションを利用しているが、ホストが退役されずに残っている",
+    "title": "インテグレーションを利用しているが、ホストが退役されずに残っている",
+    "source_locale": "ja",
+    "locale": "ja",
+    "outdated": false,
+    "outdated_locales": [],
+    "edited_at": "2020-02-24T09:21:53Z",
+    "user_segment_id": null,
+    "permission_group_id": 1305651,
+    "content_tag_ids": [],
+    "label_names": [],
+    "body": "<p><a href=\"https://mackerel.io/ja/docs/entry/integrations/aws\">AWSインテグレーション</a>や<a href=\"https://mackerel.io/ja/docs/entry/integrations/azure\">Azureインテグレーション</a>を利用することにより、エージェントソフトウェア（mackerel-agent）をインストールすることなく、Mackerelでモニタリングをおこなえます。</p>\n<p>ただし、Mackerelのインテグレーション機能は「ホストの登録（連携）」のために利用することはできますが、連携の解除（<a href=\"https://mackerel.io/ja/docs/entry/howto/host-retirement\">ホストの退役</a>）は自動ではおこなわれません。実体となる仮想サーバーが削除された場合でも、Mackerelに連携済みのホスト情報は登録されたままとなります。また、インテグレーション設定を削除した際にも、ホスト情報は登録されたままとなります。</p>\n<p>対象のホスト情報が不要な場合は、別途<a href=\"https://mackerel.io/ja/docs/entry/howto/host-retirement\">登録されたホストを Mackerel の管理対象から外す</a>作業の実施をおこなってください。</p>"
+  }
+}

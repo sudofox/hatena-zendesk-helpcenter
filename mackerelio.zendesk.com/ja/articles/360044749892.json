@@ -1,1 +1,29 @@
-{"article":{"id":360044749892,"url":"https://mackerelio.zendesk.com/api/v2/help_center/ja/articles/360044749892.json","html_url":"https://support.mackerel.io/hc/ja/articles/360044749892","author_id":391263037112,"comments_disabled":true,"draft":false,"promoted":false,"position":2,"vote_sum":0,"vote_count":0,"section_id":360007912372,"created_at":"2020-06-19T03:27:08Z","updated_at":"2021-12-21T05:19:39Z","name":"ホスト詳細画面のグラフで表示されているメトリックの系列数と、下部に表示されているメトリック数が一致していないのはなぜですか？","title":"ホスト詳細画面のグラフで表示されているメトリックの系列数と、下部に表示されているメトリック数が一致していないのはなぜですか？","source_locale":"ja","locale":"ja","outdated":false,"outdated_locales":[],"edited_at":"2021-12-21T05:17:36Z","user_segment_id":null,"permission_group_id":1305651,"content_tag_ids":[],"label_names":[],"body":"\u003cul\u003e\n\u003cli\u003eチェック監視も1メトリックとしてカウントされます。登録しているチェック監視数をご確認ください\u003c/li\u003e\n\u003cli\u003e対象のホストに、同じ系列のメトリックが1分間以内に重複して投稿され、メトリック数としてカウントされている可能性があります。以下のような設定がないかご確認ください\n\u003cul\u003e\n\u003cli\u003emackerel-agent プロセスが二重起動してしまっている\u003c/li\u003e\n\u003cli\u003emackerel-agent がインストールされたOSイメージをコピーして新規サーバーを作成した際にidファイルを削除し忘れ、コピー元と同一ホストとしてメトリックが投稿されてしまっている\n\u003cul\u003e\n\u003cli\u003e参考：\u003ca href=\"https://support.mackerel.io/hc/ja/articles/360039702532-%E3%82%A8%E3%83%BC%E3%82%B8%E3%82%A7%E3%83%B3%E3%83%88%E3%82%A4%E3%83%B3%E3%82%B9%E3%83%88%E3%83%BC%E3%83%AB%E6%B8%88%E3%81%BF%E3%81%AE%E3%83%86%E3%83%B3%E3%83%97%E3%83%AC%E3%83%BC%E3%83%88-%E3%83%9E%E3%82%B7%E3%83%B3%E3%82%A4%E3%83%A1%E3%83%BC%E3%82%B8%E7%AD%89%E3%81%8B%E3%82%89%E8%A4%87%E8%A3%BD%E3%81%97%E3%81%9F%E3%82%B5%E3%83%BC%E3%83%90%E3%83%BC%E3%81%8CMackerel%E3%81%AB%E8%AA%8D%E8%AD%98%E3%81%95%E3%82%8C%E3%81%AA%E3%81%84\" rel=\"nofollow\"\u003eエージェントインストール済みのテンプレート・マシンイメージ等から複製したサーバーがMackerelに認識されない\u003c/a\u003e\n\u003c/li\u003e\n\u003c/ul\u003e\n\u003c/li\u003e\n\u003cli\u003eAPIを活用したホストメトリック投稿の頻度が1分間に1回より多く設定されている\u003c/li\u003e\n\u003c/ul\u003e\n\u003c/li\u003e\n\u003c/ul\u003e"}}
+{
+  "article": {
+    "id": 360044749892,
+    "url": "https://mackerelio.zendesk.com/api/v2/help_center/ja/articles/360044749892.json",
+    "html_url": "https://support.mackerel.io/hc/ja/articles/360044749892",
+    "author_id": 391263037112,
+    "comments_disabled": true,
+    "draft": false,
+    "promoted": false,
+    "position": 2,
+    "vote_sum": 0,
+    "vote_count": 0,
+    "section_id": 360007912372,
+    "created_at": "2020-06-19T03:27:08Z",
+    "updated_at": "2021-12-21T05:19:39Z",
+    "name": "ホスト詳細画面のグラフで表示されているメトリックの系列数と、下部に表示されているメトリック数が一致していないのはなぜですか？",
+    "title": "ホスト詳細画面のグラフで表示されているメトリックの系列数と、下部に表示されているメトリック数が一致していないのはなぜですか？",
+    "source_locale": "ja",
+    "locale": "ja",
+    "outdated": false,
+    "outdated_locales": [],
+    "edited_at": "2021-12-21T05:17:36Z",
+    "user_segment_id": null,
+    "permission_group_id": 1305651,
+    "content_tag_ids": [],
+    "label_names": [],
+    "body": "<ul>\n<li>チェック監視も1メトリックとしてカウントされます。登録しているチェック監視数をご確認ください</li>\n<li>対象のホストに、同じ系列のメトリックが1分間以内に重複して投稿され、メトリック数としてカウントされている可能性があります。以下のような設定がないかご確認ください\n<ul>\n<li>mackerel-agent プロセスが二重起動してしまっている</li>\n<li>mackerel-agent がインストールされたOSイメージをコピーして新規サーバーを作成した際にidファイルを削除し忘れ、コピー元と同一ホストとしてメトリックが投稿されてしまっている\n<ul>\n<li>参考：<a href=\"https://support.mackerel.io/hc/ja/articles/360039702532-%E3%82%A8%E3%83%BC%E3%82%B8%E3%82%A7%E3%83%B3%E3%83%88%E3%82%A4%E3%83%B3%E3%82%B9%E3%83%88%E3%83%BC%E3%83%AB%E6%B8%88%E3%81%BF%E3%81%AE%E3%83%86%E3%83%B3%E3%83%97%E3%83%AC%E3%83%BC%E3%83%88-%E3%83%9E%E3%82%B7%E3%83%B3%E3%82%A4%E3%83%A1%E3%83%BC%E3%82%B8%E7%AD%89%E3%81%8B%E3%82%89%E8%A4%87%E8%A3%BD%E3%81%97%E3%81%9F%E3%82%B5%E3%83%BC%E3%83%90%E3%83%BC%E3%81%8CMackerel%E3%81%AB%E8%AA%8D%E8%AD%98%E3%81%95%E3%82%8C%E3%81%AA%E3%81%84\" rel=\"nofollow\">エージェントインストール済みのテンプレート・マシンイメージ等から複製したサーバーがMackerelに認識されない</a>\n</li>\n</ul>\n</li>\n<li>APIを活用したホストメトリック投稿の頻度が1分間に1回より多く設定されている</li>\n</ul>\n</li>\n</ul>"
+  }
+}

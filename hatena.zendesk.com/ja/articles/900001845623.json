@@ -1,1 +1,29 @@
-{"article":{"id":900001845623,"url":"https://hatena.zendesk.com/api/v2/help_center/ja/articles/900001845623.json","html_url":"https://hatena.zendesk.com/hc/ja/articles/900001845623","author_id":900525068463,"comments_disabled":true,"draft":false,"promoted":false,"position":2,"vote_sum":15,"vote_count":39,"section_id":900000431543,"created_at":"2020-07-21T07:11:56Z","updated_at":"2022-12-12T01:46:30Z","name":"本登録案内のメールが届かない","title":"本登録案内のメールが届かない","source_locale":"ja","locale":"ja","outdated":false,"outdated_locales":[],"edited_at":"2020-11-25T00:15:31Z","user_segment_id":null,"permission_group_id":972311,"content_tag_ids":[],"label_names":[],"body":"\u003cp\u003e本登録案内のメールが届かない場合にはメールの受信設定をご確認ください。\u003c/p\u003e\n\u003cul\u003e\n\u003cli\u003e迷惑メールフォルダに入っていないか\u003c/li\u003e\n\u003cli\u003e迷惑メール対策の設定でURLを含むメールを拒否していないかどうか\u003c/li\u003e\n\u003cli\u003eドメイン指定受信をされている場合には @hatena.ne.jp を登録してください\u003c/li\u003e\n\u003c/ul\u003e\n\u003cp\u003eすべてご確認いただいたあとに登録確認メールの再送信をお願いします。\u003c/p\u003e\n\u003cp\u003e\u003ca href=\"https://www.hatena.ne.jp/register.resend\" target=\"_blank\" rel=\"noopener\"\u003ehttps://www.hatena.ne.jp/register.resend\u003c/a\u003e\u003c/p\u003e\n\u003cp\u003e \u003c/p\u003e\n\u003cp\u003eユーザー登録の際に誤った情報を入力してしまい確認メールの受信ができない場合、仮登録情報は12時間経つと無効となるため、12時間後にあらためて正しい情報にてユーザー登録をお試しください。\u003c/p\u003e"}}
+{
+  "article": {
+    "id": 900001845623,
+    "url": "https://hatena.zendesk.com/api/v2/help_center/ja/articles/900001845623.json",
+    "html_url": "https://hatena.zendesk.com/hc/ja/articles/900001845623",
+    "author_id": 900525068463,
+    "comments_disabled": true,
+    "draft": false,
+    "promoted": false,
+    "position": 2,
+    "vote_sum": 15,
+    "vote_count": 39,
+    "section_id": 900000431543,
+    "created_at": "2020-07-21T07:11:56Z",
+    "updated_at": "2022-12-12T01:46:30Z",
+    "name": "本登録案内のメールが届かない",
+    "title": "本登録案内のメールが届かない",
+    "source_locale": "ja",
+    "locale": "ja",
+    "outdated": false,
+    "outdated_locales": [],
+    "edited_at": "2020-11-25T00:15:31Z",
+    "user_segment_id": null,
+    "permission_group_id": 972311,
+    "content_tag_ids": [],
+    "label_names": [],
+    "body": "<p>本登録案内のメールが届かない場合にはメールの受信設定をご確認ください。</p>\n<ul>\n<li>迷惑メールフォルダに入っていないか</li>\n<li>迷惑メール対策の設定でURLを含むメールを拒否していないかどうか</li>\n<li>ドメイン指定受信をされている場合には @hatena.ne.jp を登録してください</li>\n</ul>\n<p>すべてご確認いただいたあとに登録確認メールの再送信をお願いします。</p>\n<p><a href=\"https://www.hatena.ne.jp/register.resend\" target=\"_blank\" rel=\"noopener\">https://www.hatena.ne.jp/register.resend</a></p>\n<p> </p>\n<p>ユーザー登録の際に誤った情報を入力してしまい確認メールの受信ができない場合、仮登録情報は12時間経つと無効となるため、12時間後にあらためて正しい情報にてユーザー登録をお試しください。</p>"
+  }
+}

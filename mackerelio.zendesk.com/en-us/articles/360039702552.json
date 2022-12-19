@@ -1,1 +1,29 @@
-{"article":{"id":360039702552,"url":"https://mackerelio.zendesk.com/api/v2/help_center/en-us/articles/360039702552.json","html_url":"https://support.mackerel.io/hc/en-us/articles/360039702552-I-m-using-integration-but-the-host-remains-without-retiring","author_id":390085917472,"comments_disabled":true,"draft":false,"promoted":false,"position":3,"vote_sum":0,"vote_count":0,"section_id":360008015871,"created_at":"2020-02-24T09:05:56Z","updated_at":"2021-12-21T05:10:58Z","name":"I’m using integration, but the host remains without retiring","title":"I’m using integration, but the host remains without retiring","source_locale":"ja","locale":"en-us","outdated":false,"outdated_locales":[],"edited_at":"2020-03-09T09:02:33Z","user_segment_id":null,"permission_group_id":1305651,"content_tag_ids":[],"label_names":[],"body":"\u003cp\u003eUsing \u003ca href=\"https://mackerel.io/docs/entry/integrations/aws\"\u003eAWS Integration\u003c/a\u003e or \u003ca href=\"https://mackerel.io/docs/entry/integrations/azure\"\u003eAzure Integration\u003c/a\u003e, you can monitor with Mackerel without having to install the agent software (mackerel-agent).\u003c/p\u003e\n\u003cp\u003eHowever, Mackerel's integration feature can be used for “host registration (integration)”, but integration rescission (\u003ca href=\"https://mackerel.io/docs/entry/howto/host-retirement\"\u003ehost retirement\u003c/a\u003e) is not done automatically. Even if the virtual server is deleted, host information already integrated with Mackerel will remain registered. Additionally, host information will remain registered even if integration configurations have been deleted.\u003c/p\u003e\n\u003cp\u003eIf the host information isn’t necessary, \u003ca href=\"https://mackerel.io/docs/entry/howto/host-retirement\"\u003eremove the registered host from Mackerel’s managed objects\u003c/a\u003e.\u003c/p\u003e"}}
+{
+  "article": {
+    "id": 360039702552,
+    "url": "https://mackerelio.zendesk.com/api/v2/help_center/en-us/articles/360039702552.json",
+    "html_url": "https://support.mackerel.io/hc/en-us/articles/360039702552-I-m-using-integration-but-the-host-remains-without-retiring",
+    "author_id": 390085917472,
+    "comments_disabled": true,
+    "draft": false,
+    "promoted": false,
+    "position": 3,
+    "vote_sum": 0,
+    "vote_count": 0,
+    "section_id": 360008015871,
+    "created_at": "2020-02-24T09:05:56Z",
+    "updated_at": "2021-12-21T05:10:58Z",
+    "name": "I’m using integration, but the host remains without retiring",
+    "title": "I’m using integration, but the host remains without retiring",
+    "source_locale": "ja",
+    "locale": "en-us",
+    "outdated": false,
+    "outdated_locales": [],
+    "edited_at": "2020-03-09T09:02:33Z",
+    "user_segment_id": null,
+    "permission_group_id": 1305651,
+    "content_tag_ids": [],
+    "label_names": [],
+    "body": "<p>Using <a href=\"https://mackerel.io/docs/entry/integrations/aws\">AWS Integration</a> or <a href=\"https://mackerel.io/docs/entry/integrations/azure\">Azure Integration</a>, you can monitor with Mackerel without having to install the agent software (mackerel-agent).</p>\n<p>However, Mackerel's integration feature can be used for “host registration (integration)”, but integration rescission (<a href=\"https://mackerel.io/docs/entry/howto/host-retirement\">host retirement</a>) is not done automatically. Even if the virtual server is deleted, host information already integrated with Mackerel will remain registered. Additionally, host information will remain registered even if integration configurations have been deleted.</p>\n<p>If the host information isn’t necessary, <a href=\"https://mackerel.io/docs/entry/howto/host-retirement\">remove the registered host from Mackerel’s managed objects</a>.</p>"
+  }
+}

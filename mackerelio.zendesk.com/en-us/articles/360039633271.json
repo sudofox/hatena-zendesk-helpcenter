@@ -1,1 +1,29 @@
-{"article":{"id":360039633271,"url":"https://mackerelio.zendesk.com/api/v2/help_center/en-us/articles/360039633271.json","html_url":"https://support.mackerel.io/hc/en-us/articles/360039633271-What-is-Mackerel-s-IP-address-and-port-number-","author_id":390085917472,"comments_disabled":true,"draft":false,"promoted":false,"position":6,"vote_sum":0,"vote_count":0,"section_id":360007820312,"created_at":"2020-02-10T00:38:28Z","updated_at":"2022-06-24T01:00:27Z","name":"What is Mackerel's IP address and port number?","title":"What is Mackerel's IP address and port number?","source_locale":"ja","locale":"en-us","outdated":false,"outdated_locales":[],"edited_at":"2021-05-12T09:43:01Z","user_segment_id":null,"permission_group_id":1305651,"content_tag_ids":[],"label_names":[],"body":"\u003cul\u003e\n\u003cli\u003eBoth mackerel.io and kcps-mackerel.io are hosted from the range below. In the event of a change, an announcement will be made in advance.\n\u003cul\u003e\n\u003cli\u003e\u003ccode\u003e13.113.31.156/32\u003c/code\u003e\u003c/li\u003e\n\u003cli\u003e\u003ccode\u003e54.92.89.142/32\u003c/code\u003e\u003c/li\u003e\n\u003cli\u003e\u003ccode\u003e52.196.35.56/32\u003c/code\u003e\u003c/li\u003e\n\u003cli\u003e\u003ccode\u003e52.69.239.167/32\u003c/code\u003e\u003c/li\u003e\n\u003cli\u003e\u003ccode\u003e52.198.226.45/32\u003c/code\u003e\u003c/li\u003e\n\u003cli\u003e\u003ccode\u003e52.198.218.152/32\u003c/code\u003e\u003c/li\u003e\n\u003cli\u003e\u003ccode\u003e13.113.245.173/32\u003c/code\u003e\u003c/li\u003e\n\u003cli\u003e\u003ccode\u003e52.199.207.168/32\u003c/code\u003e\u003c/li\u003e\n\u003cli\u003e\u003ccode\u003e52.193.231.228/32\u003c/code\u003e\u003c/li\u003e\n\u003c/ul\u003e\n\u003c/li\u003e\n\u003cli\u003eThe port number is 433.\u003c/li\u003e\n\u003cli\u003e\n\u003cp\u003emackerel-agent also makes requests with the above-mentioned IP address and port number.\u003c/p\u003e\n\u003c/li\u003e\n\u003cli\u003e\n\u003cp\u003eSee the following page for source IP addresses for Mackerel notifications and external monitoring requests.\u003c/p\u003e\n\u003cul\u003e\n\u003cli\u003e\u003ca href=\"https://support.mackerel.io/hc/en-us/articles/360039701332\" target=\"_blank\" rel=\"noopener\"\u003eWhat is the source IP address for Webhook and other services’ alert notifications from Mackerel?\u003c/a\u003e\u003c/li\u003e\n\u003c/ul\u003e\n\u003c/li\u003e\n\u003c/ul\u003e\n\u003ch1\u003eRecords\u003c/h1\u003e\n\u003cul\u003e\n\u003cli\u003eEstablished on May 8, 2014\u003c/li\u003e\n\u003cli\u003eAmended on Aug 7, 2017\u003c/li\u003e\n\u003c/ul\u003e"}}
+{
+  "article": {
+    "id": 360039633271,
+    "url": "https://mackerelio.zendesk.com/api/v2/help_center/en-us/articles/360039633271.json",
+    "html_url": "https://support.mackerel.io/hc/en-us/articles/360039633271-What-is-Mackerel-s-IP-address-and-port-number-",
+    "author_id": 390085917472,
+    "comments_disabled": true,
+    "draft": false,
+    "promoted": false,
+    "position": 6,
+    "vote_sum": 0,
+    "vote_count": 0,
+    "section_id": 360007820312,
+    "created_at": "2020-02-10T00:38:28Z",
+    "updated_at": "2022-06-24T01:00:27Z",
+    "name": "What is Mackerel's IP address and port number?",
+    "title": "What is Mackerel's IP address and port number?",
+    "source_locale": "ja",
+    "locale": "en-us",
+    "outdated": false,
+    "outdated_locales": [],
+    "edited_at": "2021-05-12T09:43:01Z",
+    "user_segment_id": null,
+    "permission_group_id": 1305651,
+    "content_tag_ids": [],
+    "label_names": [],
+    "body": "<ul>\n<li>Both mackerel.io and kcps-mackerel.io are hosted from the range below. In the event of a change, an announcement will be made in advance.\n<ul>\n<li><code>13.113.31.156/32</code></li>\n<li><code>54.92.89.142/32</code></li>\n<li><code>52.196.35.56/32</code></li>\n<li><code>52.69.239.167/32</code></li>\n<li><code>52.198.226.45/32</code></li>\n<li><code>52.198.218.152/32</code></li>\n<li><code>13.113.245.173/32</code></li>\n<li><code>52.199.207.168/32</code></li>\n<li><code>52.193.231.228/32</code></li>\n</ul>\n</li>\n<li>The port number is 433.</li>\n<li>\n<p>mackerel-agent also makes requests with the above-mentioned IP address and port number.</p>\n</li>\n<li>\n<p>See the following page for source IP addresses for Mackerel notifications and external monitoring requests.</p>\n<ul>\n<li><a href=\"https://support.mackerel.io/hc/en-us/articles/360039701332\" target=\"_blank\" rel=\"noopener\">What is the source IP address for Webhook and other services’ alert notifications from Mackerel?</a></li>\n</ul>\n</li>\n</ul>\n<h1>Records</h1>\n<ul>\n<li>Established on May 8, 2014</li>\n<li>Amended on Aug 7, 2017</li>\n</ul>"
+  }
+}

@@ -1,1 +1,29 @@
-{"article":{"id":900002965646,"url":"https://hatena.zendesk.com/api/v2/help_center/ja/articles/900002965646.json","html_url":"https://hatena.zendesk.com/hc/ja/articles/900002965646","author_id":390193732891,"comments_disabled":true,"draft":false,"promoted":false,"position":0,"vote_sum":0,"vote_count":0,"section_id":900000460943,"created_at":"2020-09-28T07:17:22Z","updated_at":"2022-01-19T14:22:33Z","name":"はてなブログ法人プランへの移行のお願い","title":"はてなブログ法人プランへの移行のお願い","source_locale":"ja","locale":"ja","outdated":false,"outdated_locales":[],"edited_at":"2022-01-19T14:22:33Z","user_segment_id":null,"permission_group_id":972311,"content_tag_ids":[],"label_names":[],"body":"\u003cp\u003eはてなブログでは、これまで法人向けプランとして提供しておりましたはてなブログMediaに加えて、スタートアップや中小規模の法人向けの有料プラン「はてなブログBusiness」の提供を開始いたしました。\u003c/p\u003e\n\u003cp\u003eはてなブログProは個人ユーザー向けのプランとなっており、法人様はご利用いただけませんので、下記の3つの法人プランのいずれかに移行をお願いします。\u003c/p\u003e\n\u003cul\u003e\n\u003cli\u003eはてなブログ for DevBlog\u003c/li\u003e\n\u003cli\u003eはてなブログBusiness\u003c/li\u003e\n\u003cli\u003eはてなブログMedia\u003c/li\u003e\n\u003c/ul\u003e\n\u003cp\u003e適切なプランは下記の診断チャートにてご確認ください。\u003c/p\u003e\n\u003cp\u003e \u003c/p\u003e\n\u003cp\u003e\u003cimg src=\"https://hatena.zendesk.com/hc/article_attachments/900003834486/plans_flowchart.png\" alt=\"plans_flowchart.png\"\u003e\u003c/p\u003e\n\u003cp\u003e \u003c/p\u003e\n\u003cp\u003e【はてなブログ for DevBlog】\u003c/p\u003e\n\u003cp\u003e下記のページよりお申し込みください\u003c/p\u003e\n\u003cp\u003e\u003ca href=\"https://blog.hatena.ne.jp/-/corporation/signup?devblog\" target=\"_self\" rel=\"undefined\"\u003eはてなブログ for DevBlog\u003c/a\u003e\u003c/p\u003e\n\u003cp\u003e \u003c/p\u003e\n\u003cp\u003e【はてなブログBusiness】\u003c/p\u003e\n\u003cp\u003e\u003ca href=\"https://hatenablog.com/guide/corporation\" target=\"_blank\" rel=\"noopener\"\u003eはてなブログBusinessについて詳しくはこちらのページよりご確認ください\u003c/a\u003e\u003c/p\u003e\n\u003cp\u003e \u003c/p\u003e\n\u003cp\u003e【はてなブログMedia】\u003c/p\u003e\n\u003cp\u003eはてなブログMediaはユーザー様の操作ではお申し込みいただけないため、下記のページよりお問い合わせをお願いします。\u003c/p\u003e\n\u003cp\u003e\u003ca href=\"https://www.hatena.ne.jp/contentmarketing/hatena-blogmedia\" target=\"_blank\" rel=\"noopener\"\u003eはてなブログMediaはこちらからお問い合わせください\u003c/a\u003e\u003c/p\u003e\n\u003cp\u003e \u003c/p\u003e\n\u003cp\u003eなお、個人事業主は個人向けプランを継続してご利用いただけます。\u003c/p\u003e\n\u003cp\u003e \u003c/p\u003e\n\u003cp\u003e \u003c/p\u003e\n\u003cp\u003e \u003c/p\u003e\n\u003cp\u003e \u003c/p\u003e"}}
+{
+  "article": {
+    "id": 900002965646,
+    "url": "https://hatena.zendesk.com/api/v2/help_center/ja/articles/900002965646.json",
+    "html_url": "https://hatena.zendesk.com/hc/ja/articles/900002965646",
+    "author_id": 390193732891,
+    "comments_disabled": true,
+    "draft": false,
+    "promoted": false,
+    "position": 0,
+    "vote_sum": 0,
+    "vote_count": 0,
+    "section_id": 900000460943,
+    "created_at": "2020-09-28T07:17:22Z",
+    "updated_at": "2022-01-19T14:22:33Z",
+    "name": "はてなブログ法人プランへの移行のお願い",
+    "title": "はてなブログ法人プランへの移行のお願い",
+    "source_locale": "ja",
+    "locale": "ja",
+    "outdated": false,
+    "outdated_locales": [],
+    "edited_at": "2022-01-19T14:22:33Z",
+    "user_segment_id": null,
+    "permission_group_id": 972311,
+    "content_tag_ids": [],
+    "label_names": [],
+    "body": "<p>はてなブログでは、これまで法人向けプランとして提供しておりましたはてなブログMediaに加えて、スタートアップや中小規模の法人向けの有料プラン「はてなブログBusiness」の提供を開始いたしました。</p>\n<p>はてなブログProは個人ユーザー向けのプランとなっており、法人様はご利用いただけませんので、下記の3つの法人プランのいずれかに移行をお願いします。</p>\n<ul>\n<li>はてなブログ for DevBlog</li>\n<li>はてなブログBusiness</li>\n<li>はてなブログMedia</li>\n</ul>\n<p>適切なプランは下記の診断チャートにてご確認ください。</p>\n<p> </p>\n<p><img src=\"https://hatena.zendesk.com/hc/article_attachments/900003834486/plans_flowchart.png\" alt=\"plans_flowchart.png\"></p>\n<p> </p>\n<p>【はてなブログ for DevBlog】</p>\n<p>下記のページよりお申し込みください</p>\n<p><a href=\"https://blog.hatena.ne.jp/-/corporation/signup?devblog\" target=\"_self\" rel=\"undefined\">はてなブログ for DevBlog</a></p>\n<p> </p>\n<p>【はてなブログBusiness】</p>\n<p><a href=\"https://hatenablog.com/guide/corporation\" target=\"_blank\" rel=\"noopener\">はてなブログBusinessについて詳しくはこちらのページよりご確認ください</a></p>\n<p> </p>\n<p>【はてなブログMedia】</p>\n<p>はてなブログMediaはユーザー様の操作ではお申し込みいただけないため、下記のページよりお問い合わせをお願いします。</p>\n<p><a href=\"https://www.hatena.ne.jp/contentmarketing/hatena-blogmedia\" target=\"_blank\" rel=\"noopener\">はてなブログMediaはこちらからお問い合わせください</a></p>\n<p> </p>\n<p>なお、個人事業主は個人向けプランを継続してご利用いただけます。</p>\n<p> </p>\n<p> </p>\n<p> </p>\n<p> </p>"
+  }
+}

@@ -1,1 +1,29 @@
-{"article":{"id":360040107931,"url":"https://mackerelio.zendesk.com/api/v2/help_center/en-us/articles/360040107931.json","html_url":"https://support.mackerel.io/hc/en-us/articles/360040107931-What-is-the-time-interval-between-alert-checks-","author_id":390085917472,"comments_disabled":true,"draft":false,"promoted":true,"position":0,"vote_sum":7,"vote_count":7,"section_id":360007911992,"created_at":"2020-02-24T08:02:11Z","updated_at":"2021-09-18T16:10:07Z","name":"What is the time interval between alert checks?","title":"What is the time interval between alert checks?","source_locale":"ja","locale":"en-us","outdated":false,"outdated_locales":[],"edited_at":"2020-06-15T06:28:26Z","user_segment_id":null,"permission_group_id":1305651,"content_tag_ids":[],"label_names":[],"body":"\u003cul\u003e\n\u003cli\u003eWhen the Mackerel is not receiving transmissions from the agent for a 10 minute period of time, it will be judged as NG.\u003c/li\u003e\n\u003cli\u003eHost metric monitors, and check monitors will be judged as OK/NG when data is sent to the Mackerel.\u003c/li\u003e\n\u003cli\u003eService metric monitors will be judged as OK/NG when metrics are sent to the Mackere.\u003c/li\u003e\n\u003cli\u003eExternal monitors will be checked and judged as OK/NG every minute.\u003c/li\u003e\n\u003cli\u003eThere is a possibility that in the future the aforementioned check intervals will be revised.\u003c/li\u003e\n\u003c/ul\u003e"}}
+{
+  "article": {
+    "id": 360040107931,
+    "url": "https://mackerelio.zendesk.com/api/v2/help_center/en-us/articles/360040107931.json",
+    "html_url": "https://support.mackerel.io/hc/en-us/articles/360040107931-What-is-the-time-interval-between-alert-checks-",
+    "author_id": 390085917472,
+    "comments_disabled": true,
+    "draft": false,
+    "promoted": true,
+    "position": 0,
+    "vote_sum": 7,
+    "vote_count": 7,
+    "section_id": 360007911992,
+    "created_at": "2020-02-24T08:02:11Z",
+    "updated_at": "2021-09-18T16:10:07Z",
+    "name": "What is the time interval between alert checks?",
+    "title": "What is the time interval between alert checks?",
+    "source_locale": "ja",
+    "locale": "en-us",
+    "outdated": false,
+    "outdated_locales": [],
+    "edited_at": "2020-06-15T06:28:26Z",
+    "user_segment_id": null,
+    "permission_group_id": 1305651,
+    "content_tag_ids": [],
+    "label_names": [],
+    "body": "<ul>\n<li>When the Mackerel is not receiving transmissions from the agent for a 10 minute period of time, it will be judged as NG.</li>\n<li>Host metric monitors, and check monitors will be judged as OK/NG when data is sent to the Mackerel.</li>\n<li>Service metric monitors will be judged as OK/NG when metrics are sent to the Mackere.</li>\n<li>External monitors will be checked and judged as OK/NG every minute.</li>\n<li>There is a possibility that in the future the aforementioned check intervals will be revised.</li>\n</ul>"
+  }
+}

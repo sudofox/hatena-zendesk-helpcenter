@@ -1,1 +1,31 @@
-{"article":{"id":360049264532,"url":"https://mackerelio.zendesk.com/api/v2/help_center/en-us/articles/360049264532.json","html_url":"https://support.mackerel.io/hc/en-us/articles/360049264532-How-do-I-sort-alert-notification-recipients-for-only-specific-monitors-","author_id":390085917472,"comments_disabled":true,"draft":false,"promoted":false,"position":0,"vote_sum":0,"vote_count":2,"section_id":4412620284441,"created_at":"2020-09-16T06:37:05Z","updated_at":"2022-04-08T09:26:02Z","name":"How do I sort alert notification recipients for only specific monitors?","title":"How do I sort alert notification recipients for only specific monitors?","source_locale":"ja","locale":"en-us","outdated":false,"outdated_locales":[],"edited_at":"2020-09-18T08:18:53Z","user_segment_id":null,"permission_group_id":1305651,"content_tag_ids":[],"label_names":["制御"],"body":"\u003cp\u003eYou can sort notification recipients for specific monitors by explicitly selecting the target monitor in the notification group settings and linking it to a notification channel / notification group.\u003cbr\u003eIf specifying a check monitor, you can search for it using the \u003cspan class=\"wysiwyg-font-size-medium\"\u003e\u003ccode\u003exxxx\u003c/code\u003e\u003c/span\u003e portion of \u003cspan class=\"wysiwyg-font-size-medium\"\u003e\u003ccode\u003e[plugin.checks.xxxx]\u003c/code\u003e \u003c/span\u003econfigured in mackerel-agent.conf.\u003cbr\u003eYou can check the \u003cspan class=\"wysiwyg-font-size-medium\"\u003e\u003ccode\u003exxxx\u003c/code\u003e\u003c/span\u003e in 'Monitors' located at the top / bottom of the host's details screen.\u003cbr\u003eYou can also restrict other notification groups from being notified by enabling the \"Notify this notification group only\" option.\u003cbr\u003eFor more details, refer to \u003ca href=\"https://mackerel.io/docs/entry/howto/alerts#notification-group\" target=\"_self\" rel=\"undefined\"\u003eNotification Groups - Mackerel Docs\u003c/a\u003e.\u003c/p\u003e"}}
+{
+  "article": {
+    "id": 360049264532,
+    "url": "https://mackerelio.zendesk.com/api/v2/help_center/en-us/articles/360049264532.json",
+    "html_url": "https://support.mackerel.io/hc/en-us/articles/360049264532-How-do-I-sort-alert-notification-recipients-for-only-specific-monitors-",
+    "author_id": 390085917472,
+    "comments_disabled": true,
+    "draft": false,
+    "promoted": false,
+    "position": 0,
+    "vote_sum": 0,
+    "vote_count": 2,
+    "section_id": 4412620284441,
+    "created_at": "2020-09-16T06:37:05Z",
+    "updated_at": "2022-04-08T09:26:02Z",
+    "name": "How do I sort alert notification recipients for only specific monitors?",
+    "title": "How do I sort alert notification recipients for only specific monitors?",
+    "source_locale": "ja",
+    "locale": "en-us",
+    "outdated": false,
+    "outdated_locales": [],
+    "edited_at": "2020-09-18T08:18:53Z",
+    "user_segment_id": null,
+    "permission_group_id": 1305651,
+    "content_tag_ids": [],
+    "label_names": [
+      "制御"
+    ],
+    "body": "<p>You can sort notification recipients for specific monitors by explicitly selecting the target monitor in the notification group settings and linking it to a notification channel / notification group.<br>If specifying a check monitor, you can search for it using the <span class=\"wysiwyg-font-size-medium\"><code>xxxx</code></span> portion of <span class=\"wysiwyg-font-size-medium\"><code>[plugin.checks.xxxx]</code> </span>configured in mackerel-agent.conf.<br>You can check the <span class=\"wysiwyg-font-size-medium\"><code>xxxx</code></span> in 'Monitors' located at the top / bottom of the host's details screen.<br>You can also restrict other notification groups from being notified by enabling the \"Notify this notification group only\" option.<br>For more details, refer to <a href=\"https://mackerel.io/docs/entry/howto/alerts#notification-group\" target=\"_self\" rel=\"undefined\">Notification Groups - Mackerel Docs</a>.</p>"
+  }
+}

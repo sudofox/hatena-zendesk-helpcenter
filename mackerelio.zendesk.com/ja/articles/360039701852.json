@@ -1,1 +1,29 @@
-{"article":{"id":360039701852,"url":"https://mackerelio.zendesk.com/api/v2/help_center/ja/articles/360039701852.json","html_url":"https://support.mackerel.io/hc/ja/articles/360039701852","author_id":390085917472,"comments_disabled":true,"draft":false,"promoted":false,"position":2,"vote_sum":1,"vote_count":3,"section_id":4412612972825,"created_at":"2020-02-24T08:12:36Z","updated_at":"2021-12-21T03:30:13Z","name":"オーガニゼーションのオーナー権限について","title":"オーガニゼーションのオーナー権限について","source_locale":"ja","locale":"ja","outdated":false,"outdated_locales":[],"edited_at":"2020-02-24T09:21:53Z","user_segment_id":null,"permission_group_id":1305651,"content_tag_ids":[],"label_names":[],"body":"\u003cul\u003e\n\u003cli\u003eオーガニゼーションを作成したユーザーがオーナーとなります。\u003c/li\u003e\n\u003cli\u003eオーナーの変更は、オーナーアカウントでログインした後、メンバー一覧から編集ボタンを押すことで、他ユーザーへの権限移譲ができます。\u003c/li\u003e\n\u003cli\u003eオーナー権限が必要な作業は、支払い情報の変更や支払い履歴の確認などの、お支払いに関連することです。\n\u003cul\u003e\n\u003cli\u003eMackerelにおけるユーザー権限についての詳細は、\u003ca href=\"https://mackerel.io/ja/docs/entry/spec/authority\"\u003eユーザー権限 - Mackerel ヘルプ\u003c/a\u003eを参照してください。\u003c/li\u003e\n\u003c/ul\u003e\n\u003c/li\u003e\n\u003c/ul\u003e"}}
+{
+  "article": {
+    "id": 360039701852,
+    "url": "https://mackerelio.zendesk.com/api/v2/help_center/ja/articles/360039701852.json",
+    "html_url": "https://support.mackerel.io/hc/ja/articles/360039701852",
+    "author_id": 390085917472,
+    "comments_disabled": true,
+    "draft": false,
+    "promoted": false,
+    "position": 2,
+    "vote_sum": 1,
+    "vote_count": 3,
+    "section_id": 4412612972825,
+    "created_at": "2020-02-24T08:12:36Z",
+    "updated_at": "2021-12-21T03:30:13Z",
+    "name": "オーガニゼーションのオーナー権限について",
+    "title": "オーガニゼーションのオーナー権限について",
+    "source_locale": "ja",
+    "locale": "ja",
+    "outdated": false,
+    "outdated_locales": [],
+    "edited_at": "2020-02-24T09:21:53Z",
+    "user_segment_id": null,
+    "permission_group_id": 1305651,
+    "content_tag_ids": [],
+    "label_names": [],
+    "body": "<ul>\n<li>オーガニゼーションを作成したユーザーがオーナーとなります。</li>\n<li>オーナーの変更は、オーナーアカウントでログインした後、メンバー一覧から編集ボタンを押すことで、他ユーザーへの権限移譲ができます。</li>\n<li>オーナー権限が必要な作業は、支払い情報の変更や支払い履歴の確認などの、お支払いに関連することです。\n<ul>\n<li>Mackerelにおけるユーザー権限についての詳細は、<a href=\"https://mackerel.io/ja/docs/entry/spec/authority\">ユーザー権限 - Mackerel ヘルプ</a>を参照してください。</li>\n</ul>\n</li>\n</ul>"
+  }
+}

@@ -1,1 +1,35 @@
-{"article":{"id":360044531052,"url":"https://mackerelio.zendesk.com/api/v2/help_center/en-us/articles/360044531052.json","html_url":"https://support.mackerel.io/hc/en-us/articles/360044531052-An-unexpected-error-message-occurs-with-Windows-event-log-monitoring-","author_id":390436787231,"comments_disabled":true,"draft":false,"promoted":true,"position":0,"vote_sum":0,"vote_count":0,"section_id":360007912312,"created_at":"2020-06-15T07:14:30Z","updated_at":"2022-04-05T08:19:29Z","name":"An unexpected error message occurs with Windows event log monitoring.","title":"An unexpected error message occurs with Windows event log monitoring.","source_locale":"ja","locale":"en-us","outdated":false,"outdated_locales":[],"edited_at":"2020-06-15T08:38:38Z","user_segment_id":null,"permission_group_id":1305651,"content_tag_ids":[],"label_names":["イベントログ","windows","return","eventlog","\"Because the message resource could not be found\""],"body":"\u003cp\u003eThe following error message may occur when monitoring event logs using check-windows-eventlog, Mackerel's official check monitoring plugin.\u003c/p\u003e\n\u003cpre\u003eBecause the message resource could not be found, the event log message could not be obtained.\u003cbr\u003ePlease access the target server and check the event log directly.\u003c/pre\u003e\n\u003cp\u003eThis error occurs when \u003ccode\u003e--return\u003c/code\u003e is specified in the plugin setting options and no messages exist in the event log detected by the plugin (when the message resource of the service that is outputting the error event log cannot be retrieved because the message file is not registered in the registry).\u003c/p\u003e\n\u003cp\u003ePlease contact the service developer regarding the registration status of the services's message resource.\u003c/p\u003e"}}
+{
+  "article": {
+    "id": 360044531052,
+    "url": "https://mackerelio.zendesk.com/api/v2/help_center/en-us/articles/360044531052.json",
+    "html_url": "https://support.mackerel.io/hc/en-us/articles/360044531052-An-unexpected-error-message-occurs-with-Windows-event-log-monitoring-",
+    "author_id": 390436787231,
+    "comments_disabled": true,
+    "draft": false,
+    "promoted": true,
+    "position": 0,
+    "vote_sum": 0,
+    "vote_count": 0,
+    "section_id": 360007912312,
+    "created_at": "2020-06-15T07:14:30Z",
+    "updated_at": "2022-04-05T08:19:29Z",
+    "name": "An unexpected error message occurs with Windows event log monitoring.",
+    "title": "An unexpected error message occurs with Windows event log monitoring.",
+    "source_locale": "ja",
+    "locale": "en-us",
+    "outdated": false,
+    "outdated_locales": [],
+    "edited_at": "2020-06-15T08:38:38Z",
+    "user_segment_id": null,
+    "permission_group_id": 1305651,
+    "content_tag_ids": [],
+    "label_names": [
+      "イベントログ",
+      "windows",
+      "return",
+      "eventlog",
+      "\"Because the message resource could not be found\""
+    ],
+    "body": "<p>The following error message may occur when monitoring event logs using check-windows-eventlog, Mackerel's official check monitoring plugin.</p>\n<pre>Because the message resource could not be found, the event log message could not be obtained.<br>Please access the target server and check the event log directly.</pre>\n<p>This error occurs when <code>--return</code> is specified in the plugin setting options and no messages exist in the event log detected by the plugin (when the message resource of the service that is outputting the error event log cannot be retrieved because the message file is not registered in the registry).</p>\n<p>Please contact the service developer regarding the registration status of the services's message resource.</p>"
+  }
+}

@@ -1,1 +1,35 @@
-{"article":{"id":360044531052,"url":"https://mackerelio.zendesk.com/api/v2/help_center/ja/articles/360044531052.json","html_url":"https://support.mackerel.io/hc/ja/articles/360044531052","author_id":390436787231,"comments_disabled":true,"draft":false,"promoted":true,"position":0,"vote_sum":0,"vote_count":0,"section_id":360007912312,"created_at":"2020-06-15T07:14:30Z","updated_at":"2022-04-05T08:19:29Z","name":"ログ監視 check-windows-eventlogで「Because the message resource could not be found, ...」というイベントログが出力される原因は？","title":"ログ監視 check-windows-eventlogで「Because the message resource could not be found, ...」というイベントログが出力される原因は？","source_locale":"ja","locale":"ja","outdated":false,"outdated_locales":[],"edited_at":"2022-04-05T08:19:29Z","user_segment_id":null,"permission_group_id":1305651,"content_tag_ids":[],"label_names":["イベントログ","windows","return","eventlog","\"Because the message resource could not be found\""],"body":"\u003cp\u003eMackerelの\u003ca href=\"https://mackerel.io/ja/docs/entry/howto/mackerel-check-plugins\" target=\"_self\"\u003e公式チェック監視プラグイン\u003c/a\u003eである \u003ca href=\"https://github.com/mackerelio/go-check-plugins/tree/master/check-windows-eventlog\" target=\"_self\"\u003echeck-windows-eventlog\u003c/a\u003e を用いてイベントログの監視をおこなった際に、以下のようなエラーメッセージが表示される場合があります。\u003c/p\u003e\n\u003cpre\u003eBecause the message resource could not be found, the event log message could not be obtained.\u003cbr\u003ePlease access the target server and check the event log directly.\u003c/pre\u003e\n\u003cp\u003e上記のエラーは、プラグインにより検出したイベントログ内にメッセージが存在しない場合（エラーのイベントログを出力しているサービスのメッセージリソースが、メッセージファイルがレジストリに登録されていないなどの理由により取得できない場合）に、プラグインの設定オプションで\u003ccode\u003e--return\u003c/code\u003e を指定していると発生します。\u003c/p\u003e\n\u003cp\u003eエラーのイベントログを出力しているサービスのメッセージリソースの登録状況などを、サービスの開発元にお問い合わせください。\u003c/p\u003e"}}
+{
+  "article": {
+    "id": 360044531052,
+    "url": "https://mackerelio.zendesk.com/api/v2/help_center/ja/articles/360044531052.json",
+    "html_url": "https://support.mackerel.io/hc/ja/articles/360044531052",
+    "author_id": 390436787231,
+    "comments_disabled": true,
+    "draft": false,
+    "promoted": true,
+    "position": 0,
+    "vote_sum": 0,
+    "vote_count": 0,
+    "section_id": 360007912312,
+    "created_at": "2020-06-15T07:14:30Z",
+    "updated_at": "2022-04-05T08:19:29Z",
+    "name": "ログ監視 check-windows-eventlogで「Because the message resource could not be found, ...」というイベントログが出力される原因は？",
+    "title": "ログ監視 check-windows-eventlogで「Because the message resource could not be found, ...」というイベントログが出力される原因は？",
+    "source_locale": "ja",
+    "locale": "ja",
+    "outdated": false,
+    "outdated_locales": [],
+    "edited_at": "2022-04-05T08:19:29Z",
+    "user_segment_id": null,
+    "permission_group_id": 1305651,
+    "content_tag_ids": [],
+    "label_names": [
+      "イベントログ",
+      "windows",
+      "return",
+      "eventlog",
+      "\"Because the message resource could not be found\""
+    ],
+    "body": "<p>Mackerelの<a href=\"https://mackerel.io/ja/docs/entry/howto/mackerel-check-plugins\" target=\"_self\">公式チェック監視プラグイン</a>である <a href=\"https://github.com/mackerelio/go-check-plugins/tree/master/check-windows-eventlog\" target=\"_self\">check-windows-eventlog</a> を用いてイベントログの監視をおこなった際に、以下のようなエラーメッセージが表示される場合があります。</p>\n<pre>Because the message resource could not be found, the event log message could not be obtained.<br>Please access the target server and check the event log directly.</pre>\n<p>上記のエラーは、プラグインにより検出したイベントログ内にメッセージが存在しない場合（エラーのイベントログを出力しているサービスのメッセージリソースが、メッセージファイルがレジストリに登録されていないなどの理由により取得できない場合）に、プラグインの設定オプションで<code>--return</code> を指定していると発生します。</p>\n<p>エラーのイベントログを出力しているサービスのメッセージリソースの登録状況などを、サービスの開発元にお問い合わせください。</p>"
+  }
+}

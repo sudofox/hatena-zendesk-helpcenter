@@ -1,1 +1,32 @@
-{"article":{"id":360048426071,"url":"https://mackerelio.zendesk.com/api/v2/help_center/en-us/articles/360048426071.json","html_url":"https://support.mackerel.io/hc/en-us/articles/360048426071-Regarding-Unknown-alerts-in-Mackerel","author_id":390436787231,"comments_disabled":true,"draft":false,"promoted":false,"position":3,"vote_sum":0,"vote_count":0,"section_id":360007820312,"created_at":"2020-08-20T08:16:56Z","updated_at":"2022-06-24T00:55:09Z","name":"Regarding Unknown alerts in Mackerel","title":"Regarding Unknown alerts in Mackerel","source_locale":"ja","locale":"en-us","outdated":false,"outdated_locales":[],"edited_at":"2020-08-24T02:16:02Z","user_segment_id":null,"permission_group_id":1305651,"content_tag_ids":[],"label_names":["アラート","unknown"],"body":"\u003cp\u003eUnknown alerts may occur in the following cases.\u003c/p\u003e\n\u003cul\u003e\n\u003cli\u003e\n\u003ca href=\"https://mackerel.io/docs/entry/expression-monitoring\" target=\"_blank\" rel=\"noopener\"\u003eExpression monitoring\u003c/a\u003e\n\u003cul\u003e\n\u003cli\u003eWhen a metric value cannot be obtained by expression\u003c/li\u003e\n\u003cli\u003eWhen obtaining a metric value by expression times out\u003c/li\u003e\n\u003c/ul\u003e\n\u003c/li\u003e\n\u003cli\u003e\n\u003ca href=\"https://mackerel.io/docs/entry/custom-checks\" target=\"_blank\" rel=\"noopener\"\u003eCheck monitoring\u003c/a\u003e\n\u003cul\u003e\n\u003cli\u003eWhen the specified command (plugin) has an exit status other than 0, 1, or 2\u003c/li\u003e\n\u003cli\u003eWhen the specified command (plugin) times out\u003c/li\u003e\n\u003c/ul\u003e\n\u003c/li\u003e\n\u003c/ul\u003e\n\u003cp\u003eThese alerts indicate that monitoring is not being performed as intended and for this reason, it is not possible to prevent them from being issued. We recommend that you investigate and resolve the cause of the Unknown status and also check the status of the monitoring target.\u003c/p\u003e"}}
+{
+  "article": {
+    "id": 360048426071,
+    "url": "https://mackerelio.zendesk.com/api/v2/help_center/en-us/articles/360048426071.json",
+    "html_url": "https://support.mackerel.io/hc/en-us/articles/360048426071-Regarding-Unknown-alerts-in-Mackerel",
+    "author_id": 390436787231,
+    "comments_disabled": true,
+    "draft": false,
+    "promoted": false,
+    "position": 3,
+    "vote_sum": 0,
+    "vote_count": 0,
+    "section_id": 360007820312,
+    "created_at": "2020-08-20T08:16:56Z",
+    "updated_at": "2022-06-24T00:55:09Z",
+    "name": "Regarding Unknown alerts in Mackerel",
+    "title": "Regarding Unknown alerts in Mackerel",
+    "source_locale": "ja",
+    "locale": "en-us",
+    "outdated": false,
+    "outdated_locales": [],
+    "edited_at": "2020-08-24T02:16:02Z",
+    "user_segment_id": null,
+    "permission_group_id": 1305651,
+    "content_tag_ids": [],
+    "label_names": [
+      "アラート",
+      "unknown"
+    ],
+    "body": "<p>Unknown alerts may occur in the following cases.</p>\n<ul>\n<li>\n<a href=\"https://mackerel.io/docs/entry/expression-monitoring\" target=\"_blank\" rel=\"noopener\">Expression monitoring</a>\n<ul>\n<li>When a metric value cannot be obtained by expression</li>\n<li>When obtaining a metric value by expression times out</li>\n</ul>\n</li>\n<li>\n<a href=\"https://mackerel.io/docs/entry/custom-checks\" target=\"_blank\" rel=\"noopener\">Check monitoring</a>\n<ul>\n<li>When the specified command (plugin) has an exit status other than 0, 1, or 2</li>\n<li>When the specified command (plugin) times out</li>\n</ul>\n</li>\n</ul>\n<p>These alerts indicate that monitoring is not being performed as intended and for this reason, it is not possible to prevent them from being issued. We recommend that you investigate and resolve the cause of the Unknown status and also check the status of the monitoring target.</p>"
+  }
+}

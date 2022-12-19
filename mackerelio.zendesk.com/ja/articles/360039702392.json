@@ -1,1 +1,29 @@
-{"article":{"id":360039702392,"url":"https://mackerelio.zendesk.com/api/v2/help_center/ja/articles/360039702392.json","html_url":"https://support.mackerel.io/hc/ja/articles/360039702392","author_id":390085917472,"comments_disabled":true,"draft":false,"promoted":false,"position":0,"vote_sum":-3,"vote_count":3,"section_id":360008015791,"created_at":"2020-02-24T08:44:33Z","updated_at":"2021-08-20T04:09:06Z","name":"メールが届かない","title":"メールが届かない","source_locale":"ja","locale":"ja","outdated":false,"outdated_locales":[],"edited_at":"2020-03-09T08:52:19Z","user_segment_id":null,"permission_group_id":1305671,"content_tag_ids":[],"label_names":[],"body":"\u003cp\u003eMackerelからのアカウント登録確認メールやアラート通知メールなど、Mackerel では様々なメールを送信しています。メールが届かない場合は以下を確認してください。\u003c/p\u003e\n\u003cul\u003e\n\u003cli\u003e\n\u003ccode\u003enoreply@mackerel.io\u003c/code\u003e からのメールを受け取れない。\n\u003cul\u003e\n\u003cli\u003eメーリングリストや携帯のキャリアメールなどで送信元アドレスでフィルタリングしている場合は \u003ccode\u003emackerel.io\u003c/code\u003e からのメールを受け取れるようにフィルタ設定を変更してください。\u003c/li\u003e\n\u003c/ul\u003e\n\u003c/li\u003e\n\u003cli\u003e送信先にメーリングリストアドレスを指定している場合、そのリスト内のメンバーがドメイン指定受信拒否設定をしていないかどうかを確認してください。\u003c/li\u003e\n\u003cli\u003eメールが迷惑メールになってしまう。\n\u003cul\u003e\n\u003cli\u003e迷惑メールフォルダに入ってしまう場合はお使いの迷惑メールフィルタの設定をご確認ください。\u003c/li\u003e\n\u003cli\u003egmailの場合はgmailのサポートページ( \u003ca href=\"https://support.google.com/mail/answer/1366858\"\u003ehttps://support.google.com/mail/answer/1366858\u003c/a\u003e )をご参照ください。\u003c/li\u003e\n\u003cli\u003emackerel.ioドメインには\u003ca href=\"http://wikipedia.org/wiki/Sender_Policy_Framework\"\u003eSPF\u003c/a\u003eの設定をしておりますので、SPFが設定されている場合は迷惑メールと判定されないような設定をする方法もあります。\u003c/li\u003e\n\u003c/ul\u003e\n\u003c/li\u003e\n\u003cli\u003eアラートメールが届かない\n\u003cul\u003e\n\u003cli\u003eMackerel仮登録状態の場合はアラートメールが送信されません。アラートメールを受け取るには、アカウント登録確認メール本文にあるリンクをクリックして本登録を完了してください。\u003c/li\u003e\n\u003c/ul\u003e\n\u003c/li\u003e\n\u003c/ul\u003e\n\u003cp\u003e上記全てを確認しても原因が不明な場合は、Mackerel にログインした状態でヘッダに表示される「サポートチームへ連絡」からご連絡ください。\u003c/p\u003e"}}
+{
+  "article": {
+    "id": 360039702392,
+    "url": "https://mackerelio.zendesk.com/api/v2/help_center/ja/articles/360039702392.json",
+    "html_url": "https://support.mackerel.io/hc/ja/articles/360039702392",
+    "author_id": 390085917472,
+    "comments_disabled": true,
+    "draft": false,
+    "promoted": false,
+    "position": 0,
+    "vote_sum": -3,
+    "vote_count": 3,
+    "section_id": 360008015791,
+    "created_at": "2020-02-24T08:44:33Z",
+    "updated_at": "2021-08-20T04:09:06Z",
+    "name": "メールが届かない",
+    "title": "メールが届かない",
+    "source_locale": "ja",
+    "locale": "ja",
+    "outdated": false,
+    "outdated_locales": [],
+    "edited_at": "2020-03-09T08:52:19Z",
+    "user_segment_id": null,
+    "permission_group_id": 1305671,
+    "content_tag_ids": [],
+    "label_names": [],
+    "body": "<p>Mackerelからのアカウント登録確認メールやアラート通知メールなど、Mackerel では様々なメールを送信しています。メールが届かない場合は以下を確認してください。</p>\n<ul>\n<li>\n<code>noreply@mackerel.io</code> からのメールを受け取れない。\n<ul>\n<li>メーリングリストや携帯のキャリアメールなどで送信元アドレスでフィルタリングしている場合は <code>mackerel.io</code> からのメールを受け取れるようにフィルタ設定を変更してください。</li>\n</ul>\n</li>\n<li>送信先にメーリングリストアドレスを指定している場合、そのリスト内のメンバーがドメイン指定受信拒否設定をしていないかどうかを確認してください。</li>\n<li>メールが迷惑メールになってしまう。\n<ul>\n<li>迷惑メールフォルダに入ってしまう場合はお使いの迷惑メールフィルタの設定をご確認ください。</li>\n<li>gmailの場合はgmailのサポートページ( <a href=\"https://support.google.com/mail/answer/1366858\">https://support.google.com/mail/answer/1366858</a> )をご参照ください。</li>\n<li>mackerel.ioドメインには<a href=\"http://wikipedia.org/wiki/Sender_Policy_Framework\">SPF</a>の設定をしておりますので、SPFが設定されている場合は迷惑メールと判定されないような設定をする方法もあります。</li>\n</ul>\n</li>\n<li>アラートメールが届かない\n<ul>\n<li>Mackerel仮登録状態の場合はアラートメールが送信されません。アラートメールを受け取るには、アカウント登録確認メール本文にあるリンクをクリックして本登録を完了してください。</li>\n</ul>\n</li>\n</ul>\n<p>上記全てを確認しても原因が不明な場合は、Mackerel にログインした状態でヘッダに表示される「サポートチームへ連絡」からご連絡ください。</p>"
+  }
+}

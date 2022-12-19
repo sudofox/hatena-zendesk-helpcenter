@@ -1,1 +1,29 @@
-{"article":{"id":360040108671,"url":"https://mackerelio.zendesk.com/api/v2/help_center/ja/articles/360040108671.json","html_url":"https://support.mackerel.io/hc/ja/articles/360040108671","author_id":390085917472,"comments_disabled":true,"draft":false,"promoted":false,"position":0,"vote_sum":-4,"vote_count":4,"section_id":360007912372,"created_at":"2020-02-24T08:40:25Z","updated_at":"2021-12-21T05:19:39Z","name":"Webコンソールにグラフが表示されていない／データが投稿されていないようだ","title":"Webコンソールにグラフが表示されていない／データが投稿されていないようだ","source_locale":"ja","locale":"ja","outdated":false,"outdated_locales":[],"edited_at":"2021-12-21T05:19:17Z","user_segment_id":null,"permission_group_id":1305651,"content_tag_ids":[],"label_names":[],"body":"\u003cul\u003e\n\u003cli\u003emackerel-agentが起動しているかどうかを確認してください。\u003c/li\u003e\n\u003cli\u003emackerel-agentが起動している場合、サーバーの時刻が正しく設定されているかを確認してください。\n\u003cul\u003e\n\u003cli\u003eサーバーに設定された時刻と現在時刻との間で相違がある場合、データが正しく投稿されない可能性があります。\u003c/li\u003e\n\u003c/ul\u003e\n\u003c/li\u003e\n\u003cli\u003emackerel-agent がインストールされているサーバから、mackerel.io / api.mackerelio.com への通信がおこなえるかどうかを確認してください。\u003c/li\u003e\n\u003cli\u003e新規ホスト登録から初回メトリック投稿まで少しタイムラグがあるため、その間はグラフが表示されません。表示されるまでしばらくお待ちください。\u003c/li\u003e\n\u003c/ul\u003e"}}
+{
+  "article": {
+    "id": 360040108671,
+    "url": "https://mackerelio.zendesk.com/api/v2/help_center/ja/articles/360040108671.json",
+    "html_url": "https://support.mackerel.io/hc/ja/articles/360040108671",
+    "author_id": 390085917472,
+    "comments_disabled": true,
+    "draft": false,
+    "promoted": false,
+    "position": 0,
+    "vote_sum": -4,
+    "vote_count": 4,
+    "section_id": 360007912372,
+    "created_at": "2020-02-24T08:40:25Z",
+    "updated_at": "2021-12-21T05:19:39Z",
+    "name": "Webコンソールにグラフが表示されていない／データが投稿されていないようだ",
+    "title": "Webコンソールにグラフが表示されていない／データが投稿されていないようだ",
+    "source_locale": "ja",
+    "locale": "ja",
+    "outdated": false,
+    "outdated_locales": [],
+    "edited_at": "2021-12-21T05:19:17Z",
+    "user_segment_id": null,
+    "permission_group_id": 1305651,
+    "content_tag_ids": [],
+    "label_names": [],
+    "body": "<ul>\n<li>mackerel-agentが起動しているかどうかを確認してください。</li>\n<li>mackerel-agentが起動している場合、サーバーの時刻が正しく設定されているかを確認してください。\n<ul>\n<li>サーバーに設定された時刻と現在時刻との間で相違がある場合、データが正しく投稿されない可能性があります。</li>\n</ul>\n</li>\n<li>mackerel-agent がインストールされているサーバから、mackerel.io / api.mackerelio.com への通信がおこなえるかどうかを確認してください。</li>\n<li>新規ホスト登録から初回メトリック投稿まで少しタイムラグがあるため、その間はグラフが表示されません。表示されるまでしばらくお待ちください。</li>\n</ul>"
+  }
+}

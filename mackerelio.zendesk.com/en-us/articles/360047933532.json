@@ -1,1 +1,37 @@
-{"article":{"id":360047933532,"url":"https://mackerelio.zendesk.com/api/v2/help_center/en-us/articles/360047933532.json","html_url":"https://support.mackerel.io/hc/en-us/articles/360047933532-Regarding-the-monitoring-of-IDCF-Cloud-environments-ILB-Virtual-Router-RDB-","author_id":390436787231,"comments_disabled":true,"draft":false,"promoted":false,"position":0,"vote_sum":0,"vote_count":0,"section_id":360007912572,"created_at":"2020-08-20T07:42:08Z","updated_at":"2021-12-21T07:38:45Z","name":"Regarding the monitoring of IDCF Cloud environments (ILB, Virtual Router, RDB)","title":"Regarding the monitoring of IDCF Cloud environments (ILB, Virtual Router, RDB)","source_locale":"ja","locale":"en-us","outdated":false,"outdated_locales":[],"edited_at":"2020-08-21T03:29:33Z","user_segment_id":null,"permission_group_id":1305651,"content_tag_ids":[],"label_names":["IDCF","IDCFクラウド","ILB","RDB","router","IDCF cloud","integration"],"body":"\u003cp\u003eMackerel does support the monitoring of \u003ca href=\"https://www.idcf.jp/cloud/mackerel/\" target=\"_blank\" rel=\"noopener\"\u003eIDCF Cloud\u003c/a\u003e environments, however the integration of the following IDCF Cloud managed services is implemented in a way that is unique to IDCF Cloud.\u003c/p\u003e\n\u003cul\u003e\n\u003cli\u003eInfinite LB (ILB)\u003c/li\u003e\n\u003cli\u003eVirtual Router\u003c/li\u003e\n\u003cli\u003eManaged Relational Database (RDB)\u003c/li\u003e\n\u003c/ul\u003e\n\u003cp\u003eFor this reason, please contact the \u003ca href=\"https://console.idcfcloud.com/support/ticket/\" target=\"_blank\" rel=\"noopener\"\u003eIDCF Cloud Support\u003c/a\u003e regarding inquiries related to the monitoring of these services.\u003c/p\u003e"}}
+{
+  "article": {
+    "id": 360047933532,
+    "url": "https://mackerelio.zendesk.com/api/v2/help_center/en-us/articles/360047933532.json",
+    "html_url": "https://support.mackerel.io/hc/en-us/articles/360047933532-Regarding-the-monitoring-of-IDCF-Cloud-environments-ILB-Virtual-Router-RDB-",
+    "author_id": 390436787231,
+    "comments_disabled": true,
+    "draft": false,
+    "promoted": false,
+    "position": 0,
+    "vote_sum": 0,
+    "vote_count": 0,
+    "section_id": 360007912572,
+    "created_at": "2020-08-20T07:42:08Z",
+    "updated_at": "2021-12-21T07:38:45Z",
+    "name": "Regarding the monitoring of IDCF Cloud environments (ILB, Virtual Router, RDB)",
+    "title": "Regarding the monitoring of IDCF Cloud environments (ILB, Virtual Router, RDB)",
+    "source_locale": "ja",
+    "locale": "en-us",
+    "outdated": false,
+    "outdated_locales": [],
+    "edited_at": "2020-08-21T03:29:33Z",
+    "user_segment_id": null,
+    "permission_group_id": 1305651,
+    "content_tag_ids": [],
+    "label_names": [
+      "IDCF",
+      "IDCFクラウド",
+      "ILB",
+      "RDB",
+      "router",
+      "IDCF cloud",
+      "integration"
+    ],
+    "body": "<p>Mackerel does support the monitoring of <a href=\"https://www.idcf.jp/cloud/mackerel/\" target=\"_blank\" rel=\"noopener\">IDCF Cloud</a> environments, however the integration of the following IDCF Cloud managed services is implemented in a way that is unique to IDCF Cloud.</p>\n<ul>\n<li>Infinite LB (ILB)</li>\n<li>Virtual Router</li>\n<li>Managed Relational Database (RDB)</li>\n</ul>\n<p>For this reason, please contact the <a href=\"https://console.idcfcloud.com/support/ticket/\" target=\"_blank\" rel=\"noopener\">IDCF Cloud Support</a> regarding inquiries related to the monitoring of these services.</p>"
+  }
+}

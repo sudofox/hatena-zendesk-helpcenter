@@ -1,1 +1,35 @@
-{"article":{"id":360045815151,"url":"https://mackerelio.zendesk.com/api/v2/help_center/en-us/articles/360045815151.json","html_url":"https://support.mackerel.io/hc/en-us/articles/360045815151-How-do-I-get-an-invoice-when-paying-by-credit-card-","author_id":390085917472,"comments_disabled":true,"draft":false,"promoted":true,"position":0,"vote_sum":0,"vote_count":2,"section_id":360008016131,"created_at":"2020-07-03T02:39:20Z","updated_at":"2022-04-19T09:03:01Z","name":"How do I get an invoice when paying by credit card?","title":"How do I get an invoice when paying by credit card?","source_locale":"ja","locale":"en-us","outdated":false,"outdated_locales":[],"edited_at":"2020-07-20T10:00:34Z","user_segment_id":null,"permission_group_id":1305651,"content_tag_ids":[],"label_names":["クレカ","請求書","支払い","クレジット","カード"],"body":"\u003cul\u003e\n\u003cli\u003e\u003cspan style=\"font-weight: 400;\"\u003eWe do not issue invoices if you pay by credit card.\u003c/span\u003e\u003c/li\u003e\n\u003cli\u003e\n\u003cspan style=\"font-weight: 400;\"\u003eYou can download the monthly receipt from the link in the payment confirmation email or users with owner authority can download it here as well (supported after July 1, 2020).\u003c/span\u003e\n\u003cul\u003e\n\u003cli\u003e\u003cspan style=\"font-weight: 400;\"\u003eYou can also optionally register an additional email address to receive payment confirmation emails in the organization's email settings.\u003c/span\u003e\u003c/li\u003e\n\u003cli\u003e\u003cspan style=\"font-weight: 400;\"\u003ePlease note that this receipt can be viewed by anyone who knows the URL.\u003c/span\u003e\u003c/li\u003e\n\u003c/ul\u003e\n\u003c/li\u003e\n\u003c/ul\u003e"}}
+{
+  "article": {
+    "id": 360045815151,
+    "url": "https://mackerelio.zendesk.com/api/v2/help_center/en-us/articles/360045815151.json",
+    "html_url": "https://support.mackerel.io/hc/en-us/articles/360045815151-How-do-I-get-an-invoice-when-paying-by-credit-card-",
+    "author_id": 390085917472,
+    "comments_disabled": true,
+    "draft": false,
+    "promoted": true,
+    "position": 0,
+    "vote_sum": 0,
+    "vote_count": 2,
+    "section_id": 360008016131,
+    "created_at": "2020-07-03T02:39:20Z",
+    "updated_at": "2022-04-19T09:03:01Z",
+    "name": "How do I get an invoice when paying by credit card?",
+    "title": "How do I get an invoice when paying by credit card?",
+    "source_locale": "ja",
+    "locale": "en-us",
+    "outdated": false,
+    "outdated_locales": [],
+    "edited_at": "2020-07-20T10:00:34Z",
+    "user_segment_id": null,
+    "permission_group_id": 1305651,
+    "content_tag_ids": [],
+    "label_names": [
+      "クレカ",
+      "請求書",
+      "支払い",
+      "クレジット",
+      "カード"
+    ],
+    "body": "<ul>\n<li><span style=\"font-weight: 400;\">We do not issue invoices if you pay by credit card.</span></li>\n<li>\n<span style=\"font-weight: 400;\">You can download the monthly receipt from the link in the payment confirmation email or users with owner authority can download it here as well (supported after July 1, 2020).</span>\n<ul>\n<li><span style=\"font-weight: 400;\">You can also optionally register an additional email address to receive payment confirmation emails in the organization's email settings.</span></li>\n<li><span style=\"font-weight: 400;\">Please note that this receipt can be viewed by anyone who knows the URL.</span></li>\n</ul>\n</li>\n</ul>"
+  }
+}

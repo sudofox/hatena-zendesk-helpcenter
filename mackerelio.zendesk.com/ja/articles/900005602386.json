@@ -1,1 +1,29 @@
-{"article":{"id":900005602386,"url":"https://mackerelio.zendesk.com/api/v2/help_center/ja/articles/900005602386.json","html_url":"https://support.mackerel.io/hc/ja/articles/900005602386","author_id":390085917472,"comments_disabled":true,"draft":false,"promoted":false,"position":0,"vote_sum":0,"vote_count":0,"section_id":360007912312,"created_at":"2021-04-12T03:05:28Z","updated_at":"2021-05-11T09:13:17Z","name":"mackerel-plugin-apache2 プラグインでメトリックが取得できない","title":"mackerel-plugin-apache2 プラグインでメトリックが取得できない","source_locale":"ja","locale":"ja","outdated":false,"outdated_locales":[],"edited_at":"2021-04-30T01:34:02Z","user_segment_id":null,"permission_group_id":1305651,"content_tag_ids":[],"label_names":[],"body":"\u003cdiv\u003e\n\u003ca href=\"https://github.com/mackerelio/mackerel-agent-plugins/tree/master/mackerel-plugin-apache2\" target=\"_blank\" rel=\"noopener\"\u003emackerel-plugin-apache2\u003c/a\u003eプラグインによる監視が行えない場合、以下のような原因に該当する場合がございます。\u003c/div\u003e\n\u003cul\u003e\n\u003cli\u003emod_statusが正しく設定されていない。\u003c/li\u003e\n\u003cli\u003eプラグインが参照しているURLとmod_statusのserver-statusハンドラが割り当てられたURLが異なる。\u003c/li\u003e\n\u003cli\u003emod_rewriteによりHTTPSのURLなどにリダイレクトされている。\u003c/li\u003e\n\u003c/ul\u003e\n\u003cp\u003e上記などのケースに該当していないか、監視ホストにてserver-statusのレスポンスを正しく参照できるか確認をしてください。\u003c/p\u003e\n\u003cp\u003e以下のようなcurlコマンドで確認できます。\u003c/p\u003e\n\u003cpre\u003ecurl -v http://127.0.0.1:1080/server-status\u003c/pre\u003e\n\u003cul\u003e\n\u003cli\u003e上記はプラグインのREADMEをもとにApacheの設定をされた場合の確認方法となります。\n\u003cul\u003e\n\u003cli\u003e\n\u003cdiv\u003e\u003ca href=\"https://github.com/mackerelio/mackerel-agent-plugins/tree/master/mackerel-plugin-apache2#set-up-your-apache-server\" target=\"_blank\" rel=\"noopener\"\u003eSet up your apache server - mackerel-plugin-apache2\u003c/a\u003e\u003c/div\u003e\n\u003c/li\u003e\n\u003c/ul\u003e\n\u003c/li\u003e\n\u003cli\u003eポート番号などを変更されている場合は、環境にあわせてご確認ください。\u003c/li\u003e\n\u003c/ul\u003e"}}
+{
+  "article": {
+    "id": 900005602386,
+    "url": "https://mackerelio.zendesk.com/api/v2/help_center/ja/articles/900005602386.json",
+    "html_url": "https://support.mackerel.io/hc/ja/articles/900005602386",
+    "author_id": 390085917472,
+    "comments_disabled": true,
+    "draft": false,
+    "promoted": false,
+    "position": 0,
+    "vote_sum": 0,
+    "vote_count": 0,
+    "section_id": 360007912312,
+    "created_at": "2021-04-12T03:05:28Z",
+    "updated_at": "2021-05-11T09:13:17Z",
+    "name": "mackerel-plugin-apache2 プラグインでメトリックが取得できない",
+    "title": "mackerel-plugin-apache2 プラグインでメトリックが取得できない",
+    "source_locale": "ja",
+    "locale": "ja",
+    "outdated": false,
+    "outdated_locales": [],
+    "edited_at": "2021-04-30T01:34:02Z",
+    "user_segment_id": null,
+    "permission_group_id": 1305651,
+    "content_tag_ids": [],
+    "label_names": [],
+    "body": "<div>\n<a href=\"https://github.com/mackerelio/mackerel-agent-plugins/tree/master/mackerel-plugin-apache2\" target=\"_blank\" rel=\"noopener\">mackerel-plugin-apache2</a>プラグインによる監視が行えない場合、以下のような原因に該当する場合がございます。</div>\n<ul>\n<li>mod_statusが正しく設定されていない。</li>\n<li>プラグインが参照しているURLとmod_statusのserver-statusハンドラが割り当てられたURLが異なる。</li>\n<li>mod_rewriteによりHTTPSのURLなどにリダイレクトされている。</li>\n</ul>\n<p>上記などのケースに該当していないか、監視ホストにてserver-statusのレスポンスを正しく参照できるか確認をしてください。</p>\n<p>以下のようなcurlコマンドで確認できます。</p>\n<pre>curl -v http://127.0.0.1:1080/server-status</pre>\n<ul>\n<li>上記はプラグインのREADMEをもとにApacheの設定をされた場合の確認方法となります。\n<ul>\n<li>\n<div><a href=\"https://github.com/mackerelio/mackerel-agent-plugins/tree/master/mackerel-plugin-apache2#set-up-your-apache-server\" target=\"_blank\" rel=\"noopener\">Set up your apache server - mackerel-plugin-apache2</a></div>\n</li>\n</ul>\n</li>\n<li>ポート番号などを変更されている場合は、環境にあわせてご確認ください。</li>\n</ul>"
+  }
+}

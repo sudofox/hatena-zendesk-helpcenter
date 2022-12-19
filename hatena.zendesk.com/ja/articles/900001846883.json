@@ -1,1 +1,31 @@
-{"article":{"id":900001846883,"url":"https://hatena.zendesk.com/api/v2/help_center/ja/articles/900001846883.json","html_url":"https://hatena.zendesk.com/hc/ja/articles/900001846883","author_id":900525068463,"comments_disabled":true,"draft":false,"promoted":false,"position":7,"vote_sum":4,"vote_count":6,"section_id":900000342143,"created_at":"2020-07-21T07:28:16Z","updated_at":"2022-11-29T01:54:03Z","name":"はてなブログProを利用中だがコースを変更したい（はてなポイントでお支払いされている方のみ）","title":"はてなブログProを利用中だがコースを変更したい（はてなポイントでお支払いされている方のみ）","source_locale":"ja","locale":"ja","outdated":false,"outdated_locales":[],"edited_at":"2021-10-08T03:21:10Z","user_segment_id":null,"permission_group_id":972311,"content_tag_ids":[],"label_names":["プロ"],"body":"\t\t\t\u003cp\u003e\u003cstrong\u003e※はてなポイントでお支払いされている場合の内容となっております。クレジットカード直接決済でお支払いをされている場合にはいつでも次回のコース変更の予約ができます\u003c/strong\u003e\u003c/p\u003e\n\t\t\t\u003cp\u003e現在ご利用いただいているコースより期間の長いコースへの変更はいつでも行うことができます。下記ページ下部、希望コースの「購入フォームへ」をクリックし、画面の指示に従いお手続きを行ってください。\u003c/p\u003e\n\t\t\t\u003cp\u003e\u003ca href=\"http://blog.hatena.ne.jp/-/pro\" target=\"_blank\"\u003ehttp://blog.hatena.ne.jp/-/pro\u003c/a\u003e\u003c/p\u003e\n\t\t\t\u003cp\u003e料金につきまして、新たにお申し込むコース分のポイントを保有していないとコース変更は行えませんが、実際には利用中のコースの料金を日割りで差し引き、ご利用分以上の料金をいただかないようにしております。\u003c/p\u003e\n\t\t\t\u003cp\u003e具体的な有効期限と料金は下記の通りです。\u003c/p\u003e\n\t\t\t\u003cp\u003e＜1ヶ月コースから1年コースに変更する場合＞\u003c/p\u003e\n\t\t\t\u003cp\u003e・有効期限日：コース変更を行った日から1年間\u003c/p\u003e\n\t\t\t\u003cp\u003e・料金：1年コースの料金(8434ポイント)から、1ヶ月コース(1008ポイント)の料金を日割りで差し引いた額\u003c/p\u003e\n\t\t\t\u003cp\u003e＜1年コースから2年コースに変更する場合＞\u003c/p\u003e\n\t\t\t\u003cp\u003e・有効期限日：コース変更を行った日から2年間\u003c/p\u003e\n\t\t\t\u003cp\u003e・料金：2年コースの料金(14400ポイント)から、1年コース(8434ポイント)の料金を日割りで差し引いた額\u003c/p\u003e\n\t\t\t\u003cp\u003eなお、コース変更の予約はできず、お手続きされますと有効期限が1年後もしくは2年後になります。\u003c/p\u003e\n\t\t\t\u003cp\u003eまた、はてなポイント支払いのブログProは、現在使用しているコースの有効期間中に、より短いコースへの変更はできません。いったんブログProを解約してからお申し込みいただく必要がございます。\u003c/p\u003e\n"}}
+{
+  "article": {
+    "id": 900001846883,
+    "url": "https://hatena.zendesk.com/api/v2/help_center/ja/articles/900001846883.json",
+    "html_url": "https://hatena.zendesk.com/hc/ja/articles/900001846883",
+    "author_id": 900525068463,
+    "comments_disabled": true,
+    "draft": false,
+    "promoted": false,
+    "position": 7,
+    "vote_sum": 4,
+    "vote_count": 6,
+    "section_id": 900000342143,
+    "created_at": "2020-07-21T07:28:16Z",
+    "updated_at": "2022-11-29T01:54:03Z",
+    "name": "はてなブログProを利用中だがコースを変更したい（はてなポイントでお支払いされている方のみ）",
+    "title": "はてなブログProを利用中だがコースを変更したい（はてなポイントでお支払いされている方のみ）",
+    "source_locale": "ja",
+    "locale": "ja",
+    "outdated": false,
+    "outdated_locales": [],
+    "edited_at": "2021-10-08T03:21:10Z",
+    "user_segment_id": null,
+    "permission_group_id": 972311,
+    "content_tag_ids": [],
+    "label_names": [
+      "プロ"
+    ],
+    "body": "\t\t\t<p><strong>※はてなポイントでお支払いされている場合の内容となっております。クレジットカード直接決済でお支払いをされている場合にはいつでも次回のコース変更の予約ができます</strong></p>\n\t\t\t<p>現在ご利用いただいているコースより期間の長いコースへの変更はいつでも行うことができます。下記ページ下部、希望コースの「購入フォームへ」をクリックし、画面の指示に従いお手続きを行ってください。</p>\n\t\t\t<p><a href=\"http://blog.hatena.ne.jp/-/pro\" target=\"_blank\">http://blog.hatena.ne.jp/-/pro</a></p>\n\t\t\t<p>料金につきまして、新たにお申し込むコース分のポイントを保有していないとコース変更は行えませんが、実際には利用中のコースの料金を日割りで差し引き、ご利用分以上の料金をいただかないようにしております。</p>\n\t\t\t<p>具体的な有効期限と料金は下記の通りです。</p>\n\t\t\t<p>＜1ヶ月コースから1年コースに変更する場合＞</p>\n\t\t\t<p>・有効期限日：コース変更を行った日から1年間</p>\n\t\t\t<p>・料金：1年コースの料金(8434ポイント)から、1ヶ月コース(1008ポイント)の料金を日割りで差し引いた額</p>\n\t\t\t<p>＜1年コースから2年コースに変更する場合＞</p>\n\t\t\t<p>・有効期限日：コース変更を行った日から2年間</p>\n\t\t\t<p>・料金：2年コースの料金(14400ポイント)から、1年コース(8434ポイント)の料金を日割りで差し引いた額</p>\n\t\t\t<p>なお、コース変更の予約はできず、お手続きされますと有効期限が1年後もしくは2年後になります。</p>\n\t\t\t<p>また、はてなポイント支払いのブログProは、現在使用しているコースの有効期間中に、より短いコースへの変更はできません。いったんブログProを解約してからお申し込みいただく必要がございます。</p>\n"
+  }
+}

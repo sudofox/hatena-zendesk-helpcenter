@@ -1,1 +1,29 @@
-{"article":{"id":360029784372,"url":"https://hatenablogmedia.zendesk.com/api/v2/help_center/ja/articles/360029784372.json","html_url":"https://hatenablogmedia.zendesk.com/hc/ja/articles/360029784372","author_id":378867417791,"comments_disabled":false,"draft":false,"promoted":false,"position":1,"vote_sum":0,"vote_count":0,"section_id":360004976191,"created_at":"2019-07-02T03:18:10Z","updated_at":"2021-12-07T06:57:27Z","name":"更新フィードの内容をカスタマイズすることはできますか？","title":"更新フィードの内容をカスタマイズすることはできますか？","source_locale":"ja","locale":"ja","outdated":false,"outdated_locales":[],"edited_at":"2021-12-07T06:57:27Z","user_segment_id":null,"permission_group_id":972311,"content_tag_ids":[],"label_names":[],"body":"\u003cp\u003eフィードの項目や配信する記事の件数はカスタマイズできます。\u003c/p\u003e\n\u003ch2\u003e項目のカスタマイズ\u003c/h2\u003e\n\u003cp\u003eパラメータ「?exclude_body=1」をフィードのURLの末尾に付けることにより、記事本文を削減して、記事タイトル\u2028・記事URL\u2028・画像・日時・カテゴリのみを配信できます。\u003c/p\u003e\n\u003cp\u003e▼カスタマイズしたURL例\u003c/p\u003e\n\u003cpre\u003ehttps://staff.hatenablog.com/feed?exclude_body=1\u003c/pre\u003e\n\u003ch2\u003e配信する記事数のカスタマイズ\u003c/h2\u003e\n\u003cp\u003eパラメータ「?size=n（n=1〜100）」をフィードのURLの末尾に付けることにより、配信する記事の件数を指定できます。上限は100件です。\u003c/p\u003e\n\u003cp\u003e▼カスタマイズしたURL例\u003c/p\u003e\n\u003cpre\u003ehttps://staff.hatenablog.com/feed?size=3\u003c/pre\u003e\n\u003ch2\u003eカテゴリのみのフィード\u003c/h2\u003e\n\u003cp\u003eカテゴリー別記事一覧ページでもフィードを出力しています。\u003c/p\u003e\n\u003cp\u003e▼URL例\u003c/p\u003e\n\u003cpre\u003ehttps://staff.hatenablog.com/feed/category/カテゴリー名\u003c/pre\u003e\n\u003cp\u003e\u003cbr\u003eその他更新フィードの詳細については「\u003ca href=\"http://help.hatenablog.com/entry/feed\" target=\"_self\"\u003e更新フィード\u003c/a\u003e」をご確認ください。\u003c/p\u003e"}}
+{
+  "article": {
+    "id": 360029784372,
+    "url": "https://hatenablogmedia.zendesk.com/api/v2/help_center/ja/articles/360029784372.json",
+    "html_url": "https://hatenablogmedia.zendesk.com/hc/ja/articles/360029784372",
+    "author_id": 378867417791,
+    "comments_disabled": false,
+    "draft": false,
+    "promoted": false,
+    "position": 1,
+    "vote_sum": 0,
+    "vote_count": 0,
+    "section_id": 360004976191,
+    "created_at": "2019-07-02T03:18:10Z",
+    "updated_at": "2021-12-07T06:57:27Z",
+    "name": "更新フィードの内容をカスタマイズすることはできますか？",
+    "title": "更新フィードの内容をカスタマイズすることはできますか？",
+    "source_locale": "ja",
+    "locale": "ja",
+    "outdated": false,
+    "outdated_locales": [],
+    "edited_at": "2021-12-07T06:57:27Z",
+    "user_segment_id": null,
+    "permission_group_id": 972311,
+    "content_tag_ids": [],
+    "label_names": [],
+    "body": "<p>フィードの項目や配信する記事の件数はカスタマイズできます。</p>\n<h2>項目のカスタマイズ</h2>\n<p>パラメータ「?exclude_body=1」をフィードのURLの末尾に付けることにより、記事本文を削減して、記事タイトル ・記事URL ・画像・日時・カテゴリのみを配信できます。</p>\n<p>▼カスタマイズしたURL例</p>\n<pre>https://staff.hatenablog.com/feed?exclude_body=1</pre>\n<h2>配信する記事数のカスタマイズ</h2>\n<p>パラメータ「?size=n（n=1〜100）」をフィードのURLの末尾に付けることにより、配信する記事の件数を指定できます。上限は100件です。</p>\n<p>▼カスタマイズしたURL例</p>\n<pre>https://staff.hatenablog.com/feed?size=3</pre>\n<h2>カテゴリのみのフィード</h2>\n<p>カテゴリー別記事一覧ページでもフィードを出力しています。</p>\n<p>▼URL例</p>\n<pre>https://staff.hatenablog.com/feed/category/カテゴリー名</pre>\n<p><br>その他更新フィードの詳細については「<a href=\"http://help.hatenablog.com/entry/feed\" target=\"_self\">更新フィード</a>」をご確認ください。</p>"
+  }
+}

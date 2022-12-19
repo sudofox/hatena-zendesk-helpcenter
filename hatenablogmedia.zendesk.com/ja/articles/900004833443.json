@@ -1,1 +1,29 @@
-{"article":{"id":900004833443,"url":"https://hatenablogmedia.zendesk.com/api/v2/help_center/ja/articles/900004833443.json","html_url":"https://hatenablogmedia.zendesk.com/hc/ja/articles/900004833443","author_id":378867417791,"comments_disabled":false,"draft":false,"promoted":false,"position":0,"vote_sum":0,"vote_count":0,"section_id":360006001331,"created_at":"2020-12-16T09:39:56Z","updated_at":"2022-11-17T05:34:40Z","name":"Feed変換ツール Konvの使い方について","title":"Feed変換ツール Konvの使い方について","source_locale":"ja","locale":"ja","outdated":false,"outdated_locales":[],"edited_at":"2022-11-17T05:32:54Z","user_segment_id":null,"permission_group_id":972311,"content_tag_ids":[],"label_names":[],"body":"\u003cp\u003eSmartFormat仕様に準拠したファイル形式で「はてなブログMedia」の記事をスマートニュース（SmartNews）に配信している場合、お客様の希望により、Feed変換ツール「Konv」をご利用いただけます。\u003c/p\u003e\n\u003cp\u003e「Konvのご利用に関する同意事項」をご確認のうえご利用ください。\u003c/p\u003e\n\u003ch2\u003e\u003cspan style=\"font-weight: 400;\"\u003eKonvのご利用に関する同意事項\u003c/span\u003e\u003c/h2\u003e\n\u003cp\u003e\u003cspan style=\"font-weight: 400;\"\u003eKonvは「はてなブログMedia」利用許諾に関する契約書に従い、「はてなブログMedia」の機能として提供されます。本機能に関する知的財産権は当社に帰属しており、当該契約に従い、利用ライセンスを付与します。\u003c/span\u003e\u003c/p\u003e\n\u003cp\u003e\u003cspan style=\"font-weight: 400;\"\u003eただし、Konvは以下の条件にて提供されます。\u003c/span\u003e\u003c/p\u003e\n\u003cul\u003e\n\u003cli\u003e\u003cspan style=\"font-weight: 400;\"\u003e「はてなブログMedia」のサポートの対象外です\u003c/span\u003e\u003c/li\u003e\n\u003cli\u003e\u003cspan style=\"font-weight: 400;\"\u003eKonvの利用に伴う損害及び責任について、当社では一切の責任を負いかねます\u003c/span\u003e\u003c/li\u003e\n\u003cli\u003e\n\u003cspan style=\"font-weight: 400;\"\u003e当社は、本ご利用ガイドを変更、アップデートする場合があります。本記事\u003c/span\u003e\u003cspan style=\"font-weight: 400;\"\u003eに、変更後の本ご利用ガイドを掲載することによりユーザーの皆様に周知するものとし、掲載時から変更後の本ご利用ガイドが適用されるものとします\u003c/span\u003e\n\u003c/li\u003e\n\u003c/ul\u003e\n\u003ch2\u003eご利用方法\u003c/h2\u003e\n\u003cp\u003e\u003ca href=\"https://docs.google.com/document/d/149LMC1e-GkI7GxNuHr0GzLx4bj6qFRRFhMumKHfgbVc/edit?usp=sharing\" target=\"_blank\" rel=\"noopener noreferrer\"\u003efeed変換ツール Konvご利用ガイド\u003c/a\u003eをご確認ください。\u003c/p\u003e"}}
+{
+  "article": {
+    "id": 900004833443,
+    "url": "https://hatenablogmedia.zendesk.com/api/v2/help_center/ja/articles/900004833443.json",
+    "html_url": "https://hatenablogmedia.zendesk.com/hc/ja/articles/900004833443",
+    "author_id": 378867417791,
+    "comments_disabled": false,
+    "draft": false,
+    "promoted": false,
+    "position": 0,
+    "vote_sum": 0,
+    "vote_count": 0,
+    "section_id": 360006001331,
+    "created_at": "2020-12-16T09:39:56Z",
+    "updated_at": "2022-11-17T05:34:40Z",
+    "name": "Feed変換ツール Konvの使い方について",
+    "title": "Feed変換ツール Konvの使い方について",
+    "source_locale": "ja",
+    "locale": "ja",
+    "outdated": false,
+    "outdated_locales": [],
+    "edited_at": "2022-11-17T05:32:54Z",
+    "user_segment_id": null,
+    "permission_group_id": 972311,
+    "content_tag_ids": [],
+    "label_names": [],
+    "body": "<p>SmartFormat仕様に準拠したファイル形式で「はてなブログMedia」の記事をスマートニュース（SmartNews）に配信している場合、お客様の希望により、Feed変換ツール「Konv」をご利用いただけます。</p>\n<p>「Konvのご利用に関する同意事項」をご確認のうえご利用ください。</p>\n<h2><span style=\"font-weight: 400;\">Konvのご利用に関する同意事項</span></h2>\n<p><span style=\"font-weight: 400;\">Konvは「はてなブログMedia」利用許諾に関する契約書に従い、「はてなブログMedia」の機能として提供されます。本機能に関する知的財産権は当社に帰属しており、当該契約に従い、利用ライセンスを付与します。</span></p>\n<p><span style=\"font-weight: 400;\">ただし、Konvは以下の条件にて提供されます。</span></p>\n<ul>\n<li><span style=\"font-weight: 400;\">「はてなブログMedia」のサポートの対象外です</span></li>\n<li><span style=\"font-weight: 400;\">Konvの利用に伴う損害及び責任について、当社では一切の責任を負いかねます</span></li>\n<li>\n<span style=\"font-weight: 400;\">当社は、本ご利用ガイドを変更、アップデートする場合があります。本記事</span><span style=\"font-weight: 400;\">に、変更後の本ご利用ガイドを掲載することによりユーザーの皆様に周知するものとし、掲載時から変更後の本ご利用ガイドが適用されるものとします</span>\n</li>\n</ul>\n<h2>ご利用方法</h2>\n<p><a href=\"https://docs.google.com/document/d/149LMC1e-GkI7GxNuHr0GzLx4bj6qFRRFhMumKHfgbVc/edit?usp=sharing\" target=\"_blank\" rel=\"noopener noreferrer\">feed変換ツール Konvご利用ガイド</a>をご確認ください。</p>"
+  }
+}

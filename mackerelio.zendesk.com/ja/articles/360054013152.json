@@ -1,1 +1,29 @@
-{"article":{"id":360054013152,"url":"https://mackerelio.zendesk.com/api/v2/help_center/ja/articles/360054013152.json","html_url":"https://support.mackerel.io/hc/ja/articles/360054013152","author_id":390436787231,"comments_disabled":true,"draft":false,"promoted":false,"position":2,"vote_sum":0,"vote_count":0,"section_id":360008015871,"created_at":"2020-12-18T02:18:14Z","updated_at":"2022-06-24T01:14:05Z","name":"Azureインテグレーションを設定したがホストが連携されない","title":"Azureインテグレーションを設定したがホストが連携されない","source_locale":"ja","locale":"ja","outdated":false,"outdated_locales":[],"edited_at":"2022-06-24T01:14:05Z","user_segment_id":null,"permission_group_id":1305651,"content_tag_ids":[],"label_names":[],"body":"\u003cp\u003e以下の点について改めてご確認ください。\u003c/p\u003e\n\u003cul\u003e\n\u003cli\u003eAzureインテグレーションのためのサービスプリンシパルに閲覧者権限が付与されていることを改めて確認してください。\u003c/li\u003e\n\u003cli\u003e「タグを指定して登録するホストを絞り込む」にタグを指定している場合、そのタグが Azure の連携対象リソースにも正しく付与されていることを確認してください。\u003c/li\u003e\n\u003cli\u003eAzure Portalを用いた連携方法の場合、シークレットの有効期限が切れていないことを確認してください。\u003c/li\u003e\n\u003c/ul\u003e\n\u003cp\u003eまた、最初は連携できていたにも関わらず、インスタンスモデルを変更したらメトリックが取れなくなった場合、Mackerel で未サポートのモデルである可能性があります。お手数ですがサポート窓口までお問い合わせください。\u003c/p\u003e"}}
+{
+  "article": {
+    "id": 360054013152,
+    "url": "https://mackerelio.zendesk.com/api/v2/help_center/ja/articles/360054013152.json",
+    "html_url": "https://support.mackerel.io/hc/ja/articles/360054013152",
+    "author_id": 390436787231,
+    "comments_disabled": true,
+    "draft": false,
+    "promoted": false,
+    "position": 2,
+    "vote_sum": 0,
+    "vote_count": 0,
+    "section_id": 360008015871,
+    "created_at": "2020-12-18T02:18:14Z",
+    "updated_at": "2022-06-24T01:14:05Z",
+    "name": "Azureインテグレーションを設定したがホストが連携されない",
+    "title": "Azureインテグレーションを設定したがホストが連携されない",
+    "source_locale": "ja",
+    "locale": "ja",
+    "outdated": false,
+    "outdated_locales": [],
+    "edited_at": "2022-06-24T01:14:05Z",
+    "user_segment_id": null,
+    "permission_group_id": 1305651,
+    "content_tag_ids": [],
+    "label_names": [],
+    "body": "<p>以下の点について改めてご確認ください。</p>\n<ul>\n<li>Azureインテグレーションのためのサービスプリンシパルに閲覧者権限が付与されていることを改めて確認してください。</li>\n<li>「タグを指定して登録するホストを絞り込む」にタグを指定している場合、そのタグが Azure の連携対象リソースにも正しく付与されていることを確認してください。</li>\n<li>Azure Portalを用いた連携方法の場合、シークレットの有効期限が切れていないことを確認してください。</li>\n</ul>\n<p>また、最初は連携できていたにも関わらず、インスタンスモデルを変更したらメトリックが取れなくなった場合、Mackerel で未サポートのモデルである可能性があります。お手数ですがサポート窓口までお問い合わせください。</p>"
+  }
+}

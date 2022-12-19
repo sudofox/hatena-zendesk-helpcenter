@@ -1,1 +1,33 @@
-{"article":{"id":360052507732,"url":"https://mackerelio.zendesk.com/api/v2/help_center/en-us/articles/360052507732.json","html_url":"https://support.mackerel.io/hc/en-us/articles/360052507732-I-want-to-cancel-my-Mackerel-plan-subscription","author_id":390085917472,"comments_disabled":true,"draft":false,"promoted":false,"position":0,"vote_sum":-1,"vote_count":1,"section_id":360008016151,"created_at":"2020-11-25T07:48:07Z","updated_at":"2021-08-20T03:58:58Z","name":"I want to cancel my Mackerel plan/subscription","title":"I want to cancel my Mackerel plan/subscription","source_locale":"ja","locale":"en-us","outdated":false,"outdated_locales":[],"edited_at":"2020-11-30T03:28:22Z","user_segment_id":null,"permission_group_id":1305651,"content_tag_ids":[],"label_names":["退会","解約","有料"],"body":"\u003ch3\u003ePaid plans\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eIf subscribed to the Standard plan (credit card payments), click \u003ca href=\"https://mackerel.io/my/plan/-/cancel\" target=\"_blank\" rel=\"noopener\"\u003e'Cancel'\u003c/a\u003e below and complete the following \u003ca href=\"https://mackerel.io/my?tab=plan\" target=\"_blank\" rel=\"noopener\"\u003eprocedure\u003c/a\u003e.\u003c/li\u003e\n\u003cli\u003eIf paying a plan subscription via invoice, please \u003ca href=\"https://support.mackerel.io/hc/en-us/requests/new\" target=\"_blank\" rel=\"noopener\"\u003econtact support\u003c/a\u003e.\u003c/li\u003e\n\u003cli\u003ePlease note that because Mackerel uses a monthly pay-as-you-go system, if a cancellation is made in the middle of the month, that subscription will last for the entire month and the cancellation (change to the Free plan) will take effect at the beginning of the following month.\u003c/li\u003e\n\u003cli\u003eIf you would like to delete an organization when cancelling your subscription, you can complete this procedure after having changed to the Free plan at the beginning of the following month.\u003c/li\u003e\n\u003c/ul\u003e\n\u003ch3\u003eFree plan\u003c/h3\u003e\n\u003cul\u003e\n\u003cli\u003eCanceling a free plan is unnecessary, but if you would like to delete an organization or delete your account, please refer to the following.\u003cbr\u003e\n\u003cul\u003e\n\u003cli\u003e\u003ca href=\"https://support.mackerel.io/hc/en-us/articles/360040108231\" target=\"_self\"\u003eI want to change my organization’s name / I want to delete my organization.\u003c/a\u003e\u003c/li\u003e\n\u003cli\u003e\u003ca href=\"https://support.mackerel.io/hc/en-us/articles/360052507892\" target=\"_self\"\u003eI want to delete a user account\u003c/a\u003e\u003c/li\u003e\n\u003c/ul\u003e\n\u003c/li\u003e\n\u003c/ul\u003e"}}
+{
+  "article": {
+    "id": 360052507732,
+    "url": "https://mackerelio.zendesk.com/api/v2/help_center/en-us/articles/360052507732.json",
+    "html_url": "https://support.mackerel.io/hc/en-us/articles/360052507732-I-want-to-cancel-my-Mackerel-plan-subscription",
+    "author_id": 390085917472,
+    "comments_disabled": true,
+    "draft": false,
+    "promoted": false,
+    "position": 0,
+    "vote_sum": -1,
+    "vote_count": 1,
+    "section_id": 360008016151,
+    "created_at": "2020-11-25T07:48:07Z",
+    "updated_at": "2021-08-20T03:58:58Z",
+    "name": "I want to cancel my Mackerel plan/subscription",
+    "title": "I want to cancel my Mackerel plan/subscription",
+    "source_locale": "ja",
+    "locale": "en-us",
+    "outdated": false,
+    "outdated_locales": [],
+    "edited_at": "2020-11-30T03:28:22Z",
+    "user_segment_id": null,
+    "permission_group_id": 1305651,
+    "content_tag_ids": [],
+    "label_names": [
+      "退会",
+      "解約",
+      "有料"
+    ],
+    "body": "<h3>Paid plans</h3>\n<ul>\n<li>If subscribed to the Standard plan (credit card payments), click <a href=\"https://mackerel.io/my/plan/-/cancel\" target=\"_blank\" rel=\"noopener\">'Cancel'</a> below and complete the following <a href=\"https://mackerel.io/my?tab=plan\" target=\"_blank\" rel=\"noopener\">procedure</a>.</li>\n<li>If paying a plan subscription via invoice, please <a href=\"https://support.mackerel.io/hc/en-us/requests/new\" target=\"_blank\" rel=\"noopener\">contact support</a>.</li>\n<li>Please note that because Mackerel uses a monthly pay-as-you-go system, if a cancellation is made in the middle of the month, that subscription will last for the entire month and the cancellation (change to the Free plan) will take effect at the beginning of the following month.</li>\n<li>If you would like to delete an organization when cancelling your subscription, you can complete this procedure after having changed to the Free plan at the beginning of the following month.</li>\n</ul>\n<h3>Free plan</h3>\n<ul>\n<li>Canceling a free plan is unnecessary, but if you would like to delete an organization or delete your account, please refer to the following.<br>\n<ul>\n<li><a href=\"https://support.mackerel.io/hc/en-us/articles/360040108231\" target=\"_self\">I want to change my organization’s name / I want to delete my organization.</a></li>\n<li><a href=\"https://support.mackerel.io/hc/en-us/articles/360052507892\" target=\"_self\">I want to delete a user account</a></li>\n</ul>\n</li>\n</ul>"
+  }
+}

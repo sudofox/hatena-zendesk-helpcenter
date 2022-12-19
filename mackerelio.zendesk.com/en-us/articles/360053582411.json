@@ -1,1 +1,35 @@
-{"article":{"id":360053582411,"url":"https://mackerelio.zendesk.com/api/v2/help_center/en-us/articles/360053582411.json","html_url":"https://support.mackerel.io/hc/en-us/articles/360053582411-I-can-t-log-in-because-the-device-I-was-using-for-two-step-verification-was-damaged-lost-","author_id":390085917472,"comments_disabled":false,"draft":false,"promoted":false,"position":3,"vote_sum":1,"vote_count":1,"section_id":360007912372,"created_at":"2020-12-10T06:26:02Z","updated_at":"2021-12-21T05:19:39Z","name":"I can't log in because the device I was using for two-step verification was damaged/lost.","title":"I can't log in because the device I was using for two-step verification was damaged/lost.","source_locale":"ja","locale":"en-us","outdated":false,"outdated_locales":[],"edited_at":"2020-12-18T06:28:30Z","user_segment_id":null,"permission_group_id":1305651,"content_tag_ids":[],"label_names":["2段階認証","MFA","2FA","リカバリコード","2要素認証"],"body":"\u003cul\u003e\n\u003cli\u003e\u003cspan style=\"font-weight: 400;\"\u003eDue to security concerns, the support team is unable to offer support for matters related to account recovery such as the cancellation of two-step verification settings.\u003c/span\u003e\u003c/li\u003e\n\u003cli style=\"font-weight: 400;\" aria-level=\"1\"\u003e\u003cspan style=\"font-weight: 400;\"\u003eFor this reason, we strongly recommend carefully managing the device and recovery codes used for two-step verification.\u003c/span\u003e\u003c/li\u003e\n\u003cli style=\"font-weight: 400;\" aria-level=\"1\"\u003e\u003cspan style=\"font-weight: 400;\"\u003eIf the device and recovery codes used for two-step verification become lost, you’ll basically have to make a new user account. \u003c/span\u003e\u003c/li\u003e\n\u003cli style=\"font-weight: 400;\" aria-level=\"1\"\u003e\n\u003cspan style=\"font-weight: 400;\"\u003eIf you would like to re-register with the same email address, the support team can revoke your previous account.\u003c/span\u003e\n\u003cul\u003e\n\u003cli\u003e\n\u003cspan style=\"font-weight: 400;\"\u003eIf your account is to be revoked, you will need to be removed from all organizations.\u003c/span\u003e\u003cspan style=\"font-weight: 400;\"\u003e\u003cbr\u003e\u003c/span\u003e\u003cspan style=\"font-weight: 400;\"\u003ePlease contact the support team after having the organization owner remove you in advance.\u003c/span\u003e\n\u003c/li\u003e\n\u003c/ul\u003e\n\u003c/li\u003e\n\u003c/ul\u003e"}}
+{
+  "article": {
+    "id": 360053582411,
+    "url": "https://mackerelio.zendesk.com/api/v2/help_center/en-us/articles/360053582411.json",
+    "html_url": "https://support.mackerel.io/hc/en-us/articles/360053582411-I-can-t-log-in-because-the-device-I-was-using-for-two-step-verification-was-damaged-lost-",
+    "author_id": 390085917472,
+    "comments_disabled": false,
+    "draft": false,
+    "promoted": false,
+    "position": 3,
+    "vote_sum": 1,
+    "vote_count": 1,
+    "section_id": 360007912372,
+    "created_at": "2020-12-10T06:26:02Z",
+    "updated_at": "2021-12-21T05:19:39Z",
+    "name": "I can't log in because the device I was using for two-step verification was damaged/lost.",
+    "title": "I can't log in because the device I was using for two-step verification was damaged/lost.",
+    "source_locale": "ja",
+    "locale": "en-us",
+    "outdated": false,
+    "outdated_locales": [],
+    "edited_at": "2020-12-18T06:28:30Z",
+    "user_segment_id": null,
+    "permission_group_id": 1305651,
+    "content_tag_ids": [],
+    "label_names": [
+      "2段階認証",
+      "MFA",
+      "2FA",
+      "リカバリコード",
+      "2要素認証"
+    ],
+    "body": "<ul>\n<li><span style=\"font-weight: 400;\">Due to security concerns, the support team is unable to offer support for matters related to account recovery such as the cancellation of two-step verification settings.</span></li>\n<li style=\"font-weight: 400;\" aria-level=\"1\"><span style=\"font-weight: 400;\">For this reason, we strongly recommend carefully managing the device and recovery codes used for two-step verification.</span></li>\n<li style=\"font-weight: 400;\" aria-level=\"1\"><span style=\"font-weight: 400;\">If the device and recovery codes used for two-step verification become lost, you’ll basically have to make a new user account. </span></li>\n<li style=\"font-weight: 400;\" aria-level=\"1\">\n<span style=\"font-weight: 400;\">If you would like to re-register with the same email address, the support team can revoke your previous account.</span>\n<ul>\n<li>\n<span style=\"font-weight: 400;\">If your account is to be revoked, you will need to be removed from all organizations.</span><span style=\"font-weight: 400;\"><br></span><span style=\"font-weight: 400;\">Please contact the support team after having the organization owner remove you in advance.</span>\n</li>\n</ul>\n</li>\n</ul>"
+  }
+}

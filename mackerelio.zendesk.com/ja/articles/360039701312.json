@@ -1,1 +1,32 @@
-{"article":{"id":360039701312,"url":"https://mackerelio.zendesk.com/api/v2/help_center/ja/articles/360039701312.json","html_url":"https://support.mackerel.io/hc/ja/articles/360039701312","author_id":390085917472,"comments_disabled":true,"draft":false,"promoted":false,"position":0,"vote_sum":0,"vote_count":0,"section_id":360007911812,"created_at":"2020-02-24T07:54:09Z","updated_at":"2021-09-06T01:34:36Z","name":"mackerel-agentが使用する経路は制御できますか？","title":"mackerel-agentが使用する経路は制御できますか？","source_locale":"ja","locale":"ja","outdated":false,"outdated_locales":[],"edited_at":"2020-02-24T09:21:53Z","user_segment_id":null,"permission_group_id":1305651,"content_tag_ids":[],"label_names":["プロキシ","プロキシサーバー"],"body":"\u003cp\u003emackerel-agent がHTTP Proxy経由の接続に対応しています。詳しくは\u003ca href=\"https://mackerel.io/ja/docs/entry/spec/agent#config-file-proxy\"\u003eHTTP Proxy経由で接続したい\u003c/a\u003eを参照してください。\u003c/p\u003e"}}
+{
+  "article": {
+    "id": 360039701312,
+    "url": "https://mackerelio.zendesk.com/api/v2/help_center/ja/articles/360039701312.json",
+    "html_url": "https://support.mackerel.io/hc/ja/articles/360039701312",
+    "author_id": 390085917472,
+    "comments_disabled": true,
+    "draft": false,
+    "promoted": false,
+    "position": 0,
+    "vote_sum": 0,
+    "vote_count": 0,
+    "section_id": 360007911812,
+    "created_at": "2020-02-24T07:54:09Z",
+    "updated_at": "2021-09-06T01:34:36Z",
+    "name": "mackerel-agentが使用する経路は制御できますか？",
+    "title": "mackerel-agentが使用する経路は制御できますか？",
+    "source_locale": "ja",
+    "locale": "ja",
+    "outdated": false,
+    "outdated_locales": [],
+    "edited_at": "2020-02-24T09:21:53Z",
+    "user_segment_id": null,
+    "permission_group_id": 1305651,
+    "content_tag_ids": [],
+    "label_names": [
+      "プロキシ",
+      "プロキシサーバー"
+    ],
+    "body": "<p>mackerel-agent がHTTP Proxy経由の接続に対応しています。詳しくは<a href=\"https://mackerel.io/ja/docs/entry/spec/agent#config-file-proxy\">HTTP Proxy経由で接続したい</a>を参照してください。</p>"
+  }
+}

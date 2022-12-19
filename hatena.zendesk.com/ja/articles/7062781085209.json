@@ -1,1 +1,29 @@
-{"article":{"id":7062781085209,"url":"https://hatena.zendesk.com/api/v2/help_center/ja/articles/7062781085209.json","html_url":"https://hatena.zendesk.com/hc/ja/articles/7062781085209","author_id":380607198012,"comments_disabled":true,"draft":false,"promoted":false,"position":0,"vote_sum":7,"vote_count":7,"section_id":900000435643,"created_at":"2022-05-31T09:53:10Z","updated_at":"2022-10-25T01:37:50Z","name":"はてなブログではGoogle AdSense の審査に通りづらいと聞きましたが本当ですか？","title":"はてなブログではGoogle AdSense の審査に通りづらいと聞きましたが本当ですか？","source_locale":"ja","locale":"ja","outdated":false,"outdated_locales":[],"edited_at":"2022-06-01T02:06:10Z","user_segment_id":null,"permission_group_id":972311,"content_tag_ids":[],"label_names":[],"body":"\u003cp\u003e\u003cbr\u003eGoogle AdSense では広告掲載サイトの健全性や信頼性について厳格に審査しており、個人ブログ全般に数年前に比して審査に通りづらい状況であると言われています。そのため、はてなブログでは審査に通りづらいとする風評もあるようですが、実際にはてなブログが他ブログサービスとくらべて特段に不利ということはありません。\u003c/p\u003e\n\u003cp\u003eそのような風評の中には、自身の運営するサイトやセミナーに誘導したり、自身の紹介するレンタルサーバーなどのサービスを契約させるといった、収益を目的としているものもありますのでご注意ください。\u003c/p\u003e\n\u003cp\u003e\u003ca href=\"https://support.google.com/adsense#topic=3373519\" target=\"_self\"\u003eGoogle AdSense ヘルプ\u003c/a\u003e では、審査に係る情報が発信されておりますので、直接そのような情報源をご参照ください。\u003c/p\u003e\n\u003cp\u003e特に、はてなブログでは、下記のような点にご留意ください。\u003c/p\u003e\n\u003cp\u003e■ 必須コンテンツの準備\u003c/p\u003e\n\u003cp\u003e審査に先立ってプライバシーポリシーなど、\u003ca href=\"https://support.google.com/adsense/answer/1348695?hl=ja\" target=\"_self\"\u003eGoogleの定める必須コンテンツ\u003c/a\u003eを用意する必要があります。はてなの個人営利利用ガイドラインで定める連絡先表示と合わせてあらかじめ設定してください。\u003c/p\u003e\n\u003cp\u003e参考：\u003cbr\u003e\u003ca href=\"https://hatena.zendesk.com/hc/ja/articles/7064408802585\" target=\"_self\"\u003eはてなヘルプ- プライバシーポリシーの書き方を教えてください\u003c/a\u003e\u003cbr\u003e\u003ca href=\"https://hatena.zendesk.com/hc/ja/articles/7066128060953\" target=\"_self\"\u003eはてなヘルプ- 連絡先やプライバシーポリシーの設置方法を教えてください\u003c/a\u003e\u003cbr\u003e\u003cbr\u003e\u003c/p\u003e\n\u003cp\u003e■独自ドメインの設定\u003c/p\u003e\n\u003cp\u003eはてなブログのドメインでも審査への申込は可能ですが、独自ドメインを取得し、サブドメインなしのネイキッドドメイン、またはサブドメイン「www」に設定することが推奨されています。\u003c/p\u003e\n\u003cp\u003e■ブログ記事の量と質\u003c/p\u003e\n\u003cp\u003e申込み時点で品質の高いオリジナルコンテンツがあることが前提となり、文字数や記事の数も必要とされています。\u003c/p\u003e\n\u003cp\u003eまず、1記事の文字数として1000文字程度、記事の数を10記事程度を目安とし、ある程度の更新を継続した後で審査を申し込むことをおすすめします。\u003c/p\u003e\n\u003cp\u003eまた、Googleでは独自の\u003ca href=\"https://support.google.com/adsense/answer/10502938\" target=\"_self\"\u003eコンテンツポリシー\u003c/a\u003eを定めています。ポリシー違反の記事がないか確認してください。（ ポリシー違反でない場合も、医療や投資、また重要な社会問題など、コンテンツの信頼性が問題となるテーマは審査に時間がかかることがあります）\u003c/p\u003e\n\u003cp\u003e■その他 \u003c/p\u003e\n\u003cp\u003eブログトップをJavaScriptで /archiveページにリダイレクトさせる手法が一部ブログなど情報源で紹介されていますが、審査に通りづらくなる可能性があります。トップページを /archiveにしたい場合は、はてなブログProにお申し込みいただき、トップページの表示形式を一覧形式に設定してご利用ください。\u003c/p\u003e\n\u003cp\u003eその他にも、ページの過剰なカスタマイズにより可読性が損なわれているようなケースも見受けられます。ブログ運営を指南する情報源ではさまざまなカスタマイズ方法が紹介されていますが、デメリットがあるものも見受けられますので、ご自身で十分に理解した上でご利用ください。基本的には、特別なカスタマイズをせずご利用いただくことを推奨します。\u003c/p\u003e"}}
+{
+  "article": {
+    "id": 7062781085209,
+    "url": "https://hatena.zendesk.com/api/v2/help_center/ja/articles/7062781085209.json",
+    "html_url": "https://hatena.zendesk.com/hc/ja/articles/7062781085209",
+    "author_id": 380607198012,
+    "comments_disabled": true,
+    "draft": false,
+    "promoted": false,
+    "position": 0,
+    "vote_sum": 7,
+    "vote_count": 7,
+    "section_id": 900000435643,
+    "created_at": "2022-05-31T09:53:10Z",
+    "updated_at": "2022-10-25T01:37:50Z",
+    "name": "はてなブログではGoogle AdSense の審査に通りづらいと聞きましたが本当ですか？",
+    "title": "はてなブログではGoogle AdSense の審査に通りづらいと聞きましたが本当ですか？",
+    "source_locale": "ja",
+    "locale": "ja",
+    "outdated": false,
+    "outdated_locales": [],
+    "edited_at": "2022-06-01T02:06:10Z",
+    "user_segment_id": null,
+    "permission_group_id": 972311,
+    "content_tag_ids": [],
+    "label_names": [],
+    "body": "<p><br>Google AdSense では広告掲載サイトの健全性や信頼性について厳格に審査しており、個人ブログ全般に数年前に比して審査に通りづらい状況であると言われています。そのため、はてなブログでは審査に通りづらいとする風評もあるようですが、実際にはてなブログが他ブログサービスとくらべて特段に不利ということはありません。</p>\n<p>そのような風評の中には、自身の運営するサイトやセミナーに誘導したり、自身の紹介するレンタルサーバーなどのサービスを契約させるといった、収益を目的としているものもありますのでご注意ください。</p>\n<p><a href=\"https://support.google.com/adsense#topic=3373519\" target=\"_self\">Google AdSense ヘルプ</a> では、審査に係る情報が発信されておりますので、直接そのような情報源をご参照ください。</p>\n<p>特に、はてなブログでは、下記のような点にご留意ください。</p>\n<p>■ 必須コンテンツの準備</p>\n<p>審査に先立ってプライバシーポリシーなど、<a href=\"https://support.google.com/adsense/answer/1348695?hl=ja\" target=\"_self\">Googleの定める必須コンテンツ</a>を用意する必要があります。はてなの個人営利利用ガイドラインで定める連絡先表示と合わせてあらかじめ設定してください。</p>\n<p>参考：<br><a href=\"https://hatena.zendesk.com/hc/ja/articles/7064408802585\" target=\"_self\">はてなヘルプ- プライバシーポリシーの書き方を教えてください</a><br><a href=\"https://hatena.zendesk.com/hc/ja/articles/7066128060953\" target=\"_self\">はてなヘルプ- 連絡先やプライバシーポリシーの設置方法を教えてください</a><br><br></p>\n<p>■独自ドメインの設定</p>\n<p>はてなブログのドメインでも審査への申込は可能ですが、独自ドメインを取得し、サブドメインなしのネイキッドドメイン、またはサブドメイン「www」に設定することが推奨されています。</p>\n<p>■ブログ記事の量と質</p>\n<p>申込み時点で品質の高いオリジナルコンテンツがあることが前提となり、文字数や記事の数も必要とされています。</p>\n<p>まず、1記事の文字数として1000文字程度、記事の数を10記事程度を目安とし、ある程度の更新を継続した後で審査を申し込むことをおすすめします。</p>\n<p>また、Googleでは独自の<a href=\"https://support.google.com/adsense/answer/10502938\" target=\"_self\">コンテンツポリシー</a>を定めています。ポリシー違反の記事がないか確認してください。（ ポリシー違反でない場合も、医療や投資、また重要な社会問題など、コンテンツの信頼性が問題となるテーマは審査に時間がかかることがあります）</p>\n<p>■その他 </p>\n<p>ブログトップをJavaScriptで /archiveページにリダイレクトさせる手法が一部ブログなど情報源で紹介されていますが、審査に通りづらくなる可能性があります。トップページを /archiveにしたい場合は、はてなブログProにお申し込みいただき、トップページの表示形式を一覧形式に設定してご利用ください。</p>\n<p>その他にも、ページの過剰なカスタマイズにより可読性が損なわれているようなケースも見受けられます。ブログ運営を指南する情報源ではさまざまなカスタマイズ方法が紹介されていますが、デメリットがあるものも見受けられますので、ご自身で十分に理解した上でご利用ください。基本的には、特別なカスタマイズをせずご利用いただくことを推奨します。</p>"
+  }
+}

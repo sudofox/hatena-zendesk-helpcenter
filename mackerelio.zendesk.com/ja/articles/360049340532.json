@@ -1,1 +1,36 @@
-{"article":{"id":360049340532,"url":"https://mackerelio.zendesk.com/api/v2/help_center/ja/articles/360049340532.json","html_url":"https://support.mackerel.io/hc/ja/articles/360049340532","author_id":390085917472,"comments_disabled":true,"draft":false,"promoted":false,"position":0,"vote_sum":0,"vote_count":0,"section_id":360008015791,"created_at":"2020-09-17T05:36:30Z","updated_at":"2022-06-21T05:54:47Z","name":"監視しているサーバーが稼働しているのに死活監視（Connectivity）のアラートが発生した","title":"監視しているサーバーが稼働しているのに死活監視（Connectivity）のアラートが発生した","source_locale":"ja","locale":"ja","outdated":false,"outdated_locales":[],"edited_at":"2020-09-30T08:17:42Z","user_segment_id":null,"permission_group_id":1305651,"content_tag_ids":[],"label_names":["死活監視","connectivity","動いている","稼働している","正常","障害"],"body":"\u003cul\u003e\n\u003cli\u003e死活監視（Connectivity）のアラートは mackerel-agent からのデータ送信の途絶が一定時間以上経過したことを検知して発報する仕組みとなっています。\u003c/li\u003e\n\u003cli\u003e通常はホストの停止やエージェントプロセスの停止などを起因として発報されますが、ネットワークの不調などによりデータ送信が正常に行えない状況において、ホストが正常稼働している場合でも発生することがございます。\n\u003cul\u003e\n\u003cli\u003eこの状況に該当する多くの場合、mackerel-agentのログに  \u003cspan class=\"wysiwyg-font-size-medium\"\u003e\u003ccode\u003eFailed to post metrics value (will retry)\u003c/code\u003e\u003c/span\u003e といった内容のエラーログが出力されます 。\u003c/li\u003e\n\u003cli\u003eアラート発生後のホスト詳細画面でメトリックが途切れることなく正常に確認できる場合は、 mackerel-agent の再送機能によりアラート発生後にメトリックが投稿されたものになります。\u003c/li\u003e\n\u003c/ul\u003e\n\u003c/li\u003e\n\u003cli\u003e本事象に該当する場合、ご利用環境の状況やMackerelの障害情報（ \u003ca style=\"background-color: #ffffff; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif;\" href=\"https://twitter.com/mackerelio_jp/\" target=\"_self\"\u003eTwitter\u003c/a\u003e\u003cspan style=\"font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif;\"\u003e や \u003c/span\u003e\u003ca style=\"background-color: #ffffff; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif;\" href=\"http://status.mackerel.io/\" target=\"_self\" rel=\"undefined\"\u003eステータスページ\u003c/a\u003e\u003cspan style=\"font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif;\"\u003e で公開してます）などに応じて、\u003c/span\u003e以下の点などをご確認ください。\n\u003cul\u003e\n\u003cli\u003e ご利用のネットワーク通信状況に問題があった場合\n\u003cul\u003e\n\u003cli\u003eMackerelとの通信が正常におこなえるよう、ネットワーク通信における問題を解消してください。 \u003c/li\u003e\n\u003c/ul\u003e\n\u003c/li\u003e\n\u003cli\u003eエージェントプロセスが稼働していなかった場合\n\u003cul\u003e\n\u003cli\u003eエージェントの再起動をお試しください。\u003c/li\u003e\n\u003cli\u003e再起動をしてもすぐにプロセスが終了してしまう場合、エージェントの出力するログを確認してください。\u003c/li\u003e\n\u003c/ul\u003e\n\u003c/li\u003e\n\u003cli\u003eMackerelに障害が発生していた場合\n\u003cul\u003e\n\u003cli\u003e障害の解消までお待ちください。\u003c/li\u003e\n\u003cli\u003e障害中のデータは、最大6時間分はエージェントにバッファリングされ、障害解消後、順次再送されます。\u003c/li\u003e\n\u003c/ul\u003e\n\u003c/li\u003e\n\u003c/ul\u003e\n\u003c/li\u003e\n\u003c/ul\u003e"}}
+{
+  "article": {
+    "id": 360049340532,
+    "url": "https://mackerelio.zendesk.com/api/v2/help_center/ja/articles/360049340532.json",
+    "html_url": "https://support.mackerel.io/hc/ja/articles/360049340532",
+    "author_id": 390085917472,
+    "comments_disabled": true,
+    "draft": false,
+    "promoted": false,
+    "position": 0,
+    "vote_sum": 0,
+    "vote_count": 0,
+    "section_id": 360008015791,
+    "created_at": "2020-09-17T05:36:30Z",
+    "updated_at": "2022-06-21T05:54:47Z",
+    "name": "監視しているサーバーが稼働しているのに死活監視（Connectivity）のアラートが発生した",
+    "title": "監視しているサーバーが稼働しているのに死活監視（Connectivity）のアラートが発生した",
+    "source_locale": "ja",
+    "locale": "ja",
+    "outdated": false,
+    "outdated_locales": [],
+    "edited_at": "2020-09-30T08:17:42Z",
+    "user_segment_id": null,
+    "permission_group_id": 1305651,
+    "content_tag_ids": [],
+    "label_names": [
+      "死活監視",
+      "connectivity",
+      "動いている",
+      "稼働している",
+      "正常",
+      "障害"
+    ],
+    "body": "<ul>\n<li>死活監視（Connectivity）のアラートは mackerel-agent からのデータ送信の途絶が一定時間以上経過したことを検知して発報する仕組みとなっています。</li>\n<li>通常はホストの停止やエージェントプロセスの停止などを起因として発報されますが、ネットワークの不調などによりデータ送信が正常に行えない状況において、ホストが正常稼働している場合でも発生することがございます。\n<ul>\n<li>この状況に該当する多くの場合、mackerel-agentのログに  <span class=\"wysiwyg-font-size-medium\"><code>Failed to post metrics value (will retry)</code></span> といった内容のエラーログが出力されます 。</li>\n<li>アラート発生後のホスト詳細画面でメトリックが途切れることなく正常に確認できる場合は、 mackerel-agent の再送機能によりアラート発生後にメトリックが投稿されたものになります。</li>\n</ul>\n</li>\n<li>本事象に該当する場合、ご利用環境の状況やMackerelの障害情報（ <a style=\"background-color: #ffffff; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif;\" href=\"https://twitter.com/mackerelio_jp/\" target=\"_self\">Twitter</a><span style=\"font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif;\"> や </span><a style=\"background-color: #ffffff; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif;\" href=\"http://status.mackerel.io/\" target=\"_self\" rel=\"undefined\">ステータスページ</a><span style=\"font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif;\"> で公開してます）などに応じて、</span>以下の点などをご確認ください。\n<ul>\n<li> ご利用のネットワーク通信状況に問題があった場合\n<ul>\n<li>Mackerelとの通信が正常におこなえるよう、ネットワーク通信における問題を解消してください。 </li>\n</ul>\n</li>\n<li>エージェントプロセスが稼働していなかった場合\n<ul>\n<li>エージェントの再起動をお試しください。</li>\n<li>再起動をしてもすぐにプロセスが終了してしまう場合、エージェントの出力するログを確認してください。</li>\n</ul>\n</li>\n<li>Mackerelに障害が発生していた場合\n<ul>\n<li>障害の解消までお待ちください。</li>\n<li>障害中のデータは、最大6時間分はエージェントにバッファリングされ、障害解消後、順次再送されます。</li>\n</ul>\n</li>\n</ul>\n</li>\n</ul>"
+  }
+}

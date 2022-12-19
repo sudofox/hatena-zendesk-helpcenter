@@ -1,1 +1,29 @@
-{"article":{"id":4407176608281,"url":"https://mackerelio.zendesk.com/api/v2/help_center/ja/articles/4407176608281.json","html_url":"https://support.mackerel.io/hc/ja/articles/4407176608281","author_id":390085917472,"comments_disabled":true,"draft":false,"promoted":false,"position":0,"vote_sum":0,"vote_count":0,"section_id":360008015791,"created_at":"2021-09-29T03:45:32Z","updated_at":"2021-12-21T05:13:15Z","name":"チェック監視の実行でタイムアウトとなりUNKNOWNアラートが発生する原因と解消方法を教えて","title":"チェック監視の実行でタイムアウトとなりUNKNOWNアラートが発生する原因と解消方法を教えて","source_locale":"ja","locale":"ja","outdated":false,"outdated_locales":[],"edited_at":"2021-12-06T03:10:33Z","user_segment_id":null,"permission_group_id":1305651,"content_tag_ids":[],"label_names":[],"body":"\u003cp\u003eログ監視やプロセス監視など、チェック監視の実行時間がタイムアウト値（デフォルト30秒）を超過する場合に、タイムアウトエラーが発生します。\u003c/p\u003e\n\u003cp\u003e主な原因として以下のようなことが考えられます。\u003c/p\u003e\n\u003cul\u003e\n\u003cli\u003eサーバーの一時的な負荷によりプラグインの実行に遅延が生じた\u003c/li\u003e\n\u003cli\u003e監視対象のログが大量に出力されていることで処理に時間がかかるなど、各プラグインの特性による要因で遅延が生じた\u003c/li\u003e\n\u003c/ul\u003e\n\u003cp\u003e一時的な負荷などによるタイムアウトを抑止するには、タイムアウト値（timeout_seconds）をチェック監視項目ごとに指定することで抑止いただける場合がございます。またtimeout_secondsに指定する値は、実行間隔（check_interval：デフォルト1分）を超えて指定しないようにご注意ください。\u003c/p\u003e\n\u003cp\u003e各プラグインごとの特性による要因が考えられる場合、以下のような点をご確認ください。\u003c/p\u003e\n\u003cul\u003e\n\u003cli\u003eログ監視のプラグイン（check-logなど）で発生する場合\n\u003cul\u003e\n\u003cli\u003e1回のチェック監視の対象となるログが大量に出力されている可能性があります。監視不要なログを大量に含む場合、不要なログが出力されないようにログ量の抑制をご検討ください\u003cbr\u003e（例えばデバッグログの出力を抑止する、監視が必要な内容を出力するログを分割するなど）\u003c/li\u003e\n\u003c/ul\u003e\n\u003c/li\u003e\n\u003cli\u003eネットワーク監視のプラグイン（check-tcp, check-httpなど）で発生する場合\n\u003cul\u003e\n\u003cli\u003e通信にかかる時間をあらかじめ計測し、30秒を超過する場合はタイムアウト値を調整してください\u003c/li\u003e\n\u003c/ul\u003e\n\u003c/li\u003e\n\u003c/ul\u003e\n\u003cp\u003eタイムアウト値などチェック監視に設定いただけるオプションに関しては、以下をご確認ください。\u003c/p\u003e\n\u003cul\u003e\n\u003cli\u003e\n\u003ca href=\"https://mackerel.io/ja/docs/entry/custom-checks\"\u003eチェック監視項目を追加する - Mackerel ヘルプ\u003c/a\u003e\u003cbr\u003e\u003cbr\u003e\n\u003c/li\u003e\n\u003c/ul\u003e"}}
+{
+  "article": {
+    "id": 4407176608281,
+    "url": "https://mackerelio.zendesk.com/api/v2/help_center/ja/articles/4407176608281.json",
+    "html_url": "https://support.mackerel.io/hc/ja/articles/4407176608281",
+    "author_id": 390085917472,
+    "comments_disabled": true,
+    "draft": false,
+    "promoted": false,
+    "position": 0,
+    "vote_sum": 0,
+    "vote_count": 0,
+    "section_id": 360008015791,
+    "created_at": "2021-09-29T03:45:32Z",
+    "updated_at": "2021-12-21T05:13:15Z",
+    "name": "チェック監視の実行でタイムアウトとなりUNKNOWNアラートが発生する原因と解消方法を教えて",
+    "title": "チェック監視の実行でタイムアウトとなりUNKNOWNアラートが発生する原因と解消方法を教えて",
+    "source_locale": "ja",
+    "locale": "ja",
+    "outdated": false,
+    "outdated_locales": [],
+    "edited_at": "2021-12-06T03:10:33Z",
+    "user_segment_id": null,
+    "permission_group_id": 1305651,
+    "content_tag_ids": [],
+    "label_names": [],
+    "body": "<p>ログ監視やプロセス監視など、チェック監視の実行時間がタイムアウト値（デフォルト30秒）を超過する場合に、タイムアウトエラーが発生します。</p>\n<p>主な原因として以下のようなことが考えられます。</p>\n<ul>\n<li>サーバーの一時的な負荷によりプラグインの実行に遅延が生じた</li>\n<li>監視対象のログが大量に出力されていることで処理に時間がかかるなど、各プラグインの特性による要因で遅延が生じた</li>\n</ul>\n<p>一時的な負荷などによるタイムアウトを抑止するには、タイムアウト値（timeout_seconds）をチェック監視項目ごとに指定することで抑止いただける場合がございます。またtimeout_secondsに指定する値は、実行間隔（check_interval：デフォルト1分）を超えて指定しないようにご注意ください。</p>\n<p>各プラグインごとの特性による要因が考えられる場合、以下のような点をご確認ください。</p>\n<ul>\n<li>ログ監視のプラグイン（check-logなど）で発生する場合\n<ul>\n<li>1回のチェック監視の対象となるログが大量に出力されている可能性があります。監視不要なログを大量に含む場合、不要なログが出力されないようにログ量の抑制をご検討ください<br>（例えばデバッグログの出力を抑止する、監視が必要な内容を出力するログを分割するなど）</li>\n</ul>\n</li>\n<li>ネットワーク監視のプラグイン（check-tcp, check-httpなど）で発生する場合\n<ul>\n<li>通信にかかる時間をあらかじめ計測し、30秒を超過する場合はタイムアウト値を調整してください</li>\n</ul>\n</li>\n</ul>\n<p>タイムアウト値などチェック監視に設定いただけるオプションに関しては、以下をご確認ください。</p>\n<ul>\n<li>\n<a href=\"https://mackerel.io/ja/docs/entry/custom-checks\">チェック監視項目を追加する - Mackerel ヘルプ</a><br><br>\n</li>\n</ul>"
+  }
+}
