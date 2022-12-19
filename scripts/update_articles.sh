@@ -63,7 +63,7 @@ while [[ "$NEED_MORE" == "true" ]]; do
       # jq -r '.articles | map(select(.id == 11447937884953))[0].updated_at'
       OLD_TIMESTAMP=$(cat "$ZENDESK_SUBDOMAIN.zendesk.com/$LOCALE/articles/$id.json" | jq -r '.article.updated_at')
       # get the updated_at timestamp from the article on the server
-      NEW_TIMESTAMP=$(curl -s "https://$ZENDESK_SUBDOMAIN.zendesk.com/api/v2/help_center/$LOCALE/articles/$id.json" | jq -r '.article.updated_at')
+      NEW_TIMESTAMP=$(echo "$PAGE_DATA" | jq -r ".articles | map(select(.id == $id))[0].updated_at")
 
       if [[ "$OLD_TIMESTAMP" == "$NEW_TIMESTAMP" ]]; then
         echo "Skipping article $id (already exists, timestamp matches)" >&2
