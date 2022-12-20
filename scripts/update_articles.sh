@@ -56,13 +56,8 @@ while [[ "$NEED_MORE" == "true" ]]; do
     # if the file already exists, check if it needs to be updated
     if [[ -f "$ZENDESK_SUBDOMAIN.zendesk.com/$LOCALE/articles/$id.json" ]]; then
       # Get the updated_at timestamp from the article (.article.updated_at) and compare it to the timestamp of the file
-      # if the file is newer, skip
       # if the file is older, fetch the article and overwrite the file
-
-      # get the updated_at timestamp from the on-file article
-      # jq -r '.articles | map(select(.id == 11447937884953))[0].updated_at'
       OLD_TIMESTAMP=$(cat "$ZENDESK_SUBDOMAIN.zendesk.com/$LOCALE/articles/$id.json" | jq -r '.article.updated_at')
-      # get the updated_at timestamp from the article on the server
       NEW_TIMESTAMP=$(echo "$PAGE_DATA" | jq -r ".articles | map(select(.id == $id))[0].updated_at")
 
       if [[ "$OLD_TIMESTAMP" == "$NEW_TIMESTAMP" ]]; then
@@ -73,7 +68,6 @@ while [[ "$NEED_MORE" == "true" ]]; do
 
     echo "Fetching article $id" >&2
     ARTICLE=$(curl -s "https://$ZENDESK_SUBDOMAIN.zendesk.com/api/v2/help_center/$LOCALE/articles/$id.json")
-    # check if the body says 'Number of allowed API requests per minute exceeded' (not jq)
     if [[ "$(echo "$ARTICLE" | grep -Po "$RATELIMIT_MESSAGE" | wc -l)" == "1" ]]; then
       echo "API rate limit exceeded" >&2
       exit 1
