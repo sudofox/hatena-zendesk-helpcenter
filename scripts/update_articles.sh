@@ -84,7 +84,7 @@ while [[ "$NEED_MORE" == "true" ]]; do
   ARTICLE_IDS="$ARTICLE_IDS"$'\n'"$(echo "$PAGE_DATA" | jq -r '.articles[].id')"
 done
 
-echo "$ARTICLE_IDS" | sort -u >> $ZENDESK_SUBDOMAIN.zendesk.com/$LOCALE/article_ids.txt
+echo "$ARTICLE_IDS" | sort -u | grep -v "^$" >> $ZENDESK_SUBDOMAIN.zendesk.com/$LOCALE/article_ids.txt
 # idk if articles will go unlisted but just in case we're going to append and then remove duplicates
 sort -u $ZENDESK_SUBDOMAIN.zendesk.com/$LOCALE/article_ids.txt -o $ZENDESK_SUBDOMAIN.zendesk.com/$LOCALE/article_ids.txt
 
