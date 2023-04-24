@@ -12,20 +12,20 @@
     "vote_count": 38,
     "section_id": 900000572906,
     "created_at": "2020-09-14T03:21:16Z",
-    "updated_at": "2023-04-19T08:32:26Z",
+    "updated_at": "2023-04-24T07:14:30Z",
     "name": "ユーザー設定について",
     "title": "ユーザー設定について",
     "source_locale": "ja",
     "locale": "ja",
     "outdated": false,
     "outdated_locales": [],
-    "edited_at": "2022-10-12T07:35:30Z",
+    "edited_at": "2023-04-24T07:14:11Z",
     "user_segment_id": null,
     "permission_group_id": 972311,
     "content_tag_ids": [],
     "label_names": [
       "アフェリエイト"
     ],
-    "body": "<div class=\"section\"> </div>\n<div class=\"section\">\n<p> </p>\n</div>\n<div class=\"section\">\n<h3>ユーザー設定</h3>\n<table class=\"config\">\n<tbody>\n<tr>\n<th>基本情報</th>\n<td>\n<p>パスワードやメールアドレスの変更、メールマガジン受信の設定、プロフィール画像の設定、タイムゾーンの設定ができます。</p>\n<p>プロフィール画像を設定すると、はてなブログのコメント欄、コメント一覧ページなど、はてなの様々な箇所でユーザーを表す画像として表示されます。（jpg/png/gif/bmp形式に対応しています。アップされた画像は自動的に60ピクセル、16ピクセルにリサイズされます。）</p>\n<p>このページ下部のリンクより、ユーザー登録の解除を行うこともできます。</p>\n</td>\n</tr>\n<tr>\n<th>アドバンスト</th>\n<td>\n<p>氏名、誕生日、郵便番号、性別を設定できます。設定された方はアドバンストユーザーとして、人力検索の質問と回答をご利用いただけるようになります。</p>\n</td>\n</tr>\n<tr>\n<th>アフィリエイト</th>\n<td>\n<p>アフィリエイトIDの設定が行えます。</p>\n</td>\n</tr>\n<tr>\n<th>認証セット</th>\n<td>\n<p>はてなのサービスで自分のページの閲覧や編集などのアクセスを制限する時に使う、認証セットの編集ができます。認証にははてなIDを指定する他に、質問と答えを登録しておき、正しい答えが入力された時だけ許可する「なぞなぞ認証」の設定も可能です。</p>\n</td>\n</tr>\n<tr>\n<th>サブアカウント</th>\n<td>\n<p>現在使用しているアカウントの一覧です。サブアカウントの追加、削除が行えます。</p>\n</td>\n</tr>\n<tr>\n<th>メール投稿</th>\n<td>\n<p>はてなブログやはてなフォトライフなどの各サービスで、メールを送信して更新するための投稿用メールアドレスの確認・変更ができます。</p>\n</td>\n</tr>\n<tr>\n<th>外部からの認証</th>\n<td>\n<p>OpenIDというURL形式のIDや OAuth を使って、外部のサービスにはてなIDでログインが可能で、あなたの認証用URLの確認やOAuth/OpenIDの利用を許可したサービスの管理ができます。OpenID について詳しくは<a href=\"http://developer.hatena.ne.jp/ja/documents/other/apis/openid\" target=\"_self\" rel=\"undefined\">はてなでOpenID</a>をご覧ください。</p>\n</td>\n</tr>\n</tbody>\n</table>\n</div>"
+    "body": "<div class=\"section\"> </div>\n<div class=\"section\">\n<p> </p>\n</div>\n<div class=\"section\">\n<h3>ユーザー設定</h3>\n<table class=\"config\">\n<tbody>\n<tr>\n<th>基本情報</th>\n<td>\n<p>パスワードやメールアドレスの変更、メールマガジン受信の設定、プロフィール画像の設定、タイムゾーンの設定ができます。</p>\n<p>プロフィール画像を設定すると、はてなブログのコメント欄、コメント一覧ページなど、はてなの様々な箇所でユーザーを表す画像として表示されます。（jpg/png/gif/bmp形式に対応しています。アップされた画像は自動的に60ピクセル、16ピクセルにリサイズされます。）</p>\n<p>このページ下部のリンクより、ユーザー登録の解除を行うこともできます。</p>\n</td>\n</tr>\n<tr>\n<th>アフィリエイト</th>\n<td>\n<p>アフィリエイトIDの設定が行えます。</p>\n</td>\n</tr>\n<tr>\n<th>認証セット</th>\n<td>\n<p>はてなのサービスで自分のページの閲覧や編集などのアクセスを制限する時に使う、認証セットの編集ができます。認証にははてなIDを指定する他に、質問と答えを登録しておき、正しい答えが入力された時だけ許可する「なぞなぞ認証」の設定も可能です。</p>\n</td>\n</tr>\n<tr>\n<th>サブアカウント</th>\n<td>\n<p>現在使用しているアカウントの一覧です。サブアカウントの追加、削除が行えます。</p>\n</td>\n</tr>\n<tr>\n<th>メール投稿</th>\n<td>\n<p>はてなブログやはてなフォトライフなどの各サービスで、メールを送信して更新するための投稿用メールアドレスの確認・変更ができます。</p>\n</td>\n</tr>\n<tr>\n<th>外部からの認証</th>\n<td>\n<p>OpenIDというURL形式のIDや OAuth を使って、外部のサービスにはてなIDでログインが可能で、あなたの認証用URLの確認やOAuth/OpenIDの利用を許可したサービスの管理ができます。OpenID について詳しくは<a href=\"http://developer.hatena.ne.jp/ja/documents/other/apis/openid\" target=\"_self\" rel=\"undefined\">はてなでOpenID</a>をご覧ください。</p>\n</td>\n</tr>\n</tbody>\n</table>\n</div>"
   }
 }
