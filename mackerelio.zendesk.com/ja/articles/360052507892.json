@@ -12,20 +12,21 @@
     "vote_count": 2,
     "section_id": 360008016151,
     "created_at": "2020-11-25T08:10:26Z",
-    "updated_at": "2021-08-20T04:09:32Z",
-    "name": "ユーザーアカウントを削除したい",
-    "title": "ユーザーアカウントを削除したい",
+    "updated_at": "2023-05-16T09:19:40Z",
+    "name": "Mackerelから退会したい（ユーザーアカウントの削除）",
+    "title": "Mackerelから退会したい（ユーザーアカウントの削除）",
     "source_locale": "ja",
     "locale": "ja",
     "outdated": false,
     "outdated_locales": [],
-    "edited_at": "2020-11-27T02:43:32Z",
+    "edited_at": "2023-05-16T09:17:46Z",
     "user_segment_id": null,
     "permission_group_id": 1305651,
     "content_tag_ids": [],
     "label_names": [
-      "退会"
+      "退会",
+      "解約"
     ],
-    "body": "<ul>\n<li>ユーザーアカウントの削除は<a href=\"https://mackerel.io/settings/user?tab=account\" target=\"_blank\" rel=\"noopener\">こちら</a>からお手続きをしていただけます。</li>\n<li>ユーザーがオーガニゼーションに所属している場合は、事前にすべてのオーガニゼーションから退出をする必要がございます。\n<ul>\n<li>ユーザーがオーナーとなっているオーガニゼーションが存在する場合は、他のユーザーにオーナー権限を委譲してください。</li>\n<li>オーガニゼーションに所属する他のメンバーがいない場合はオーガニゼーションを削除してください。</li>\n</ul>\n</li>\n</ul>"
+    "body": "<p>Mackerelから退会する前に、すべての<a href=\"https://mackerel.io/settings/user?tab=organizations\" target=\"_blank\" rel=\"noopener noreferrer\">所属オーガニゼーション</a>から退出している必要がありますので、各オーガニゼーションの歯車アイコンのメニューから退出してください。</p>\n<p>ご自身がオーナーのオーガニゼーションがある場合は、オーガニゼーションの削除もしくはオーナーの委譲を行い、オーガニゼーションから退出されている状態としてください。</p>\n<ul>\n<li><a href=\"https://support.mackerel.io/hc/ja/articles/18578327660441\" target=\"_blank\" rel=\"noopener\">オーガニゼーションを削除したい</a></li>\n<li><a href=\"https://support.mackerel.io/hc/ja/articles/18578191207577\" target=\"_blank\" rel=\"noopener\">オーナー権限を委譲したい</a></li>\n</ul>\n<p>上記をご確認の上、<a href=\"https://mackerel.io/settings/user?tab=account\" target=\"_blank\" rel=\"noopener noreferrer\">アカウント設定ページ</a>の最下部にある「アカウント削除」よりお手続きください。</p>\n<p> </p>"
   }
 }

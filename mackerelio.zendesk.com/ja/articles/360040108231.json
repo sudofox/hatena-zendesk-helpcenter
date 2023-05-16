@@ -12,20 +12,20 @@
     "vote_count": 0,
     "section_id": 360007820372,
     "created_at": "2020-02-24T08:16:36Z",
-    "updated_at": "2020-04-19T04:51:26Z",
-    "name": "オーガニゼーション名を変更したい／削除したい",
-    "title": "オーガニゼーション名を変更したい／削除したい",
+    "updated_at": "2023-05-16T09:19:01Z",
+    "name": "オーガニゼーション名を変更したい",
+    "title": "オーガニゼーション名を変更したい",
     "source_locale": "ja",
     "locale": "ja",
     "outdated": false,
     "outdated_locales": [],
-    "edited_at": "2020-02-24T09:21:53Z",
+    "edited_at": "2023-05-16T09:19:01Z",
     "user_segment_id": null,
     "permission_group_id": 1305651,
     "content_tag_ids": [],
     "label_names": [
       "退会"
     ],
-    "body": "<ul>\n<li>オーガニゼーション名を変更したい場合は、お手数ですがログイン状態でヘッダの「サポートチームへ連絡」よりご連絡ください。\n<ul>\n<li>変更後の名前が既に利用されている場合は変更ができない場合もあります。あらかじめご了承ください。</li>\n</ul>\n</li>\n<li>オーガニゼーションの削除は<a href=\"https://mackerel.io/my?tab=setting\">こちら</a>より操作していただけます。\n<ul>\n<li>オーナー権限を持つユーザー以外に誰も所属していない状態にする必要があります。所有者のアカウントでログインし、他のメンバーをオーガニゼーションから削除してから操作してください。</li>\n<li>有償プランを契約されている場合は、解約をおこなう必要があります。解約は<a href=\"https://mackerel.io/my?tab=plan\">こちら</a>より実施可能です。</li>\n</ul>\n</li>\n</ul>"
+    "body": "<p>オーガニゼーション名の変更をご希望の場合は、<a href=\"https://support.mackerel.io/hc/ja/requests/new\" target=\"_blank\" rel=\"noopener\">サポート窓口</a>までご依頼ください。</p>\n<p>ご希望の名前がすでに使用されているなどの理由で、ご希望に沿えないこともございます。あらかじめご了承ください。</p>"
   }
 }

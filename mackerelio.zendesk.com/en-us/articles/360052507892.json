@@ -12,7 +12,7 @@
     "vote_count": 2,
     "section_id": 360008016151,
     "created_at": "2020-11-25T08:10:26Z",
-    "updated_at": "2021-08-20T04:09:32Z",
+    "updated_at": "2023-05-16T09:19:40Z",
     "name": "I want to delete a user account",
     "title": "I want to delete a user account",
     "source_locale": "ja",
@@ -24,7 +24,8 @@
     "permission_group_id": 1305651,
     "content_tag_ids": [],
     "label_names": [
-      "退会"
+      "退会",
+      "解約"
     ],
     "body": "<ul>\n<li>User accounts can be deleted by following <a href=\"https://mackerel.io/settings/user?tab=account\" target=\"_blank\" rel=\"noopener\">this procedure</a>.</li>\n<li>If the user belongs to an organization, that user must leave all organizations in advance.\n<ul>\n<li>If the user is an owner of an organization, please transfer that authority to another user.</li>\n<li>If no other users belong to the organization, please delete the organization.</li>\n</ul>\n</li>\n</ul>"
   }
