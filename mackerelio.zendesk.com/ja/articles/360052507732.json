@@ -12,7 +12,7 @@
     "vote_count": 1,
     "section_id": 360008016151,
     "created_at": "2020-11-25T07:48:07Z",
-    "updated_at": "2023-05-16T09:06:49Z",
+    "updated_at": "2023-06-01T02:33:17Z",
     "name": "有料プランを解約したい",
     "title": "有料プランを解約したい",
     "source_locale": "ja",
@@ -22,11 +22,17 @@
     "edited_at": "2023-05-16T09:06:49Z",
     "user_segment_id": null,
     "permission_group_id": 1305651,
-    "content_tag_ids": [],
+    "content_tag_ids": [
+      "01H0HXPYH3DTYW5BPYJX492A0S",
+      "01H1TCQHJ4YXCPSAYXXGFVWQR6",
+      "01H1TCQMNFYD297R7XKQ57HFY4",
+      "01H1TCTPZD4RMPX9B1SMERWYKB"
+    ],
     "label_names": [
       "退会",
       "解約",
-      "有料"
+      "有料",
+      "解除"
     ],
     "body": "<p>有料プランの解約手続きは、お支払いの方法によって異なります。</p>\n<p>なお、お支払い方法に関わらず次のようなご注意点がございます。あらかじめご了承ください。</p>\n<ul>\n<li>Mackerelは一ヶ月ごとの従量課金制のため、月途中でのご解約の場合でも当月末日までは有料プランが適用となり、翌月月初に解約処理（Freeプランへ変更）が行われます。</li>\n<li>解約と併せてオーガニゼーションを削除されたい場合、Freeプランへの変更後にお客様側での退会処理が必要となります。</li>\n</ul>\n<h2>クレジットカードでお支払いの場合</h2>\n<ul>\n<li>オーナー権限のアカウントにてオーガニゼーション詳細ページの<a href=\"https://mackerel.io/my?tab=plan\" target=\"_blank\" rel=\"noopener\">プラン</a>の最下部にある「<a href=\"https://mackerel.io/my/plan/-/cancel\" target=\"_blank\" rel=\"noopener noreferrer\">解約する</a>」よりお手続きをお願いいたします。</li>\n<li>解約処理は翌月月初の決済後に行われます。決済が失敗するとFreeプランへの変更が行えないため、クレジットカードの有効期限やご利用額上限などにご注意ください。</li>\n</ul>\n<h2>請求書払い（銀行振込）でお支払いの場合</h2>\n<ul>\n<li>お客様側ではご解約手続きができません。お手数ですが<a href=\"https://support.mackerel.io/hc/ja/requests/new\" target=\"_blank\" rel=\"noopener\">サポート窓口</a>までお知らせください。</li>\n</ul>"
   }
