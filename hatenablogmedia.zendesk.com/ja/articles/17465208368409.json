@@ -1,0 +1,29 @@
+{
+  "article": {
+    "id": 17465208368409,
+    "url": "https://hatenablogmedia.zendesk.com/api/v2/help_center/ja/articles/17465208368409.json",
+    "html_url": "https://hatenablogmedia.zendesk.com/hc/ja/articles/17465208368409",
+    "author_id": 900846704823,
+    "comments_disabled": true,
+    "draft": false,
+    "promoted": false,
+    "position": 0,
+    "vote_sum": 0,
+    "vote_count": 0,
+    "section_id": 16028610656537,
+    "created_at": "2023-04-12T08:24:34Z",
+    "updated_at": "2023-06-15T06:52:42Z",
+    "name": "はてなブログMediaの画像挿入機能と使用方法",
+    "title": "はてなブログMediaの画像挿入機能と使用方法",
+    "source_locale": "ja",
+    "locale": "ja",
+    "outdated": false,
+    "outdated_locales": [],
+    "edited_at": "2023-06-15T06:27:15Z",
+    "user_segment_id": null,
+    "permission_group_id": 972311,
+    "content_tag_ids": [],
+    "label_names": [],
+    "body": "<h2><span style=\"color: #50535a;\">ブログ内で使用出来る画像挿入方法の種類 </span></h2>\n<p class=\"wysiwyg-text-align-center\"><img src=\"https://hatenablogmedia.zendesk.com/hc/article_attachments/17465287168665\" alt=\"01.png\"></p>\n<div>\n<table style=\"width: 100%;\">\n<tbody>\n<tr>\n<th rowspan=\"2\">写真を投稿</th>\n<td colspan=\"2\">[f:id:ユーザーID:◯◯p:plain]</td>\n</tr>\n<tr>\n<td colspan=\"2\">記事編集画面の右にある編集サイドバーから「写真を投稿」で挿入。</td>\n</tr>\n<tr>\n<th rowspan=\"2\">はてなフォトライフ</th>\n<td colspan=\"2\">https://cdn-ak.f.st-hatena.com/images/fotolife/h/ユーザーID/◯◯/◯◯.png</td>\n</tr>\n<tr>\n<td colspan=\"2\">はてなフォトライフで画像URLをコピー後 &lt;img src=””&gt; に画像URLを挿入。</td>\n</tr>\n<tr>\n<th rowspan=\"2\">ファイルアップローダー</th>\n<td colspan=\"2\">https://cdn.blog.st-hatena.com/files/◯◯/◯◯</td>\n</tr>\n<tr>\n<td colspan=\"2\">ファイルアップローダー管理画面から画像URLをコピー後に挿入。</td>\n</tr>\n</tbody>\n</table>\n</div>\n<p>はてなブログMedia内で画像を使用する場合、上記の3種類の方法があります。</p>\n<p>それぞれの方法で同一画像をブログ内に挿入した場合、どの方法で行ってもほぼ反映に変わりはありませんが、URLや画像サイズに若干違いが出てきます。</p>\n<p> </p>\n<h2>各画像挿入方法の相違点</h2>\n<div>\n<table style=\"width: 100%;\">\n<thead>\n<tr>\n<th style=\"width: 12.8571%;\" scope=\"col\">項目</th>\n<th style=\"width: 43.8571%;\" scope=\"col\">はてなフォトライフ</th>\n<th style=\"width: 43.2857%;\" scope=\"col\">ファイルアップローダー</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<th style=\"width: 12.8571%;\" scope=\"col\">アクセス</th>\n<td style=\"width: 43.8571%;\" scope=\"col\"><a href=\"https://f.hatena.ne.jp/\"><strong>https://f.hatena.ne.jp/</strong></a></td>\n<td style=\"width: 43.2857%;\" scope=\"col\">\n<p>管理画面 &gt; 固定ページ &gt;</p>\n<p>ファイルアップローダー <span style=\"background-color: #ffffff;\">(β版) </span></p>\n</td>\n</tr>\n<tr>\n<th style=\"width: 12.8571%;\" scope=\"col\">画像アップロード方法</th>\n<td style=\"width: 43.8571%;\" scope=\"col\"><a href=\"https://hatenablogmedia.zendesk.com/hc/ja/articles/900006651626\"><strong>「はてなフォトライフ」にフォルダを作って画像をアップロードしたい</strong></a></td>\n<td style=\"width: 43.2857%;\" rowspan=\"2\" scope=\"col\"><a href=\"https://hatenablogmedia.zendesk.com/hc/ja/articles/900004442586\"><strong>ファイルアップローダーについて</strong></a></td>\n</tr>\n<tr>\n<th style=\"width: 12.8571%;\" scope=\"col\">画像URLコピー方法</th>\n<td style=\"width: 43.8571%;\" scope=\"col\"><a href=\"https://hatenablogmedia.zendesk.com/hc/ja/articles/900006655546\"><strong>「はてなフォトライフ」にアップロードした画像のURLをコピーしたい</strong></a></td>\n</tr>\n<tr>\n<th style=\"width: 12.8571%;\" scope=\"col\">画像URL</th>\n<td style=\"width: 43.8571%;\" scope=\"col\">\n<p class=\"wysiwyg-text-align-center\">ユーザーIDが入る</p>\n<p>https://cdn-ak.f.st-hatena.com/images/fotolife/h/ユーザーID/123/456.png</p>\n</td>\n<td style=\"width: 43.2857%;\" scope=\"col\">\n<p class=\"wysiwyg-text-align-center\">ユーザーIDが入らない</p>\n<p>https://cdn.blog.st-hatena.com/files/</p>\n<p>123456789/123456789</p>\n</td>\n</tr>\n<tr>\n<th style=\"width: 12.8571%;\" scope=\"col\">画像のサイズ</th>\n<td style=\"width: 43.8571%;\" scope=\"col\">\n<p>フォトライフで設定している</p>\n<p>画像上限サイズにリサイズする</p>\n</td>\n<td style=\"width: 43.2857%;\" scope=\"col\">画像サイズはそのまま</td>\n</tr>\n</tbody>\n</table>\n</div>\n<p>「はてなフォトライフ」or「写真を投稿」は、画像URLにユーザーIDが含まれます。また、大きい画像を使用した場合は自動的にリサイズされるという特徴があります。</p>\n<p>「ファイルアップローダー」は、画像URLにはユーザーIDが含まれず画像サイズも変わりません。</p>\n<p>はてなブログMedia内で画像を使用する際は上記のことから、用途に合わせて使い分けます。</p>\n<p class=\"alert alert-info\">はてなフォトライフと写真を投稿はリンクしています。写真を投稿の詳細については「<a href=\"https://hatenablogmedia.zendesk.com/hc/ja/articles/360031261431\" target=\"_self\" rel=\"undefined\">記事に写真や画像を貼り付ける</a>」をご参考ください。</p>\n<p> </p>\n<h2><span style=\"color: #50535a;\">適切な各画像挿入の使用方法 </span></h2>\n<p class=\"wysiwyg-text-align-center\"><img src=\"https://hatenablogmedia.zendesk.com/hc/article_attachments/17465319889561\" alt=\"02.png\"></p>\n<div>\n<table style=\"width: 100%;\">\n<colgroup> <col> </colgroup>\n<tbody>\n<tr>\n<td style=\"width: 26.2857%;\"><strong>記事ページ</strong></td>\n<td style=\"width: 73.7144%;\">はてなフォトライフ or 写真を投稿を使用</td>\n</tr>\n<tr>\n<td style=\"width: 26.2857%;\"><strong>デザイン部分、固定ページ</strong></td>\n<td style=\"width: 73.7144%;\">ファイルアップローダーを使用</td>\n</tr>\n</tbody>\n</table>\n</div>\n<p>「はてなフォトライフ」or「写真を投稿」は、手軽に画像を記事へ挿入できるのが利点です。<br>しかし、デザインカスタマイズで使用した場合、IDの変更や画像を元の画像サイズに変更するなどの作業が発生しますので使用する場合は「<strong>記事ページ</strong>」のみで使用して下さい。</p>\n<p> </p>\n<p>「ファイルアップローダー」は、ユーザーIDが含まれず、画像サイズはそのままなので「<strong>デザイン部分、固定ページ</strong>」のデザインカスタマイズ時の使用が適切です。</p>\n<p>デザインカスタマイズ時に「はてなフォトライフ」or「写真を投稿」にてアップロードする場合は、はてな側に一度ご相談お願いします。</p>"
+  }
+}
