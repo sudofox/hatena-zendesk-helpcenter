@@ -1,0 +1,29 @@
+{
+  "article": {
+    "id": 20158237791513,
+    "url": "https://hatenablogmedia.zendesk.com/api/v2/help_center/ja/articles/20158237791513.json",
+    "html_url": "https://hatenablogmedia.zendesk.com/hc/ja/articles/20158237791513",
+    "author_id": 390193732891,
+    "comments_disabled": true,
+    "draft": false,
+    "promoted": false,
+    "position": 0,
+    "vote_sum": 0,
+    "vote_count": 0,
+    "section_id": 360006001571,
+    "created_at": "2023-06-30T04:00:10Z",
+    "updated_at": "2023-06-30T04:05:27Z",
+    "name": "デザイン設定のモジュール機能に、個別にclass名を付与できる機能を追加しました",
+    "title": "デザイン設定のモジュール機能に、個別にclass名を付与できる機能を追加しました",
+    "source_locale": "ja",
+    "locale": "ja",
+    "outdated": false,
+    "outdated_locales": [],
+    "edited_at": "2023-06-30T04:04:46Z",
+    "user_segment_id": null,
+    "permission_group_id": 972311,
+    "content_tag_ids": [],
+    "label_names": [],
+    "body": "<p>平素より「はてなブログMedia」をご利用いただきまして誠にありがとうございます。</p>\n<p>はてなブログMediaのデザイン設定では、「最新記事」や「注目記事」「カテゴリ」「HTML」など、ページに表示する要素を簡単にカスタマイズする機能を提供しています。</p>\n<p>今回、モジュールごとに自由にclass名を付与する機能を追加しました。</p>\n<p>class名の設定は、モジュール設定の最下部、高度な設定内にあります。</p>\n<p>この改善により、同じ種類のモジュール配置し、それぞれ見た目を変えたい場合など、柔軟にデザインの指定を行うことが可能になります。<br>デザイン設定にはCSSの知識が必要になるため、高度な設定としています。こだわったデザインを行いたい場合、ぜひご利用ください。</p>\n<figure title=\"class名の設定は、モジュール設定の最下部、高度な設定内にあります\"><img src=\"https://hatenablogmedia.zendesk.com/hc/article_attachments/20158216477593\" alt=\"20230630111017.png\">\n<figcaption>class名の設定は、モジュール設定の最下部、高度な設定内にあります</figcaption>\n</figure>"
+  }
+}
