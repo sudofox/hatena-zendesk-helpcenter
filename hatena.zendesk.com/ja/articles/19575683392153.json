@@ -1,0 +1,29 @@
+{
+  "article": {
+    "id": 19575683392153,
+    "url": "https://hatena.zendesk.com/api/v2/help_center/ja/articles/19575683392153.json",
+    "html_url": "https://hatena.zendesk.com/hc/ja/articles/19575683392153",
+    "author_id": 394723693172,
+    "comments_disabled": true,
+    "draft": false,
+    "promoted": false,
+    "position": 9,
+    "vote_sum": 0,
+    "vote_count": 0,
+    "section_id": 18070073813785,
+    "created_at": "2023-06-14T08:04:51Z",
+    "updated_at": "2023-07-07T03:18:23Z",
+    "name": "クリエイティブ・コモンズとは",
+    "title": "クリエイティブ・コモンズとは",
+    "source_locale": "ja",
+    "locale": "ja",
+    "outdated": false,
+    "outdated_locales": [],
+    "edited_at": "2023-06-14T08:06:25Z",
+    "user_segment_id": null,
+    "permission_group_id": 972311,
+    "content_tag_ids": [],
+    "label_names": [],
+    "body": "<p><img title=\"Creative Commons\" src=\"https://f.hatena.ne.jp/images/cc_logo.gif\" alt=\"Creative Commons\"></p>\n<div class=\"section\">\n<p>クリエイティブ・コモンズは、他の人が撮った写真や描いた絵などをみんなで使えるようにする仕組みです。</p>\n<p>はてなフォトライフでは、自分のブログなどで他の人の写真を使いたい場合などに、<a href=\"https://f.hatena.ne.jp/license\" target=\"_blank\" rel=\"noopener noreferrer\">クリエイティブ・コモンズのライセンスが指定されている写真の一覧ページ</a>から条件やタグ、キーワードを絞り込んで簡単に探すことができます。また、自分のアップロードした写真にライセンスを適用して、他の人が使えるよう設定することもできます。</p>\n<p>クリエイティブ・コモンズは、アメリカの非営利団体 Creative Commons が提唱しているライセンス方法です。詳しい情報は<a href=\"http://www.creativecommons.jp/\" target=\"_blank\" rel=\"noopener noreferrer\">クリエイティブ・コモンズ・ジャパン</a>をご覧ください。</p>\n</div>\n<h3>\n<a name=\"cc-licence\"></a>自分の写真に適用する</h3>\n<div class=\"section\">\n<p>クリエイティブ・コモンズのライセンスを適用すると、自分で撮影した写真や描いた絵などの著作物を他の人が使いたい時に、適用した条件に応じて利用することができるようになります。</p>\n<p>ライセンスの指定はフォルダ毎にできますので、ライセンスを適用したいフォルダの編集ページから適用してください。何もしていない場合は「指定なし（All Rights Reserved）」となり、他の人の使用を禁止します。</p>\n</div>\n<h3>\n<a name=\"cc-type\"></a>クリエイティブ・コモンズ・ライセンスの種類</h3>\n<div class=\"section\">\n<p><img src=\"https://f.hatena.ne.jp/images/icon-cc-by.gif\"> 表示：<br>原著作者の氏名を表示すれば、誰でも自由に使用できます。改変、頒布することもできます。また、営利目的でも使用できます。</p>\n<p><img src=\"https://f.hatena.ne.jp/images/icon-cc-by-nd.gif\"> 表示-改変禁止：<br>原著作者に氏名を表示し、改変をしない場合に限り、誰でも自由に使用できます。頒布したり、営利目的に使用することもできます。</p>\n<p><img src=\"https://f.hatena.ne.jp/images/icon-cc-by-nc-nd.gif\"> 表示-非営利-改変禁止：<br>原著作者の氏名を表示し、非営利で、改変をしない場合に限り、誰でも自由に使用できます。頒布することもできます。</p>\n<p><img src=\"https://f.hatena.ne.jp/images/icon-cc-by-nc.gif\"> 表示-非営利：<br>原著作者の氏名を表示すれば、非営利に限り、誰でも自由に使用できます。改変、頒布することもできます。</p>\n<p><img src=\"https://f.hatena.ne.jp/images/icon-cc-by-nc-sa.gif\"> 表示-非営利-継承：<br>原著作者の氏名を表示し、非営利の場合に限り自由に使用できます。ただし、改変したもの(二次著作物)を公開する時、同じライセンスにする必要があります。</p>\n<p><img src=\"https://f.hatena.ne.jp/images/icon-cc-by-sa.gif\"> 表示-継承：<br>原著作者の氏名を表示すれば、誰でも使用できます。ただし、改変したもの(二次著作物)を公開する時、同じライセンスで公開する必要があります。頒布したり、営利目的に使用する事も出来ます。</p>\n</div>"
+  }
+}
