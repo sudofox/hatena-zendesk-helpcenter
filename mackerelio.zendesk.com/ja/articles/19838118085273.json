@@ -1,0 +1,33 @@
+{
+  "article": {
+    "id": 19838118085273,
+    "url": "https://mackerelio.zendesk.com/api/v2/help_center/ja/articles/19838118085273.json",
+    "html_url": "https://support.mackerel.io/hc/ja/articles/19838118085273",
+    "author_id": 390085917472,
+    "comments_disabled": true,
+    "draft": false,
+    "promoted": false,
+    "position": 0,
+    "vote_sum": 0,
+    "vote_count": 0,
+    "section_id": 360007820312,
+    "created_at": "2023-06-21T07:18:27Z",
+    "updated_at": "2023-08-24T00:27:33Z",
+    "name": "メトリックグラフの容量がOSなどで確認する容量の値と乖離している",
+    "title": "メトリックグラフの容量がOSなどで確認する容量の値と乖離している",
+    "source_locale": "ja",
+    "locale": "ja",
+    "outdated": false,
+    "outdated_locales": [],
+    "edited_at": "2023-07-22T01:33:49Z",
+    "user_segment_id": null,
+    "permission_group_id": 1305651,
+    "content_tag_ids": [
+      "01H3EE9JXB6G71C4WT5BH3HM6H",
+      "01H3EE9PRYWB5QD6EYF6Q8Q86W",
+      "01H3H8HNH4MA99HYR688V6F5W7"
+    ],
+    "label_names": [],
+    "body": "<p>Mackerelではメトリックグラフの値を単位換算する際、10の累乗数<code>1000(10^n)</code>で割った値を用いて計算を行います。</p>\n<p>OSやツールによっては2の累乗数<code>1024(2^n)</code>で単位換算されることもあるため、比較するとサイズが異なる場合がありますが、これは仕様となります。</p>"
+  }
+}

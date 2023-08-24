@@ -1,0 +1,33 @@
+{
+  "article": {
+    "id": 19838118085273,
+    "url": "https://mackerelio.zendesk.com/api/v2/help_center/en-us/articles/19838118085273.json",
+    "html_url": "https://support.mackerel.io/hc/en-us/articles/19838118085273-Why-does-the-capacity-in-the-metric-graph-deviate-from-the-value-of-capacity-checked-by-the-OS-or-other-means-",
+    "author_id": 390085917472,
+    "comments_disabled": true,
+    "draft": false,
+    "promoted": false,
+    "position": 0,
+    "vote_sum": 0,
+    "vote_count": 0,
+    "section_id": 360007820312,
+    "created_at": "2023-06-21T07:18:27Z",
+    "updated_at": "2023-08-24T00:27:33Z",
+    "name": "Why does the capacity in the metric graph deviate from the value of capacity checked by the OS or other means?",
+    "title": "Why does the capacity in the metric graph deviate from the value of capacity checked by the OS or other means?",
+    "source_locale": "ja",
+    "locale": "en-us",
+    "outdated": false,
+    "outdated_locales": [],
+    "edited_at": "2023-08-24T00:27:30Z",
+    "user_segment_id": null,
+    "permission_group_id": 1305651,
+    "content_tag_ids": [
+      "01H3EE9JXB6G71C4WT5BH3HM6H",
+      "01H3EE9PRYWB5QD6EYF6Q8Q86W",
+      "01H3H8HNH4MA99HYR688V6F5W7"
+    ],
+    "label_names": [],
+    "body": "<p>When converting metric graph values to units, Mackerel calculates them by dividing by <code>1000(10^n)</code>, which is a power of 10.</p>\n<p>Some OS or tools may use <code>1024(2^n)</code>, which is a power of 2, for unit conversion, so the size may differ when compared, but this is a specification.</p>"
+  }
+}
