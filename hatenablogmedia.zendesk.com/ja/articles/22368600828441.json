@@ -1,0 +1,29 @@
+{
+  "article": {
+    "id": 22368600828441,
+    "url": "https://hatenablogmedia.zendesk.com/api/v2/help_center/ja/articles/22368600828441.json",
+    "html_url": "https://hatenablogmedia.zendesk.com/hc/ja/articles/22368600828441",
+    "author_id": 900846704823,
+    "comments_disabled": false,
+    "draft": false,
+    "promoted": false,
+    "position": 0,
+    "vote_sum": 0,
+    "vote_count": 0,
+    "section_id": 4402939597977,
+    "created_at": "2023-08-29T09:50:18Z",
+    "updated_at": "2023-09-26T10:04:39Z",
+    "name": "はてなブログMediaスタートガイド【ブログの公開準備】",
+    "title": "はてなブログMediaスタートガイド【ブログの公開準備】",
+    "source_locale": "ja",
+    "locale": "ja",
+    "outdated": false,
+    "outdated_locales": [],
+    "edited_at": "2023-09-14T03:01:55Z",
+    "user_segment_id": null,
+    "permission_group_id": 972311,
+    "content_tag_ids": [],
+    "label_names": [],
+    "body": "<h2 id=\"h_01H90BDW02MPKDY3KERQ2G5TE2\">1．各種設定</h2>\n<p>設定画面については、以下をご参照ください。</p>\n<p><strong>【基本設定ページ】</strong><br><a href=\"https://hatenablogmedia.zendesk.com/hc/ja/articles/360031233511\">https://hatenablogmedia.zendesk.com/hc/ja/articles/360031233511</a></p>\n<p><strong>【詳細設定ページ】</strong><br><a href=\"https://hatenablogmedia.zendesk.com/hc/ja/articles/360030891032\">https://hatenablogmedia.zendesk.com/hc/ja/articles/360030891032</a></p>\n<h3 id=\"h_01H927YHR6BT9GBV3G1MFXKWA9\">OGPの設定</h3>\n<p>代表的なOGPの設定を記載します。</p>\n<p><span class=\"wysiwyg-font-size-large\">サイト全体に関する設定</span></p>\n<ul>\n<li>og:title：「基本設定」&gt;「ブログ名」がog:titleになります</li>\n<li>og:description：「基本設定」&gt;「ブログの説明」が該当します</li>\n<li>og:image：「詳細設定」&gt;「アイキャッチ画像」が該当します</li>\n</ul>\n<p><span class=\"wysiwyg-font-size-large\">記事に関する設定</span></p>\n<p>「<a href=\"https://hatenablogmedia.zendesk.com/hc/ja/articles/360031356431\">編集オプションの設定とOGP</a>」をご参照ください。</p>\n<h3 id=\"h_01H928B6EDV03QKFVAT8HJT758\">キーワードリンクカスタマイズ</h3>\n<p>はてなブログMedia限定の機能で、任意のキーワードに対し、指定したURLへのリンクを自動的に付与するように設定できます。</p>\n<p>例：みんなのごはん文中の「たこ焼き」がぐるなび本体の「たこ焼き」へリンク<br>参考サイト：<a href=\"http://r.gnavi.co.jp/g-interview/entry/1975\" target=\"_blank\" rel=\"noopener noreferrer\">http://r.gnavi.co.jp/g-interview/entry/1975</a></p>\n<h3 id=\"h_01H928NB7A59TH3YFFRYMJRZ2Q\">パンくずカスタマイズ</h3>\n<p>パンくずルールをお客様のメディアにあわせて独自ルールにカスタマイズすることができます。</p>\n<ul>\n<li>記事編集画面で最初に付与されたカテゴリーを、その記事の代表カテゴリーとしてパンくずリストに表示します</li>\n<li>トップページ、記事ページ、カテゴリー別記事一覧ページについて、設定が可能です</li>\n</ul>\n<p>詳しくは「<a href=\"https://hatenablogmedia.zendesk.com/hc/ja/articles/360031233871\">パンくずリストの設定</a>」をご参照ください。</p>\n<h2 id=\"h_01H929KPF013T81BW0E321ZAMA\">2．プライバシーポリシーの公開など</h2>\n<p>メディアのプライバシーポリシー等、サイト運営者として必要な事項のページへのリンクを、読者が遷移しやすい位置に設定してください。<br>プライバシーポリシー等がない場合は貴社の責任において作成・公開等ご対応ください。</p>\n<h2 id=\"h_01H92DXG3GVFW41FRX5MT424DW\">3．公開設定について</h2>\n<p>メディア公開の準備が整ったら、公開設定を「すべての人に公開」に変更し、公開してください。<br>詳しくは「<a href=\"https://hatenablogmedia.zendesk.com/hc/ja/articles/360031233771\">公開設定ページ</a>」をご参照ください。</p>"
+  }
+}
