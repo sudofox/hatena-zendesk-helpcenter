@@ -12,18 +12,18 @@
     "vote_count": 3,
     "section_id": 900000347146,
     "created_at": "2020-07-21T07:28:12Z",
-    "updated_at": "2023-05-17T09:38:24Z",
-    "name": "独自ドメインの設定方法が知りたい（サブドメインあり）",
-    "title": "独自ドメインの設定方法が知りたい（サブドメインあり）",
+    "updated_at": "2023-10-18T08:43:55Z",
+    "name": "【はてなブログ】独自ドメインの設定方法が知りたい（サブドメインあり）",
+    "title": "【はてなブログ】独自ドメインの設定方法が知りたい（サブドメインあり）",
     "source_locale": "ja",
     "locale": "ja",
     "outdated": false,
     "outdated_locales": [],
-    "edited_at": "2020-08-20T05:40:05Z",
+    "edited_at": "2023-10-18T08:43:54Z",
     "user_segment_id": null,
     "permission_group_id": 972311,
     "content_tag_ids": [],
     "label_names": [],
-    "body": "<p>はてなブログ側の設定とドメイン登録事業者側の設定、両方が必要です。</p>\n<p>また、設定された直後には反映されないことがございますので、正しく設定されたあとには設定変更をされずに数日程度お待ちください。</p>\n<h4>【はてなブログ側の設定】</h4>\n<p>サブドメインを含めたものを入力してください。</p>\n<p>（設定例）example.com を取得された場合、www.example.com や blog.example.com と入力してください。</p>\n<p>取得したドメインの前に、必ずサブドメイン（blogやwwwなど）を付加する必要がございます。サブドメインはお好きな文字列を設定することができます。</p>\n<h4>【ドメイン登録事業者側の設定】</h4>\n<table style=\"width: 700px;\" border=\"border\">\n<tbody>\n<tr>\n<th style=\"width: 211.8px;\" bgcolor=\"#dcdcdc\">設定欄</th>\n<th style=\"width: 464.2px;\" bgcolor=\"#dcdcdc\">設定する内容</th>\n</tr>\n<tr>\n<td style=\"width: 211.8px;\">「ホスト名」「サブドメイン」</td>\n<td style=\"width: 464.2px;\">ブログ用に付加するサブドメイン（上記で決めたもの）</td>\n</tr>\n<tr>\n<td style=\"width: 211.8px;\">「TYPE」「種別」</td>\n<td style=\"width: 464.2px;\">CNAME</td>\n</tr>\n<tr>\n<td style=\"width: 211.8px;\">「VALUE」「値」「内容」</td>\n<td style=\"width: 464.2px;\">hatenablog.com.（※ブログ開設時に決めたURLのドメイン名によらずこれを指定します。末尾のピリオドは補完されるサービスもあります）</td>\n</tr>\n</tbody>\n</table>\n<p> </p>\n<p>下記のはてなブログのヘルプもご参照ください。</p>\n<ul>\n<li><a href=\"http://help.hatenablog.com/entry/customdomain\">はてなブログを独自ドメインで利用する - はてなブログ ヘルプ</a></li>\n</ul>"
+    "body": "<p>はてなブログ側の設定とドメイン登録事業者側の設定、両方が必要です。</p>\n<p>また、設定された直後には反映されないことがございますので、正しく設定されたあとには設定変更をされずに数日程度お待ちください。</p>\n<h4 id=\"h_01HD0Z0XM0P31C36RBK641X84Q\">【はてなブログ側の設定】</h4>\n<p>サブドメインを含めたものを入力してください。</p>\n<p>（設定例）example.com を取得された場合、www.example.com や blog.example.com と入力してください。</p>\n<p>取得したドメインの前に、必ずサブドメイン（blogやwwwなど）を付加する必要がございます。サブドメインはお好きな文字列を設定することができます。</p>\n<h4 id=\"h_01HD0Z0XM08M5BEBMAKD3XY84E\">【ドメイン登録事業者側の設定】</h4>\n<table style=\"width: 700px;\" border=\"border\">\n<tbody>\n<tr>\n<th style=\"width: 211.8px;\" bgcolor=\"#dcdcdc\">設定欄</th>\n<th style=\"width: 464.2px;\" bgcolor=\"#dcdcdc\">設定する内容</th>\n</tr>\n<tr>\n<td style=\"width: 211.8px;\">「ホスト名」「サブドメイン」</td>\n<td style=\"width: 464.2px;\">ブログ用に付加するサブドメイン（上記で決めたもの）</td>\n</tr>\n<tr>\n<td style=\"width: 211.8px;\">「TYPE」「種別」</td>\n<td style=\"width: 464.2px;\">CNAME</td>\n</tr>\n<tr>\n<td style=\"width: 211.8px;\">「VALUE」「値」「内容」</td>\n<td style=\"width: 464.2px;\">hatenablog.com.（※ブログ開設時に決めたURLのドメイン名によらずこれを指定します。末尾のピリオドは補完されるサービスもあります）</td>\n</tr>\n</tbody>\n</table>\n<p> </p>\n<p>下記のはてなブログのヘルプもご参照ください。</p>\n<ul>\n<li><a href=\"http://help.hatenablog.com/entry/customdomain\">はてなブログを独自ドメインで利用する - はてなブログ ヘルプ</a></li>\n</ul>"
   }
 }
