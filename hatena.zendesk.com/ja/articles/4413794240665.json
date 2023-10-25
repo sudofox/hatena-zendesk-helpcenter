@@ -12,18 +12,18 @@
     "vote_count": 3,
     "section_id": 900001569283,
     "created_at": "2022-01-04T07:37:00Z",
-    "updated_at": "2022-11-06T14:11:10Z",
-    "name": "他のアプリで見たページをはてなブックマークする方法を教えてください（Android）",
-    "title": "他のアプリで見たページをはてなブックマークする方法を教えてください（Android）",
+    "updated_at": "2023-10-25T08:46:54Z",
+    "name": "【はてなブックマーク】他のアプリで見たページをはてなブックマークする方法を教えてください（Android）",
+    "title": "【はてなブックマーク】他のアプリで見たページをはてなブックマークする方法を教えてください（Android）",
     "source_locale": "ja",
     "locale": "ja",
     "outdated": false,
     "outdated_locales": [],
-    "edited_at": "2022-03-01T06:15:56Z",
+    "edited_at": "2023-10-25T08:46:53Z",
     "user_segment_id": null,
     "permission_group_id": 972311,
     "content_tag_ids": [],
     "label_names": [],
-    "body": "<p>お使いのブラウザアプリやSNSアプリで気になるページを発見した場合、アプリの共有ボタンから、簡単にはてなブックマークに登録できます。</p>\n<p>すでにユーザー登録がお済みで、はてなブックマークAndroidアプリをご利用の場合は、ブラウザアプリやSNSアプリで気になるページを開いてみてください。</p>\n<p>共有ボタン<img src=\"https://hatena.zendesk.com/hc/article_attachments/4413817570585/share.png\" alt=\"share.png\" width=\"15\" height=\"15\">をタップすると、はてなブックマークのアイコン<img src=\"https://hatena.zendesk.com/hc/article_attachments/900008791203/hatena-bookmark-logo-s.png\" alt=\"hatena-bookmark-logo-s.png\" width=\"15\" height=\"15\"> が表示されますので、アイコンをタップしてブックマークをお試しください。 <iframe src=\"//www.youtube-nocookie.com/embed/LZ_zOBkpXwE?rel=0\" width=\"100%\" height=\"315\" frameborder=\"0\" allowfullscreen=\"\"></iframe></p>"
+    "body": "<p>お使いのブラウザアプリやSNSアプリで気になるページを発見した場合、アプリの共有ボタンから、簡単にはてなブックマークに登録できます。</p>\n<p>すでにユーザー登録がお済みで、はてなブックマークAndroidアプリをご利用の場合は、ブラウザアプリやSNSアプリで気になるページを開いてみてください。</p>\n<p>共有ボタン<img src=\"https://hatena.zendesk.com/hc/article_attachments/4413817570585\" alt=\"share.png\" width=\"15\" height=\"15\">をタップすると、はてなブックマークのアイコン<img src=\"https://hatena.zendesk.com/hc/article_attachments/24447495994009\" alt=\"hatena-bookmark-logo-s.png\" width=\"15\" height=\"15\"> が表示されますので、アイコンをタップしてブックマークをお試しください。 <iframe src=\"//www.youtube-nocookie.com/embed/LZ_zOBkpXwE?rel=0\" width=\"100%\" height=\"315\" frameborder=\"0\" allowfullscreen=\"\"></iframe></p>"
   }
 }
