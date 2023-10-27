@@ -12,7 +12,7 @@
     "vote_count": 0,
     "section_id": 360006001411,
     "created_at": "2019-07-24T10:01:51Z",
-    "updated_at": "2023-10-04T08:28:47Z",
+    "updated_at": "2023-10-27T00:42:46Z",
     "name": "管理画面のIPアドレス制限",
     "title": "管理画面のIPアドレス制限",
     "source_locale": "ja",
@@ -23,7 +23,9 @@
     "user_segment_id": null,
     "permission_group_id": 972311,
     "content_tag_ids": [],
-    "label_names": [],
+    "label_names": [
+      "IPアドレス"
+    ],
     "body": "<p>「はてなブログMedia」では、管理画面へのアクセスに対して、IPアドレスによるアクセス制限をかけることができます。</p>\n<p> </p>\n<h3 id=\"h_01HBWTYJGNMC7FGBECXAHSY2GP\">IPアドレス制限のお申し込み</h3>\n<p>許可するIPアドレスはブログ単位での設定となりますので、複数のメディアをご契約されていたり、本番ブログとテストブログなど複数のブログをお持ちの場合には、ブログごとに設定依頼をお願いします。</p>\n<p>IPアドレス制限を有効にするには、「<a href=\"https://hatenablogmedia.zendesk.com/hc/ja/requests/new?ticket_form_id=360000523371\" target=\"_self\">IPアドレス制限(管理画面)のお申し込み</a>」からお申し込みください。申請はオーナーIDの登録メールアドレスよりお願いします。</p>\n<p class=\"alert alert-warning\">プライベート IP アドレスでは正しく許可できないため、グローバル IP アドレスを確認のうえ、ご連絡ください。</p>\n<h3 id=\"h_01HBWVXKFQ1XR2JW7WX4W2Q2WM\">その他の制限</h3>\n<p>その他の制限として、アクセス制限ではなく、許可するIPアドレス以外からのアクセスは、全て一律でブログメンバーの「寄稿者」権限になるようにすることもできます。</p>\n<p>社内のIPアドレスでアクセス制限をかけた場合には、社外から管理画面にアクセスができなくなりますが、社外からも記事を下書きで入稿したいことがあるような場合にはこちらの制限をご利用ください。 寄稿者権限の詳細については「<a href=\"https://hatenablogmedia.zendesk.com/hc/ja/articles/360031261531\" target=\"_self\">複数人でブログを編集・管理する</a>」をご確認ください。</p>"
   }
 }
