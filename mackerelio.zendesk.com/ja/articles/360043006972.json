@@ -12,18 +12,18 @@
     "vote_count": 2,
     "section_id": 4412617458329,
     "created_at": "2020-05-12T05:21:05Z",
-    "updated_at": "2022-02-08T03:55:47Z",
-    "name": "サポートについて教えて下さい",
-    "title": "サポートについて教えて下さい",
+    "updated_at": "2023-11-28T23:55:18Z",
+    "name": "Mackerelのテクニカルサポートについて",
+    "title": "Mackerelのテクニカルサポートについて",
     "source_locale": "ja",
     "locale": "ja",
     "outdated": false,
     "outdated_locales": [],
-    "edited_at": "2022-02-08T03:54:08Z",
+    "edited_at": "2023-11-28T23:55:18Z",
     "user_segment_id": null,
     "permission_group_id": 1305651,
     "content_tag_ids": [],
     "label_names": [],
-    "body": "<ul>\n<li>すべてのお問合せは Mackerel のWebコンソールにある「<a href=\"https://support.mackerel.io/hc/ja/requests/new\" target=\"_blank\" rel=\"noopener\">サポートチームへ連絡</a>」のWebフォームにて承っており、Eメールでの回答にしております。\n<ul>\n<li>※お電話でのサポートは一切提供しておりません。代表番号等へお電話いただきましても対応致しかねます。</li>\n<li>※いただいたお問合せには順次対応しており、お急ぎの場合でも特別対応はできかねます。回答順序の適正化のため、何卒ご理解ください。</li>\n</ul>\n</li>\n<li>サポート時間は弊社営業日の 10:00〜19:00 となります。</li>\n<li>いただいたお問合せに対して2営業日以内に何らかの返信を差し上げられるよう、対応いたしております（ベストエフォートとなります）。</li>\n<li>ご利用プラン（Trial/Free/Standard）によるサポートの違いはございません。</li>\n</ul>"
+    "body": "<h2 id=\"h_01HDR1ZNCP1DX67K6S4K1E4SA8\"><span style=\"font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; font-size: 1.5em;\">サポートチームが対応すること</span></h2>\n<p><span style=\"font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif;\">Mackerelのテクニカルサポートチームでは、お客様が直面する次のような課題や問題の解決をサポートをしています。</span></p>\n<ul>\n<li>Mackerelの各種機能、公式プラグインを使用する上でのご質問</li>\n<li>Mackerel APIや公式CLIツール mkr を使用する上でのご質問</li>\n<li>上記に関するトラブルシューティング</li>\n</ul>\n<p>ご質問以外にも、今後の開発を期待されているご要望などのリクエストも承っております。</p>\n<h2 id=\"h_01HCTZN9EA4V5J9VHRR3X3BTN5\">サポートチームでは対応できないこと</h2>\n<p><span style=\"font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif;\">次のようなお問い合わせに関しては、誠に恐れ入りますが対応いたしかねます。</span></p>\n<ul>\n<li><span style=\"font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif;\">お客様環境で発生している障害に関する対応</span></li>\n<li>サードパーティ製アプリケーションについてのご質問やトラブルシューティング</li>\n<li><span style=\"font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif;\">具体的な閾値や設定内容の提示、監視プラグイン開発に関するご依頼</span></li>\n<li>Mackerelに直接関係のない製品に関すること</li>\n</ul>\n<h2 id=\"h_01HCTZP8P11GM7W2TXNBVAYRG8\">お問い合わせについて</h2>\n<p><a href=\"https://support.mackerel.io/hc/ja/requests/new\" target=\"_blank\" rel=\"noopener noreferrer\">専用のお問い合わせフォーム</a>からご連絡ください。</p>\n<p>対応状況に関しては以下の通りとなります。あわせてご確認ください。</p>\n<ul>\n<li>テクニカルサポート窓口の営業時間は、弊社営業日の 10:00〜19:00 となります。\n<ul>\n<li>休業期間が発生する場合については、事前に<a href=\"https://ja.mackerel.io/info\">公式ブログ</a>にてお知らせしております。</li>\n</ul>\n</li>\n<li>\n<a href=\"https://support.mackerel.io/hc/ja/requests/new\" target=\"_blank\" rel=\"noopener noreferrer\">専用のお問い合わせフォーム</a>からいただいた内容に対してメールによる回答を差し上げます。\n<ul>\n<li>フォームを経由せずに直接メールをいただく場合がございます。お問い合わせの際は専用フォームからのご連絡をお願いいたします。</li>\n</ul>\n</li>\n<li>お問い合わせから翌営業日内には何らかの返信を差し上げられるよう対応していますが、ベストエフォートでの対応となる点については、あらかじめご理解ください。</li>\n<li>お電話でのサポートには対応しておりません。代表電話などへお問い合わせいただいても対応いたしかねます。</li>\n<li>お問い合わせには順次対応しており、お急ぎの場合でも優先度や時間指定などのご依頼は受け付けておりません。</li>\n</ul>"
   }
 }
