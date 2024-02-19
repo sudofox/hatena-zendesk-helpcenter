@@ -1,0 +1,29 @@
+{
+  "article": {
+    "id": 23429409194009,
+    "url": "https://hatenablogmedia.zendesk.com/api/v2/help_center/ja/articles/23429409194009.json",
+    "html_url": "https://hatenablogmedia.zendesk.com/hc/ja/articles/23429409194009",
+    "author_id": 900846704823,
+    "comments_disabled": false,
+    "draft": false,
+    "promoted": false,
+    "position": 15,
+    "vote_sum": 0,
+    "vote_count": 0,
+    "section_id": 22731027249945,
+    "created_at": "2023-09-27T05:23:56Z",
+    "updated_at": "2024-02-19T05:09:11Z",
+    "name": "フッターの設定方法 - HRテンプレート",
+    "title": "フッターの設定方法 - HRテンプレート",
+    "source_locale": "ja",
+    "locale": "ja",
+    "outdated": false,
+    "outdated_locales": [],
+    "edited_at": "2023-10-02T05:14:26Z",
+    "user_segment_id": null,
+    "permission_group_id": 972311,
+    "content_tag_ids": [],
+    "label_names": [],
+    "body": "<p>ヘッダ部分の画像、テキスト、検索ボックス等について要素毎に解説します。</p>\n<p><img src=\"https://hatenablogmedia.zendesk.com/hc/article_attachments/23422006429849\"></p>\n<p><a href=\"https://blog.hatena.ne.jp/\" target=\"_blank\" rel=\"noopener noreferrer\">管理画面</a> &gt; [デザイン] &gt; [(1) フッタ] のHTML記述欄にて各要素を調整して下さい。</p>\n<p><img src=\"https://hatenablogmedia.zendesk.com/hc/article_attachments/23421911908761\" width=\"266\" height=\"456\"></p>\n<p> </p>\n<h2 id=\"h_01HBD91D1J4AZ2KJJTF96YCKDC\">『応募職種一覧へ』ボタンを変更する</h2>\n<p><img src=\"https://hatenablogmedia.zendesk.com/hc/article_attachments/23429224589593\"></p>\n<div>\n<div>HTMLを適宜編集してください。</div>\n<pre>&lt;a href=\"遷移先URL\" target=\"_blank\"&gt;<br>  &lt;img src=\"画像URL\"alt=\"募集職種一覧へ\"&gt;<br>&lt;/a&gt;</pre>\n</div>\n<p>ファイルアップローダーや貴社サーバーにて画像素材をアップロードしてくだい。<br>その後、<code>img</code>タグの<code>画像URL</code>部分に設定してください。</p>\n<p><code>alt</code>タグは適宜修正してください。画像が何らかの理由で表示されない場合に、設定したテキストが表示されます。</p>\n<p>画像は幅:高さ= 1 : 1 の縦横比のものを使用してください。</p>\n<p> </p>\n<h2 id=\"h_01HBA74EFSZ80PE2RD9CVMM3Z0\">企業名とリンク設定</h2>\n<p><img src=\"https://hatenablogmedia.zendesk.com/hc/article_attachments/23427710970521\"></p>\n<h3 id=\"h_01HBA74EFSN9D7XAQES1J75WSY\">フッタータイトルの設定</h3>\n<pre>&lt;p class=\"pc_block blog-footer-siteName\"&gt;<br>  株式会社⚪︎⚪︎　採用特設サイト<br>&lt;/p&gt;</pre>\n<p>適切な文言に置き換えてください。<br><br></p>\n<h2 id=\"h_01HBA74EFSNNY262AKCHK7Q5DP\">フッタリンク設定</h2>\n<p><img src=\"https://hatenablogmedia.zendesk.com/hc/article_attachments/23429099072153\"></p>\n<p>HTMLを適宜編集してください。<br>表示数の増減は、下記HTML<code>li</code>～<code>/li</code>タグの塊を増やす、または減らすことで変更することが可能です。</p>\n<p>また、列ごとに増減することも可能です。</p>\n<p><strong>列を増減する</strong></p>\n<p><code>blog-footer-nav-list-item</code>のクラス名が付いている<code>li</code>タグごとコピーして貼り付けることで、列を増やすことができます。削除をすれば減らすことができます。<br>最大5列まで設定可能です。</p>\n<pre>&lt;li class=\"blog-footer-nav-list-item\"&gt;<br>  &lt;a class=\"blog-footer-nav-category\" href=\"遷移先URL\"&gt;リンクタイトル&lt;/a&gt;<br>  &lt;ul class=\"blog-footer-nav-category-list\"&gt;<br>    &lt;li class=\"blog-footer-nav-category-list-item\"&gt;<br>      &lt;a class=\"blog-footer-nav-category-list-link\" href=\"遷移先URL\" target=\"_blank\"&gt;リンク１&lt;/a&gt;<br>    &lt;/li&gt;<br>    &lt;li class=\"blog-footer-nav-category-list-item\"&gt;<br>      &lt;a class=\"blog-footer-nav-category-list-link\" href=\"遷移先URL\" target=\"_blank\"&gt;リンク2&lt;/a&gt;<br>    &lt;/li&gt;<br>&lt;/ul&gt;<br>&lt;/li&gt;</pre>\n<p><strong>リンクの数を増減する</strong></p>\n<p><code>blog-footer-nav-category-list-item</code>のクラス名が付いている<code>li</code>タグごとコピーして貼り付けることで、リンクのみ増やすことができます。削除をすれば減らすことができます。</p>\n<pre>&lt;li class=\"blog-footer-nav-category-list-item\"&gt;<br>  &lt;a class=\"blog-footer-nav-category-list-link\" href=\"遷移先URL\" target=\"_blank\"&gt;リンク&lt;/a&gt;<br>&lt;/li&gt;</pre>\n<p class=\"alert alert-info\">SP版には、PC版のフッタで編集した内容がそのまま反映されます。<br><br><br></p>\n<h2 id=\"h_01HBD91D1J3HEZBYQ4XAMFE7NA\">コピーライトを変更する</h2>\n<p><img src=\"https://hatenablogmedia.zendesk.com/hc/article_attachments/23429101886233\"></p>\n<p>HTMLを適宜変更してください。</p>\n<div>\n<pre>&lt;a class=\"blog-footer__copy-link\" href=\"#\" target=\"_blank\"&gt;株式会社⚪︎⚪︎&lt;/a&gt;<br>&lt;small class=\"blog-footer__copy-copyright\"&gt;&amp;copy; ⚪︎⚪︎ Co., Ltd.&lt;/small&gt;</pre>\n</div>"
+  }
+}
