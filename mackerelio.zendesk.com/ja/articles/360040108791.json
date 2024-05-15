@@ -12,14 +12,14 @@
     "vote_count": 1,
     "section_id": 4412617441305,
     "created_at": "2020-02-24T08:45:37Z",
-    "updated_at": "2022-06-24T00:57:53Z",
+    "updated_at": "2024-05-15T09:56:01Z",
     "name": "障害情報に関する情報はどこで確認ができますか",
     "title": "障害情報に関する情報はどこで確認ができますか",
     "source_locale": "ja",
     "locale": "ja",
     "outdated": false,
     "outdated_locales": [],
-    "edited_at": "2022-06-24T00:57:53Z",
+    "edited_at": "2024-05-15T09:55:41Z",
     "user_segment_id": null,
     "permission_group_id": 1305651,
     "content_tag_ids": [],
@@ -27,6 +27,6 @@
       "サービス提供状況",
       "障害"
     ],
-    "body": "<p>Mackerelに障害が発生した場合、最新情報を<a href=\"https://twitter.com/mackerelio_jp/\">Twitterの @mackerelio_jp</a>及び<a href=\"http://status.mackerel.io/\">ステータスページ status.mackerel.io</a>に公開します。いずれかのフォロー、ないしは購読をお願いします。</p>\n<p>なお、<a href=\"http://status.mackerel.io/\">ステータスページ status.mackerel.io</a>は画面上の「SUBSCRIBE」よりEmailを登録いただくことでステータスの更新を受け取ることができます。</p>"
+    "body": "<p>Mackerelに障害が発生した場合、最新情報を<a href=\"https://twitter.com/mackerelio_jp/\">Xの @mackerelio_jp</a> 及び<a href=\"http://status.mackerel.io/\">ステータスページ status.mackerel.io</a>に公開します。いずれかのフォロー、ないしは購読をお願いします。</p>\n<p>なお、<a href=\"http://status.mackerel.io/\">ステータスページ status.mackerel.io</a>は画面上の「SUBSCRIBE」よりEmailを登録いただくことでステータスの更新を受け取ることができます。</p>"
   }
 }
