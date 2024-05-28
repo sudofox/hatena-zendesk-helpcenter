@@ -1,0 +1,31 @@
+{
+  "article": {
+    "id": 32972144321561,
+    "url": "https://hatena.zendesk.com/api/v2/help_center/ja/articles/32972144321561.json",
+    "html_url": "https://hatena.zendesk.com/hc/ja/articles/32972144321561",
+    "author_id": 32567261634969,
+    "comments_disabled": true,
+    "draft": false,
+    "promoted": false,
+    "position": 0,
+    "vote_sum": 0,
+    "vote_count": 0,
+    "section_id": 900000572906,
+    "created_at": "2024-05-27T01:31:15Z",
+    "updated_at": "2024-05-28T01:05:19Z",
+    "name": "ニックネームを変更したい",
+    "title": "ニックネームを変更したい",
+    "source_locale": "ja",
+    "locale": "ja",
+    "outdated": false,
+    "outdated_locales": [],
+    "edited_at": "2024-05-28T01:05:03Z",
+    "user_segment_id": null,
+    "permission_group_id": 972311,
+    "content_tag_ids": [],
+    "label_names": [
+      "ニックネーム"
+    ],
+    "body": "<p>ニックネームの変更は、下記の手順で行っていただけます。</p>\n<ol>\n<li>以下のURLにアクセスしてください\n<ul>\n<li><a href=\"https://accounts.hatena.ne.jp/settings\" target=\"_blank\" rel=\"noopener noreferrer\">https://accounts.hatena.ne.jp/settings</a></li>\n<li>ログイン画面が表示された場合はログインしてください</li>\n</ul>\n</li>\n<li>「アカウント登録情報」の「ニックネーム」にある「変更する」をクリックする</li>\n<li>新しく設定したいニックネームを入力し「送信する」をクリックする</li>\n</ol>"
+  }
+}
