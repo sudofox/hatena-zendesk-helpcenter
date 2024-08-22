@@ -7,12 +7,12 @@
     "comments_disabled": true,
     "draft": false,
     "promoted": false,
-    "position": 2,
+    "position": 3,
     "vote_sum": 3,
-    "vote_count": 11,
+    "vote_count": 13,
     "section_id": 18070073813785,
     "created_at": "2023-06-07T03:29:07Z",
-    "updated_at": "2024-04-02T23:12:57Z",
+    "updated_at": "2024-08-22T01:59:21Z",
     "name": "【はてなフォトライフ】メールでアップロード",
     "title": "【はてなフォトライフ】メールでアップロード",
     "source_locale": "ja",
@@ -24,6 +24,7 @@
     "permission_group_id": 972311,
     "content_tag_ids": [],
     "label_names": [],
-    "body": "<p>画像を添付したメールを投稿用メールアドレスに送信することで、フォトライフに画像をアップロードすることができます。複数画像の添付にも対応していますので、まとめてアップロードすることも可能です。</p>\n<p>投稿用メールアドレスは「<a href=\"https://f.hatena.ne.jp/my/mail\" target=\"_blank\" rel=\"noopener noreferrer\">メール投稿</a>」ページよりご確認ください。</p>"
+    "body": "<p>画像を添付したメールを投稿用メールアドレスに送信することで、フォトライフに画像をアップロードすることができます。複数画像の添付にも対応していますので、まとめてアップロードすることも可能です。</p>\n<p>投稿用メールアドレスは「<a href=\"https://f.hatena.ne.jp/my/mail\" target=\"_blank\" rel=\"noopener noreferrer\">メール投稿</a>」ページよりご確認ください。</p>",
+    "user_segment_ids": []
   }
 }

@@ -8,11 +8,11 @@
     "draft": false,
     "promoted": false,
     "position": 1,
-    "vote_sum": 17,
-    "vote_count": 45,
+    "vote_sum": 24,
+    "vote_count": 54,
     "section_id": 18070073813785,
     "created_at": "2023-05-01T07:20:02Z",
-    "updated_at": "2024-06-04T02:19:31Z",
+    "updated_at": "2024-08-22T01:59:21Z",
     "name": "【はてなフォトライフ】画像をアップロードする",
     "title": "【はてなフォトライフ】画像をアップロードする",
     "source_locale": "ja",
@@ -24,6 +24,7 @@
     "permission_group_id": 972311,
     "content_tag_ids": [],
     "label_names": [],
-    "body": "<p>画像をアップロードするには、はてなにログインした後、上部メニューから「アップロード」ページに移動します。画像をアップする手順は以下の通りです。</p>\n<ol>\n<li>\n<a href=\"https://f.hatena.ne.jp/\" target=\"_blank\" rel=\"noopener noreferrer\">フォトライフのトップページ</a>にログインする</li>\n<li>上部メニューから「アップロード」をクリックする</li>\n<li>「クリックしてファイルを選択するか、ここにファイルをドラッグしてください」の記載のとおり、どちらかの方法で画像をアップロードする</li>\n<li>しばらく待つと自動的にアップロード処理が行われます<img src=\"https://hatena.zendesk.com/hc/article_attachments/18447841014169\" alt=\"SnapCrab_NoName_2023-5-12_16-26-10_No-00.png\">\n</li>\n</ol>\n<p>これだけで画像のアップロードが完了です。アップロードされた画像は、「<a href=\"https://f.hatena.ne.jp/my/\" target=\"_blank\" rel=\"noopener noreferrer\">Myフォト</a>」からいつでも確認することができます。</p>\n<p>また、「<a href=\"https://f.hatena.ne.jp/my/config\" target=\"_blank\" rel=\"noopener noreferrer\">設定</a>」画面から「オリジナルサイズの画像を保存」にチェックを入れると、アップロードした画像とは別にオリジナルサイズの画像も保存できるようになります。画像ページ上ではサイズ変更後の画像が表示され、画面下部の「オリジナルサイズを表示」リンクからオリジナルサイズの画像を表示できます。(オリジナルサイズで保存された画像も、1ヶ月の使用容量に計算されます。)</p>\n<p>アップロード先のフォルダやタグ、画像サイズをあらかじめ指定したい場合は、右のオプションを先に設定してください。タイトルやサイズ、フォルダを再度変更したい場合は「画像を編集」リンクをクリックします。</p>\n<p class=\"notice\"><span class=\"wysiwyg-color-black\">※画像ファイルはjpg/jpeg/gif/png/bmp形式に対応し、1枚の画像は長辺10000px、10MBまでに対応しています。<br>※アニメーションgif動作保証対象外です</span></p>"
+    "body": "<p>画像をアップロードするには、はてなにログインした後、上部メニューから「アップロード」ページに移動します。画像をアップする手順は以下の通りです。</p>\n<ol>\n<li>\n<a href=\"https://f.hatena.ne.jp/\" target=\"_blank\" rel=\"noopener noreferrer\">フォトライフのトップページ</a>にログインする</li>\n<li>上部メニューから「アップロード」をクリックする</li>\n<li>「クリックしてファイルを選択するか、ここにファイルをドラッグしてください」の記載のとおり、どちらかの方法で画像をアップロードする</li>\n<li>しばらく待つと自動的にアップロード処理が行われます<img src=\"https://hatena.zendesk.com/hc/article_attachments/18447841014169\" alt=\"SnapCrab_NoName_2023-5-12_16-26-10_No-00.png\">\n</li>\n</ol>\n<p>これだけで画像のアップロードが完了です。アップロードされた画像は、「<a href=\"https://f.hatena.ne.jp/my/\" target=\"_blank\" rel=\"noopener noreferrer\">Myフォト</a>」からいつでも確認することができます。</p>\n<p>また、「<a href=\"https://f.hatena.ne.jp/my/config\" target=\"_blank\" rel=\"noopener noreferrer\">設定</a>」画面から「オリジナルサイズの画像を保存」にチェックを入れると、アップロードした画像とは別にオリジナルサイズの画像も保存できるようになります。画像ページ上ではサイズ変更後の画像が表示され、画面下部の「オリジナルサイズを表示」リンクからオリジナルサイズの画像を表示できます。(オリジナルサイズで保存された画像も、1ヶ月の使用容量に計算されます。)</p>\n<p>アップロード先のフォルダやタグ、画像サイズをあらかじめ指定したい場合は、右のオプションを先に設定してください。タイトルやサイズ、フォルダを再度変更したい場合は「画像を編集」リンクをクリックします。</p>\n<p class=\"notice\"><span class=\"wysiwyg-color-black\">※画像ファイルはjpg/jpeg/gif/png/bmp形式に対応し、1枚の画像は長辺10000px、10MBまでに対応しています。<br>※アニメーションgif動作保証対象外です</span></p>",
+    "user_segment_ids": []
   }
 }
