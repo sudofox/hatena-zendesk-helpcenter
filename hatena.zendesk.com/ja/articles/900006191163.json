@@ -12,7 +12,7 @@
     "vote_count": 12,
     "section_id": 900000562386,
     "created_at": "2021-03-18T06:44:11Z",
-    "updated_at": "2024-03-07T23:14:59Z",
+    "updated_at": "2024-08-23T11:17:55Z",
     "name": "【はてなブックマーク】他のアプリで見たページをはてなブックマークする方法を教えてください（iPhone）",
     "title": "【はてなブックマーク】他のアプリで見たページをはてなブックマークする方法を教えてください（iPhone）",
     "source_locale": "ja",
@@ -24,6 +24,7 @@
     "permission_group_id": 972311,
     "content_tag_ids": [],
     "label_names": [],
-    "body": "<p>お使いのブラウザアプリやSNSアプリで気になるページを発見した場合、アプリの共有ボタンから、簡単にはてなブックマークに登録できます。</p>\n<p>すでにユーザー登録がお済みで、はてなブックマークiOSアプリをご利用の場合は、ブラウザアプリやSNSアプリで気になるページを開いてみてください。</p>\n<p>共有ボタン<img src=\"https://hatena.zendesk.com/hc/article_attachments/900007962603\" alt=\"share_button.png\" width=\"22\" height=\"25\">をタップすると、はてなブックマークのアイコン<img style=\"font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif;\" src=\"https://hatena.zendesk.com/hc/article_attachments/900008791203\" alt=\"hatena-bookmark-logo-s.png\" width=\"15\" height=\"15\"> <span style=\"font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif;\">が表示されますので、</span><span style=\"font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif;\">アイコンを</span><span style=\"font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif;\">タップしてブックマークをお試しください。詳しい操作は動画をご参照ください。</span></p>\n<p><iframe src=\"https://www.youtube.com/embed/B6CqvkjNSVo?rel=0\" width=\"100%\" height=\"315\" frameborder=\"0\" allowfullscreen=\"\"></iframe></p>\n<p> </p>"
+    "body": "<p>お使いのブラウザアプリやSNSアプリで気になるページを発見した場合、アプリの共有ボタンから、簡単にはてなブックマークに登録できます。</p>\n<p>すでにユーザー登録がお済みで、はてなブックマークiOSアプリをご利用の場合は、ブラウザアプリやSNSアプリで気になるページを開いてみてください。</p>\n<p>共有ボタン<img src=\"https://hatena.zendesk.com/hc/article_attachments/900007962603\" alt=\"share_button.png\" width=\"22\" height=\"25\">をタップすると、はてなブックマークのアイコン<img style=\"font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif;\" src=\"https://hatena.zendesk.com/hc/article_attachments/900008791203\" alt=\"hatena-bookmark-logo-s.png\" width=\"15\" height=\"15\"> <span style=\"font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif;\">が表示されますので、</span><span style=\"font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif;\">アイコンを</span><span style=\"font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif;\">タップしてブックマークをお試しください。詳しい操作は動画をご参照ください。</span></p>\n<p><iframe src=\"https://www.youtube.com/embed/B6CqvkjNSVo?rel=0\" width=\"100%\" height=\"315\" frameborder=\"0\" allowfullscreen=\"\"></iframe></p>\n<p> </p>",
+    "user_segment_ids": []
   }
 }

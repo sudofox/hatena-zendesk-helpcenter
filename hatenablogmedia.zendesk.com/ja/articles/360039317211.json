@@ -12,7 +12,7 @@
     "vote_count": 0,
     "section_id": 360006001571,
     "created_at": "2020-01-29T08:32:23Z",
-    "updated_at": "2020-07-08T05:59:13Z",
+    "updated_at": "2024-08-23T11:04:03Z",
     "name": "ブログのアイキャッチ画像を設定している場合、RSSリーダーで画像が表示されるようになりました",
     "title": "ブログのアイキャッチ画像を設定している場合、RSSリーダーで画像が表示されるようになりました",
     "source_locale": "ja",
@@ -24,6 +24,7 @@
     "permission_group_id": 972311,
     "content_tag_ids": [],
     "label_names": [],
-    "body": "<p><span style=\"font-weight: 400;\">平素は、はてなブログMediaをご利用いただきありがとうございます。</span></p>\n<p><span style=\"font-weight: 400;\">はてなブログMediaでは、RSSフィードの内容を改修し、ブログにデフォルトのアイキャッチ画像を設定している場合、RSSリーダー等で画像が表示されるようにしました。</span></p>\n<p><span style=\"font-weight: 400;\"><img src=\"https://hatenablogmedia.zendesk.com/hc/article_attachments/360048426691/20200129144949.png\" alt=\"20200129144949.png\"></span></p>\n<p><span style=\"font-weight: 400;\">これまでは、記事に画像が設定されていない場合はてなブログのデフォルト画像が表示されていましたが、今回の改修により、詳細設定で設定されたアイキャッチ画像（記事のサムネイル）が表示されるようになりました。どうぞご利用ください。</span></p>\n<p><span style=\"font-weight: 400;\">アイキャッチ画像の設定方法に関してはこちらをご確認ください。</span></p>\n<p><a href=\"https://help.hatenablog.com/entry/post_thumbnail\"><span style=\"font-weight: 400;\">https://help.hatenablog.com/entry/post_thumbnail</span></a></p>\n<p><span style=\"font-weight: 400;\">※RSSリーダー等のサムネイル画像で、はてなブログのロゴ画像が表示されている場合は、画像を再度アップロードして頂き、「アイキャッチ画像」を設定し直してください。</span></p>"
+    "body": "<p><span style=\"font-weight: 400;\">平素は、はてなブログMediaをご利用いただきありがとうございます。</span></p>\n<p><span style=\"font-weight: 400;\">はてなブログMediaでは、RSSフィードの内容を改修し、ブログにデフォルトのアイキャッチ画像を設定している場合、RSSリーダー等で画像が表示されるようにしました。</span></p>\n<p><span style=\"font-weight: 400;\"><img src=\"https://hatenablogmedia.zendesk.com/hc/article_attachments/360048426691/20200129144949.png\" alt=\"20200129144949.png\"></span></p>\n<p><span style=\"font-weight: 400;\">これまでは、記事に画像が設定されていない場合はてなブログのデフォルト画像が表示されていましたが、今回の改修により、詳細設定で設定されたアイキャッチ画像（記事のサムネイル）が表示されるようになりました。どうぞご利用ください。</span></p>\n<p><span style=\"font-weight: 400;\">アイキャッチ画像の設定方法に関してはこちらをご確認ください。</span></p>\n<p><a href=\"https://help.hatenablog.com/entry/post_thumbnail\"><span style=\"font-weight: 400;\">https://help.hatenablog.com/entry/post_thumbnail</span></a></p>\n<p><span style=\"font-weight: 400;\">※RSSリーダー等のサムネイル画像で、はてなブログのロゴ画像が表示されている場合は、画像を再度アップロードして頂き、「アイキャッチ画像」を設定し直してください。</span></p>",
+    "user_segment_ids": []
   }
 }

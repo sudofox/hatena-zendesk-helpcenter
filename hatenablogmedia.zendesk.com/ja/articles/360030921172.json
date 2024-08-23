@@ -12,7 +12,7 @@
     "vote_count": 1,
     "section_id": 360005938172,
     "created_at": "2019-07-25T01:29:06Z",
-    "updated_at": "2024-04-01T12:28:45Z",
+    "updated_at": "2024-08-23T11:17:55Z",
     "name": "日時を指定して予約投稿する",
     "title": "日時を指定して予約投稿する",
     "source_locale": "ja",
@@ -24,6 +24,7 @@
     "permission_group_id": 972311,
     "content_tag_ids": [],
     "label_names": [],
-    "body": "<h2><span style=\"font-size: 1.5em; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif;\">記事を予約投稿する方法</span></h2>\n<div class=\"section\">\n<ol>\n<li>管理画面 &gt; [<strong>記事を書く</strong>]の「編集オプション」をクリックし、「投稿日時」を開く<br><img src=\"https://hatenablogmedia.zendesk.com/hc/article_attachments/4407270375449/__________2021-10-01_14.22.44.png\" alt=\"__________2021-10-01_14.22.44.png\"><br><br>\n</li>\n<li>「投稿日時」に未来の日時を指定する（未来の日時を指定すると、「<strong>指定日時で予約投稿する</strong>」が自動的に選択される）<br>\n<p class=\"alert alert-info\">投稿日時の指定では、年月日を省略できません。同日に投稿する場合でも、必ず欄をクリックして指定してください。時分は省略でき、その場合は自動で深夜0時0分の記事として投稿されます。</p>\n<p class=\"alert alert-info\">「公開と同時にシェアする」オプションが表示されるので、公開と同時にソーシャルシェアしたいメディアがある場合はチェックを入れ、テキストを記載する（このオプションを利用するには、事前に「はてなブログMedia」とSNSを連携する必要があります。詳細は「<a href=\"https://hatenablogmedia.zendesk.com/hc/ja/articles/360031261911\" target=\"_self\">外部サービス連携</a>」をご確認ください。）</p>\n</li>\n<li>「予約投稿する」ボタンをクリックする<br><img src=\"https://hatenablogmedia.zendesk.com/hc/article_attachments/4407270709401/__________2021-10-01_14.42.03.png\" alt=\"__________2021-10-01_14.42.03.png\"><br>\n<p class=\"alert alert-info\">記事は予約時間まで「下書き」として保存され、実際に公開されるまで再編集できます。</p>\n</li>\n<li>指定した投稿日時になると記事は自動的に公開され、指定したソーシャルシェアが実行される</li>\n</ol>\n</div>\n<h2>\n<br>投稿日時に表示されているラジオボタンについて</h2>\n<ul>\n<li>投稿日時が未指定または過去の日時の場合「すぐに公開する」が自動で選択され、「指定日時で予約投稿する」を選択することはできません。</li>\n<li>投稿日時に未来の日時を設定すると、自動で「指定日時で予約投稿する」が選択されます。未来の日時ですぐに記事を公開したいときには、ラジオボタンで「すぐに公開する」を選択してください。</li>\n</ul>"
+    "body": "<h2><span style=\"font-size: 1.5em; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif;\">記事を予約投稿する方法</span></h2>\n<div class=\"section\">\n<ol>\n<li>管理画面 &gt; [<strong>記事を書く</strong>]の「編集オプション」をクリックし、「投稿日時」を開く<br><img src=\"https://hatenablogmedia.zendesk.com/hc/article_attachments/4407270375449/__________2021-10-01_14.22.44.png\" alt=\"__________2021-10-01_14.22.44.png\"><br><br>\n</li>\n<li>「投稿日時」に未来の日時を指定する（未来の日時を指定すると、「<strong>指定日時で予約投稿する</strong>」が自動的に選択される）<br>\n<p class=\"alert alert-info\">投稿日時の指定では、年月日を省略できません。同日に投稿する場合でも、必ず欄をクリックして指定してください。時分は省略でき、その場合は自動で深夜0時0分の記事として投稿されます。</p>\n<p class=\"alert alert-info\">「公開と同時にシェアする」オプションが表示されるので、公開と同時にソーシャルシェアしたいメディアがある場合はチェックを入れ、テキストを記載する（このオプションを利用するには、事前に「はてなブログMedia」とSNSを連携する必要があります。詳細は「<a href=\"https://hatenablogmedia.zendesk.com/hc/ja/articles/360031261911\" target=\"_self\">外部サービス連携</a>」をご確認ください。）</p>\n</li>\n<li>「予約投稿する」ボタンをクリックする<br><img src=\"https://hatenablogmedia.zendesk.com/hc/article_attachments/4407270709401/__________2021-10-01_14.42.03.png\" alt=\"__________2021-10-01_14.42.03.png\"><br>\n<p class=\"alert alert-info\">記事は予約時間まで「下書き」として保存され、実際に公開されるまで再編集できます。</p>\n</li>\n<li>指定した投稿日時になると記事は自動的に公開され、指定したソーシャルシェアが実行される</li>\n</ol>\n</div>\n<h2>\n<br>投稿日時に表示されているラジオボタンについて</h2>\n<ul>\n<li>投稿日時が未指定または過去の日時の場合「すぐに公開する」が自動で選択され、「指定日時で予約投稿する」を選択することはできません。</li>\n<li>投稿日時に未来の日時を設定すると、自動で「指定日時で予約投稿する」が選択されます。未来の日時ですぐに記事を公開したいときには、ラジオボタンで「すぐに公開する」を選択してください。</li>\n</ul>",
+    "user_segment_ids": []
   }
 }

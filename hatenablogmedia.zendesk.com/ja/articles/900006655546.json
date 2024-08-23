@@ -12,7 +12,7 @@
     "vote_count": 1,
     "section_id": 360004955652,
     "created_at": "2021-05-28T05:01:41Z",
-    "updated_at": "2024-03-25T05:56:57Z",
+    "updated_at": "2024-08-23T10:15:28Z",
     "name": "「はてなフォトライフ」にアップロードした画像のURLをコピーしたい",
     "title": "「はてなフォトライフ」にアップロードした画像のURLをコピーしたい",
     "source_locale": "ja",
@@ -24,6 +24,7 @@
     "permission_group_id": 972311,
     "content_tag_ids": [],
     "label_names": [],
-    "body": "<p>「はてなフォトライフ」にアップロードした画像のURLをコピーする方法は以下の2つあります。</p>\n<ol>\n<li><a href=\"#h_01F7010857BF27TSDEPK807C1V\" target=\"_self\">新たにアップロードした画像のURLをコピーする</a></li>\n<li><a href=\"#h_01F7010H2FHQ3Y8F40P8JRPQAD\" target=\"_self\">過去にアップロードした画像のURLをコピーする</a></li>\n</ol>\n<h2 id=\"h_01F7010857BF27TSDEPK807C1V\">新たにアップロードした画像のURLをコピーする</h2>\n<ol>\n<li>1.アップロード &gt; 2.作成したフォルダを選択 &gt; 3.画像をアップロードの順で画像をアップロードします。アップロードした画像は4に表示され、クリックすると画像の詳細画面が開きます。<br>（画像のアップロード方法の詳細については、「「はてなフォトライフ」にフォルダを作って画像をアップロードしたい」をご確認ください。）<br><img src=\"https://hatenablogmedia.zendesk.com/hc/article_attachments/4404565532313/__________2021-08-04_14.53.19.png\" alt=\"__________2021-08-04_14.53.19.png\"><br><br><br>\n</li>\n<li>画像上で右クリックし、メニューを表示します。メニューの中にある「画像アドレスをコピー」をクリックします。これで画像のURLがコピーできました。<img src=\"https://hatenablogmedia.zendesk.com/hc/article_attachments/900008824026/________2.png\" alt=\"________2.png\">\n</li>\n</ol>\n<p> </p>\n<p> </p>\n<h2 id=\"h_01F7010H2FHQ3Y8F40P8JRPQAD\">過去にアップロードした画像のURLをコピーする</h2>\n<ol>\n<li>「マイフォト」画面を開き、画像が入っているフォルダをクリックします。画像をクリックし、画像の詳細画面を開きます。<br><img src=\"https://hatenablogmedia.zendesk.com/hc/article_attachments/900009777303/___________.png\" alt=\"___________.png\"><br><br>\n</li>\n<li>画像上で右クリックし、メニューを表示します。メニューの中にある「画像アドレスをコピー」をクリックします。これで画像のURLがコピーできました。<img src=\"https://hatenablogmedia.zendesk.com/hc/article_attachments/900008824026/________2.png\" alt=\"________2.png\">\n</li>\n</ol>"
+    "body": "<p>「はてなフォトライフ」にアップロードした画像のURLをコピーする方法は以下の2つあります。</p>\n<ol>\n<li><a href=\"#h_01F7010857BF27TSDEPK807C1V\" target=\"_self\">新たにアップロードした画像のURLをコピーする</a></li>\n<li><a href=\"#h_01F7010H2FHQ3Y8F40P8JRPQAD\" target=\"_self\">過去にアップロードした画像のURLをコピーする</a></li>\n</ol>\n<h2 id=\"h_01F7010857BF27TSDEPK807C1V\">新たにアップロードした画像のURLをコピーする</h2>\n<ol>\n<li>1.アップロード &gt; 2.作成したフォルダを選択 &gt; 3.画像をアップロードの順で画像をアップロードします。アップロードした画像は4に表示され、クリックすると画像の詳細画面が開きます。<br>（画像のアップロード方法の詳細については、「「はてなフォトライフ」にフォルダを作って画像をアップロードしたい」をご確認ください。）<br><img src=\"https://hatenablogmedia.zendesk.com/hc/article_attachments/4404565532313/__________2021-08-04_14.53.19.png\" alt=\"__________2021-08-04_14.53.19.png\"><br><br><br>\n</li>\n<li>画像上で右クリックし、メニューを表示します。メニューの中にある「画像アドレスをコピー」をクリックします。これで画像のURLがコピーできました。<img src=\"https://hatenablogmedia.zendesk.com/hc/article_attachments/900008824026/________2.png\" alt=\"________2.png\">\n</li>\n</ol>\n<p> </p>\n<p> </p>\n<h2 id=\"h_01F7010H2FHQ3Y8F40P8JRPQAD\">過去にアップロードした画像のURLをコピーする</h2>\n<ol>\n<li>「マイフォト」画面を開き、画像が入っているフォルダをクリックします。画像をクリックし、画像の詳細画面を開きます。<br><img src=\"https://hatenablogmedia.zendesk.com/hc/article_attachments/900009777303/___________.png\" alt=\"___________.png\"><br><br>\n</li>\n<li>画像上で右クリックし、メニューを表示します。メニューの中にある「画像アドレスをコピー」をクリックします。これで画像のURLがコピーできました。<img src=\"https://hatenablogmedia.zendesk.com/hc/article_attachments/900008824026/________2.png\" alt=\"________2.png\">\n</li>\n</ol>",
+    "user_segment_ids": []
   }
 }

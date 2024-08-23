@@ -12,7 +12,7 @@
     "vote_count": 1,
     "section_id": 360007057892,
     "created_at": "2020-12-10T02:43:17Z",
-    "updated_at": "2023-09-11T08:06:03Z",
+    "updated_at": "2024-08-23T09:43:41Z",
     "name": "記事にInstagramを埋め込む際、キャプションを非表示にする方法はありますか？",
     "title": "記事にInstagramを埋め込む際、キャプションを非表示にする方法はありますか？",
     "source_locale": "ja",
@@ -24,6 +24,7 @@
     "permission_group_id": 972311,
     "content_tag_ids": [],
     "label_names": [],
-    "body": "<p>はてな記法の<code>:embed</code>を利用してInstagramを記事に埋め込んでいる場合、<code>:hidecaption</code>を付与することによりキャプションを非表示にできます。</p>\n<p>▼例</p>\n<p>キャプションを表示する場合</p>\n<pre>[https://www.instagram.com/p/BQhecROl7Wz/:embed]</pre>\n<p>キャプションを非表示にする場合</p>\n<pre>[https://www.instagram.com/p/BQhecROl7Wz/:embed:hidecaption]</pre>\n<table style=\"border-collapse: collapse; width: 100%;\" border=\"1\">\n<tbody>\n<tr>\n<td class=\"wysiwyg-text-align-center\" style=\"width: 50%;\">キャプションなし</td>\n<td class=\"wysiwyg-text-align-center\" style=\"width: 50%;\">キャプションあり</td>\n</tr>\n<tr>\n<td class=\"wysiwyg-text-align-center\" style=\"width: 50%;\"><img src=\"https://hatenablogmedia.zendesk.com/hc/article_attachments/900005075186/__________2020-12-10_11.39.24.png\" alt=\"__________2020-12-10_11.39.24.png\" width=\"280\" height=\"632\"></td>\n<td class=\"wysiwyg-text-align-center\" style=\"width: 50%;\"><img src=\"https://hatenablogmedia.zendesk.com/hc/article_attachments/900006007343/__________2020-12-10_11.39.40.png\" alt=\"__________2020-12-10_11.39.40.png\" width=\"283\" height=\"544\"></td>\n</tr>\n</tbody>\n</table>\n<p class=\"alert alert-warning\">Instagramの「埋め込み」コードまたは「リンクをコピー」から取得したデータをはてなブログMediaに貼り付けるとスマートニュースに正しく表示されません。スマートニュースと連携している場合ははてな記法をご利用ください。</p>"
+    "body": "<p>はてな記法の<code>:embed</code>を利用してInstagramを記事に埋め込んでいる場合、<code>:hidecaption</code>を付与することによりキャプションを非表示にできます。</p>\n<p>▼例</p>\n<p>キャプションを表示する場合</p>\n<pre>[https://www.instagram.com/p/BQhecROl7Wz/:embed]</pre>\n<p>キャプションを非表示にする場合</p>\n<pre>[https://www.instagram.com/p/BQhecROl7Wz/:embed:hidecaption]</pre>\n<table style=\"border-collapse: collapse; width: 100%;\" border=\"1\">\n<tbody>\n<tr>\n<td class=\"wysiwyg-text-align-center\" style=\"width: 50%;\">キャプションなし</td>\n<td class=\"wysiwyg-text-align-center\" style=\"width: 50%;\">キャプションあり</td>\n</tr>\n<tr>\n<td class=\"wysiwyg-text-align-center\" style=\"width: 50%;\"><img src=\"https://hatenablogmedia.zendesk.com/hc/article_attachments/900005075186/__________2020-12-10_11.39.24.png\" alt=\"__________2020-12-10_11.39.24.png\" width=\"280\" height=\"632\"></td>\n<td class=\"wysiwyg-text-align-center\" style=\"width: 50%;\"><img src=\"https://hatenablogmedia.zendesk.com/hc/article_attachments/900006007343/__________2020-12-10_11.39.40.png\" alt=\"__________2020-12-10_11.39.40.png\" width=\"283\" height=\"544\"></td>\n</tr>\n</tbody>\n</table>\n<p class=\"alert alert-warning\">Instagramの「埋め込み」コードまたは「リンクをコピー」から取得したデータをはてなブログMediaに貼り付けるとスマートニュースに正しく表示されません。スマートニュースと連携している場合ははてな記法をご利用ください。</p>",
+    "user_segment_ids": []
   }
 }

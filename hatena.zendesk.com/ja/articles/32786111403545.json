@@ -12,7 +12,7 @@
     "vote_count": 0,
     "section_id": 900000572906,
     "created_at": "2024-05-22T05:55:08Z",
-    "updated_at": "2024-06-04T01:19:43Z",
+    "updated_at": "2024-08-23T10:15:29Z",
     "name": "Sign in with Appleの設定方法",
     "title": "Sign in with Appleの設定方法",
     "source_locale": "ja",
@@ -24,6 +24,7 @@
     "permission_group_id": 972331,
     "content_tag_ids": [],
     "label_names": [],
-    "body": "<ul>\n<li>以下のURLから、Sign in with Appleを設定したいはてなアカウントにログインしてください\n<ul>\n<li><a href=\"https://accounts.hatena.ne.jp/login\">https://accounts.hatena.ne.jp/login</a></li>\n</ul>\n</li>\n<li>以下のURLから設定画面に進んでください\n<ul>\n<li><a href=\"https://accounts.hatena.ne.jp/settings\">https://accounts.hatena.ne.jp/settings</a></li>\n</ul>\n</li>\n<li>設定画面「外部アカウント連携」の右側「設定する」をクリック、または以下のURLから外部サービス連携画面に進んでください\n<ul>\n<li><a href=\"https://accounts.hatena.ne.jp/settings/signin/external\">https://accounts.hatena.ne.jp/settings/signin/external</a></li>\n</ul>\n</li>\n<li>「Continue with Apple」のバナーをクリックすると、Apple IDの入力画面に進みます。案内に従ってApple IDにサインインしてください\n<ul>\n<li>※「<strong>はてなブログ」</strong>にサインインするにはと案内されますが、ブログを利用していないはてなアカウントにもSign in with Apple を設定できますので、そのまま進めてください<img src=\"https://hatena.zendesk.com/hc/article_attachments/32787770362009\" alt=\"appleid.png\">\n</li>\n</ul>\n</li>\n<li>「Apple ID 〇〇 ではてなブログの使用を続けますか？」と表示されたら「続ける」をクリックしてください</li>\n<li>設定が完了するとはてなの外部アカウント連携画面に遷移します。「Apple」の項目に「連携済み」と表示されていたら設定は完了です</li>\n<li>連携を解除したい場合は「連携解除」ボタンを押してください<img src=\"https://hatena.zendesk.com/hc/article_attachments/33070523725593\" alt=\"externalapple.png\">\n</li>\n<li>次回ログイン以降「Sign in with Apple」のバナーから、設定したApple IDではてなにログインできるようになります </li>\n</ul>"
+    "body": "<ul>\n<li>以下のURLから、Sign in with Appleを設定したいはてなアカウントにログインしてください\n<ul>\n<li><a href=\"https://accounts.hatena.ne.jp/login\">https://accounts.hatena.ne.jp/login</a></li>\n</ul>\n</li>\n<li>以下のURLから設定画面に進んでください\n<ul>\n<li><a href=\"https://accounts.hatena.ne.jp/settings\">https://accounts.hatena.ne.jp/settings</a></li>\n</ul>\n</li>\n<li>設定画面「外部アカウント連携」の右側「設定する」をクリック、または以下のURLから外部サービス連携画面に進んでください\n<ul>\n<li><a href=\"https://accounts.hatena.ne.jp/settings/signin/external\">https://accounts.hatena.ne.jp/settings/signin/external</a></li>\n</ul>\n</li>\n<li>「Continue with Apple」のバナーをクリックすると、Apple IDの入力画面に進みます。案内に従ってApple IDにサインインしてください\n<ul>\n<li>※「<strong>はてなブログ」</strong>にサインインするにはと案内されますが、ブログを利用していないはてなアカウントにもSign in with Apple を設定できますので、そのまま進めてください<img src=\"https://hatena.zendesk.com/hc/article_attachments/32787770362009\" alt=\"appleid.png\">\n</li>\n</ul>\n</li>\n<li>「Apple ID 〇〇 ではてなブログの使用を続けますか？」と表示されたら「続ける」をクリックしてください</li>\n<li>設定が完了するとはてなの外部アカウント連携画面に遷移します。「Apple」の項目に「連携済み」と表示されていたら設定は完了です</li>\n<li>連携を解除したい場合は「連携解除」ボタンを押してください<img src=\"https://hatena.zendesk.com/hc/article_attachments/33070523725593\" alt=\"externalapple.png\">\n</li>\n<li>次回ログイン以降「Sign in with Apple」のバナーから、設定したApple IDではてなにログインできるようになります </li>\n</ul>",
+    "user_segment_ids": []
   }
 }

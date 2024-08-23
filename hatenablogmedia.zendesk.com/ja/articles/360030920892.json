@@ -12,7 +12,7 @@
     "vote_count": 0,
     "section_id": 360006001371,
     "created_at": "2019-07-25T01:15:55Z",
-    "updated_at": "2021-11-04T02:45:08Z",
+    "updated_at": "2024-08-23T11:59:08Z",
     "name": "「はてな記法」とは",
     "title": "「はてな記法」とは",
     "source_locale": "ja",
@@ -24,6 +24,7 @@
     "permission_group_id": 972311,
     "content_tag_ids": [],
     "label_names": [],
-    "body": "<p>「はてな記法」とは、ブログを書く上で便利な機能を簡単な記述で実現できる記述法のことです。<br>「はてな記法」を使うと、HTMLの知識がなくても、見出しやリストといった、ブログを書く上で便利な表現を手軽に行えます。</p>\n<h2>例</h2>\n<p>ブログの本文で</p>\n<pre class=\"code\" data-lang=\"\" data-unlink=\"\">*今日の日記</pre>\n<p>と書くことで、ブログ上では以下のように表示され、ページを訪れた人に主張したいことを一言で表せる「見出し」としてアピールすることができます。</p>\n<p><span style=\"font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif;\"><img src=\"https://hatenablogmedia.zendesk.com/hc/article_attachments/360037428311/2019083009.png\" alt=\"2019083009.png\"> </span></p>\n<p>この見出しは、HTMLでは</p>\n<pre class=\"code\" data-lang=\"\" data-unlink=\"\">&lt;h3&gt;今日の日記&lt;/h3&gt;</pre>\n<p>と書く必要がありますが、<strong>「はてな記法」を使うと半角アスタリスク<code>*</code>だけで簡単に記述できます。</strong></p>\n<div class=\"section\">\n<h2>\n<br>「はてな記法」を使う方法</h2>\n<p>記事編集画面の「編集」タブから「はてな記法」を選択し、記事を書いてください。</p>\n<p><img src=\"https://hatenablogmedia.zendesk.com/hc/article_attachments/4406871638041/__________2021-09-22_18.53.46.png\" alt=\"__________2021-09-22_18.53.46.png\"></p>\n<p> </p>\n</div>\n<div class=\"section\">\n<h2>関連する情報</h2>\n<ul>\n<li><a class=\"outside\" href=\"http://search.cpan.org/dist/Text-Hatena/\" target=\"_blank\" rel=\"noopener\">Text-Hatena</a></li>\n</ul>\n</div>"
+    "body": "<p>「はてな記法」とは、ブログを書く上で便利な機能を簡単な記述で実現できる記述法のことです。<br>「はてな記法」を使うと、HTMLの知識がなくても、見出しやリストといった、ブログを書く上で便利な表現を手軽に行えます。</p>\n<h2>例</h2>\n<p>ブログの本文で</p>\n<pre class=\"code\" data-lang=\"\" data-unlink=\"\">*今日の日記</pre>\n<p>と書くことで、ブログ上では以下のように表示され、ページを訪れた人に主張したいことを一言で表せる「見出し」としてアピールすることができます。</p>\n<p><span style=\"font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif;\"><img src=\"https://hatenablogmedia.zendesk.com/hc/article_attachments/360037428311/2019083009.png\" alt=\"2019083009.png\"> </span></p>\n<p>この見出しは、HTMLでは</p>\n<pre class=\"code\" data-lang=\"\" data-unlink=\"\">&lt;h3&gt;今日の日記&lt;/h3&gt;</pre>\n<p>と書く必要がありますが、<strong>「はてな記法」を使うと半角アスタリスク<code>*</code>だけで簡単に記述できます。</strong></p>\n<div class=\"section\">\n<h2>\n<br>「はてな記法」を使う方法</h2>\n<p>記事編集画面の「編集」タブから「はてな記法」を選択し、記事を書いてください。</p>\n<p><img src=\"https://hatenablogmedia.zendesk.com/hc/article_attachments/4406871638041/__________2021-09-22_18.53.46.png\" alt=\"__________2021-09-22_18.53.46.png\"></p>\n<p> </p>\n</div>\n<div class=\"section\">\n<h2>関連する情報</h2>\n<ul>\n<li><a class=\"outside\" href=\"http://search.cpan.org/dist/Text-Hatena/\" target=\"_blank\" rel=\"noopener\">Text-Hatena</a></li>\n</ul>\n</div>",
+    "user_segment_ids": []
   }
 }

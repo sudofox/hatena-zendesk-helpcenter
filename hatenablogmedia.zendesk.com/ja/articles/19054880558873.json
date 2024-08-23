@@ -12,7 +12,7 @@
     "vote_count": 0,
     "section_id": 16028462122905,
     "created_at": "2023-05-30T08:57:49Z",
-    "updated_at": "2023-09-27T00:40:16Z",
+    "updated_at": "2024-08-23T09:43:41Z",
     "name": "メディア運営に関連する設定のソースコード-hbm-visual,hbm-text",
     "title": "メディア運営に関連する設定のソースコード-hbm-visual,hbm-text",
     "source_locale": "ja",
@@ -24,6 +24,7 @@
     "permission_group_id": 972311,
     "content_tag_ids": [],
     "label_names": [],
-    "body": "<h2>hbm-visual,hbm-textのソースコード</h2>\n<p>visual / hbm-textの場合は、下記のHTMLソースコードをコピーして貼り付けてください。</p>\n<pre>&lt;p class=\"center\"&gt;&lt;img src=\"https://placehold.jp/500x100.png?text=MEDIAJOURNAL\" alt=\"\"&gt;&lt;/p&gt;<br>&lt;h1&gt;このメディアについて&lt;/h1&gt;<br>&lt;p&gt;メディアの紹介文をここに記載いたします。テキストテキストテキストテキストテキストテキストテキストテキスト。&lt;br&gt; &lt;br&gt;メディアの紹介文をここに記載いたします。テキストテキストテキストテキストテキストテキストテキストテキスト。&lt;br&gt; &lt;br&gt;メディアの紹介文をここに記載いたします。テキストテキストテキストテキストテキストテキストテキストテキスト。&lt;/p&gt;<br>&lt;h2&gt;運営会社ついて&lt;/h2&gt;<br>&lt;p&gt;運営会社の紹介文をここに記載いたします。テキストテキストテキストテキストテキストテキストテキストテキスト。&lt;br&gt; &lt;br&gt;運営会社の紹介文をここに記載いたします。テキストテキストテキストテキストテキストテキストテキストテキスト。&lt;/p&gt;<br>&lt;ul&gt;<br>&lt;li&gt;&lt;a href=\"\" target=\"_blank\"&gt;プライバシーポリシー&lt;/a&gt;&lt;/li&gt;<br>&lt;li&gt;&lt;a href=\"\" target=\"_blank\"&gt;お問い合わせ&lt;/a&gt;&lt;/li&gt;<br>&lt;/ul&gt;<br>&lt;h4&gt;株式会社はてなプライバシーポリシー&lt;/h4&gt;<br>&lt;ul&gt;<br>&lt;li&gt;&lt;a href=\"https://policies.hatena.ne.jp/privacypolicy-ja\" target=\"_blank\"&gt;プライバシーポリシー&lt;/a&gt;&lt;/li&gt;<br>&lt;/ul&gt;</pre>\n<h3><strong>テンプレート内容</strong></h3>\n<p><strong><img src=\"https://hatenablogmedia.zendesk.com/hc/article_attachments/19055706901273\" alt=\"hbm-visual_hbm-text_____________20221005_____02_____55____0003.png\"></strong></p>\n<ul>\n<li>メディア画像</li>\n<li>このメディアについて</li>\n<li>本メディアの運営会社について</li>\n<li>株式会社はてなプライバシーポリシー</li>\n</ul>\n<p class=\"alert alert-info\">株式会社はてなプライバシーポリシーの項目は説明を割愛させて頂きます。<br>ブログの数値計測に必要な項目なので絶対に削除しないでください。</p>"
+    "body": "<h2>hbm-visual,hbm-textのソースコード</h2>\n<p>visual / hbm-textの場合は、下記のHTMLソースコードをコピーして貼り付けてください。</p>\n<pre>&lt;p class=\"center\"&gt;&lt;img src=\"https://placehold.jp/500x100.png?text=MEDIAJOURNAL\" alt=\"\"&gt;&lt;/p&gt;<br>&lt;h1&gt;このメディアについて&lt;/h1&gt;<br>&lt;p&gt;メディアの紹介文をここに記載いたします。テキストテキストテキストテキストテキストテキストテキストテキスト。&lt;br&gt; &lt;br&gt;メディアの紹介文をここに記載いたします。テキストテキストテキストテキストテキストテキストテキストテキスト。&lt;br&gt; &lt;br&gt;メディアの紹介文をここに記載いたします。テキストテキストテキストテキストテキストテキストテキストテキスト。&lt;/p&gt;<br>&lt;h2&gt;運営会社ついて&lt;/h2&gt;<br>&lt;p&gt;運営会社の紹介文をここに記載いたします。テキストテキストテキストテキストテキストテキストテキストテキスト。&lt;br&gt; &lt;br&gt;運営会社の紹介文をここに記載いたします。テキストテキストテキストテキストテキストテキストテキストテキスト。&lt;/p&gt;<br>&lt;ul&gt;<br>&lt;li&gt;&lt;a href=\"\" target=\"_blank\"&gt;プライバシーポリシー&lt;/a&gt;&lt;/li&gt;<br>&lt;li&gt;&lt;a href=\"\" target=\"_blank\"&gt;お問い合わせ&lt;/a&gt;&lt;/li&gt;<br>&lt;/ul&gt;<br>&lt;h4&gt;株式会社はてなプライバシーポリシー&lt;/h4&gt;<br>&lt;ul&gt;<br>&lt;li&gt;&lt;a href=\"https://policies.hatena.ne.jp/privacypolicy-ja\" target=\"_blank\"&gt;プライバシーポリシー&lt;/a&gt;&lt;/li&gt;<br>&lt;/ul&gt;</pre>\n<h3><strong>テンプレート内容</strong></h3>\n<p><strong><img src=\"https://hatenablogmedia.zendesk.com/hc/article_attachments/19055706901273\" alt=\"hbm-visual_hbm-text_____________20221005_____02_____55____0003.png\"></strong></p>\n<ul>\n<li>メディア画像</li>\n<li>このメディアについて</li>\n<li>本メディアの運営会社について</li>\n<li>株式会社はてなプライバシーポリシー</li>\n</ul>\n<p class=\"alert alert-info\">株式会社はてなプライバシーポリシーの項目は説明を割愛させて頂きます。<br>ブログの数値計測に必要な項目なので絶対に削除しないでください。</p>",
+    "user_segment_ids": []
   }
 }

@@ -8,11 +8,11 @@
     "draft": false,
     "promoted": false,
     "position": 0,
-    "vote_sum": 0,
-    "vote_count": 0,
+    "vote_sum": 1,
+    "vote_count": 1,
     "section_id": 900000572906,
     "created_at": "2024-05-29T03:24:28Z",
-    "updated_at": "2024-06-04T01:20:33Z",
+    "updated_at": "2024-08-23T11:17:56Z",
     "name": "Sign in with X（Twitter）の設定方法",
     "title": "Sign in with X（Twitter）の設定方法",
     "source_locale": "ja",
@@ -24,6 +24,7 @@
     "permission_group_id": 972331,
     "content_tag_ids": [],
     "label_names": [],
-    "body": "<ul>\n<li>以下のURLから、Sign in with Xを設定したいはてなアカウントにログインしてください\n<ul>\n<li><a href=\"https://accounts.hatena.ne.jp/login\">https://accounts.hatena.ne.jp/login</a></li>\n</ul>\n</li>\n<li>以下のURLから設定画面に進んでください\n<ul>\n<li><a href=\"https://accounts.hatena.ne.jp/settings\">https://accounts.hatena.ne.jp/settings</a></li>\n</ul>\n</li>\n<li>設定画面「外部アカウント連携」の右側「設定する」をクリック、または以下のURLから外部サービス連携画面に進んでください\n<ul>\n<li><a href=\"https://accounts.hatena.ne.jp/settings/signin/external\">https://accounts.hatena.ne.jp/settings/signin/external</a></li>\n</ul>\n</li>\n<li>「Sign in with X」のバナーをクリックすると、X（Twitter）のアプリケーション認証画面が開きます。案内に従ってX（Twitter）のアカウント情報を入力しログインボタンを押してください。<img src=\"https://hatena.zendesk.com/hc/article_attachments/33070862867865\" alt=\"X.png\">\n</li>\n<li>設定が完了するとはてなの外部アカウント連携画面に遷移します。「Twitter」の項目に「連携済み」と表示されていたら設定は完了です</li>\n<li>連携を解除したい場合は「連携解除」ボタンを押してください<img src=\"https://hatena.zendesk.com/hc/article_attachments/33070862870425\" alt=\"extarnalX.png\">\n</li>\n<li>次回ログイン以降「Sign in with X」のバナーから、設定したXアカウントではてなにログインできるようになります </li>\n</ul>"
+    "body": "<ul>\n<li>以下のURLから、Sign in with Xを設定したいはてなアカウントにログインしてください\n<ul>\n<li><a href=\"https://accounts.hatena.ne.jp/login\">https://accounts.hatena.ne.jp/login</a></li>\n</ul>\n</li>\n<li>以下のURLから設定画面に進んでください\n<ul>\n<li><a href=\"https://accounts.hatena.ne.jp/settings\">https://accounts.hatena.ne.jp/settings</a></li>\n</ul>\n</li>\n<li>設定画面「外部アカウント連携」の右側「設定する」をクリック、または以下のURLから外部サービス連携画面に進んでください\n<ul>\n<li><a href=\"https://accounts.hatena.ne.jp/settings/signin/external\">https://accounts.hatena.ne.jp/settings/signin/external</a></li>\n</ul>\n</li>\n<li>「Sign in with X」のバナーをクリックすると、X（Twitter）のアプリケーション認証画面が開きます。案内に従ってX（Twitter）のアカウント情報を入力しログインボタンを押してください。<img src=\"https://hatena.zendesk.com/hc/article_attachments/33070862867865\" alt=\"X.png\">\n</li>\n<li>設定が完了するとはてなの外部アカウント連携画面に遷移します。「Twitter」の項目に「連携済み」と表示されていたら設定は完了です</li>\n<li>連携を解除したい場合は「連携解除」ボタンを押してください<img src=\"https://hatena.zendesk.com/hc/article_attachments/33070862870425\" alt=\"extarnalX.png\">\n</li>\n<li>次回ログイン以降「Sign in with X」のバナーから、設定したXアカウントではてなにログインできるようになります </li>\n</ul>",
+    "user_segment_ids": []
   }
 }

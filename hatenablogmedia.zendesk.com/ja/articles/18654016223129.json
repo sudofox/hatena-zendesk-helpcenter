@@ -12,7 +12,7 @@
     "vote_count": 0,
     "section_id": 16028613025305,
     "created_at": "2023-05-18T08:56:00Z",
-    "updated_at": "2023-09-27T00:42:25Z",
+    "updated_at": "2024-08-23T11:17:55Z",
     "name": "hbm-simple-p1の仕様について",
     "title": "hbm-simple-p1の仕様について",
     "source_locale": "ja",
@@ -24,6 +24,7 @@
     "permission_group_id": 972311,
     "content_tag_ids": [],
     "label_names": [],
-    "body": "<h2>テーマの特長</h2>\n<p>各テーマの特徴は「<a href=\"https://hatenablogmedia.zendesk.com/hc/ja/articles/360032509272\" target=\"_self\" rel=\"undefined\">デザインテーマの種類」</a>を参考にしてください。</p>\n<p> </p>\n<h2>テーマのデザイン仕様</h2>\n<p class=\"wysiwyg-text-align-center\"><img src=\"https://hatenablogmedia.zendesk.com/hc/article_attachments/18654269466521\" alt=\"______Media________hbm-simple-p1__________________73____0001.png\"></p>\n<h4>レスポンシブブレイクアウトのブレイクポイント</h4>\n<p>PC 901px 以上　タブレット・SP 769px 以下</p>\n<p> </p>\n<p class=\"wysiwyg-text-align-center\"><img src=\"https://hatenablogmedia.zendesk.com/hc/article_attachments/18654258805145\" alt=\"______Media________hbm-simple-p1__________________73____0002.png\"></p>\n<h4>コンテンツ幅</h4>\n<table style=\"border-collapse: collapse; width: 100%; height: 66px;\" border=\"1\">\n<tbody>\n<tr style=\"height: 22px;\">\n<td style=\"width: 50%; height: 22px;\">トップページ等の2カラムページ</td>\n<td style=\"width: 50%; height: 22px;\">1200px ～ 375px</td>\n</tr>\n<tr style=\"height: 22px;\">\n<td style=\"width: 50%; height: 22px;\">記事ページ</td>\n<td style=\"width: 50%; height: 22px;\">900px ～ 375px</td>\n</tr>\n</tbody>\n</table>\n<p>※上記は基準値で、要素によってはコンテンツ幅に違いがあります。</p>\n<p> </p>\n<h4>推奨画像サイズ</h4>\n<p>幅 840px x 高さ 460px</p>"
+    "body": "<h2>テーマの特長</h2>\n<p>各テーマの特徴は「<a href=\"https://hatenablogmedia.zendesk.com/hc/ja/articles/360032509272\" target=\"_self\" rel=\"undefined\">デザインテーマの種類」</a>を参考にしてください。</p>\n<p> </p>\n<h2>テーマのデザイン仕様</h2>\n<p class=\"wysiwyg-text-align-center\"><img src=\"https://hatenablogmedia.zendesk.com/hc/article_attachments/18654269466521\" alt=\"______Media________hbm-simple-p1__________________73____0001.png\"></p>\n<h4>レスポンシブブレイクアウトのブレイクポイント</h4>\n<p>PC 901px 以上　タブレット・SP 769px 以下</p>\n<p> </p>\n<p class=\"wysiwyg-text-align-center\"><img src=\"https://hatenablogmedia.zendesk.com/hc/article_attachments/18654258805145\" alt=\"______Media________hbm-simple-p1__________________73____0002.png\"></p>\n<h4>コンテンツ幅</h4>\n<table style=\"border-collapse: collapse; width: 100%; height: 66px;\" border=\"1\">\n<tbody>\n<tr style=\"height: 22px;\">\n<td style=\"width: 50%; height: 22px;\">トップページ等の2カラムページ</td>\n<td style=\"width: 50%; height: 22px;\">1200px ～ 375px</td>\n</tr>\n<tr style=\"height: 22px;\">\n<td style=\"width: 50%; height: 22px;\">記事ページ</td>\n<td style=\"width: 50%; height: 22px;\">900px ～ 375px</td>\n</tr>\n</tbody>\n</table>\n<p>※上記は基準値で、要素によってはコンテンツ幅に違いがあります。</p>\n<p> </p>\n<h4>推奨画像サイズ</h4>\n<p>幅 840px x 高さ 460px</p>",
+    "user_segment_ids": []
   }
 }

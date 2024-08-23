@@ -8,11 +8,11 @@
     "draft": false,
     "promoted": true,
     "position": 1,
-    "vote_sum": 6,
-    "vote_count": 14,
+    "vote_sum": 10,
+    "vote_count": 30,
     "section_id": 30331790760729,
     "created_at": "2024-03-14T09:45:52Z",
-    "updated_at": "2024-04-24T08:13:51Z",
+    "updated_at": "2024-08-23T11:17:56Z",
     "name": "パスキーの設定方法",
     "title": "パスキーの設定方法",
     "source_locale": "ja",
@@ -24,6 +24,7 @@
     "permission_group_id": 972331,
     "content_tag_ids": [],
     "label_names": [],
-    "body": "<ul>\n<li>以下のURLから、パスキーを設定したいはてなアカウントにログインしてください\n<ul>\n<li><a href=\"https://accounts.hatena.ne.jp/login\">https://accounts.hatena.ne.jp/login</a></li>\n</ul>\n</li>\n<li>以下のURLから設定画面に進んでください\n<ul>\n<li><a href=\"https://accounts.hatena.ne.jp/settings\">https://accounts.hatena.ne.jp/settings</a></li>\n</ul>\n</li>\n<li>設定画面の中央「パスキー」の右側「設定する」をクリックしてください<img src=\"https://hatena.zendesk.com/hc/article_attachments/30074460359705\" alt=\"settings1.PNG\">\n</li>\n</ul>\n<ul>\n<li>本人確認が求められた場合は、パスワードを入力し「送信する」をクリックしてください<img src=\"https://hatena.zendesk.com/hc/article_attachments/30074737187481\">\n</li>\n<li>パスキーの設定画面が開きます。「パスキーを作成する」ボタンをクリックすると、ご利用の<span style=\"color: #566270; font-family: -apple-system, BlinkMacSystemFont, ' Segoe UI' , Helvetica, Arial, sans-serif; font-size: 15px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: #ffffff; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;\">デバイスの設定に応じた認証が求められます。</span>画面の案内に従ってご希望のバスキーを設定してください<img src=\"https://hatena.zendesk.com/hc/article_attachments/30074441087513\" alt=\"settings2.PNG\">\n</li>\n<li>パスキーの作成が正常に完了した場合、設定されたパスキーが表示され、画面上部に「パスキー（名称）を作成しました。」というメッセージが表示されます</li>\n<li>次回ログインの際からパスキーでのログインが利用できます<img src=\"https://hatena.zendesk.com/hc/article_attachments/30075008826521\" width=\"662\" height=\"435\">\n</li>\n</ul>"
+    "body": "<ul>\n<li>以下のURLから、パスキーを設定したいはてなアカウントにログインしてください\n<ul>\n<li><a href=\"https://accounts.hatena.ne.jp/login\">https://accounts.hatena.ne.jp/login</a></li>\n</ul>\n</li>\n<li>以下のURLから設定画面に進んでください\n<ul>\n<li><a href=\"https://accounts.hatena.ne.jp/settings\">https://accounts.hatena.ne.jp/settings</a></li>\n</ul>\n</li>\n<li>設定画面の中央「パスキー」の右側「設定する」をクリックしてください<img src=\"https://hatena.zendesk.com/hc/article_attachments/30074460359705\" alt=\"settings1.PNG\">\n</li>\n</ul>\n<ul>\n<li>本人確認が求められた場合は、パスワードを入力し「送信する」をクリックしてください<img src=\"https://hatena.zendesk.com/hc/article_attachments/30074737187481\">\n</li>\n<li>パスキーの設定画面が開きます。「パスキーを作成する」ボタンをクリックすると、ご利用の<span style=\"color: #566270; font-family: -apple-system, BlinkMacSystemFont, ' Segoe UI' , Helvetica, Arial, sans-serif; font-size: 15px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: #ffffff; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;\">デバイスの設定に応じた認証が求められます。</span>画面の案内に従ってご希望のバスキーを設定してください<img src=\"https://hatena.zendesk.com/hc/article_attachments/30074441087513\" alt=\"settings2.PNG\">\n</li>\n<li>パスキーの作成が正常に完了した場合、設定されたパスキーが表示され、画面上部に「パスキー（名称）を作成しました。」というメッセージが表示されます</li>\n<li>次回ログインの際からパスキーでのログインが利用できます<img src=\"https://hatena.zendesk.com/hc/article_attachments/30075008826521\" width=\"662\" height=\"435\">\n</li>\n</ul>",
+    "user_segment_ids": []
   }
 }
