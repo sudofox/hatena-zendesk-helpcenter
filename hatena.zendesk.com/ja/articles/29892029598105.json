@@ -8,11 +8,11 @@
     "draft": false,
     "promoted": false,
     "position": 4,
-    "vote_sum": 0,
-    "vote_count": 0,
+    "vote_sum": -1,
+    "vote_count": 1,
     "section_id": 30331790760729,
     "created_at": "2024-03-14T09:48:31Z",
-    "updated_at": "2024-03-25T02:31:42Z",
+    "updated_at": "2024-08-23T13:00:09Z",
     "name": "設定したパスキーを削除する方法",
     "title": "設定したパスキーを削除する方法",
     "source_locale": "ja",
@@ -24,6 +24,7 @@
     "permission_group_id": 972331,
     "content_tag_ids": [],
     "label_names": [],
-    "body": "<p>パスキーの削除方法は以下の通りです</p>\n<p> </p>\n<h4 id=\"h_01HSAB8T5XRGTBRVVBEH8PMM3S\">ログインに使うパスキーを (はてな側から) 削除する方法</h4>\n<ul>\n<li>パスキーを削除したいはてなIDにログイン</li>\n<li>設定＞パスキー＞設定するボタンから、あるいは下記URLからパスキーの一覧画面を開いてください\n<ul>\n<li><a href=\"https://accounts.hatena.ne.jp/settings/passkeys\">パスキーの設定</a></li>\n</ul>\n</li>\n<li>削除したいパスキー名の右側「削除」ボタンからパスキーを削除できます<img src=\"https://hatena.zendesk.com/hc/article_attachments/30075700843673\" alt=\"settings5.PNG\">\n</li>\n</ul>\n<p> </p>\n<h4 id=\"h_01HSAB8B4T2AKD9M8R1Z7PMXBW\">端末に保存されたパスキーを削除する方法　</h4>\n<p>機器側に保存されたパスキーを削除する方法は、各機器のサポートページなどをご確認ください</p>\n<ul>\n<li><a href=\"https://support.apple.com/ja-jp/HT211146\">Appleサポート：iPhone/iPadの場合</a></li>\n<li><a href=\"https://support.apple.com/ja-jp/guide/mac-help/mchl77e2cb66/mac\">Appleサポート：Macの場合</a></li>\n<li><a href=\"https://support.google.com/accounts/answer/13548313?sjid=3038116479122373238-AP\">Androidの場合</a></li>\n</ul>"
+    "body": "<p>パスキーの削除方法は以下の通りです</p>\n<p> </p>\n<h4 id=\"h_01HSAB8T5XRGTBRVVBEH8PMM3S\">ログインに使うパスキーを (はてな側から) 削除する方法</h4>\n<ul>\n<li>パスキーを削除したいはてなIDにログイン</li>\n<li>設定＞パスキー＞設定するボタンから、あるいは下記URLからパスキーの一覧画面を開いてください\n<ul>\n<li><a href=\"https://accounts.hatena.ne.jp/settings/passkeys\">パスキーの設定</a></li>\n</ul>\n</li>\n<li>削除したいパスキー名の右側「削除」ボタンからパスキーを削除できます<img src=\"https://hatena.zendesk.com/hc/article_attachments/30075700843673\" alt=\"settings5.PNG\">\n</li>\n</ul>\n<p> </p>\n<h4 id=\"h_01HSAB8B4T2AKD9M8R1Z7PMXBW\">端末に保存されたパスキーを削除する方法　</h4>\n<p>機器側に保存されたパスキーを削除する方法は、各機器のサポートページなどをご確認ください</p>\n<ul>\n<li><a href=\"https://support.apple.com/ja-jp/HT211146\">Appleサポート：iPhone/iPadの場合</a></li>\n<li><a href=\"https://support.apple.com/ja-jp/guide/mac-help/mchl77e2cb66/mac\">Appleサポート：Macの場合</a></li>\n<li><a href=\"https://support.google.com/accounts/answer/13548313?sjid=3038116479122373238-AP\">Androidの場合</a></li>\n</ul>",
+    "user_segment_ids": []
   }
 }

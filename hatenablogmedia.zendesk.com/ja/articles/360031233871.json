@@ -12,7 +12,7 @@
     "vote_count": 3,
     "section_id": 4402939597977,
     "created_at": "2019-07-24T10:08:48Z",
-    "updated_at": "2023-12-04T03:04:21Z",
+    "updated_at": "2024-08-23T12:27:16Z",
     "name": "パンくずリストの設定",
     "title": "パンくずリストの設定",
     "source_locale": "ja",
@@ -26,6 +26,7 @@
     "label_names": [
       "高度なパンくず"
     ],
-    "body": "<p>「はてなブログMedia」では「パンくずリスト」の表示ルールをサイト構造に合わせて自由にカスタマイズできます。</p>\n<p>▼パンくずリストの例</p>\n<p><img src=\"https://hatenablogmedia.zendesk.com/hc/article_attachments/900009199223/__________2021-05-07_10.35.15.png\" alt=\"__________2021-05-07_10.35.15.png\"></p>\n<h2>「パンくずリスト」の表示方法</h2>\n<p> 管理画面 &gt; [パンくずカスタマイズ]から設定できます。詳細は添付ファイルをご確認ください。</p>\n<p>▼管理画面TOP</p>\n<p><img src=\"https://hatenablogmedia.zendesk.com/hc/article_attachments/900009199183/__________2021-05-07_10.34.29.png\" alt=\"__________2021-05-07_10.34.29.png\"></p>"
+    "body": "<p>「はてなブログMedia」では「パンくずリスト」の表示ルールをサイト構造に合わせて自由にカスタマイズできます。</p>\n<p>▼パンくずリストの例</p>\n<p><img src=\"https://hatenablogmedia.zendesk.com/hc/article_attachments/900009199223/__________2021-05-07_10.35.15.png\" alt=\"__________2021-05-07_10.35.15.png\"></p>\n<h2>「パンくずリスト」の表示方法</h2>\n<p> 管理画面 &gt; [パンくずカスタマイズ]から設定できます。詳細は添付ファイルをご確認ください。</p>\n<p>▼管理画面TOP</p>\n<p><img src=\"https://hatenablogmedia.zendesk.com/hc/article_attachments/900009199183/__________2021-05-07_10.34.29.png\" alt=\"__________2021-05-07_10.34.29.png\"></p>",
+    "user_segment_ids": []
   }
 }

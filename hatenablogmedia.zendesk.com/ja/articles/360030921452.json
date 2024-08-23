@@ -9,10 +9,10 @@
     "promoted": false,
     "position": 6,
     "vote_sum": 1,
-    "vote_count": 5,
+    "vote_count": 7,
     "section_id": 360005938172,
     "created_at": "2019-07-25T01:43:48Z",
-    "updated_at": "2024-02-03T16:31:17Z",
+    "updated_at": "2024-08-23T12:27:16Z",
     "name": "コメントの設定と管理",
     "title": "コメントの設定と管理",
     "source_locale": "ja",
@@ -24,6 +24,7 @@
     "permission_group_id": 972311,
     "content_tag_ids": [],
     "label_names": [],
-    "body": "<p>この記事では、コメントを書き込むことができるユーザーやコメントの表示順などの設定方法と、コメントの管理方法についてご説明します。</p>\n<div class=\"section\">\n<h2>コメントの設定</h2>\n<p>管理画面 &gt; [<strong>設定</strong>] &gt; [<strong>基本設定</strong>]からコメントに関する設定ができます。</p>\n<p><img src=\"https://hatenablogmedia.zendesk.com/hc/article_attachments/4407400041497/__________2021-10-04_16.08.40.png\" alt=\"__________2021-10-04_16.08.40.png\"></p>\n<h3>設定できる項目</h3>\n<p>「コメント設定」では以下の5つの項目を設定できます。</p>\n<table>\n<thead>\n<tr>\n<th>項目</th>\n<th>説明</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>\n<p>コメント許可</p>\n</td>\n<td>\n<p>コメントを書き込むことができるユーザーを「ゲスト」または「ユーザー」で制限できます。ゲストユーザーにコメントを許可している場合でも、ゲストユーザーがコメントするときには、必ずCAPTCHA（キャプチャ）を表示します。</p>\n</td>\n</tr>\n<tr>\n<td>\n<p>コメント承認</p>\n</td>\n<td>「コメント承認」を有効にすると、コメントは承認が終わるまでブログに表示されません。</td>\n</tr>\n<tr>\n<td>\n<p>コメント表示順序</p>\n</td>\n<td>コメントの表示順を設定できます。</td>\n</tr>\n<tr>\n<td>\n<p>コメント通知メール</p>\n</td>\n<td>ブログにコメントが書かれたらメールで通知を受け取る事ができます。</td>\n</tr>\n<tr>\n<td>\n<p>コメント拒否ユーザー</p>\n</td>\n<td>\n<p>スパムや不快なコメントを投稿するユーザーを、はてなIDまたはIPアドレスを指定して<strong>コメント拒否</strong>できます。「コメント拒否ユーザーを管理」から設定を行ってください。</p>\n</td>\n</tr>\n</tbody>\n</table>\n<h2>コメントの管理</h2>\n<p>管理画面 &gt; [<strong>コメント</strong>]では、コメントの承認、スパムや不快なコメントの非表示（承認待ちに戻す）、削除ができます。</p>\n<p><img src=\"https://hatenablogmedia.zendesk.com/hc/article_attachments/4407396204569/__________2021-10-04_16.15.00.png\" alt=\"__________2021-10-04_16.15.00.png\"></p>\n</div>"
+    "body": "<p>この記事では、コメントを書き込むことができるユーザーやコメントの表示順などの設定方法と、コメントの管理方法についてご説明します。</p>\n<div class=\"section\">\n<h2>コメントの設定</h2>\n<p>管理画面 &gt; [<strong>設定</strong>] &gt; [<strong>基本設定</strong>]からコメントに関する設定ができます。</p>\n<p><img src=\"https://hatenablogmedia.zendesk.com/hc/article_attachments/4407400041497/__________2021-10-04_16.08.40.png\" alt=\"__________2021-10-04_16.08.40.png\"></p>\n<h3>設定できる項目</h3>\n<p>「コメント設定」では以下の5つの項目を設定できます。</p>\n<table>\n<thead>\n<tr>\n<th>項目</th>\n<th>説明</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>\n<p>コメント許可</p>\n</td>\n<td>\n<p>コメントを書き込むことができるユーザーを「ゲスト」または「ユーザー」で制限できます。ゲストユーザーにコメントを許可している場合でも、ゲストユーザーがコメントするときには、必ずCAPTCHA（キャプチャ）を表示します。</p>\n</td>\n</tr>\n<tr>\n<td>\n<p>コメント承認</p>\n</td>\n<td>「コメント承認」を有効にすると、コメントは承認が終わるまでブログに表示されません。</td>\n</tr>\n<tr>\n<td>\n<p>コメント表示順序</p>\n</td>\n<td>コメントの表示順を設定できます。</td>\n</tr>\n<tr>\n<td>\n<p>コメント通知メール</p>\n</td>\n<td>ブログにコメントが書かれたらメールで通知を受け取る事ができます。</td>\n</tr>\n<tr>\n<td>\n<p>コメント拒否ユーザー</p>\n</td>\n<td>\n<p>スパムや不快なコメントを投稿するユーザーを、はてなIDまたはIPアドレスを指定して<strong>コメント拒否</strong>できます。「コメント拒否ユーザーを管理」から設定を行ってください。</p>\n</td>\n</tr>\n</tbody>\n</table>\n<h2>コメントの管理</h2>\n<p>管理画面 &gt; [<strong>コメント</strong>]では、コメントの承認、スパムや不快なコメントの非表示（承認待ちに戻す）、削除ができます。</p>\n<p><img src=\"https://hatenablogmedia.zendesk.com/hc/article_attachments/4407396204569/__________2021-10-04_16.15.00.png\" alt=\"__________2021-10-04_16.15.00.png\"></p>\n</div>",
+    "user_segment_ids": []
   }
 }

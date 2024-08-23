@@ -12,7 +12,7 @@
     "vote_count": 0,
     "section_id": 360006001571,
     "created_at": "2020-04-02T08:32:41Z",
-    "updated_at": "2020-07-08T05:58:29Z",
+    "updated_at": "2024-08-23T12:27:17Z",
     "name": "記事編集画面でキーボードショートカットでの下書き保存を可能にし、保存後も記事編集画面で書き続けられるようにしました",
     "title": "記事編集画面でキーボードショートカットでの下書き保存を可能にし、保存後も記事編集画面で書き続けられるようにしました",
     "source_locale": "ja",
@@ -24,6 +24,7 @@
     "permission_group_id": 972311,
     "content_tag_ids": [],
     "label_names": [],
-    "body": "<p>平素は、はてなブログMediaをご利用いただきありがとうございます。</p>\n<p>はてなブログMediaでは、記事編集画面（PC版）で「下書き保存」をした後も、記事の管理画面（下書き一覧画面）に遷移をせず、その場で書き続けられるようにしました。また、キーボードショートカットでの保存にも対応しました。下書きしながら記事を書き続けたい場合にご活用ください。</p>\n<p><img src=\"https://hatenablogmedia.zendesk.com/hc/article_attachments/360053841671/20200326173555.gif\" alt=\"20200326173555.gif\"></p>\n<p>記事編集画面左下にある公開・保存ボタンで「下書き保存をする」をクリックすると、その場で保存をし、完了すると「<strong>保存しました</strong>」という内容に変わります。その後、記事を編集し、再び下書き保存をしたい場合は「下書きを更新する」をクリックすると続けて保存できます。</p>\n<div class=\"section\">\n<h4>キーボードショートカット</h4>\n<table>\n<tbody>\n<tr>\n<th>Mac OS</th>\n<th>Windows</th>\n</tr>\n<tr>\n<td>⌘（Command） + S</td>\n<td>Ctrl + S</td>\n</tr>\n</tbody>\n</table>\n</div>\n<div class=\"section\">\n<h3>関連するヘルプ</h3>\n<p><a href=\"https://help.hatenablog.com/entry/editor/publish\">記事の公開と更新、下書き保存 - はてなブログ ヘルプ</a></p>\n</div>"
+    "body": "<p>平素は、はてなブログMediaをご利用いただきありがとうございます。</p>\n<p>はてなブログMediaでは、記事編集画面（PC版）で「下書き保存」をした後も、記事の管理画面（下書き一覧画面）に遷移をせず、その場で書き続けられるようにしました。また、キーボードショートカットでの保存にも対応しました。下書きしながら記事を書き続けたい場合にご活用ください。</p>\n<p><img src=\"https://hatenablogmedia.zendesk.com/hc/article_attachments/360053841671/20200326173555.gif\" alt=\"20200326173555.gif\"></p>\n<p>記事編集画面左下にある公開・保存ボタンで「下書き保存をする」をクリックすると、その場で保存をし、完了すると「<strong>保存しました</strong>」という内容に変わります。その後、記事を編集し、再び下書き保存をしたい場合は「下書きを更新する」をクリックすると続けて保存できます。</p>\n<div class=\"section\">\n<h4>キーボードショートカット</h4>\n<table>\n<tbody>\n<tr>\n<th>Mac OS</th>\n<th>Windows</th>\n</tr>\n<tr>\n<td>⌘（Command） + S</td>\n<td>Ctrl + S</td>\n</tr>\n</tbody>\n</table>\n</div>\n<div class=\"section\">\n<h3>関連するヘルプ</h3>\n<p><a href=\"https://help.hatenablog.com/entry/editor/publish\">記事の公開と更新、下書き保存 - はてなブログ ヘルプ</a></p>\n</div>",
+    "user_segment_ids": []
   }
 }

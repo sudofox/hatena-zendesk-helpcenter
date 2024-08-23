@@ -12,7 +12,7 @@
     "vote_count": 2,
     "section_id": 360006434292,
     "created_at": "2019-08-23T09:02:47Z",
-    "updated_at": "2022-12-04T07:22:01Z",
+    "updated_at": "2024-08-23T13:00:08Z",
     "name": "「検索ボックス」を表示する",
     "title": "「検索ボックス」を表示する",
     "source_locale": "ja",
@@ -24,6 +24,7 @@
     "permission_group_id": 972311,
     "content_tag_ids": [],
     "label_names": [],
-    "body": "<h2>モジュールの設定方法</h2>\n<p>「<a href=\"https://hatenablogmedia.zendesk.com/hc/ja/articles/360031014092\" target=\"_self\">モジュールを表示する</a>」をご確認ください。</p>\n<h2>「検索」モジュールの表示方法</h2>\n<p>「検索」モジュールで、ブログに「検索ボックス」を表示できます。「検索ボックス」には任意のタイトルを付ける事ができます。</p>\n<p><img src=\"https://hatenablogmedia.zendesk.com/hc/article_attachments/360037610372/2019090306.png\" alt=\"2019090306.png\"></p>"
+    "body": "<h2>モジュールの設定方法</h2>\n<p>「<a href=\"https://hatenablogmedia.zendesk.com/hc/ja/articles/360031014092\" target=\"_self\">モジュールを表示する</a>」をご確認ください。</p>\n<h2>「検索」モジュールの表示方法</h2>\n<p>「検索」モジュールで、ブログに「検索ボックス」を表示できます。「検索ボックス」には任意のタイトルを付ける事ができます。</p>\n<p><img src=\"https://hatenablogmedia.zendesk.com/hc/article_attachments/360037610372/2019090306.png\" alt=\"2019090306.png\"></p>",
+    "user_segment_ids": []
   }
 }

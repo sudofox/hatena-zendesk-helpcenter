@@ -12,7 +12,7 @@
     "vote_count": 12,
     "section_id": 360006001291,
     "created_at": "2019-07-25T01:46:32Z",
-    "updated_at": "2024-04-27T08:55:15Z",
+    "updated_at": "2024-08-23T12:37:24Z",
     "name": "アクセス解析",
     "title": "アクセス解析",
     "source_locale": "ja",
@@ -24,6 +24,7 @@
     "permission_group_id": 972311,
     "content_tag_ids": [],
     "label_names": [],
-    "body": "<h2><strong>直近30日分のアクセス解析</strong></h2>\n<p>管理画面 &gt; [<strong>アクセス解析</strong>]では、過去30日分のブログへのアクセス数やリンク元を確認できます。</p>\n<p><img src=\"https://hatenablogmedia.zendesk.com/hc/article_attachments/4407271156505/__________2021-10-01_15.05.44.png\" alt=\"__________2021-10-01_15.05.44.png\"></p>\n<p>確認できる項目は以下です。</p>\n<div class=\"help-table\">\n<table>\n<thead>\n<tr>\n<th>項目</th>\n<th>説明</th>\n</tr>\n</thead>\n<thead>\n<tr>\n<td>アクセス数</td>\n<td>ブログのアクセス数を記録し、「日別」と「時間別」の2種類で表示します。自分自身によるアクセスは除外されます。</td>\n</tr>\n<tr>\n<td>最近のアクセス傾向</td>\n<td>最近の1,000件のアクセス元を保持し、訪問数が多いサイト順に表示します。それぞれのアクセス元サイトごとに、アクセス元ページとアクセス先ページの詳細も表示します。検索エンジンやSNS、言及されたブログなど、どのサイトから読者が訪問してきたかを確認できます。</td>\n</tr>\n<tr>\n<td>言及の一覧</td>\n<td>「はてなブログMedia」内のどのユーザーがどの記事で、自分のブログのどの記事にいつ言及したのかを一覧表で確認できます。「もっと読む」をクリックすると「言及の一覧」ページが表示されます。</td>\n</tr>\n</thead>\n</table>\n</div>\n<div class=\"section\">\n<h2><strong>30日より以前のアクセス解析</strong></h2>\n<p>30日より以前のデータを取得したい場合は、CSV形式のファイルをダウンロードいただくことで、過去13ヶ月分までのアクセス数を月単位で取得できます。</p>\n<p><img src=\"https://hatenablogmedia.zendesk.com/hc/article_attachments/4407271202585/__________2021-10-01_15.06.58.png\" alt=\"__________2021-10-01_15.06.58.png\"></p>\n</div>"
+    "body": "<h2><strong>直近30日分のアクセス解析</strong></h2>\n<p>管理画面 &gt; [<strong>アクセス解析</strong>]では、過去30日分のブログへのアクセス数やリンク元を確認できます。</p>\n<p><img src=\"https://hatenablogmedia.zendesk.com/hc/article_attachments/4407271156505/__________2021-10-01_15.05.44.png\" alt=\"__________2021-10-01_15.05.44.png\"></p>\n<p>確認できる項目は以下です。</p>\n<div class=\"help-table\">\n<table>\n<thead>\n<tr>\n<th>項目</th>\n<th>説明</th>\n</tr>\n</thead>\n<thead>\n<tr>\n<td>アクセス数</td>\n<td>ブログのアクセス数を記録し、「日別」と「時間別」の2種類で表示します。自分自身によるアクセスは除外されます。</td>\n</tr>\n<tr>\n<td>最近のアクセス傾向</td>\n<td>最近の1,000件のアクセス元を保持し、訪問数が多いサイト順に表示します。それぞれのアクセス元サイトごとに、アクセス元ページとアクセス先ページの詳細も表示します。検索エンジンやSNS、言及されたブログなど、どのサイトから読者が訪問してきたかを確認できます。</td>\n</tr>\n<tr>\n<td>言及の一覧</td>\n<td>「はてなブログMedia」内のどのユーザーがどの記事で、自分のブログのどの記事にいつ言及したのかを一覧表で確認できます。「もっと読む」をクリックすると「言及の一覧」ページが表示されます。</td>\n</tr>\n</thead>\n</table>\n</div>\n<div class=\"section\">\n<h2><strong>30日より以前のアクセス解析</strong></h2>\n<p>30日より以前のデータを取得したい場合は、CSV形式のファイルをダウンロードいただくことで、過去13ヶ月分までのアクセス数を月単位で取得できます。</p>\n<p><img src=\"https://hatenablogmedia.zendesk.com/hc/article_attachments/4407271202585/__________2021-10-01_15.06.58.png\" alt=\"__________2021-10-01_15.06.58.png\"></p>\n</div>",
+    "user_segment_ids": []
   }
 }

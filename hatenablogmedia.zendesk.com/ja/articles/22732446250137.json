@@ -12,7 +12,7 @@
     "vote_count": 0,
     "section_id": 22731027249945,
     "created_at": "2023-09-08T00:35:11Z",
-    "updated_at": "2024-03-08T02:38:02Z",
+    "updated_at": "2024-08-23T12:37:24Z",
     "name": "Message の編集 - hbm-HR",
     "title": "Message の編集 - hbm-HR",
     "source_locale": "ja",
@@ -24,6 +24,7 @@
     "permission_group_id": 972311,
     "content_tag_ids": [],
     "label_names": [],
-    "body": "<p>Message部分の設定について解説します。</p>\n<p><img src=\"https://hatenablogmedia.zendesk.com/hc/article_attachments/22732209960985\"></p>\n<p> </p>\n<p><a href=\"https://blog.hatena.ne.jp/\" target=\"_blank\" rel=\"noopener noreferrer\">管理画面</a> &gt; [デザイン] &gt; [(1) トップページメインカラム] &gt; [(2) Message] にて各要素を調整して下さい。<br>変更を反映するには『適用』ボタンを押してください。</p>\n<p><img src=\"https://hatenablogmedia.zendesk.com/hc/article_attachments/22732274474265\" width=\"260\" height=\"431\"></p>\n<h2 id=\"h_01HBCPEG1HX6RRDASHK92GR6SZ\">青文字の『Message』の文言を変更する</h2>\n<p>赤枠部分のテキストを変更してください。</p>\n<p><img src=\"https://hatenablogmedia.zendesk.com/hc/article_attachments/22732428992793\" width=\"522\" height=\"285\"></p>\n<h2 id=\"h_01HBCPEG1H163D51JHRM9RZXPB\">黒文字のテキスト部分を変更する</h2>\n<p><img src=\"https://hatenablogmedia.zendesk.com/hc/article_attachments/22732416193049\" width=\"524\" height=\"286\"></p>\n<p> </p>\n<p>下記<code>p</code>タグ内のテキストを変更してください。</p>\n<pre>&lt;p&gt;&lt;strong&gt;本文見出し&lt;/strong&gt;&lt;/p&gt;<br>&lt;p&gt;<br>文章文章文章文章....<br>&lt;/p&gt;</pre>\n<p> </p>"
+    "body": "<p>Message部分の設定について解説します。</p>\n<p><img src=\"https://hatenablogmedia.zendesk.com/hc/article_attachments/22732209960985\"></p>\n<p> </p>\n<p><a href=\"https://blog.hatena.ne.jp/\" target=\"_blank\" rel=\"noopener noreferrer\">管理画面</a> &gt; [デザイン] &gt; [(1) トップページメインカラム] &gt; [(2) Message] にて各要素を調整して下さい。<br>変更を反映するには『適用』ボタンを押してください。</p>\n<p><img src=\"https://hatenablogmedia.zendesk.com/hc/article_attachments/22732274474265\" width=\"260\" height=\"431\"></p>\n<h2 id=\"h_01HBCPEG1HX6RRDASHK92GR6SZ\">青文字の『Message』の文言を変更する</h2>\n<p>赤枠部分のテキストを変更してください。</p>\n<p><img src=\"https://hatenablogmedia.zendesk.com/hc/article_attachments/22732428992793\" width=\"522\" height=\"285\"></p>\n<h2 id=\"h_01HBCPEG1H163D51JHRM9RZXPB\">黒文字のテキスト部分を変更する</h2>\n<p><img src=\"https://hatenablogmedia.zendesk.com/hc/article_attachments/22732416193049\" width=\"524\" height=\"286\"></p>\n<p> </p>\n<p>下記<code>p</code>タグ内のテキストを変更してください。</p>\n<pre>&lt;p&gt;&lt;strong&gt;本文見出し&lt;/strong&gt;&lt;/p&gt;<br>&lt;p&gt;<br>文章文章文章文章....<br>&lt;/p&gt;</pre>\n<p> </p>",
+    "user_segment_ids": []
   }
 }
