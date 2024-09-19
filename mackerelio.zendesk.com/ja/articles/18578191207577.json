@@ -12,18 +12,18 @@
     "vote_count": 0,
     "section_id": 4412612972825,
     "created_at": "2023-05-16T09:14:01Z",
-    "updated_at": "2023-05-16T09:14:14Z",
+    "updated_at": "2024-09-19T03:38:48Z",
     "name": "オーナー権限を委譲したい",
     "title": "オーナー権限を委譲したい",
     "source_locale": "ja",
     "locale": "ja",
     "outdated": false,
     "outdated_locales": [],
-    "edited_at": "2023-05-16T09:14:14Z",
+    "edited_at": "2024-09-19T03:38:48Z",
     "user_segment_id": null,
     "permission_group_id": 1305651,
     "content_tag_ids": [],
     "label_names": [],
-    "body": "<ul>\n<li>オーナー権限はオーガニゼーション詳細ページの「<a href=\"https://mackerel.io/my?tab=members\" target=\"_blank\" rel=\"noopener noreferrer\">メンバー</a>」を編集することで、他のメンバーに委譲できます。\n<ul>\n<li>この操作はオーナー権限を保有するメンバーのみが可能です。</li>\n<li>オーナー権限を保有するメンバーがご異動やご退職などでオーガニゼーションの管理を手放される際は、事前に他のメンバーへの委譲を行ってください。</li>\n</ul>\n</li>\n<li>すでにご退職済みなどでオーナー権限が委譲できない場合、<a href=\"https://support.mackerel.io/hc/ja/requests/new\" target=\"_blank\" rel=\"noopener\">サポート窓口</a>にて権限委譲のお手続きを承っております。（最短で翌営業日、ベストエフォートでの対応となります。）</li>\n</ul>"
+    "body": "<body>\n<ul>\n<li>オーナー権限はオーガニゼーション詳細ページの「<a href=\"https://mackerel.io/my?tab=members\" rel=\"noopener noreferrer\" target=\"_blank\">メンバー</a>」を編集することで、他のメンバーに委譲できます。\n<ul>\n<li>この操作はオーナー権限を保有するメンバーのみが可能です。</li>\n<li>\n<a href=\"https://mackerel.io/ja/docs/entry/advanced/saml-outside-collaborators\" rel=\"noopener noreferrer\" target=\"_blank\">外部コラボレーター</a>にオーナーを委譲することはできません。</li>\n<li>オーナー権限を保有するメンバーがご異動やご退職などでオーガニゼーションの管理を手放される際は、事前に他のメンバーへの委譲を行ってください。</li>\n</ul>\n</li>\n<li>すでにご退職済みなどでオーナー権限が委譲できない場合、<a href=\"https://support.mackerel.io/hc/ja/requests/new\" rel=\"noopener\" target=\"_blank\">サポート窓口</a>にて権限委譲のお手続きを承っております。（最短で翌営業日、ベストエフォートでの対応となります。）</li>\n</ul>\n</body>"
   }
 }
