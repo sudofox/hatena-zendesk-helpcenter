@@ -2,7 +2,7 @@
   "article": {
     "id": 360045815151,
     "url": "https://mackerelio.zendesk.com/api/v2/help_center/en-us/articles/360045815151.json",
-    "html_url": "https://support.mackerel.io/hc/en-us/articles/360045815151-How-do-I-get-an-invoice-when-paying-by-credit-card-",
+    "html_url": "https://support.mackerel.io/hc/en-us/articles/360045815151-How-do-I-get-an-invoice-when-paying-by-credit-card",
     "author_id": 390085917472,
     "comments_disabled": true,
     "draft": false,
@@ -12,7 +12,7 @@
     "vote_count": 2,
     "section_id": 360008016131,
     "created_at": "2020-07-03T02:39:20Z",
-    "updated_at": "2022-04-19T09:03:01Z",
+    "updated_at": "2024-10-04T07:48:36Z",
     "name": "How do I get an invoice when paying by credit card?",
     "title": "How do I get an invoice when paying by credit card?",
     "source_locale": "ja",

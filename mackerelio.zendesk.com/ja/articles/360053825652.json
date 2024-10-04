@@ -12,18 +12,18 @@
     "vote_count": 0,
     "section_id": 360007911812,
     "created_at": "2020-12-15T06:59:18Z",
-    "updated_at": "2020-12-18T06:26:13Z",
+    "updated_at": "2024-10-04T07:49:49Z",
     "name": "Amazon RDSなどのマネージドサービスの死活監視はできますか？",
     "title": "Amazon RDSなどのマネージドサービスの死活監視はできますか？",
     "source_locale": "ja",
     "locale": "ja",
     "outdated": false,
     "outdated_locales": [],
-    "edited_at": "2020-12-17T02:41:21Z",
+    "edited_at": "2024-10-04T07:49:48Z",
     "user_segment_id": null,
     "permission_group_id": 1305651,
     "content_tag_ids": [],
     "label_names": [],
-    "body": "<ul>\n<li>Amazon RDSなどのマネージドサービスの死活監視は Connectivity の監視ルールでは行っていただくことが出来ません。</li>\n<li>代替の監視方法として、エージェントがインストールされたホストから以下のようなプラグインを用いてマネージドサービスへの接続が行えるかチェックしていただくことをおすすめいたしております。\n<ul>\n<li>\n<a href=\"https://github.com/mackerelio/go-check-plugins/tree/master/check-tcp\" target=\"_blank\" rel=\"noopener\">check-tcp</a>\n<ul>\n<li>接続先とするマネージドサービスのTCPポートに対して接続が行えるかチェックします。</li>\n<li>詳しくは <a href=\"https://mackerel.io/ja/docs/entry/howto/check/tcp\" target=\"_blank\" rel=\"noopener\">TCPサーバーの確認を行う - Mackerel ヘルプ</a> をご確認ください</li>\n</ul>\n</li>\n</ul>\n</li>\n<li>各種ミドルウェアやプロトコルに特化したチェックプラグインもございます。監視対象とされたいマネージドサービスにあわせてご検討ください。（詳細は各プラグインのREADMEをご確認ください）<br>\n<ul>\n<li><a href=\"https://github.com/mackerelio/go-check-plugins/tree/master/check-mysql\" target=\"_blank\" rel=\"noopener\">check-mysql</a></li>\n<li><a href=\"https://github.com/mackerelio/go-check-plugins/tree/master/check-postgresql\" target=\"_blank\" rel=\"noopener\">check-postgresql</a></li>\n<li><a href=\"https://github.com/mackerelio/go-check-plugins/tree/master/check-postgresql\" target=\"_blank\" rel=\"noopener\">check-redis</a></li>\n<li><a href=\"https://github.com/mackerelio/go-check-plugins/tree/master/check-http\" target=\"_blank\" rel=\"noopener\">check-http</a></li>\n<li><a href=\"https://github.com/mackerelio/go-check-plugins/blob/master/check-smtp\" target=\"_self\">check-smtp</a></li>\n</ul>\n</li>\n</ul>\n<h3>参考</h3>\n<ul>\n<li><a href=\"https://support.mackerel.io/hc/ja/articles/360040107831\" target=\"_self\">Mackerelの死活監視はどのような仕組みで動いていますか？</a></li>\n</ul>"
+    "body": "<ul>\n<li>Amazon RDSなどのマネージドサービスの死活監視は Connectivity の監視ルールでは行っていただくことが出来ません。</li>\n<li>代替の監視方法として、エージェントがインストールされたホストから以下のようなプラグインを用いてマネージドサービスへの接続が行えるかチェックしていただくことをおすすめいたしております。\n<ul>\n<li>\n<a href=\"https://github.com/mackerelio/go-check-plugins/tree/master/check-tcp\" target=\"_blank\" rel=\"noopener noreferrer\">check-tcp</a>\n<ul>\n<li>接続先とするマネージドサービスのTCPポートに対して接続が行えるかチェックします。</li>\n<li>詳しくは <a href=\"https://mackerel.io/ja/docs/entry/howto/check/tcp\" target=\"_blank\" rel=\"noopener noreferrer\">TCPサーバーの確認を行う - Mackerel ヘルプ</a> をご確認ください</li>\n</ul>\n</li>\n</ul>\n</li>\n<li>各種ミドルウェアやプロトコルに特化したチェックプラグインもございます。監視対象とされたいマネージドサービスにあわせてご検討ください。（詳細は各プラグインのREADMEをご確認ください）\n<ul>\n<li><a href=\"https://github.com/mackerelio/go-check-plugins/tree/master/check-mysql\" target=\"_blank\" rel=\"noopener noreferrer\">check-mysql</a></li>\n<li><a href=\"https://github.com/mackerelio/go-check-plugins/tree/master/check-postgresql\" target=\"_blank\" rel=\"noopener noreferrer\">check-postgresql</a></li>\n<li><a href=\"https://github.com/mackerelio/go-check-plugins/tree/master/check-postgresql\" target=\"_blank\" rel=\"noopener noreferrer\">check-redis</a></li>\n<li><a href=\"https://github.com/mackerelio/go-check-plugins/tree/master/check-http\" target=\"_blank\" rel=\"noopener noreferrer\">check-http</a></li>\n<li><a href=\"https://github.com/mackerelio/go-check-plugins/blob/master/check-smtp\" target=\"_self\">check-smtp</a></li>\n</ul>\n</li>\n</ul>\n<h3 id=\"h_01J9B82R1J5DHSA4FH456A2TK1\">参考</h3>\n<ul>\n<li><a href=\"https://support.mackerel.io/hc/ja/articles/360040107831\" target=\"_self\">Mackerelの死活監視はどのような仕組みで動いていますか？</a></li>\n</ul>"
   }
 }
