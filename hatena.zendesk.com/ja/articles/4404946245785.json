@@ -7,12 +7,12 @@
     "comments_disabled": true,
     "draft": false,
     "promoted": false,
-    "position": 6,
-    "vote_sum": 0,
-    "vote_count": 40,
+    "position": 7,
+    "vote_sum": 2,
+    "vote_count": 42,
     "section_id": 900000572826,
     "created_at": "2021-08-13T05:49:16Z",
-    "updated_at": "2024-04-16T01:26:12Z",
+    "updated_at": "2024-10-09T02:39:54Z",
     "name": "Firefoxを利用している時にログインできない、ログインが維持されない",
     "title": "Firefoxを利用している時にログインできない、ログインが維持されない",
     "source_locale": "ja",
@@ -24,6 +24,7 @@
     "permission_group_id": 972311,
     "content_tag_ids": [],
     "label_names": [],
-    "body": "<p>Firefoxをご利用されていて、ログインができない場合、強化型トラッキング防止機能を「厳格」<wbr></wbr>に設定されておりましたら、「標準」に変更してください。<br><br>＜デスクトップ版 Firefox の強化型トラッキング防止＞<br><a href=\"https://support.mozilla.org/ja/kb/enhanced-tracking-protection-firefox-desktop\" target=\"_blank\" rel=\"noopener noreferrer\">https://support.mozilla.org/<wbr></wbr>ja/kb/enhanced-tracking-<wbr></wbr>protection-firefox-desktop</a><br><br><span class=\"il\">トラッキング</span><span class=\"il\">防止</span><span class=\"il\">機能</span><span class=\"il\">を</span>「<span class=\"il\">標準</span>」<wbr></wbr><span class=\"il\">にし</span><span class=\"il\">て</span><span class=\"il\">も</span><span class=\"il\">問題</span><span class=\"il\">が</span><span class=\"il\">解決</span><span class=\"il\">し</span><span class=\"il\">なかっ</span><span class=\"il\">た</span><span class=\"il\">場合</span><span class=\"il\">や</span>、「厳格」のままで個別に例外設定され<span class=\"il\">た</span>い<span class=\"il\">場合</span>には、<wbr></wbr><a href=\"https://blog.hatena.ne.jp/\" target=\"_self\">ダッシュボード</a>（<a href=\"https://blog.hatena.ne.jp/\" target=\"_blank\" rel=\"noopener noreferrer\" data-saferedirecturl=\"https://www.google.com/url?q=https://blog.hatena.ne.jp/&amp;source=gmail&amp;ust=1628922006350000&amp;usg=AFQjCNGWObfxeDbGoiXpzzVhvkqr-k_0Kw\">https://blog.hatena.<wbr></wbr>ne.jp/</a>）にアクセス<span class=\"il\">し</span><span class=\"il\">た</span>状態でアドレスバーの左にある盾のマーク<span class=\"il\">を</span>クリック<wbr></wbr><span class=\"il\">し</span><span class=\"il\">て</span>「強化型<span class=\"il\">トラッキング</span><span class=\"il\">防止</span><span class=\"il\">機能</span>はこのサイトでオンです」<wbr></wbr>の右横からオフ<span class=\"il\">にし</span><span class=\"il\">て</span>ください。</p>"
+    "body": "<p>Firefoxをご利用されていて、ログインができない場合、強化型トラッキング防止機能を「厳格」<wbr></wbr>に設定されておりましたら、「標準」に変更してください。<br><br>＜デスクトップ版 Firefox の強化型トラッキング防止＞<br><a href=\"https://support.mozilla.org/ja/kb/enhanced-tracking-protection-firefox-desktop\" target=\"_blank\" rel=\"noopener noreferrer\">https://support.mozilla.org/<wbr></wbr>ja/kb/enhanced-tracking-<wbr></wbr>protection-firefox-desktop</a><br><br><span class=\"il\">トラッキング</span><span class=\"il\">防止</span><span class=\"il\">機能</span><span class=\"il\">を</span>「<span class=\"il\">標準</span>」<wbr></wbr><span class=\"il\">にし</span><span class=\"il\">て</span><span class=\"il\">も</span><span class=\"il\">問題</span><span class=\"il\">が</span><span class=\"il\">解決</span><span class=\"il\">し</span><span class=\"il\">なかっ</span><span class=\"il\">た</span><span class=\"il\">場合</span><span class=\"il\">や</span>、「厳格」のままで個別に例外設定され<span class=\"il\">た</span>い<span class=\"il\">場合</span>には、<wbr></wbr><a href=\"https://blog.hatena.ne.jp/\" target=\"_self\">ダッシュボード</a>（<a href=\"https://blog.hatena.ne.jp/\" target=\"_blank\" rel=\"noopener noreferrer\" data-saferedirecturl=\"https://www.google.com/url?q=https://blog.hatena.ne.jp/&amp;source=gmail&amp;ust=1628922006350000&amp;usg=AFQjCNGWObfxeDbGoiXpzzVhvkqr-k_0Kw\">https://blog.hatena.<wbr></wbr>ne.jp/</a>）にアクセス<span class=\"il\">し</span><span class=\"il\">た</span>状態でアドレスバーの左にある盾のマーク<span class=\"il\">を</span>クリック<wbr></wbr><span class=\"il\">し</span><span class=\"il\">て</span>「強化型<span class=\"il\">トラッキング</span><span class=\"il\">防止</span><span class=\"il\">機能</span>はこのサイトでオンです」<wbr></wbr>の右横からオフ<span class=\"il\">にし</span><span class=\"il\">て</span>ください。</p>",
+    "user_segment_ids": []
   }
 }
