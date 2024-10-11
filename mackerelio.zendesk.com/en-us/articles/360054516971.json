@@ -12,18 +12,18 @@
     "vote_count": 0,
     "section_id": 360008120511,
     "created_at": "2020-12-18T02:22:48Z",
-    "updated_at": "2021-12-21T05:10:49Z",
+    "updated_at": "2024-10-11T03:38:28Z",
     "name": "I’ve set up mackerel-container-agent in a Kubernetes environment, but the host won’t integrate with Mackerel",
     "title": "I’ve set up mackerel-container-agent in a Kubernetes environment, but the host won’t integrate with Mackerel",
     "source_locale": "ja",
     "locale": "en-us",
     "outdated": false,
     "outdated_locales": [],
-    "edited_at": "2020-12-21T09:12:35Z",
+    "edited_at": "2024-10-11T03:38:28Z",
     "user_segment_id": null,
     "permission_group_id": 1305651,
     "content_tag_ids": [],
     "label_names": [],
-    "body": "<p><span style=\"font-weight: 400;\">Please review and confirm the following.</span></p>\n<ul>\n<li style=\"font-weight: 400;\" aria-level=\"1\"><span style=\"font-weight: 400;\">If you’ve set up a Readiness Probe, make sure that it can be checked normally.</span></li>\n<li style=\"font-weight: 400;\" aria-level=\"1\">\n<span style=\"font-weight: 400;\">If read-only-port is disabled, environment variables and a Role must be configured. See the </span><a href=\"https://mackerel.io/docs/entry/howto/install-agent/container/kubernetes\"><span style=\"font-weight: 400;\">Help page</span></a><span style=\"font-weight: 400;\"> for details.</span>\n</li>\n<li style=\"font-weight: 400;\" aria-level=\"1\">\n<span style=\"font-weight: 400;\">If authentication is enabled with kubelet, a Role for the Service Account must be configured so that the resources listed in the </span><a href=\"https://mackerel.io/docs/entry/howto/install-agent/container/kubernetes\"><span style=\"font-weight: 400;\">Help page</span></a><span style=\"font-weight: 400;\"> can be referenced.</span>\n</li>\n</ul>\n<p><span style=\"font-weight: 400;\">If you’re experiencing abnormal activity, such as error log output, with mackerel-container-agent, confirm the following points.</span></p>\n<ul>\n<li style=\"font-weight: 400;\" aria-level=\"1\"><span style=\"font-weight: 400;\">Make sure you’re using the latest version of mackerel-container-agent.</span></li>\n<li style=\"font-weight: 400;\" aria-level=\"1\"><span style=\"font-weight: 400;\">If you still can’t resolve the problem, please contact our support team including the version of Kubernetes used.</span></li>\n</ul>"
+    "body": "<p>Please review and confirm the following.</p>\n<ul>\n<li>If you’ve set up a Readiness Probe, make sure that it can be checked normally.</li>\n<li>If read-only-port is disabled, environment variables and a Role must be configured. See the <a href=\"https://mackerel.io/docs/entry/howto/install-agent/container/kubernetes\">Help page</a> for details.</li>\n<li>If authentication is enabled with kubelet, a Role for the Service Account must be configured so that the resources listed in the <a href=\"https://mackerel.io/docs/entry/howto/install-agent/container/kubernetes\">Help page</a> can be referenced.</li>\n</ul>\n<p>If you’re experiencing abnormal activity, such as error log output, with mackerel-container-agent, confirm the following points.</p>\n<ul>\n<li>Make sure you’re using the latest version of mackerel-container-agent.</li>\n<li>If you still can’t resolve the problem, please contact our support team including the version of Kubernetes used.</li>\n</ul>\n"
   }
 }

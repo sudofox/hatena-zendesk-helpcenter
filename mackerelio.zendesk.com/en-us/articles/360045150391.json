@@ -12,18 +12,18 @@
     "vote_count": 1,
     "section_id": 360008016131,
     "created_at": "2020-06-18T09:01:54Z",
-    "updated_at": "2024-10-04T05:56:47Z",
+    "updated_at": "2024-10-11T02:59:27Z",
     "name": "I accidentally changed to the Standard plan and want to return to the Free plan",
     "title": "I accidentally changed to the Standard plan and want to return to the Free plan",
     "source_locale": "ja",
     "locale": "en-us",
     "outdated": false,
     "outdated_locales": [],
-    "edited_at": "2020-07-20T09:54:18Z",
+    "edited_at": "2024-10-11T02:59:27Z",
     "user_segment_id": null,
     "permission_group_id": 1305651,
     "content_tag_ids": [],
     "label_names": [],
-    "body": "<ul>\n<li><span style=\"font-weight: 400;\">Please note that once you’ve switched to a Standard plan, it is not possible to return to the original Free plan via the support window. </span></li>\n<li>\n<span style=\"font-weight: 400;\">To change to the Free plan, you first need to cancel the Standard plan.</span>\n<ul>\n<li><span style=\"font-weight: 400;\">Cancellations can only be done by those with owner authority. A link to the \"Cancel\" option is provided at the bottom of this screen.</span></li>\n</ul>\n</li>\n<li><span style=\"font-weight: 400;\">Upon cancellation, the usage charges incurred during the month in which the cancellation request was made will be settled at the beginning of the following month. After the payment is completed, the plan will automatically change to the Free plan.</span></li>\n</ul>"
+    "body": "<ul>\n<li>Please note that once you’ve switched to a Standard plan, it is not possible to return to the original Free plan via the support window.</li>\n<li>To change to the Free plan, you first need to cancel the Standard plan.</li>\n<li>Cancellations can only be done by those with owner authority. A link to the \"Cancel\" option is provided at the bottom of this screen.</li>\n<li>Upon cancellation, the usage charges incurred during the month in which the cancellation request was made will be settled at the beginning of the following month. After the payment is completed, the plan will automatically change to the Free plan.</li>\n</ul>\n"
   }
 }

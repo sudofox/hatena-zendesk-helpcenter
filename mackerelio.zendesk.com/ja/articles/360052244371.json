@@ -12,7 +12,7 @@
     "vote_count": 1,
     "section_id": 360007912312,
     "created_at": "2020-11-06T09:26:30Z",
-    "updated_at": "2022-04-05T08:20:11Z",
+    "updated_at": "2024-10-11T03:12:43Z",
     "name": "ログ監視 check-logで「UNKNOWN: unexpected end of JSON input」というアラートが発生する原因と対処方法は？",
     "title": "ログ監視 check-logで「UNKNOWN: unexpected end of JSON input」というアラートが発生する原因と対処方法は？",
     "source_locale": "ja",

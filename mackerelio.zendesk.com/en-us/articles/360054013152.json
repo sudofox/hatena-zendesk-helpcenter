@@ -12,18 +12,18 @@
     "vote_count": 0,
     "section_id": 360008015871,
     "created_at": "2020-12-18T02:18:14Z",
-    "updated_at": "2022-06-24T01:14:05Z",
+    "updated_at": "2024-10-11T03:15:38Z",
     "name": "I’ve set up Azure Integration, but the host won’t integrate with Mackerel",
     "title": "I’ve set up Azure Integration, but the host won’t integrate with Mackerel",
     "source_locale": "ja",
     "locale": "en-us",
     "outdated": false,
     "outdated_locales": [],
-    "edited_at": "2020-12-21T09:13:35Z",
+    "edited_at": "2024-10-11T03:15:38Z",
     "user_segment_id": null,
     "permission_group_id": 1305651,
     "content_tag_ids": [],
     "label_names": [],
-    "body": "<p><span style=\"font-weight: 400;\">Please review and confirm the following.</span></p>\n<ul>\n<li style=\"font-weight: 400;\" aria-level=\"1\"><span style=\"font-weight: 400;\">Make sure that the service principal for Azure Integration has viewer permissions.</span></li>\n<li style=\"font-weight: 400;\" aria-level=\"1\"><span style=\"font-weight: 400;\">If you’ve specified a tag, make sure that it has been correctly assigned to the target Azure resource as well.</span></li>\n<li style=\"font-weight: 400;\" aria-level=\"1\"><span style=\"font-weight: 400;\">If using Azure portal, make sure that the secret has not expired.</span></li>\n</ul>\n<p><span style=\"font-weight: 400;\">If you were able to integrate but became unable to get metrics after changing the instance model, it’s possible that the model is not supported by Mackerel. If this is the case, please contact our support team.</span></p>"
+    "body": "<p>Please review and confirm the following.</p>\n<ul>\n<li>Make sure that the service principal for Azure Integration has viewer permissions.</li>\n<li>If you’ve specified a tag, make sure that it has been correctly assigned to the target Azure resource as well.</li>\n<li>If using Azure portal, make sure that the secret has not expired.</li>\n</ul>\n<p>If you were able to integrate but became unable to get metrics after changing the instance model, it’s possible that the model is not supported by Mackerel. If this is the case, please contact our support team.</p>\n"
   }
 }

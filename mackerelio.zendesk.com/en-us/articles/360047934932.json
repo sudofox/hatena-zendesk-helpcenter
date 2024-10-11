@@ -12,14 +12,14 @@
     "vote_count": 0,
     "section_id": 360008016131,
     "created_at": "2020-08-20T08:40:46Z",
-    "updated_at": "2024-09-02T02:53:08Z",
+    "updated_at": "2024-10-11T03:17:55Z",
     "name": "I received an email saying \"Payment processing failed\"",
     "title": "I received an email saying \"Payment processing failed\"",
     "source_locale": "ja",
     "locale": "en-us",
     "outdated": false,
     "outdated_locales": [],
-    "edited_at": "2020-08-24T02:20:29Z",
+    "edited_at": "2024-10-11T03:17:55Z",
     "user_segment_id": null,
     "permission_group_id": 1305651,
     "content_tag_ids": [],
@@ -39,6 +39,6 @@
       "クレカ",
       "支払い"
     ],
-    "body": "<p>If you have set a credit card to settle usage fee payments and a credit card payment fails, the following email will be sent.</p>\n<pre class=\"code\" data-lang=\"\" data-unlink=\"\">Thank you for using Mackerel!<br><br>The processing of your payment has failed due to the causes listed below<br><br>The card was declined.<br><br>Please verify by clicking on the link below.<br>https://mackerel.io/my?tab=plan</pre>\n<p>Please contact the credit card company of the card you are using for inquiries related to the reason of the payment failure such as card expiration or reaching an upper limit.</p>\n<p>If the issue cannot be resolved right away and you would like to change your registered card information, please <a href=\"https://mackerel.io/my/plan/-/update-payment\" target=\"_blank\" rel=\"noopener\">change the payment information</a> via the <a href=\"https://mackerel.io/my?tab=plan\" target=\"_blank\" rel=\"noopener\">Mackerel Web Console</a>. The payment process will automatically run again the next day.</p>\n<p>If you have resolved the issue and would still like to use the same credit card for payment, no further action is required. The payment process will automatically run again the next day.</p>"
+    "body": "<p>If you have set a credit card to settle usage fee payments and a credit card payment fails, the following email will be sent.</p>\n<pre>Thank you for using Mackerel!<br><br>The processing of your payment has failed due to the causes listed below<br><br>The card was declined.<br><br>Please verify by clicking on the link below.<br>https://mackerel.io/my?tab=plan</pre>\n<p>Please contact the credit card company of the card you are using for inquiries related to the reason of the payment failure such as card expiration or reaching an upper limit.</p>\n<p>If the issue cannot be resolved right away and you would like to change your registered card information, please <a href=\"https://mackerel.io/my/plan/-/update-payment\">change the payment information</a> via the <a href=\"https://mackerel.io/my?tab=plan\">Mackerel Web Console</a>. The payment process will automatically run again the next day.</p>\n<p>If you have resolved the issue and would still like to use the same credit card for payment, no further action is required. The payment process will automatically run again the next day.</p>"
   }
 }

@@ -2,7 +2,7 @@
   "article": {
     "id": 360040108631,
     "url": "https://mackerelio.zendesk.com/api/v2/help_center/en-us/articles/360040108631.json",
-    "html_url": "https://support.mackerel.io/hc/en-us/articles/360040108631-The-agent-won-t-startup-",
+    "html_url": "https://support.mackerel.io/hc/en-us/articles/360040108631-The-agent-won-t-startup",
     "author_id": 390085917472,
     "comments_disabled": true,
     "draft": false,
@@ -12,14 +12,14 @@
     "vote_count": 1,
     "section_id": 360008120511,
     "created_at": "2020-02-24T08:39:32Z",
-    "updated_at": "2021-12-21T05:10:49Z",
+    "updated_at": "2024-10-11T02:25:00Z",
     "name": "The agent won’t startup.",
     "title": "The agent won’t startup.",
     "source_locale": "ja",
     "locale": "en-us",
     "outdated": false,
     "outdated_locales": [],
-    "edited_at": "2020-07-17T05:18:08Z",
+    "edited_at": "2024-10-11T02:25:00Z",
     "user_segment_id": null,
     "permission_group_id": 1305651,
     "content_tag_ids": [],
@@ -30,6 +30,6 @@
       "エラー",
       "できない"
     ],
-    "body": "<p>If the installed agent fails to start, an error occurs during installation, or the installation cannot be performed, please check the following.</p>\n<h2>Installation environment</h2>\n<ul>\n<li>Please check whether OS to be installed is officially supported.\n<ul>\n<li><a href=\"https://mackerel.io/docs/entry/overview#support-environments\">Supported Environments - Mackerel Docs</a></li>\n</ul>\n</li>\n</ul>\n<h2>Connection status</h2>\n<ul>\n<li>Make sure that you can connect from the target server to the destinations listed in “<a href=\"https://support.mackerel.io/hc/en-us/articles/360039633271\" target=\"_blank\" rel=\"noopener\">What is Mackerel’s IP address and port number?</a>”.</li>\n<li>If connecting via a proxy server, make sure that the proxy server is configured according to “<a href=\"https://support.mackerel.io/hc/en-us/articles/360039701312-Is-it-possible-to-control-which-port-the-mackerel-agent-uses-\" target=\"_blank\" rel=\"noopener\">Is it possible to control which port the mackerel-agent uses?</a>”.</li>\n<li>If antivirus software is installed on the server where the agent is installed, please make sure that mackerel-agent signal is not blocked.</li>\n<li>Check whether or not<code>api.mackerelio.com</code>name resolution is working.</li>\n</ul>\n<h2>Other</h2>\n<ul>\n<li>Check whether or not the package (yum / apt) is installed correctly.</li>\n<li>Confirm that the API key specified for mackerel-agent is not ReadOnly.</li>\n<li>Check the contents of the log by mackerel-agent and check whether an error is output.</li>\n<li>Please check the command <code>mackerel-agent configtest</code> to see if the configuration file <code>mackerel-agent.conf</code> is written correctly.</li>\n<li>If you’ve copied <code>/var/lib/mackerel-agent/id</code> onto an OS image with Docker Image or AMI, this file needs to be deleted.<br>\n<ul>\n<li>When mackerel-agent starts up for the first time, the ID issued by the server will be saved to<code>/var/lib/mackerel-agent/id</code>. The host will be identified by this ID from then on.  </li>\n<li>For this reason, if <code>/var/lib/mackerel-agent/id</code> is copied, multiple hosts will be recognized by Mackerel as the same host, resulting in metric posting and monitoring not functioning properly.</li>\n</ul>\n</li>\n</ul>\n<p> </p>\n<p>If the problem has not been resolved after double checking all of the points above, please contact us via the \"Contact Us\" button (please attach any relevant information such as error logs if available). The \"Contact Us\" button is displayed in the header of this page or the header of the Mackerel Web Console.</p>"
+    "body": "<p>If the installed agent fails to start, an error occurs during installation, or the installation cannot be performed, please check the following.</p>\n<h2>Installation environment</h2>\n<ul>\n<li>Please check whether OS to be installed is officially supported.\n<ul>\n<li><a href=\"https://mackerel.io/docs/entry/overview#support-environments\">Supported Environments - Mackerel Docs</a></li>\n</ul>\n</li>\n</ul>\n<h2>Connection status</h2>\n<ul>\n<li>Make sure that you can connect from the target server to the destinations listed in “ <a href=\"https://support.mackerel.io/hc/en-us/articles/360039633271\">What is Mackerel’s IP address and port number?</a>”.</li>\n<li>If connecting via a proxy server, make sure that the proxy server is configured according to “ <a href=\"https://support.mackerel.io/hc/en-us/articles/360039701312-Is-it-possible-to-control-which-port-the-mackerel-agent-uses-\">Is it possible to control which port the mackerel-agent uses?</a>”.</li>\n<li>If antivirus software is installed on the server where the agent is installed, please make sure that mackerel-agent signal is not blocked.</li>\n<li>Check whether or not <code>api.mackerelio.com</code> name resolution is working.</li>\n</ul>\n<h2>Other</h2>\n<ul>\n<li>Check whether or not the package (yum / apt) is installed correctly.</li>\n<li>Confirm that the API key specified for mackerel-agent is not ReadOnly.</li>\n<li>Check the contents of the log by mackerel-agent and check whether an error is output.</li>\n<li>Please check the command <code>mackerel-agent configtest</code> to see if the configuration file <code>mackerel-agent.conf</code> is written correctly.</li>\n<li>If you’ve copied <code>/var/lib/mackerel-agent/id</code> onto an OS image with Docker Image or AMI, this file needs to be deleted.\n<ul>\n<li>When mackerel-agent starts up for the first time, the ID issued by the server will be saved to <code>/var/lib/mackerel-agent/id</code>. The host will be identified by this ID from then on.</li>\n<li>For this reason, if <code>/var/lib/mackerel-agent/id</code> is copied, multiple hosts will be recognized by Mackerel as the same host, resulting in metric posting and monitoring not functioning properly.</li>\n</ul>\n</li>\n</ul>\n<p>If the problem has not been resolved after double checking all of the points above, please contact us via the \"Contact Us\" button (please attach any relevant information such as error logs if available). The \"Contact Us\" button is displayed in the header of this page or the header of the Mackerel Web Console.</p>\n"
   }
 }
