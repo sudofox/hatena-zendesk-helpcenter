@@ -12,7 +12,7 @@
     "vote_count": 0,
     "section_id": 360008120511,
     "created_at": "2020-12-18T02:26:22Z",
-    "updated_at": "2024-10-11T03:38:57Z",
+    "updated_at": "2024-10-11T09:14:09Z",
     "name": "I’ve set up mackerel-container-agent in an Amazon ECS environment, but the host won’t integrate with Mackerel",
     "title": "I’ve set up mackerel-container-agent in an Amazon ECS environment, but the host won’t integrate with Mackerel",
     "source_locale": "ja",

@@ -12,18 +12,18 @@
     "vote_count": 0,
     "section_id": 360007912372,
     "created_at": "2020-10-26T08:01:17Z",
-    "updated_at": "2021-12-21T05:19:39Z",
+    "updated_at": "2024-10-11T09:12:06Z",
     "name": "Webコンソールから監視ルールなどの変更ができない",
     "title": "Webコンソールから監視ルールなどの変更ができない",
     "source_locale": "ja",
     "locale": "ja",
     "outdated": false,
     "outdated_locales": [],
-    "edited_at": "2020-11-02T07:46:54Z",
+    "edited_at": "2024-10-11T09:12:06Z",
     "user_segment_id": null,
     "permission_group_id": 1305651,
     "content_tag_ids": [],
     "label_names": [],
-    "body": "<ul>\n<li>ログインユーザーに付与されている権限によっては操作いただけない機能がございます。<a href=\"https://mackerel.io/my?tab=members\" target=\"_blank\" rel=\"noopener\">メンバー一覧画面</a>にて操作に必要な権限が付与されているかご確認ください。</li>\n<li>非対応ブラウザでWebコンソールにアクセスされていると画面上の操作が正常に行えない場合がございます。対応ブラウザからご利用いただいているかご確認ください。</li>\n<li>Webコンソール上の操作ではHTTPリクエストメソッドの GET / POST 以外に PUT / DELETE を使用したリクエストを行います。\n<ul>\n<li>ご利用のネットワーク環境でこれらを制限されている場合に正しく動作致しませんので許可いただくようお願いいたします。</li>\n</ul>\n</li>\n</ul>\n<h3><span style=\"font-size: 1.2em; font-weight: 600; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif;\">参考</span></h3>\n<ul>\n<li><a href=\"https://mackerel.io/ja/docs/entry/spec/authority\" target=\"_self\">ユーザー権限 - Mackerel ヘルプ</a></li>\n<li><a href=\"https://mackerel.io/ja/docs/entry/overview#support-environments\" target=\"_self\">対応環境（概要） - Mackerel ヘルプ</a></li>\n</ul>"
+    "body": "<ul>\n<li>ログインユーザーに付与されている権限によっては操作いただけない機能がございます。 <a href=\"https://mackerel.io/my?tab=members\">メンバー一覧画面</a> にて操作に必要な権限が付与されているかご確認ください。</li>\n<li>非対応ブラウザでWebコンソールにアクセスされていると画面上の操作が正常に行えない場合がございます。対応ブラウザからご利用いただいているかご確認ください。</li>\n<li>Webコンソール上の操作ではHTTPリクエストメソッドの GET / POST 以外に PUT / DELETE を使用したリクエストを行います。\n<ul>\n<li>ご利用のネットワーク環境でこれらを制限されている場合に正しく動作致しませんので許可いただくようお願いいたします。</li>\n</ul>\n</li>\n</ul>\n<h3>参考</h3>\n<ul>\n<li><a href=\"https://mackerel.io/ja/docs/entry/spec/authority\">ユーザー権限 - Mackerel ヘルプ</a></li>\n<li><a href=\"https://mackerel.io/ja/docs/entry/overview#support-environments\">対応環境（概要） - Mackerel ヘルプ</a></li>\n</ul>\n"
   }
 }

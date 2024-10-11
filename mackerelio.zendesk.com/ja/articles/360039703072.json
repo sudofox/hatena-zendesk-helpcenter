@@ -12,20 +12,20 @@
     "vote_count": 0,
     "section_id": 360008016131,
     "created_at": "2020-02-24T09:20:30Z",
-    "updated_at": "2024-10-11T02:47:33Z",
+    "updated_at": "2024-10-11T09:08:21Z",
     "name": "毎月の決済金額を経理担当者と共有したい",
     "title": "毎月の決済金額を経理担当者と共有したい",
     "source_locale": "ja",
     "locale": "ja",
     "outdated": false,
     "outdated_locales": [],
-    "edited_at": "2023-10-04T08:20:32Z",
+    "edited_at": "2024-10-11T09:08:21Z",
     "user_segment_id": null,
     "permission_group_id": 1305651,
     "content_tag_ids": [],
     "label_names": [
       "請求書"
     ],
-    "body": "<p>Mackerelでは、クレジットカード決済による利用料金の決済金額をお知らせするメールを、毎月月初の決済完了タイミングで配信しています。</p>\n<p>初期状態ではこのメールは、対象となるオーガニゼーションのオーナー権限を持つアカウント宛に送信されるようになっていますが、この送信先として任意のメールアドレスを追加することが可能です。<a href=\"https://mackerel.io/my?tab=setting\">オーガニゼーション設定タブ</a>内、「メール設定」から設定可能です。</p>\n<p><img style=\"font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif;\" src=\"https://support.mackerel.io/hc/article_attachments/360060934032\" alt=\"__________2020-07-02_14.46.50.png\"></p>\n<p>メールアドレスを入力し、「課金関連」を有効にした状態で「作成」を押してください。この変更は、管理者以上の権限を持ったユーザーのみ可能です。</p>"
+    "body": "<p>Mackerelでは、クレジットカード決済による利用料金の決済金額をお知らせするメールを、毎月月初の決済完了タイミングで配信しています。</p>\n<p>初期状態ではこのメールは、対象となるオーガニゼーションのオーナー権限を持つアカウント宛に送信されるようになっていますが、この送信先として任意のメールアドレスを追加することが可能です。 <a href=\"https://mackerel.io/my?tab=setting\">オーガニゼーション設定タブ</a> 内、「メール設定」から設定可能です。</p>\n<p><img src=\"https://support.mackerel.io/hc/article_attachments/360060934032\" alt=\"__________2020-07-02_14.46.50.png\"></p>\n<p>メールアドレスを入力し、「課金関連」を有効にした状態で「作成」を押してください。この変更は、管理者以上の権限を持ったユーザーのみ可能です。</p>\n"
   }
 }

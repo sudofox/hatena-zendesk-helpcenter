@@ -12,18 +12,18 @@
     "vote_count": 0,
     "section_id": 360008015871,
     "created_at": "2020-06-26T04:59:59Z",
-    "updated_at": "2024-10-11T03:02:55Z",
+    "updated_at": "2024-10-11T08:03:38Z",
     "name": "AWSインテグレーションを設定したがMackerelにホストが連携されない",
     "title": "AWSインテグレーションを設定したがMackerelにホストが連携されない",
     "source_locale": "ja",
     "locale": "ja",
     "outdated": false,
     "outdated_locales": [],
-    "edited_at": "2024-10-04T07:46:13Z",
+    "edited_at": "2024-10-11T08:03:38Z",
     "user_segment_id": null,
     "permission_group_id": 1305651,
     "content_tag_ids": [],
     "label_names": [],
-    "body": "<div>\n<a href=\"https://mackerel.io/ja/docs/entry/integrations/aws\" target=\"_self\">AWSインテグレーション</a>のヘルプページにある連携方法をご確認の上、下記の観点で設定いただいた内容の見直しをお願いいたします。</div>\n<div> <span style=\"font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif;\"> </span>\n</div>\n<div>\n<ul>\n<li>IAM Management Consoleにて作成したIAMロールに、Mackerelに連携するサービスに必要なIAMポリシーがアタッチされているか</li>\n<li>作成したIAMロールで1つのサービスのみを連携する場合に<code class=\"c-mrkdwn__code\" style=\"font-size: 15px;\" data-stringify-type=\"code\">CloudWatchReadOnlyAccess</code><span style=\"font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif;\">ポリシーの追加アタッチが必要なサービスに該当していないか</span>\n</li>\n<li>タグでの絞り込みをおこなう場合に、設定されているタグの指定に誤りはないか</li>\n<li>\n<span style=\"font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif;\">タグでの絞り込みをおこなう場合に、追加のIAMポリシーを付与する必要がないか</span>\n<ul>\n<li><span style=\"font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif;\">ヘルプページ <a href=\"https://mackerel.io/ja/docs/entry/integrations/aws#tag\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">https://mackerel.io/ja/docs/entry/integrations/aws#tag</a> の設定内容をご確認ください</span></li>\n</ul>\n</li>\n<li>\n<div>\n<div>Amazon S3 など、IAMポリシー以外にサービス側などで連携するための設定が個別に必要ではないか</div>\n</div>\n<ul>\n<li>\n<div>\n<div><a href=\"https://mackerel.io/ja/docs/entry/integrations/aws/s3\" target=\"_self\">AWSインテグレーション - S3 - Mackerel ヘルプ</a></div>\n</div>\n</li>\n</ul>\n</li>\n</ul>\n</div>"
+    "body": "<p><a href=\"https://mackerel.io/ja/docs/entry/integrations/aws\">AWSインテグレーション</a> のヘルプページにある連携方法をご確認の上、下記の観点で設定いただいた内容の見直しをお願いいたします。</p>\n<ul>\n<li>IAM Management Consoleにて作成したIAMロールに、Mackerelに連携するサービスに必要なIAMポリシーがアタッチされているか</li>\n<li>作成したIAMロールで1つのサービスのみを連携する場合に <code>CloudWatchReadOnlyAccess</code> ポリシーの追加アタッチが必要なサービスに該当していないか</li>\n<li>タグでの絞り込みをおこなう場合に、設定されているタグの指定に誤りはないか</li>\n<li>タグでの絞り込みをおこなう場合に、追加のIAMポリシーを付与する必要がないか  - ヘルプページ <a href=\"https://mackerel.io/ja/docs/entry/integrations/aws#tag\">https://mackerel.io/ja/docs/entry/integrations/aws#tag</a> の設定内容をご確認ください</li>\n<li>Amazon S3 など、IAMポリシー以外にサービス側などで連携するための設定が個別に必要ではないか\n<ul>\n<li><a href=\"https://mackerel.io/ja/docs/entry/integrations/aws/s3\">AWSインテグレーション - S3 - Mackerel ヘルプ</a></li>\n</ul>\n</li>\n</ul>\n"
   }
 }

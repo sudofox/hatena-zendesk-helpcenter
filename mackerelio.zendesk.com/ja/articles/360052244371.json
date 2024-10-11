@@ -12,18 +12,18 @@
     "vote_count": 1,
     "section_id": 360007912312,
     "created_at": "2020-11-06T09:26:30Z",
-    "updated_at": "2024-10-11T03:12:43Z",
+    "updated_at": "2024-10-11T09:13:19Z",
     "name": "ログ監視 check-logで「UNKNOWN: unexpected end of JSON input」というアラートが発生する原因と対処方法は？",
     "title": "ログ監視 check-logで「UNKNOWN: unexpected end of JSON input」というアラートが発生する原因と対処方法は？",
     "source_locale": "ja",
     "locale": "ja",
     "outdated": false,
     "outdated_locales": [],
-    "edited_at": "2022-04-05T08:20:11Z",
+    "edited_at": "2024-10-11T09:13:19Z",
     "user_segment_id": null,
     "permission_group_id": 1305651,
     "content_tag_ids": [],
     "label_names": [],
-    "body": "<ul>\n<li>check-log プラグインは監視対象のログファイルの差分をチェックする仕様のため、監視対象とするファイルの読み込み済みの位置（バイト数）をjson形式で記録しています。</li>\n<li>このjsonファイルが破損すると次回のチェック時に読み込むことができずに <code class=\"c-mrkdwn__code\" data-stringify-type=\"code\">unexpected end of JSON input</code>という Unknown アラートが発報されます。</li>\n<li>ファイルの破損は多くの場合がサーバー再起動などによって発生しますが、最新のバージョンでは破損が起こりにくくなっているため、定期的なプラグインのアップデートをおすすめいたします。</li>\n<li>このアラートを解消するには原因となる破損したJSONファイルを削除する必要があります。JSONファイルは以下のようなパスに作成されます。</li>\n</ul>\n<h4>Linux</h4>\n<pre>/var/tmp/mackerel-agent/check-log/&lt;監視対象のファイルパス&gt;-&lt;hash文字列&gt;.json</pre>\n<h4>Windows</h4>\n<pre>％TEMP％\\check-log\\&lt;監視対象のファイルパス&gt;-&lt;hash文字列&gt;.json</pre>\n<ul>\n<li>例えば Linux のホストにて <code style=\"font-size: 15px;\">/<span class=\"wysiwyg-font-size-medium\">var/log/foo.log</span></code> を監視されている場合は <code style=\"font-size: 15px;\"><span class=\"wysiwyg-font-size-medium\">/var/tmp/mackerel-agent/check-log/var/log/foo.log-&lt;hash文字列&gt;.json</span></code> となります。</li>\n<li>Windows Server のホストの場合、システム環境変数の TEMP が指すディレクトリ配下に記録されます。</li>\n<li>上記ファイルを削除もしくは拡張子を変更するなどして解消されるかご確認ください。</li>\n</ul>"
+    "body": "<ul>\n<li>check-log プラグインは監視対象のログファイルの差分をチェックする仕様のため、監視対象とするファイルの読み込み済みの位置（バイト数）をjson形式で記録しています。</li>\n<li>このjsonファイルが破損すると次回のチェック時に読み込むことができずに <code>unexpected end of JSON input</code> という Unknown アラートが発報されます。</li>\n<li>ファイルの破損は多くの場合がサーバー再起動などによって発生しますが、最新のバージョンでは破損が起こりにくくなっているため、定期的なプラグインのアップデートをおすすめいたします。</li>\n<li>このアラートを解消するには原因となる破損したJSONファイルを削除する必要があります。JSONファイルは以下のようなパスに作成されます。</li>\n</ul>\n<h4 id=\"h_01J9XDMJSSVNW24D1DBGW26NY2\">Linux</h4>\n<pre>/var/tmp/mackerel-agent/check-log/&lt;監視対象のファイルパス&gt;-&lt;hash文字列&gt;.json</pre>\n<h4 id=\"h_01J9XDMJSS6NZ36Z2BW343T2XM\">Windows</h4>\n<pre>％TEMP％\\check-log\\&lt;監視対象のファイルパス&gt;-&lt;hash文字列&gt;.json</pre>\n<ul>\n<li>例えば Linux のホストにて <code>/var/log/foo.log</code> を監視されている場合は <code>/var/tmp/mackerel-agent/check-log/var/log/foo.log-&lt;hash文字列&gt;.json</code> となります。</li>\n<li>Windows Server のホストの場合、システム環境変数の TEMP が指すディレクトリ配下に記録されます。</li>\n<li>上記ファイルを削除もしくは拡張子を変更するなどして解消されるかご確認ください。</li>\n</ul>"
   }
 }

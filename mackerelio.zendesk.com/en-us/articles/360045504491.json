@@ -12,18 +12,18 @@
     "vote_count": 0,
     "section_id": 360008015871,
     "created_at": "2020-06-26T04:59:59Z",
-    "updated_at": "2024-10-11T03:02:55Z",
+    "updated_at": "2024-10-11T08:03:38Z",
     "name": "I configured AWS Integration, but the host won’t integrate with Mackerel",
     "title": "I configured AWS Integration, but the host won’t integrate with Mackerel",
     "source_locale": "ja",
     "locale": "en-us",
     "outdated": false,
     "outdated_locales": [],
-    "edited_at": "2024-10-11T03:02:55Z",
+    "edited_at": "2024-10-11T07:50:45Z",
     "user_segment_id": null,
     "permission_group_id": 1305651,
     "content_tag_ids": [],
     "label_names": [],
-    "body": "<ul>\n<li>Is the required IAM policy attached to the IAM role that was created in the IAM Management Console?</li>\n<li>Does the service require additional attachment of the CloudWatchReadOnlyAccess policy when only one service is integrated with the created IAM role?</li>\n<li>Are there any mistakes in the specified tags used when filtering?</li>\n<li>Do you need to add an additional IAM policy when filtering with tags?</li>\n<li>Check the settings in the help page <a href=\"https://mackerel.io/docs/entry/integrations/aws#tag\">https://mackerel.io/docs/entry/integrations/aws#tag</a>\n</li>\n<li>In addition to IAM policies, it may be necessary to individually configure settings for integrating with services such as Amazon S3.  - <a href=\"https://mackerel.io/docs/entry/integrations/aws/s3\">AWS Integration - S3 - Mackerel Docs</a>\n</li>\n</ul>\n"
+    "body": "<ul>\n<li>Is the required IAM policy attached to the IAM role that was created in the IAM Management Console?</li>\n<li>Does the service require additional attachment of the CloudWatchReadOnlyAccess policy when only one service is integrated with the created IAM role?</li>\n<li>Are there any mistakes in the specified tags used when filtering?</li>\n<li>Do you need to add an additional IAM policy when filtering with tags?</li>\n<li>Check the settings in the help page <a href=\"https://mackerel.io/docs/entry/integrations/aws#tag\">https://mackerel.io/docs/entry/integrations/aws#tag</a>\n</li>\n<li>In addition to IAM policies, it may be necessary to individually configure settings for integrating with services such as Amazon S3.\n<ul>\n<li><a href=\"https://mackerel.io/docs/entry/integrations/aws/s3\">AWS Integration - S3 - Mackerel Docs</a></li>\n</ul>\n</li>\n</ul>\n"
   }
 }
