@@ -12,18 +12,18 @@
     "vote_count": 0,
     "section_id": 4412617441305,
     "created_at": "2020-06-29T03:43:29Z",
-    "updated_at": "2024-10-11T08:50:57Z",
+    "updated_at": "2024-10-15T02:38:09Z",
     "name": "What is Mackerel's SLA?",
     "title": "What is Mackerel's SLA?",
     "source_locale": "ja",
     "locale": "en-us",
     "outdated": false,
     "outdated_locales": [],
-    "edited_at": "2024-10-11T03:03:56Z",
+    "edited_at": "2024-10-15T02:38:09Z",
     "user_segment_id": null,
     "permission_group_id": 1305651,
     "content_tag_ids": [],
     "label_names": [],
-    "body": "<p>At the moment, we do not have an SLA or similar commitment defined, but we do have internally established SLOs (non-disclosed) that we consistently strive to maintain at a high level.</p>\n<p>For Mackerel, service quality is of the utmost importance and you can rest assured that we are constantly looking for ways in which we can improve.</p>\n<p>Check out the link below for a brief history of the obstacles that we’ve run into so far.</p>\n"
+    "body": "<p>At the moment, we do not have an SLA or similar commitment defined, but we do have internally established SLOs (non-disclosed) that we consistently strive to maintain at a high level.</p>\n<p>For Mackerel, service quality is of the utmost importance and you can rest assured that we are constantly looking for ways in which we can improve.</p>\n<p>Check out the link below for a brief history of the obstacles that we’ve run into so far.</p>\n<p><a href=\"https://status.mackerel.io/pages/history/5344e2be5cf8a32665000009\">https://status.mackerel.io/pages/history/5344e2be5cf8a32665000009</a></p>\n"
   }
 }

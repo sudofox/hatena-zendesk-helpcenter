@@ -12,18 +12,18 @@
     "vote_count": 0,
     "section_id": 360007820312,
     "created_at": "2023-12-05T00:16:09Z",
-    "updated_at": "2023-12-05T00:30:27Z",
+    "updated_at": "2024-10-15T02:13:37Z",
     "name": "CreateInternetGatewayのAPIコールがAWS CloudTrailに記録されます",
     "title": "CreateInternetGatewayのAPIコールがAWS CloudTrailに記録されます",
     "source_locale": "ja",
     "locale": "ja",
     "outdated": false,
     "outdated_locales": [],
-    "edited_at": "2023-12-05T00:26:48Z",
+    "edited_at": "2024-10-15T02:13:37Z",
     "user_segment_id": null,
     "permission_group_id": 1305651,
     "content_tag_ids": [],
     "label_names": [],
-    "body": "<p>AWSインテグレーションを有効にすると、権限チェックのためにCreateInternetGatewayのAPIを定期的に<span style=\"font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif;\">dry-runで</span>実行します。これにより<span style=\"font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif;\">実際にリソースを作成するようなことはないのでご安心ください。</span></p>\n<p>詳細については、以下のヘルプをご確認ください。</p>\n<ul>\n<li><a href=\"https://mackerel.io/ja/docs/entry/integrations/aws#%E3%82%A2%E3%82%AF%E3%82%BB%E3%82%B9%E3%82%AD%E3%83%BC%E3%81%AE%E6%A8%A9%E9%99%90%E3%83%81%E3%82%A7%E3%83%83%E3%82%AF%E3%81%A8-CreateInternetGateway-%E3%81%AB%E9%96%A2%E3%81%97%E3%81%A6\">アクセスキーの権限チェックと CreateInternetGateway に関して</a></li>\n</ul>"
+    "body": "<p>AWSインテグレーションを有効にすると、権限チェックのためにCreateInternetGatewayのAPIを定期的にdry-runで実行します。これにより実際にリソースを作成するようなことはないのでご安心ください。</p>\n<p>詳細については、以下のヘルプをご確認ください。</p>\n<ul>\n<li><a href=\"https://mackerel.io/ja/docs/entry/integrations/aws#%E3%82%A2%E3%82%AF%E3%82%BB%E3%82%B9%E3%82%AD%E3%83%BC%E3%81%AE%E6%A8%A9%E9%99%90%E3%83%81%E3%82%A7%E3%83%83%E3%82%AF%E3%81%A8-CreateInternetGateway-%E3%81%AB%E9%96%A2%E3%81%97%E3%81%A6\">アクセスキーの権限チェックと CreateInternetGateway に関して</a></li>\n</ul>\n"
   }
 }
