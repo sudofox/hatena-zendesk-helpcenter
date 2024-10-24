@@ -12,19 +12,19 @@
     "vote_count": 6,
     "section_id": 360005938132,
     "created_at": "2019-07-25T01:48:52Z",
-    "updated_at": "2024-10-22T03:36:02Z",
+    "updated_at": "2024-10-24T02:55:32Z",
     "name": "外部サービス連携",
     "title": "外部サービス連携",
     "source_locale": "ja",
     "locale": "ja",
     "outdated": false,
     "outdated_locales": [],
-    "edited_at": "2024-10-22T03:36:02Z",
+    "edited_at": "2024-10-24T02:55:32Z",
     "user_segment_id": null,
     "permission_group_id": 972311,
     "content_tag_ids": [],
     "label_names": [],
-    "body": "<p>「はてなブログMedia」は、以下の外部サービスと連携できます。</p>\n<ul>\n<li>X（旧Twitter）</li>\n<li>Instagram</li>\n<li>Googleフォト</li>\n<li>Evernote</li>\n<li>pixiv</li>\n</ul>\n<p class=\"alert alert-warning\">外部サービスの連携には、ブログオーナー権限が必要です。</p>\n<div class=\"section\">\n<h2 id=\"h_01JAS4CQM48CDD8B08G393JE83\">外部サービスと連携して実現できること</h2>\n<p>各種の外部サービスと連携すると、「はてなブログMedia」で次の機能が利用できます。</p>\n<div class=\"help-table\">\n<table border=\"1\">\n<tbody>\n<tr>\n<th>機能</th>\n<th>対応するサービス</th>\n<th>説明</th>\n</tr>\n<tr>\n<td><a href=\"https://hatenablogmedia.zendesk.com/hc/ja/articles/360030891312\" target=\"_self\">記事投稿時の通知</a></td>\n<td>X（旧Twitter）</td>\n<td>記事を公開した際に、記事投稿完了画面からソーシャルメディア通知機能を利用できる</td>\n</tr>\n<tr>\n<td><a href=\"https://hatenablogmedia.zendesk.com/hc/ja/articles/360031013972\" target=\"_self\">編集サイドバー</a></td>\n<td>\n<p>X（旧Twitter）、Instagram、Googleフォト、Evernote、pixiv</p>\n</td>\n<td>各サービスのコンテンツを、編集画面の編集サイドバーから簡単に貼り付けられる</td>\n</tr>\n<tr>\n<td><a href=\"https://hatenablogmedia.zendesk.com/hc/ja/articles/360031356311\" target=\"_self\">サイドバーのプロフィール</a></td>\n<td>X（旧Twitter）</td>\n<td>サイドバーの「プロフィール」モジュールに、フォローやフィード購読のボタンを表示できる</td>\n</tr>\n<tr>\n<td><a href=\"https://hatenablogmedia.zendesk.com/hc/ja/articles/360031261691\" target=\"_self\">Twitterカード</a></td>\n<td>X（旧Twitter）</td>\n<td>記事がツイートされた際、Twitterカードに連携しているX（旧Twitter）アカウントが表示される</td>\n</tr>\n</tbody>\n</table>\n</div>\n</div>\n<div class=\"section\">\n<h2 id=\"h_01JAS4CQM4BR95409242WNK61E\">外部サービスとの連携方法</h2>\n<p>管理画面 &gt; [<strong>アカウント設定</strong>] &gt; [<strong>外部サービス連携</strong>]で「はてなブログMedia」と各種の外部サービス（X、Instagram、Googleフォト、Evernote、pixiv）を連携できます。</p>\n<p>連携させたいソーシャルメディアの右横に表示されている「有効にする」をクリックすると認証に関する注意書きが表示されます。内容をご確認のうえ、画面の指示に従って設定してください。</p>\n<p>また、連携済みの欄で「無効にする」または「連携を解除する」をクリックすると、各アカウントの認証を切断できます。</p>\n</div>",
+    "body": "<p>「<a href=\"https://blog.hatena.ne.jp/-/config/external\">アカウント設定</a>」の「外部サービス連携」ページで、はてなブログを各種の外部サービス（X（旧Twitter）、Instagram、Googleフォト、Evernote、pixiv）と連携させることができます。詳しくは、下記のはてなブログヘルプをご覧ください。</p>\n<ul>\n<li><a href=\"https://help.hatenablog.com/entry/config/external\">外部サービス連携 - はてなブログヘルプ</a></li>\n</ul>",
     "user_segment_ids": []
   }
 }
