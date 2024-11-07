@@ -12,18 +12,18 @@
     "vote_count": 0,
     "section_id": 360008016131,
     "created_at": "2021-04-13T07:00:17Z",
-    "updated_at": "2024-11-07T05:40:18Z",
+    "updated_at": "2024-11-07T06:54:22Z",
     "name": "Is it possible to use more than the plan’s limit?",
     "title": "Is it possible to use more than the plan’s limit?",
     "source_locale": "ja",
     "locale": "en-us",
     "outdated": false,
     "outdated_locales": [],
-    "edited_at": "2024-10-11T02:45:18Z",
+    "edited_at": "2024-11-07T06:54:22Z",
     "user_segment_id": null,
     "permission_group_id": 1305651,
     "content_tag_ids": [],
     "label_names": [],
-    "body": "<ul>\n<li>Each plan (Standard / Free / Trial) has its own limit on the number of items that can be used.</li>\n<li>The specified limits for the Free plan and Trial plan cannot be exceeded.</li>\n<li>With the Standard plan, if you exceed the limit of any of the following items, the overage is converted into standard hosts and additional fees are incurred.\n<ul>\n<li>Host metrics</li>\n<li>Service metrics</li>\n<li>External monitoring</li>\n<li>Anomaly detection for roles</li>\n</ul>\n</li>\n<li>To learn more about additional fees, see \" <a href=\"https://support.mackerel.io/hc/en-us/articles/360040109431\">Handling of host conversion when plan limits are exceeded</a>\".</li>\n<li>  By default, the following items cannot be exceeded, but you can request for these limits to be mitigated at no additional charge by contacting Support.\n<ul>\n<li>Monitors</li>\n<li>Custom dashboards</li>\n</ul>\n</li>\n<li>As limit mitigation may take 1 to 2 business days, please let us know in advance.</li>\n<li>In addition, please understand that we may decline a request depending on the situation.</li>\n</ul>\n"
+    "body": "<ul>\n<li>Each plan (Standard / Free / Trial) has its own limit on the number of items that can be used.</li>\n<li>The specified limits for the Free plan and Trial plan cannot be exceeded.</li>\n<li>With the Standard plan, if you exceed the limit of any of the following items, additional fees are incurred. For more information about additional fees, please see \"<a href=\"https://support.mackerel.io/hc/en-us/articles/31304727432729\">How usage fees are calculated</a>\".\n<ul>\n<li>Host metrics</li>\n<li>External monitoring</li>\n</ul>\n</li>\n<li>  By default, the following items cannot be exceeded, but you can request for these limits to be mitigated at no additional charge by contacting Support.\n<ul>\n<li>Monitors (Host metric monitor, Service metric monitor)</li>\n<li>Expression monitor</li>\n<li>Custom dashboards</li>\n</ul>\n</li>\n<li>As limit mitigation may take 1 to 2 business days, please let us know in advance.</li>\n<li>In addition, please understand that we may decline a request depending on the situation.</li>\n</ul>\n"
   }
 }
