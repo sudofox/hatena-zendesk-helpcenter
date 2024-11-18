@@ -12,18 +12,18 @@
     "vote_count": 0,
     "section_id": 360007820312,
     "created_at": "2020-02-10T00:38:28Z",
-    "updated_at": "2022-06-24T01:00:27Z",
+    "updated_at": "2024-11-18T02:10:11Z",
     "name": "サービスがホストされているIPアドレスとポート番号を教えて下さい",
     "title": "サービスがホストされているIPアドレスとポート番号を教えて下さい",
     "source_locale": "ja",
     "locale": "ja",
     "outdated": false,
     "outdated_locales": [],
-    "edited_at": "2022-06-24T01:00:27Z",
+    "edited_at": "2024-11-18T02:10:11Z",
     "user_segment_id": null,
     "permission_group_id": 1305651,
     "content_tag_ids": [],
     "label_names": [],
-    "body": "<ul>\n<li>mackerel.io / api.mackerelio.com / kcps-mackerel.io 共に以下のレンジでホストされています。変更する際は事前に告知を行います。\n<ul>\n<li><code>13.113.31.156/32</code></li>\n<li><code>54.92.89.142/32</code></li>\n<li><code>52.196.35.56/32</code></li>\n<li><code>52.69.239.167/32</code></li>\n<li><code>52.198.226.45/32</code></li>\n<li><code>52.198.218.152/32</code></li>\n<li><code>13.113.245.173/32</code></li>\n<li><code>52.199.207.168/32</code></li>\n<li><code>52.193.231.228/32</code></li>\n</ul>\n</li>\n<li>ポート番号は443です。</li>\n<li>\n<p>mackerel-agentからのリクエスト先も上記のIPアドレスとポート番号に対しての通信となります。</p>\n</li>\n<li>\n<p>Mackerelからの通知・外形監視リクエストのリクエスト元IPについては以下のページをご覧ください。</p>\n<ul>\n<li><a href=\"https://support.mackerel.io/hc/ja/articles/360039701332-Webhook%E9%80%9A%E7%9F%A5%E3%82%84%E5%A4%96%E5%BD%A2%E7%9B%A3%E8%A6%96%E3%81%AA%E3%81%A9-Mackerel%E3%81%8B%E3%82%89%E3%81%AE%E9%80%9A%E7%9F%A5%E5%85%83IP%E3%82%A2%E3%83%89%E3%83%AC%E3%82%B9%E3%81%AF-\" target=\"_self\">Webhook通知や外形監視など、Mackerelからの通知元IPアドレスは？</a></li>\n</ul>\n</li>\n</ul>\n<h3>履歴</h3>\n<ul>\n<li>2014年5月8日作成</li>\n<li>2017年8月7日改定</li>\n</ul>"
+    "body": "<ul>\n<li>mackerel.io / api.mackerelio.com / kcps-mackerel.io 共に以下のレンジでホストされています。変更する際は事前に告知を行います。\n<ul>\n<li><code>13.113.31.156/32</code></li>\n<li><code>54.92.89.142/32</code></li>\n<li><code>52.196.35.56/32</code></li>\n<li><code>52.69.239.167/32</code></li>\n<li><code>52.198.226.45/32</code></li>\n<li><code>52.198.218.152/32</code></li>\n<li><code>13.113.245.173/32</code></li>\n<li><code>52.199.207.168/32</code></li>\n<li><code>52.193.231.228/32</code></li>\n</ul>\n</li>\n<li>ポート番号は443です。</li>\n<li>mackerel-agentからのリクエスト先も上記のIPアドレスとポート番号に対しての通信となります。</li>\n<li>Mackerelからの通知・外形監視リクエストのリクエスト元IPについては以下のページをご覧ください。\n<ul>\n<li><a href=\"https://support.mackerel.io/hc/ja/articles/360039701332-Webhook%E9%80%9A%E7%9F%A5%E3%82%84%E5%A4%96%E5%BD%A2%E7%9B%A3%E8%A6%96%E3%81%AA%E3%81%A9-Mackerel%E3%81%8B%E3%82%89%E3%81%AE%E9%80%9A%E7%9F%A5%E5%85%83IP%E3%82%A2%E3%83%89%E3%83%AC%E3%82%B9%E3%81%AF-\">Webhook通知や外形監視など、Mackerelからの通知元IPアドレスは？</a></li>\n</ul>\n</li>\n<li>JSON形式での取得も可能です。詳しくは以下のページをご覧ください。\n<ul>\n<li><a href=\"https://mackerel.io/ja/docs/entry/spec/metadata#IP%E3%82%A2%E3%83%89%E3%83%AC%E3%82%B9%E7%AF%84%E5%9B%B2\">IPアドレス範囲</a></li>\n</ul>\n</li>\n</ul>\n<h3>履歴</h3>\n<ul>\n<li>2014年5月8日作成</li>\n<li>2017年8月7日改定</li>\n</ul>\n"
   }
 }
