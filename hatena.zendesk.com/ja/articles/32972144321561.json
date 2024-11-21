@@ -8,24 +8,25 @@
     "draft": false,
     "promoted": false,
     "position": 0,
-    "vote_sum": 0,
-    "vote_count": 0,
+    "vote_sum": 2,
+    "vote_count": 2,
     "section_id": 900000572906,
     "created_at": "2024-05-27T01:31:15Z",
-    "updated_at": "2024-05-28T01:05:19Z",
-    "name": "ニックネームを変更したい",
-    "title": "ニックネームを変更したい",
+    "updated_at": "2024-11-21T02:05:06Z",
+    "name": "ニックネームを変更・削除したい",
+    "title": "ニックネームを変更・削除したい",
     "source_locale": "ja",
     "locale": "ja",
     "outdated": false,
     "outdated_locales": [],
-    "edited_at": "2024-05-28T01:05:03Z",
+    "edited_at": "2024-11-21T02:05:06Z",
     "user_segment_id": null,
     "permission_group_id": 972311,
     "content_tag_ids": [],
     "label_names": [
       "ニックネーム"
     ],
-    "body": "<p>ニックネームの変更は、下記の手順で行っていただけます。</p>\n<ol>\n<li>以下のURLにアクセスしてください\n<ul>\n<li><a href=\"https://accounts.hatena.ne.jp/settings\" target=\"_blank\" rel=\"noopener noreferrer\">https://accounts.hatena.ne.jp/settings</a></li>\n<li>ログイン画面が表示された場合はログインしてください</li>\n</ul>\n</li>\n<li>「アカウント登録情報」の「ニックネーム」にある「変更する」をクリックする</li>\n<li>新しく設定したいニックネームを入力し「送信する」をクリックする</li>\n</ol>"
+    "body": "<p>ニックネームの変更・削除は、下記の手順で行っていただけます。</p>\n<p> </p>\n<h4 id=\"h_01JD67C3MWWD899PGGCAPGQSV8\">ニックネームの変更</h4>\n<ol>\n<li>以下のURLにアクセスしてください\n<ul>\n<li><a href=\"https://accounts.hatena.ne.jp/settings\" target=\"_blank\" rel=\"noopener noreferrer\">https://accounts.hatena.ne.jp/settings</a></li>\n<li>ログイン画面が表示された場合はログインしてください</li>\n</ul>\n</li>\n<li>「アカウント登録情報」の「ニックネーム」にある「変更する」をクリックする</li>\n<li>新しく設定したいニックネームを入力し「送信する」をクリックする</li>\n</ol>\n<p> </p>\n<h4 id=\"01JD67CNYW29BV999N5CD6226S\">ニックネームの削除</h4>\n<ol>\n<li>以下のURLにアクセスしてください\n<ul>\n<li><a href=\"https://accounts.hatena.ne.jp/settings\" target=\"_blank\" rel=\"noopener noreferrer\">https://accounts.hatena.ne.jp/settings</a></li>\n<li>ログイン画面が表示された場合はログインしてください</li>\n</ul>\n</li>\n<li>「アカウント登録情報」の「ニックネーム」にある「変更する」をクリックする</li>\n<li>入力されているニックネームを削除し、空欄状態で「送信する」をクリックすると設定済みのニックネームが削除されます</li>\n</ol>",
+    "user_segment_ids": []
   }
 }
