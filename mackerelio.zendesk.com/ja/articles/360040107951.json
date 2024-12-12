@@ -12,20 +12,20 @@
     "vote_count": 1,
     "section_id": 360007820312,
     "created_at": "2020-02-24T08:03:05Z",
-    "updated_at": "2022-10-25T05:54:36Z",
+    "updated_at": "2024-12-12T06:18:54Z",
     "name": "割合監視「CPU %」などの監視ルールについて",
     "title": "割合監視「CPU %」などの監視ルールについて",
     "source_locale": "ja",
     "locale": "ja",
     "outdated": false,
     "outdated_locales": [],
-    "edited_at": "2022-10-25T05:54:36Z",
+    "edited_at": "2024-12-12T06:18:54Z",
     "user_segment_id": null,
     "permission_group_id": 1305651,
     "content_tag_ids": [],
     "label_names": [
       "割合監視"
     ],
-    "body": "<p>ホストメトリック監視ルールを作成する際、その監視対象として以下の4種類の項目を選択できます。</p>\n<ul>\n<li>CPU %</li>\n<li>Memory %</li>\n<li>Swap %</li>\n<li>Filesystem %</li>\n</ul>\n<p><img class=\"hatena-fotolife\" title=\"f:id:mackerelio:20180419153725p:plain\" src=\"https://cdn-ak.f.st-hatena.com/images/fotolife/m/mackerelio/20180419/20180419153725.png\" alt=\"f:id:mackerelio:20180419153725p:plain\"></p>\n<p>これらは<strong>metric rate monitor</strong>というカテゴリに属する監視ルールで、「mackerel-agent から送信されるメトリック（システムメトリック）」の情報をもとに監視設定可能な項目です。このカテゴリの中のメトリックに対しては、その閾値を「割合」（全体を100%としたパーセンテージ）で指定します。</p>\n<p>上記4項目の詳細な仕様は、以下のとおりです。</p>\n<ul>\n<li>CPU %\n<ul>\n<li>コア数に関わらず、全体を100%としたときの <code>100% - idle%</code> の割合を閾値として指定します。</li>\n</ul>\n</li>\n<li>Memory %\n<ul>\n<li>\n<code>total</code> に対する <code>used</code> の割合を閾値として指定します。</li>\n</ul>\n</li>\n<li>Swap %\n<ul>\n<li>\n<code>swap total</code> に対する <code>swap used</code> の割合を閾値として指定します。</li>\n</ul>\n</li>\n<li>Filesystem %\n<ul>\n<li>\n<code>size</code> に対する <code>used</code> の割合を閾値として指定します。</li>\n<li>複数ファイルシステムのメトリックが投稿されている場合、最も使用率の高いファイルシステムと閾値とが比較に用いられます。</li>\n</ul>\n</li>\n</ul>"
+    "body": "<p>ホストメトリック監視ルールを作成する際、以下の4種類の項目を監視対象として選択できます。</p>\n<ul>\n<li>CPU %</li>\n<li>Memory %</li>\n<li>Swap %</li>\n<li>Filesystem %</li>\n</ul>\n<p><img src=\"https://cdn-ak.f.st-hatena.com/images/fotolife/m/mackerelio/20180419/20180419153725.png\" alt=\"f:id:mackerelio:20180419153725p:plain\"></p>\n<p>これらは「metric rate monitor」というカテゴリに属する監視ルールです。このカテゴリでは、mackerel-agent から送信される「<a href=\"https://mackerel.io/ja/docs/entry/spec/metrics\">システムメトリック</a>」を基に算出される使用率に対して、閾値を「%」で指定できます。</p>\n<p>上記4項目の詳細な仕様は以下のとおりです。</p>\n<ul>\n<li>\n<strong>CPU %</strong>\n<ul>\n<li>コア数に関係なく、全体を100%とした場合の <code>cpu.idle.percentage</code> の割合を監視します。</li>\n</ul>\n</li>\n<li>\n<strong>Memory %</strong>\n<ul>\n<li>\n<code>memory.total</code> に対する <code>memory.used</code> の割合を監視します。</li>\n</ul>\n</li>\n<li>\n<strong>Swap %</strong>\n<ul>\n<li>\n<code>memory.swap_total</code> に対する <code>memory.swap_used</code> の割合を監視します。</li>\n</ul>\n</li>\n<li>\n<strong>Filesystem %</strong>\n<ul>\n<li>\n<code>filesystem.*.size</code> に対する <code>filesystem.*.used</code> の割合を監視します。</li>\n<li>ファイルシステムが複数ある場合、いずれか1つでも閾値を上回るまたは下回るとアラートが発生します。</li>\n<li>監視不要なファイルシステムがある場合は、以下の手順でメトリック収集から除外してください。\n<ul>\n<li><a href=\"https://mackerel.io/ja/docs/entry/spec/agent#ignore\">特定のファイルシステムのメトリック収集を除外する</a></li>\n</ul>\n</li>\n</ul>\n</li>\n</ul>\n<p>なお、監視対象の使用率が常に0になるホストには監視ルールが適用されません。<br>\nたとえば、Swap 領域を持たないシステムでは Swap の使用率が常に 0 となるため、Swap % の監視ルールは適用されません。</p>\n"
   }
 }
