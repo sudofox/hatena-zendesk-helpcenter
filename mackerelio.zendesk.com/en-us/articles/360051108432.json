@@ -1,0 +1,29 @@
+{
+  "article": {
+    "id": 360051108432,
+    "url": "https://mackerelio.zendesk.com/api/v2/help_center/en-us/articles/360051108432.json",
+    "html_url": "https://support.mackerel.io/hc/en-us/articles/360051108432-Regarding-scheduled-maintenance",
+    "author_id": 390085917472,
+    "comments_disabled": true,
+    "draft": false,
+    "promoted": false,
+    "position": 0,
+    "vote_sum": 1,
+    "vote_count": 1,
+    "section_id": 4412617441305,
+    "created_at": "2020-10-26T08:32:17Z",
+    "updated_at": "2025-01-28T01:57:59Z",
+    "name": "Regarding scheduled maintenance",
+    "title": "Regarding scheduled maintenance",
+    "source_locale": "ja",
+    "locale": "en-us",
+    "outdated": false,
+    "outdated_locales": [],
+    "edited_at": "2025-01-22T03:43:17Z",
+    "user_segment_id": null,
+    "permission_group_id": 1305651,
+    "content_tag_ids": [],
+    "label_names": [],
+    "body": "<p>Any scheduled maintenance that involves a suspension of the Mackerel service will be sent via our blog and newsletter.</p>\n<p>Regardless of your email notification settings, all users registered in Mackerel will be sent a notification so please be sure to check.</p>\n<p>The following restrictions may occur during the maintenance period.</p>\n<p>Additionally, changes or additions may be made, so please be sure to check the announcements for details.</p>\n<ul>\n<li>The maintenance work finish time will be the latest expected finishing time. If the actual maintenance work is completed earlier, our systems will be restarted at the earlier time.\n<ul>\n<li>We will notify you once the maintenance work has been completed and all systems have been tested.</li>\n</ul>\n</li>\n<li>Once the maintenance work is started, all Mackerel systems will be stopped for a short period of time.\n<ul>\n<li>Mackerel web access, agent data submissions, API access (including the CLI tool), alert notifications, etc. will become unavailable.</li>\n</ul>\n</li>\n<li>Metrics and check monitoring results collected by the agent are buffered on the agent side during maintenance and resent after maintenance is complete.\n<ul>\n<li>If the data is sent successfully, graphs will also be displayed for the time period of the maintenance work.</li>\n<li>Please note that restarting or pausing a agent before the data is resent will cause it to lose all its buffered data.</li>\n<li>Starting up a agent during the maintenance period will fail, as all communications with the main Mackerel system will be blocked.</li>\n<li>During the maintenance period, all data sent to Mackerel will fail. Error messages to this effect will be output to the error logs.</li>\n<li>If the metric exceeds the monitoring threshold during maintenance and then falls below the threshold, no alert will be generated after maintenance is complete.</li>\n<li>Check monitoring alerts that occurred during maintenance will be sent out all at once after maintenance is complete, up to 6 hours worth.\n<ul>\n<li>The alert occurrence and recovery times are the times posted to Mackerel.</li>\n</ul>\n</li>\n</ul>\n</li>\n<li>Post of labeled metrics by the OpenTelemetry Collector is not buffered, but it is possible to use the metric submission retry setting to repost metrics that fail to post.\n<ul>\n<li>Please note that restarting or stopping the OpenTelemetry Collector before the metric post is complete will result in the loss of data held for metric post.</li>\n<li>OpenTelemetry Collector can be started during maintenance, but fails to post metrics to Mackerel.</li>\n<li>During the maintenance period, all data sent to Mackerel will fail. Error messages to this effect will be output to the error logs.</li>\n<li>If the metric exceeds the monitoring threshold during maintenance and then falls below the threshold, no alert will be generated after maintenance is complete.</li>\n</ul>\n</li>\n<li>External monitoring or cloud integration graphs may have missing data corresponding to the maintenance period.</li>\n</ul>\n"
+  }
+}

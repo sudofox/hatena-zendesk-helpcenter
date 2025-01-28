@@ -1,0 +1,29 @@
+{
+  "article": {
+    "id": 900004398726,
+    "url": "https://mackerelio.zendesk.com/api/v2/help_center/en-us/articles/900004398726.json",
+    "html_url": "https://support.mackerel.io/hc/en-us/articles/900004398726-How-do-I-finish-registering-an-account-with-the-status-In-Registration-Process",
+    "author_id": 390085917472,
+    "comments_disabled": true,
+    "draft": false,
+    "promoted": false,
+    "position": 0,
+    "vote_sum": 0,
+    "vote_count": 0,
+    "section_id": 4406025065625,
+    "created_at": "2021-02-08T07:18:55Z",
+    "updated_at": "2025-01-28T01:58:58Z",
+    "name": "How do I finish registering an account with the status (In Registration Process)?",
+    "title": "How do I finish registering an account with the status (In Registration Process)?",
+    "source_locale": "ja",
+    "locale": "en-us",
+    "outdated": false,
+    "outdated_locales": [],
+    "edited_at": "2025-01-28T01:58:58Z",
+    "user_segment_id": null,
+    "permission_group_id": 1305651,
+    "content_tag_ids": [],
+    "label_names": [],
+    "body": "<ul>\n<li style=\"font-weight: 400;\" aria-level=\"1\"><span style=\"font-weight: 400;\">If you registered your account via an email invitation to an organization, you will receive a follow-up email titled \"[Mackerel] Please verify your email\". Use the URL provided in this email to set a password.</span></li>\n</ul>\n<ul>\n<li style=\"font-weight: 400;\" aria-level=\"1\">\n<span style=\"font-weight: 400;\">If you can’t access this email, the password can also be set from your </span><a href=\"https://mackerel.io/settings/user?tab=account\" target=\"_blank\" rel=\"noopener\">Account Settings</a><span style=\"font-weight: 400;\">.</span>\n</li>\n</ul>\n<ul>\n<li style=\"font-weight: 400;\" aria-level=\"1\">\n<span style=\"font-weight: 400;\">If an account’s registration is incomplete (In Registration Process), the following services will be restricted.</span>\n<ul>\n<li><span style=\"font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif;\">Email notifications such as alerts</span></li>\n<li><span style=\"font-weight: 400;\">The ability to transfer owner authority</span></li>\n</ul>\n</li>\n</ul>"
+  }
+}

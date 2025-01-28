@@ -12,14 +12,14 @@
     "vote_count": 0,
     "section_id": 360011775831,
     "created_at": "2024-02-21T07:59:53Z",
-    "updated_at": "2024-10-11T09:18:09Z",
+    "updated_at": "2025-01-28T02:14:27Z",
     "name": "情報セキュリティに関する認証の取得状況について",
     "title": "情報セキュリティに関する認証の取得状況について",
     "source_locale": "ja",
     "locale": "ja",
     "outdated": false,
     "outdated_locales": [],
-    "edited_at": "2024-10-11T09:18:09Z",
+    "edited_at": "2025-01-28T02:14:27Z",
     "user_segment_id": null,
     "permission_group_id": 1305651,
     "content_tag_ids": [
@@ -29,6 +29,6 @@
       "01HQ5AYVCBGW0V4SBNS01MD7DG"
     ],
     "label_names": [],
-    "body": "<p>Mackerelを開発・運用する株式会社はてな　テクノロジーソリューション本部第1グループは情報セキュリティマネジメントシステム（ISMS）の国際規格である「ISO/IEC 27001:2013」および国内規格「JIS Q 27001:2014」の認証を取得しています。</p>\n<p>また、個人情報・プライバシーに関する保護シールプログラムであるTRUSTeプログラムのライセンス認証も受けています。</p>\n<p><strong>関連するページ</strong></p>\n<ul>\n<li><a href=\"https://ja.mackerel.io/info/20240221\">Mackerelを開発・運用するテクノロジーソリューション本部第1グループが情報セキュリティマネジメントシステム（ISMS）の国際標準規格「ISO27001」認証を取得</a></li>\n<li><a href=\"https://mackerel.io/ja/docs/entry/privacypolicy\">プライバシーポリシー</a></li>\n</ul>\n"
+    "body": "<p>Mackerelを開発・運用する株式会社はてな　テクノロジーソリューション本部第1グループは情報セキュリティマネジメントシステム（ISMS）の国際規格である「ISO/IEC 27001:2013」および国内規格「JIS Q 27001:2014」の認証を取得しています。</p>\n<p><strong>関連するページ</strong></p>\n<ul>\n<li><a href=\"https://ja.mackerel.io/info/20240221\">Mackerelを開発・運用するテクノロジーソリューション本部第1グループが情報セキュリティマネジメントシステム（ISMS）の国際標準規格「ISO27001」認証を取得</a></li>\n<li><a href=\"https://mackerel.io/ja/docs/entry/privacypolicy\">プライバシーポリシー</a></li>\n</ul>\n"
   }
 }
