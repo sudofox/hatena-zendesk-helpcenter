@@ -12,19 +12,19 @@
     "vote_count": 1,
     "section_id": 360006001351,
     "created_at": "2019-07-25T01:26:27Z",
-    "updated_at": "2024-08-23T11:51:28Z",
+    "updated_at": "2025-02-18T00:44:15Z",
     "name": "ブログカード",
     "title": "ブログカード",
     "source_locale": "ja",
     "locale": "ja",
     "outdated": false,
     "outdated_locales": [],
-    "edited_at": "2021-11-25T02:23:41Z",
+    "edited_at": "2025-02-18T00:44:14Z",
     "user_segment_id": null,
     "permission_group_id": 972311,
     "content_tag_ids": [],
     "label_names": [],
-    "body": "<h2>ブログカードとは</h2>\n<p>ブログに掲載したい記事のタイトルや概要、アイキャッチ画像などを読みやすくまとめて表示する埋め込み形式です。</p>\n<p>「はてなブログMedia」で「<a href=\"https://hatenablogmedia.zendesk.com/hc/ja/articles/360031261451\" target=\"_self\">リンク挿入とコンテンツの埋め込み</a>」機能を利用する際に、さまざまなWebページをタイトルや概要がコンパクトにまとまった「ブログカード」の形式で埋め込むことができます。</p>\n<div class=\"section\">\n<p>「ブログカード」は、「はてなブログMedia」の記事を貼り付けるときに最適なスタイルです。</p>\n<p><img src=\"https://hatenablogmedia.zendesk.com/hc/article_attachments/360037152672/__________2019-08-28_13.55.19.png\" alt=\"__________2019-08-28_13.55.19.png\" width=\"500\"></p>\n<p class=\"alert alert-info\">カード内の表示は、公開されている記事のみ表示されます。限定公開の記事を貼り付けることはできますが、カードの中に「このブログは限定公開に設定されています。閲覧権限をお持ちの方のみがリンク先の記事を表示できます」と表示され、概要などは表示されません。</p>\n<div class=\"note tip\"> </div>\n<h2 class=\"note tip\">過去記事貼り付け</h2>\n<div class=\"section\">\n<p>管理画面 &gt; [<strong>記事を書く</strong>] の編集サイドバーにある「過去記事貼り付け」ボタンをクリックすると、ブログの過去の記事の一覧が表示され、簡単に貼り付けることができます。</p>\n</div>\n</div>\n<div class=\"section\">\n<h2>さまざまなサイトの記事をブログカードで貼り付ける</h2>\n<p>「はてなブログMedia」以外のWebサイトの記事も、タイトル等のデータが抽出できればブログカードの形式で表示できます。</p>\n<p><img src=\"https://hatenablogmedia.zendesk.com/hc/article_attachments/4408402164121/mceclip0.png\" alt=\"mceclip0.png\" width=\"500\"></p>\n<p class=\"alert alert-info\">OGPに対応していないなど、メタデータを適切に抽出できないWebページでは、ブログカードによる埋め込みはできません。</p>\n</div>",
+    "body": "<h2 id=\"h_01JKW52WJ36G3TJJ1N95CJF3RK\">ブログカードとは</h2>\n<p>ブログに掲載したい記事のタイトルや概要、アイキャッチ画像などを読みやすくまとめて表示する埋め込み形式です。</p>\n<p>「はてなCMS」で「<a href=\"https://hatenablogmedia.zendesk.com/hc/ja/articles/360031261451\" target=\"_self\">リンク挿入とコンテンツの埋め込み</a>」機能を利用する際に、さまざまなWebページをタイトルや概要がコンパクトにまとまった「ブログカード」の形式で埋め込むことができます。</p>\n<div class=\"section\">\n<p>「ブログカード」は、「はてなCMS」の記事を貼り付けるときに最適なスタイルです。</p>\n<p><img src=\"https://hatenablogmedia.zendesk.com/hc/article_attachments/360037152672\" alt=\"__________2019-08-28_13.55.19.png\" width=\"500\"></p>\n<div class=\"note tip\"> </div>\n<h2 id=\"h_01JKW52WJ3BZNECG4P3KQRX2SW\" class=\"note tip\">過去記事貼り付け</h2>\n<div class=\"section\">\n<p>管理画面 &gt; [<strong>記事を書く</strong>] の編集サイドバーにある「過去記事貼り付け」ボタンをクリックすると、ブログの過去の記事の一覧が表示され、簡単に貼り付けることができます。</p>\n</div>\n</div>\n<div class=\"section\">\n<h2 id=\"h_01JKW52WJ32FB1YYF6PB925A0X\">さまざまなサイトの記事をブログカードで貼り付ける</h2>\n<p>「はてなCMS」以外のWebサイトの記事も、タイトル等のデータが抽出できればブログカードの形式で表示できます。</p>\n<p><img src=\"https://hatenablogmedia.zendesk.com/hc/article_attachments/4408402164121\" alt=\"mceclip0.png\" width=\"500\"></p>\n<h2 id=\"h_01JMB81Q1EMMGXSXFVHMPJJT8Q\">ブログカードご利用時の注意点</h2>\n<p class=\"alert alert-info\">OGPに対応していないなど、メタデータを適切に抽出できないWebページでは、ブログカードによる埋め込みはできません。</p>\n<p class=\"alert alert-info\">はてなCMSの記事を貼り付ける場合、公開されている記事のみ表示されます。限定公開の記事を貼り付けることはできますが、カードの中に「このブログは限定公開に設定されています。閲覧権限をお持ちの方のみがリンク先の記事を表示できます」と表示され、概要などは表示されません。</p>\n<p class=\"alert alert-info\">ブログカードのデザインを変更することはできません。</p>\n</div>",
     "user_segment_ids": []
   }
 }
