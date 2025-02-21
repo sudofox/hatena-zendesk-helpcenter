@@ -12,18 +12,19 @@
     "vote_count": 1,
     "section_id": 360006001431,
     "created_at": "2022-01-28T04:01:03Z",
-    "updated_at": "2023-10-04T07:55:05Z",
+    "updated_at": "2025-02-21T05:59:30Z",
     "name": "セキュリティと改ざん対策",
     "title": "セキュリティと改ざん対策",
     "source_locale": "ja",
     "locale": "ja",
     "outdated": false,
     "outdated_locales": [],
-    "edited_at": "2023-10-04T07:55:01Z",
+    "edited_at": "2025-02-21T05:59:30Z",
     "user_segment_id": null,
     "permission_group_id": 972311,
     "content_tag_ids": [],
     "label_names": [],
-    "body": "<p> </p>\n<p>この記事では、はてなブログMediaのセキュリティや改ざん対策についてご案内します。</p>\n<h1 id=\"h_01HBWT3PXHJ9HVA2Q1ZSCTFF60\">セキュリティについて</h1>\n<p>日本におけるインターネットサービス事業者のパイオニアとして、2001年の会社設立以降、常にセキュリティは重要課題として対応してきており、「安心・安全」なCMSとしてサービスを提供しています。</p>\n<p>IPA（独立行政法人 情報処理推進機構セキュリティセンター） の定める 「<a href=\"https://www.ipa.go.jp/security/vuln/websecurity.html\" target=\"_blank\" rel=\"noopener noreferrer\">安全なウェブサイトの作り方</a>」を評価基準とした 第三者による外部からの脆弱性診断を定期的に受診しています。</p>\n<p>お客さまはもちろん、サイトにアクセスいただくエンドユーザー様にも安心してサイトをご利用いただけます。</p>\n<h1 id=\"h_01HBWT3PXH8H9FW2778AYQNZRG\">改ざん対策について</h1>\n<p><span style=\"font-weight: 400;\">改ざん監視専用のサーバーなどは設置していませんが、改ざん対策として以下を行なっています。</span></p>\n<h2 id=\"h_01HBWT3PXH43VHM7PC9DE6E8DP\"><span style=\"font-weight: 400;\">定期的な脆弱性診断で改ざんリスクについて考慮した検証の実施</span></h2>\n<p>外部の第三者により実施されている脆弱性診断の際、基準としているIPA「<a href=\"https://www.ipa.go.jp/security/vuln/websecurity.html\" target=\"_blank\" rel=\"noopener noreferrer\">安全なウェブサイトの作り方</a>」では改ざんリスクも考慮されています。その上での診断で「安全」という判定をいただいています。</p>\n<h2 id=\"h_01HBWT3PXHBA4GGWZ3VXTVTT2G\">改ざんリスクについて考慮した機能/仕組みの導入</h2>\n<ul>\n<li>IPアドレスによる機能制限について<br>\n<ul>\n<li>許可したIPアドレス以外から管理画面にアクセスができないようにすることができる</li>\n</ul>\n</li>\n<li>ログイン履歴/強制ログアウト機能について\n<ul>\n<li>\n<a href=\"https://www.hatena.ne.jp/login/history\" target=\"_blank\" rel=\"noopener noreferrer\">ログイン履歴</a>からログインに成功した最新50件分の履歴を確認できる\n<ul>\n<li>ログイン履歴ページには、現在アクセスしている環境以外のログイン状態を無効にするボタンもあるため、不審な履歴を見つけた際、強制的にログアウトさせることが可能</li>\n</ul>\n</li>\n<li>ログイン失敗ログを保存しているため、不正ログインの疑いがあった場合は遡ってログイン試行回数や失敗回数を把握できる</li>\n</ul>\n</li>\n<li>パスワードについて\n<ul>\n<li>パスワードはハッシュ化して保存しており、弊社からも平文を入手できない仕組みにしている</li>\n</ul>\n</li>\n</ul>"
+    "body": "<p> </p>\n<p>この記事では、はてなCMSのセキュリティや改ざん対策についてご案内します。</p>\n<h1 id=\"h_01HBWT3PXHJ9HVA2Q1ZSCTFF60\">セキュリティについて</h1>\n<p>日本におけるインターネットサービス事業者のパイオニアとして、2001年の会社設立以降、常にセキュリティは重要課題として対応してきており、「安心・安全」なCMSとしてサービスを提供しています。</p>\n<p>IPA（独立行政法人 情報処理推進機構セキュリティセンター） の定める 「<a href=\"https://www.ipa.go.jp/security/vuln/websecurity.html\" target=\"_blank\" rel=\"noopener noreferrer\">安全なウェブサイトの作り方</a>」を評価基準とした 第三者による外部からの脆弱性診断を定期的に受診しています。</p>\n<p>お客さまはもちろん、サイトにアクセスいただくエンドユーザー様にも安心してサイトをご利用いただけます。</p>\n<h1 id=\"h_01HBWT3PXH8H9FW2778AYQNZRG\">改ざん対策について</h1>\n<p><span style=\"font-weight: 400;\">改ざん監視専用のサーバーなどは設置していませんが、改ざん対策として以下を行なっています。</span></p>\n<h2 id=\"h_01HBWT3PXH43VHM7PC9DE6E8DP\"><span style=\"font-weight: 400;\">定期的な脆弱性診断で改ざんリスクについて考慮した検証の実施</span></h2>\n<p>外部の第三者により実施されている脆弱性診断の際、基準としているIPA「<a href=\"https://www.ipa.go.jp/security/vuln/websecurity.html\" target=\"_blank\" rel=\"noopener noreferrer\">安全なウェブサイトの作り方</a>」では改ざんリスクも考慮されています。その上での診断で「安全」という判定をいただいています。</p>\n<h2 id=\"h_01HBWT3PXHBA4GGWZ3VXTVTT2G\">改ざんリスクについて考慮した機能/仕組みの導入</h2>\n<ul>\n<li>IPアドレスによる機能制限について<br>\n<ul>\n<li>許可したIPアドレス以外から管理画面にアクセスができないようにすることができる</li>\n</ul>\n</li>\n<li>ログイン履歴/強制ログアウト機能について\n<ul>\n<li>\n<a href=\"https://www.hatena.ne.jp/login/history\" target=\"_blank\" rel=\"noopener noreferrer\">ログイン履歴</a>からログインに成功した最新50件分の履歴を確認できる\n<ul>\n<li>ログイン履歴ページには、現在アクセスしている環境以外のログイン状態を無効にするボタンもあるため、不審な履歴を見つけた際、強制的にログアウトさせることが可能</li>\n</ul>\n</li>\n<li>ログイン失敗ログを保存しているため、不正ログインの疑いがあった場合は遡ってログイン試行回数や失敗回数を把握できる</li>\n</ul>\n</li>\n<li>パスワードについて\n<ul>\n<li>パスワードはハッシュ化して保存しており、弊社からも平文を入手できない仕組みにしている</li>\n</ul>\n</li>\n</ul>",
+    "user_segment_ids": []
   }
 }
