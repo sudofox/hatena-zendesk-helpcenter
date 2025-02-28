@@ -12,20 +12,21 @@
     "vote_count": 0,
     "section_id": 4412613032473,
     "created_at": "2021-04-06T07:15:45Z",
-    "updated_at": "2024-10-11T02:44:43Z",
+    "updated_at": "2025-02-28T05:39:31Z",
     "name": "Webコンソールへのログインや操作などの履歴を確認できますか？",
     "title": "Webコンソールへのログインや操作などの履歴を確認できますか？",
     "source_locale": "ja",
     "locale": "ja",
     "outdated": false,
     "outdated_locales": [],
-    "edited_at": "2021-04-08T03:56:30Z",
+    "edited_at": "2025-02-28T05:39:31Z",
     "user_segment_id": null,
     "permission_group_id": 1305651,
     "content_tag_ids": [],
     "label_names": [
       "操作ログ",
-      "操作履歴"
+      "操作履歴",
+      "監査ログ"
     ],
     "body": "<ul>\n<li>Webコンソールへのログインや操作に関する履歴の閲覧機能は提供しておりません。</li>\n<li>補助的な機能として一部の通知チャンネルにて、以下の変更に関する通知を選択していただけます。\n<ul>\n<li>ホストステータスの変更</li>\n<li>ホストの登録／退役</li>\n<li>監視ルールの操作（Webコンソールから設定する監視ルールのみが対象です）</li>\n</ul>\n</li>\n</ul>\n<ul>\n<li> Mackerelではセキュリティ対策として以下のような機能を提供しております。\n<ul>\n<li>Webコンソールへのアクセスには2段階認証による制限やアクセス可能な認証方式を選択していただけます。\n<ul>\n<li><a href=\"https://mackerel.io/ja/docs/entry/howto/MFA\" target=\"_blank\" rel=\"noopener\">2段階認証を利用する - Mackerel ヘルプ</a></li>\n<li><a href=\"https://mackerel.io/ja/docs/entry/howto/enforcing-MFA\" target=\"_blank\" rel=\"noopener\">2段階認証の設定を強制する - Mackerel ヘルプ</a></li>\n</ul>\n</li>\n<li>またWebコンソールへのアクセス、APIへのアクセスそれぞれにIP制限をホワイトリスト形式で登録いただけます。\n<ul>\n<li>\n<a href=\"https://mackerel.io/my?tab=setting\" target=\"_blank\" rel=\"noopener\">オーガニゼーション &gt; 設定 &gt; IP制限</a>より設定ください。</li>\n</ul>\n</li>\n</ul>\n</li>\n</ul>"
   }

@@ -12,7 +12,7 @@
     "vote_count": 0,
     "section_id": 4412613032473,
     "created_at": "2021-04-06T07:15:45Z",
-    "updated_at": "2024-10-11T02:44:43Z",
+    "updated_at": "2025-02-28T05:39:31Z",
     "name": "Is it possible to check the login / operation history of the web console?",
     "title": "Is it possible to check the login / operation history of the web console?",
     "source_locale": "ja",
@@ -25,7 +25,8 @@
     "content_tag_ids": [],
     "label_names": [
       "操作ログ",
-      "操作履歴"
+      "操作履歴",
+      "監査ログ"
     ],
     "body": "<ul>\n<li>Mackerel does not currently have a feature that lets you view the login / operation history of the web console.</li>\n<li>However, it is possible to receive notifications for the following items as an auxiliary function in select notification channels.\n<ul>\n<li>Host status changes</li>\n<li>Host registration / retirement</li>\n<li>Monitor operations (only for monitors configured from the web console)</li>\n</ul>\n</li>\n<li>Mackerel also provides the following features as security measures.\n<ul>\n<li>Enable 2-step authentication or another authentication method for access via the web console.\n<ul>\n<li><a href=\"https://mackerel.io/docs/entry/howto/MFA\">Using 2-step authentication - Mackerel Help</a></li>\n<li><a href=\"https://mackerel.io/docs/entry/howto/enforcing-MFA\">Mandatory 2-Step Authentication - Mackerel Help</a></li>\n</ul>\n</li>\n<li>Register IP restrictions in white list format to access the web console and API.\n<ul>\n<li>This can be set from <a href=\"https://mackerel.io/my?tab=setting\">Organization&gt; Settings&gt; IP Restrictions</a>.</li>\n</ul>\n</li>\n</ul>\n</li>\n</ul>\n"
   }
