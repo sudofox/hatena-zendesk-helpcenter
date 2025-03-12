@@ -12,14 +12,14 @@
     "vote_count": 1,
     "section_id": 4412617441305,
     "created_at": "2020-02-24T08:45:37Z",
-    "updated_at": "2024-05-15T09:56:01Z",
+    "updated_at": "2025-03-12T07:20:24Z",
     "name": "How can I stay up to date on Mackerel’s ongoing development?",
     "title": "How can I stay up to date on Mackerel’s ongoing development?",
     "source_locale": "ja",
     "locale": "en-us",
     "outdated": false,
     "outdated_locales": [],
-    "edited_at": "2024-05-15T09:56:00Z",
+    "edited_at": "2025-03-12T07:20:24Z",
     "user_segment_id": null,
     "permission_group_id": 1305651,
     "content_tag_ids": [],
@@ -27,6 +27,6 @@
       "サービス提供状況",
       "障害"
     ],
-    "body": "<p>If you have encountered a problem within Mackerel, it’s likely we are in the process of working to fix it. To see the latest information and updates about development, please follow us on X <a href=\"https://twitter.com/mackerelio/\">@mackerelio</a> or subscribe to our status page <a href=\"http://status.mackerel.io/\">status.mackerel.io</a>.</p>\n<p>Stay up to date by registering your email via the 'SUBSCRIBE' button located at the top of our status page <a href=\"http://status.mackerel.io/\">status.mackerel.io</a>.</p>"
+    "body": "<p>If you have encountered a problem within Mackerel, it’s likely we are in the process of working to fix it. To see the latest information and updates about development, please follow us on X <a href=\"https://twitter.com/mackerelio/\">@mackerelio</a> or subscribe to our <a href=\"http://status.mackerel.io/\">Status Page</a>.</p>\n<p>You can receive status updates by registering your notification address using the 'SUBSCRIBE' button in the upper right corner of the <a href=\"http://status.mackerel.io/\">Status Page</a>.</p>\n<p>The scope of influence of each item on the status page is as follows.</p>\n<table>\n<thead>\n<tr>\n<th>Component Name</th>\n<th>Impacted Features</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>Dashboard</td>\n<td>Viewing screens such as Custom Dashboards, Host Details, and Service Details on the Web Console</td>\n</tr>\n<tr>\n<td>Org Management</td>\n<td>Viewing and managing organization information, plans, and billing on the Web Console</td>\n</tr>\n<tr>\n<td>Account Management</td>\n<td>Viewing and managing user information</td>\n</tr>\n<tr>\n<td>Metrics</td>\n<td>Metric posting and retrieval via API, viewing graphs on the Web Console</td>\n</tr>\n<tr>\n<td>Monitoring</td>\n<td>Managing monitoring settings on the Web Console and API, monitoring and alert triggering (excluding External Monitoring and Anomaly Detection for roles)</td>\n</tr>\n<tr>\n<td>Notification</td>\n<td>Managing notification channels on the Web Console and API, sending notifications</td>\n</tr>\n<tr>\n<td>Host Management</td>\n<td>Managing services, roles, and hosts on the Web Console and API</td>\n</tr>\n<tr>\n<td>AWS Integration</td>\n<td>Operations related to AWS Integration, including managing integration settings, host registration, and metric posting on the Web Console and API</td>\n</tr>\n<tr>\n<td>Azure Integration</td>\n<td>Operations related to Azure Integration, including managing integration settings, host registration, and metric posting on the Web Console</td>\n</tr>\n<tr>\n<td>GoogleCloud Integration</td>\n<td>Operations related to Google Cloud Integration, including managing integration settings, host registration, and metric posting on the Web Console</td>\n</tr>\n<tr>\n<td>External URL Monitoring</td>\n<td>External monitoring and related metric posting</td>\n</tr>\n<tr>\n<td>Anomaly Detection for roles</td>\n<td>Model training and monitoring for Anomaly Detection for roles</td>\n</tr>\n<tr>\n<td>Mackerel for KCPS</td>\n<td>Communication between KDDI Cloud Platform Service (KCPS) environments and Mackerel servers</td>\n</tr>\n<tr>\n<td>Documents</td>\n<td>Viewing the Mackerel website, help, API documentation, and FAQ</td>\n</tr>\n</tbody>\n</table>\n"
   }
 }

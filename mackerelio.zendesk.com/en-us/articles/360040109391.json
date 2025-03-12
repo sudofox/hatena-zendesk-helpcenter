@@ -12,14 +12,14 @@
     "vote_count": 0,
     "section_id": 360008016131,
     "created_at": "2020-02-24T09:16:38Z",
-    "updated_at": "2024-10-04T09:43:42Z",
+    "updated_at": "2025-03-12T07:19:39Z",
     "name": "Can I use the Standard Plan without registering a host?",
     "title": "Can I use the Standard Plan without registering a host?",
     "source_locale": "ja",
     "locale": "en-us",
     "outdated": false,
     "outdated_locales": [],
-    "edited_at": "2024-10-04T09:39:29Z",
+    "edited_at": "2025-03-12T07:19:39Z",
     "user_segment_id": null,
     "permission_group_id": 1305651,
     "content_tag_ids": [],
@@ -27,6 +27,6 @@
       "外形監視だけ",
       "外形監視の利用料金"
     ],
-    "body": "<p>Yes. It is possible to use functions such as service metrics and external monitoring without registering a host. However, even if that is the case, you will be charged the minimum rate of one standard host. For more details, please refer to <a href=\"https://support.mackerel.io/hc/en-us/articles/360039702912\">Calculating the number of hosts</a>.</p>\n"
+    "body": "<p>Yes. It is possible to use functions such as service metrics and external monitoring without registering a host. However, even if that is the case, you will be charged the minimum usage fee. For more details, please refer to <a href=\"https://support.mackerel.io/hc/en-us/articles/31304727432729\">How usage fees are calculated</a>.</p>\n"
   }
 }
