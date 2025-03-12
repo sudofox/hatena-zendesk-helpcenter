@@ -12,14 +12,14 @@
     "vote_count": 0,
     "section_id": 360008015791,
     "created_at": "2020-09-17T05:36:30Z",
-    "updated_at": "2024-10-11T08:51:40Z",
+    "updated_at": "2025-03-12T02:10:53Z",
     "name": "Connectivity monitoring alert occurred even though the monitoring server was running",
     "title": "Connectivity monitoring alert occurred even though the monitoring server was running",
     "source_locale": "ja",
     "locale": "en-us",
     "outdated": false,
     "outdated_locales": [],
-    "edited_at": "2020-10-02T07:45:12Z",
+    "edited_at": "2025-03-12T02:10:53Z",
     "user_segment_id": null,
     "permission_group_id": 1305651,
     "content_tag_ids": [],
@@ -31,6 +31,6 @@
       "正常",
       "障害"
     ],
-    "body": "<ul>\n<li>Connectivity monitoring works in a way that detects when data transmission from mackerel-agent is interrupted for a certain period of time and issues an alert.</li>\n<li>Alerts most commonly occur when a host is unresponsive or the agent stopped, but alerts may occur even when the host is operating normally if data cannot be transmitted due to a network error etc.</li>\n<li>In most cases, this situation will result in an error log output that reads \"Failed to post metrics value (will retry)\".</li>\n<li>If a metric can be verified in the host's details screen after an alert is generated, this means that the metric was posted via mackerel-agent's re-transmission function.</li>\n<li>If applicable, please review the following points regarding the status of your environment and that of Mackerel (notifications made via Twitter and our status page).\n<ul>\n<li>Are you having network communication issues?\n<ul>\n<li>If so, first try resolving said issues to ensure that communication with Mackerel can be performed normally.</li>\n</ul>\n</li>\n<li>Is the agent running?\n<ul>\n<li>If not, try restarting the agent.</li>\n<li>If the process terminates after restarting, check the agent's log output.</li>\n</ul>\n</li>\n<li>Is Mackerel down?\n<ul>\n<li>Please wait until the problem has been resolved.</li>\n<li>During such an event, data is buffered by the agent for up to 6 hours. Once resolved, this data is retransmitted in sequential order.</li>\n</ul>\n</li>\n</ul>\n</li>\n</ul>"
+    "body": "<ul>\n<li>Connectivity monitoring works in a way that detects when data transmission from mackerel-agent is interrupted for a certain period of time and issues an alert.</li>\n<li>Alerts most commonly occur when a host is unresponsive or the agent stopped, but alerts may occur even when the host is operating normally if data cannot be transmitted due to a network error etc.</li>\n<li>In most cases, this situation will result in an error log output that reads \"Failed to post metrics value (will retry)\".</li>\n<li>If a metric can be verified in the host's details screen after an alert is generated, this means that the metric was posted via mackerel-agent's re-transmission function.</li>\n<li>If applicable, please review the following points regarding the status of your environment and that of Mackerel (notifications made via <a href=\"https://x.com/mackerelio\">X</a> and our <a href=\"http://status.mackerel.io/\">status page</a>).\n<ul>\n<li>Are you having network communication issues?\n<ul>\n<li>If so, first try resolving said issues to ensure that communication with Mackerel can be performed normally.</li>\n</ul>\n</li>\n<li>Is the agent running?\n<ul>\n<li>If not, try restarting the agent.</li>\n<li>If the process terminates after restarting, check the agent's log output.</li>\n</ul>\n</li>\n<li>Is Mackerel down?\n<ul>\n<li>Please wait until the problem has been resolved.</li>\n<li>During such an event, data is buffered by the agent for up to 6 hours. Once resolved, this data is retransmitted in sequential order.</li>\n</ul>\n</li>\n</ul>\n</li>\n</ul>\n"
   }
 }
