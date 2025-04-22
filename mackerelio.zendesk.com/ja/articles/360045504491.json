@@ -12,18 +12,18 @@
     "vote_count": 0,
     "section_id": 360008015871,
     "created_at": "2020-06-26T04:59:59Z",
-    "updated_at": "2024-10-11T08:03:38Z",
-    "name": "AWSインテグレーションを設定したがMackerelにホストが連携されない",
-    "title": "AWSインテグレーションを設定したがMackerelにホストが連携されない",
+    "updated_at": "2025-04-22T05:18:46Z",
+    "name": "ホストが登録されない（AWSインテグレーション）",
+    "title": "ホストが登録されない（AWSインテグレーション）",
     "source_locale": "ja",
     "locale": "ja",
     "outdated": false,
     "outdated_locales": [],
-    "edited_at": "2024-10-11T08:03:38Z",
+    "edited_at": "2025-04-22T05:18:46Z",
     "user_segment_id": null,
     "permission_group_id": 1305651,
     "content_tag_ids": [],
     "label_names": [],
-    "body": "<p><a href=\"https://mackerel.io/ja/docs/entry/integrations/aws\">AWSインテグレーション</a> のヘルプページにある連携方法をご確認の上、下記の観点で設定いただいた内容の見直しをお願いいたします。</p>\n<ul>\n<li>IAM Management Consoleにて作成したIAMロールに、Mackerelに連携するサービスに必要なIAMポリシーがアタッチされているか</li>\n<li>作成したIAMロールで1つのサービスのみを連携する場合に <code>CloudWatchReadOnlyAccess</code> ポリシーの追加アタッチが必要なサービスに該当していないか</li>\n<li>タグでの絞り込みをおこなう場合に、設定されているタグの指定に誤りはないか</li>\n<li>タグでの絞り込みをおこなう場合に、追加のIAMポリシーを付与する必要がないか  - ヘルプページ <a href=\"https://mackerel.io/ja/docs/entry/integrations/aws#tag\">https://mackerel.io/ja/docs/entry/integrations/aws#tag</a> の設定内容をご確認ください</li>\n<li>Amazon S3 など、IAMポリシー以外にサービス側などで連携するための設定が個別に必要ではないか\n<ul>\n<li><a href=\"https://mackerel.io/ja/docs/entry/integrations/aws/s3\">AWSインテグレーション - S3 - Mackerel ヘルプ</a></li>\n</ul>\n</li>\n</ul>\n"
+    "body": "<p>AWSインテグレーションによってホストが登録されない場合、設定などに誤りがある可能性があります。</p>\n<p>以下の項目をご確認ください。</p>\n<h2>連携用のIAMロールを確認する</h2>\n<ul>\n<li>CloudWatchとの連携に必要なポリシーがIAMロールにアタッチされているかご確認ください。\n<ul>\n<li>AWS製品ごとに必要となるIAMポリシーは異なります。</li>\n</ul>\n</li>\n<li>一部の製品については、その製品のみを対象にする AWS インテグレーションを設定する場合、必要なポリシー/アクションに加えて、CloudWatchReadOnlyAccess 権限が必要です。\n<ul>\n<li>\n<a href=\"https://mackerel.io/ja/docs/entry/integrations/aws#setting_policy\">連携に必要なポリシー</a> の製品名に <code>*1</code> が付いた製品が対象です。</li>\n</ul>\n</li>\n</ul>\n<h2>タグによる絞り込みの設定が正しいか確認する</h2>\n<ul>\n<li>タグによる絞り込みを行う場合、AWS製品側にも適切にタグが設定されている必要があります。</li>\n<li>ElastiCache、SQS、Step Functionsでタグの絞り込みを行う場合は追加のポリシーが必要です。\n<ul>\n<li>\n<a href=\"https://mackerel.io/ja/docs/entry/integrations/aws#1-%E3%82%BF%E3%82%B0%E3%82%92%E5%8F%96%E5%BE%97%E3%81%99%E3%82%8B%E3%81%9F%E3%82%81%E3%81%AE%E6%A8%A9%E9%99%90%E3%82%92%E4%BB%98%E4%B8%8E%E3%81%99%E3%82%8B\">タグを取得するための権限を付与する</a> を参照してください。</li>\n</ul>\n</li>\n</ul>\n<h2>上記を確認しても問題ない場合</h2>\n<p>以下の点をご確認ください。</p>\n<ul>\n<li>IAMロールのロールARN、外部IDがAWS側の設定と一致していること。</li>\n<li>AWSインテグレーションで設定したリージョンと実際のリージョンが一致していること。</li>\n<li>連携するAWS製品にチェックを付けていること。</li>\n<li>CloudWatch側に対象となるインスタンスのメトリックが計上されていること。\n<ul>\n<li>CloudWatch側でメトリックが確認できない場合、Mackerel側にも連携がされません。</li>\n</ul>\n</li>\n</ul>\n"
   }
 }
