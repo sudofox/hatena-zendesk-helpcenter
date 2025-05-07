@@ -12,14 +12,14 @@
     "vote_count": 3,
     "section_id": 360007911812,
     "created_at": "2020-02-24T08:05:30Z",
-    "updated_at": "2024-10-11T02:24:04Z",
+    "updated_at": "2025-05-07T03:26:11Z",
     "name": "ネットワーク機器等の監視はできますか？",
     "title": "ネットワーク機器等の監視はできますか？",
     "source_locale": "ja",
     "locale": "ja",
     "outdated": false,
     "outdated_locales": [],
-    "edited_at": "2021-03-23T09:57:49Z",
+    "edited_at": "2025-05-07T03:26:11Z",
     "user_segment_id": null,
     "permission_group_id": 1305651,
     "content_tag_ids": [],
@@ -32,6 +32,6 @@
       "ping",
       "icmp"
     ],
-    "body": "<ul>\n<li>以下のような監視プラグインを用いることで、ネットワーク機器の監視もしていただけます。<br>（以下はLinux OSのみ対応）\n<ul>\n<li>mackerel-plugin-snmp\n<ul>\n<li>SNMPにより任意のMIB情報を取得し、メトリックとして投稿することが出来ます。</li>\n<li>SNMP Trapによる監視には対応しておりません。</li>\n</ul>\n</li>\n<li>check-ping\n<ul>\n<li>ICMPによる疎通確認を行い、疎通できない場合にアラートを発報することが出来ます。</li>\n</ul>\n</li>\n</ul>\n</li>\n</ul>\n<ul>\n<li>プラグインは mackerel-agent がインストールされたホストに導入・設定していただく必要がございます。\n<ul>\n<li>ネットワーク機器に mackerel-agent やプラグインを直接インストールして監視していただくことは出来ません。</li>\n<li>詳しくは<a href=\"https://mackerel.io/ja/docs/entry/overview#support-environments\" target=\"_blank\" rel=\"noopener\">対応環境</a>をご確認ください。</li>\n</ul>\n</li>\n</ul>\n<ul>\n<li>プラグインのインストールや設定などの詳細については以下のヘルプやプラグインのREADMEをご確認ください。\n<ul>\n<li><a href=\"https://mackerel.io/ja/docs/entry/howto/mackerel-agent-plugins\" target=\"_blank\" rel=\"noopener\">ミドルウェアのメトリック可視化に公式プラグイン集を使う - Mackerel ヘルプ</a></li>\n<li><a href=\"https://github.com/mackerelio/mackerel-agent-plugins/tree/master/mackerel-plugin-snmp\" target=\"_blank\" rel=\"noopener\">mackerel-agent-plugins/mackerel-plugin-snmp</a></li>\n<li><a href=\"https://github.com/mackerelio/go-check-plugins/tree/master/check-ping\" target=\"_blank\" rel=\"noopener\">go-check-plugins/check-ping</a></li>\n</ul>\n</li>\n</ul>"
+    "body": "<ul>\n<li>以下のような監視プラグインを用いることで、ネットワーク機器の監視もしていただけます。\n<ul>\n<li>mackerel-plugin-snmp\n<ul>\n<li>SNMPにより任意のMIB情報を取得し、メトリックとして投稿することが出来ます。</li>\n<li>SNMP Trapによる監視には対応しておりません。</li>\n</ul>\n</li>\n<li>check-ping\n<ul>\n<li>ICMPによる疎通確認を行い、疎通できない場合にアラートを発報することが出来ます。</li>\n</ul>\n</li>\n</ul>\n</li>\n<li>プラグインは mackerel-agent がインストールされたホストに導入・設定していただく必要がございます。プラグインのインストール方法や設定方法については、以下のドキュメントをご参照ください。\n<ul>\n<li><a href=\"https://mackerel.io/ja/docs/entry/howto/mackerel-agent-plugins\">ミドルウェアのメトリック可視化に公式プラグイン集を使う - Mackerel ヘルプ</a></li>\n<li><a href=\"https://mackerel.io/ja/docs/entry/plugins/mackerel-plugin-snmp\">メトリックプラグイン - mackerel-plugin-snmp - Mackerel ヘルプ</a></li>\n<li><a href=\"https://mackerel.io/ja/docs/entry/plugins/check-ping\">チェックプラグイン - check-ping - Mackerel ヘルプ</a></li>\n</ul>\n</li>\n</ul>\n"
   }
 }

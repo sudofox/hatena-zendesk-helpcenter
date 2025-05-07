@@ -12,14 +12,14 @@
     "vote_count": 3,
     "section_id": 360007911812,
     "created_at": "2020-02-24T08:05:30Z",
-    "updated_at": "2024-10-11T02:24:04Z",
+    "updated_at": "2025-05-07T03:26:11Z",
     "name": "Is it possible to monitor network devices?",
     "title": "Is it possible to monitor network devices?",
     "source_locale": "ja",
     "locale": "en-us",
     "outdated": false,
     "outdated_locales": [],
-    "edited_at": "2024-10-11T02:24:04Z",
+    "edited_at": "2025-05-07T03:25:48Z",
     "user_segment_id": null,
     "permission_group_id": 1305651,
     "content_tag_ids": [],
@@ -32,6 +32,6 @@
       "ping",
       "icmp"
     ],
-    "body": "<ul>\n<li>Network devices can be monitored through use of the following monitoring plugins.   (Only compatible with Linux OS)\n<ul>\n<li>mackerel-plugin-snmp\n<ul>\n<li>Retrieve arbitrary MIB information with SNMP and post as a metric.</li>\n<li>SNMP Trap monitoring is not supported.</li>\n</ul>\n</li>\n<li>check-ping\n<ul>\n<li>Check ICMP communication and have alerts issued when interrupted.</li>\n</ul>\n</li>\n</ul>\n</li>\n<li>Plugins must be installed on and configured for a host installed with the mackerel-agent.\n<ul>\n<li>It is not possible to monitor a network device by directly installing the mackerel-agent or plugin.</li>\n<li>See <a href=\"https://mackerel.io/docs/entry/overview#support-environments\">Supported Environments</a> for more details.</li>\n</ul>\n</li>\n<li>See the help page and the plugin README linked below for more details regarding the installation and configuration of plugins.\n<ul>\n<li><a href=\"https://mackerel.io/docs/entry/howto/mackerel-agent-plugins\">Using the official plugin pack to visualize middleware metrics - Mackerel Help</a></li>\n<li><a href=\"https://github.com/mackerelio/mackerel-agent-plugins/tree/master/mackerel-plugin-snmp\">mackerel-agent-plugins/mackerel-plugin-snmp</a></li>\n<li><a href=\"https://github.com/mackerelio/go-check-plugins/tree/master/check-ping\">go-check-plugins/check-ping</a></li>\n</ul>\n</li>\n</ul>\n"
+    "body": "<ul>\n<li>Network devices can be monitored through use of the following monitoring plugins.\n<ul>\n<li>mackerel-plugin-snmp\n<ul>\n<li>Retrieve arbitrary MIB information with SNMP and post as a metric.</li>\n<li>SNMP Trap monitoring is not supported.</li>\n</ul>\n</li>\n<li>check-ping\n<ul>\n<li>Check ICMP communication and have alerts issued when interrupted.</li>\n</ul>\n</li>\n</ul>\n</li>\n<li>Plugins must be installed on and configured for a host installed with the mackerel-agent. For information on how to install and configure plugins, refer to the following documentation.\n<ul>\n<li><a href=\"https://mackerel.io/docs/entry/howto/mackerel-agent-plugins\">Using the official plugin pack to visualize middleware metrics - Mackerel Docs</a></li>\n<li><a href=\"https://mackerel.io/docs/entry/plugins/mackerel-plugin-snmp\">Metric plugins - mackerel-plugin-snmp - Mackerel Docs</a></li>\n<li><a href=\"https://github.com/mackerelio/go-check-plugins/tree/master/check-ping\">go-check-plugins/check-ping</a></li>\n</ul>\n</li>\n</ul>\n"
   }
 }
