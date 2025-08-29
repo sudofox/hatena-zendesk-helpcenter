@@ -12,18 +12,18 @@
     "vote_count": 7,
     "section_id": 360008016131,
     "created_at": "2020-02-24T09:17:15Z",
-    "updated_at": "2021-12-13T07:59:33Z",
-    "name": "支払いのタイミングを教えて下さい",
-    "title": "支払いのタイミングを教えて下さい",
+    "updated_at": "2025-08-29T08:03:47Z",
+    "name": "支払いのタイミングを教えてください",
+    "title": "支払いのタイミングを教えてください",
     "source_locale": "ja",
     "locale": "ja",
     "outdated": false,
     "outdated_locales": [],
-    "edited_at": "2020-10-14T03:35:57Z",
+    "edited_at": "2025-08-29T08:03:47Z",
     "user_segment_id": null,
     "permission_group_id": 1305651,
     "content_tag_ids": [],
     "label_names": [],
-    "body": "<ul>\n<li>毎月1日に、前月分のご利用実績に応じて課金されます。 \n<ul>\n<li>ご利用実績に関しては <a href=\"https://support.mackerel.io/hc/ja/articles/360039702912\" target=\"_blank\" rel=\"noopener\">ホスト数の計算方法について</a> をご確認ください。</li>\n</ul>\n</li>\n<li>実際に引き落としが発生するタイミングは、クレジットカード会社ごとに異なります。</li>\n</ul>\n<p> </p>\n<p> </p>"
+    "body": "<ul>\n<li>毎月1日に前月分のご利用に応じて決済されます。契約初月については、契約開始日から月末までの利用日数に応じて利用料金を計算します。\n<ul>\n<li>ご利用料金の算出方法は <a href=\"https://support.mackerel.io/hc/ja/articles/31304727432729-%E5%88%A9%E7%94%A8%E6%96%99%E9%87%91%E7%AE%97%E5%87%BA%E6%96%B9%E6%B3%95\">利用料金算出方法</a> をご参照ください。</li>\n</ul>\n</li>\n<li>実際に引き落としが発生するタイミングは、クレジットカード会社ごとに異なります。</li>\n</ul>\n"
   }
 }

@@ -12,18 +12,18 @@
     "vote_count": 0,
     "section_id": 4412620274329,
     "created_at": "2021-04-06T08:42:54Z",
-    "updated_at": "2024-10-11T02:30:19Z",
+    "updated_at": "2025-08-29T08:04:32Z",
     "name": "Is it possible to integrate alert notifications with external services like chats?",
     "title": "Is it possible to integrate alert notifications with external services like chats?",
     "source_locale": "ja",
     "locale": "en-us",
     "outdated": false,
     "outdated_locales": [],
-    "edited_at": "2024-10-11T02:30:19Z",
+    "edited_at": "2025-08-29T08:04:21Z",
     "user_segment_id": null,
     "permission_group_id": 1305651,
     "content_tag_ids": [],
     "label_names": [],
-    "body": "<ul>\n<li>Yes. Monitoring related alert notifications can be integrated with external services such as chats and more.</li>\n<li>Supported services are as follows.\n<ul>\n<li><a href=\"https://mackerel.io/docs/entry/howto/alerts/slack\">Slack</a></li>\n<li>\n<a href=\"https://mackerel.io/docs/entry/howto/alerts/line\">LINE</a>（※LINE WORKS is not currently supported）</li>\n<li><a href=\"https://mackerel.io/docs/entry/howto/alerts/chatwork\">Chatwork</a></li>\n<li><a href=\"https://mackerel.io/docs/entry/howto/alerts/typetalk\">Typetalk</a></li>\n<li><a href=\"https://mackerel.io/docs/entry/howto/alerts/hipchat\">HipChat</a></li>\n<li><a href=\"https://mackerel.io/docs/entry/howto/alerts/twilio\">Twilio</a></li>\n<li><a href=\"https://mackerel.io/docs/entry/howto/alerts/reactio\">Reactio</a></li>\n<li><a href=\"https://mackerel.io/docs/entry/howto/alerts/pagerduty\">PagerDuty</a></li>\n<li><a href=\"https://mackerel.io/docs/entry/howto/alerts/OpsGenie\">Opsgenie</a></li>\n<li><a href=\"https://mackerel.io/docs/entry/howto/alerts/yammer\">Yammer</a></li>\n<li><a href=\"https://mackerel.io/docs/entry/howto/alerts/microsoft-teams\">Microsoft Teams</a></li>\n<li><a href=\"https://mackerel.io/docs/entry/howto/alerts/webhook\">Webhook</a></li>\n<li><a href=\"https://mackerel.io/docs/entry/howto/alerts/eventbridge\">Amazon EventBridge</a></li>\n</ul>\n</li>\n<li>Any service not listed above is currently not supported for integration.</li>\n<li>To integrate an unsupported service, you’ll need to provide your own integration mechanism using a service such as Webhook.</li>\n</ul>\n"
+    "body": "<ul>\n<li>Yes. Monitoring related alert notifications can be integrated with external services such as chats and more.</li>\n<li>Supported services are as follows.\n<ul>\n<li><a href=\"https://mackerel.io/docs/entry/howto/alerts/slack\">Slack</a></li>\n<li><a href=\"https://mackerel.io/docs/entry/howto/alerts/chatwork\">Chatwork</a></li>\n<li><a href=\"https://mackerel.io/docs/entry/howto/alerts/typetalk\">Typetalk</a></li>\n<li><a href=\"https://mackerel.io/docs/entry/howto/alerts/twilio\">Twilio</a></li>\n<li><a href=\"https://mackerel.io/docs/entry/howto/alerts/pagerduty\">PagerDuty</a></li>\n<li><a href=\"https://mackerel.io/docs/entry/howto/alerts/OpsGenie\">Opsgenie</a></li>\n<li><a href=\"https://mackerel.io/docs/entry/howto/alerts/microsoft-teams\">Microsoft Teams</a></li>\n<li><a href=\"https://mackerel.io/docs/entry/howto/alerts/webhook\">Webhook</a></li>\n<li><a href=\"https://mackerel.io/docs/entry/howto/alerts/eventbridge\">Amazon EventBridge</a></li>\n</ul>\n</li>\n<li>Any service not listed above is currently not supported for integration.</li>\n<li>To integrate an unsupported service, you’ll need to provide your own integration mechanism using a service such as Webhook.</li>\n</ul>\n"
   }
 }

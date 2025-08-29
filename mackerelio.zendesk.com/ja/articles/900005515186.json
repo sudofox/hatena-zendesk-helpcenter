@@ -12,18 +12,18 @@
     "vote_count": 0,
     "section_id": 4412620274329,
     "created_at": "2021-04-06T08:42:54Z",
-    "updated_at": "2024-10-11T02:30:19Z",
+    "updated_at": "2025-08-29T08:04:32Z",
     "name": "アラート通知をチャットなどの外部サービスに連携したい",
     "title": "アラート通知をチャットなどの外部サービスに連携したい",
     "source_locale": "ja",
     "locale": "ja",
     "outdated": false,
     "outdated_locales": [],
-    "edited_at": "2021-04-08T05:03:49Z",
+    "edited_at": "2025-08-29T08:04:32Z",
     "user_segment_id": null,
     "permission_group_id": 1305651,
     "content_tag_ids": [],
     "label_names": [],
-    "body": "<ul>\n<li>監視において発報したアラート通知をチャットなどの外部サービスと連携することが出来ます。</li>\n<li>対応しているサービスは以下の通りです。\n<ul>\n<li><a href=\"https://mackerel.io/ja/docs/entry/howto/alerts/slack\" target=\"_blank\" rel=\"noopener\">Slack</a></li>\n<li>\n<a href=\"https://mackerel.io/ja/docs/entry/howto/alerts/line\" target=\"_blank\" rel=\"noopener\">LINE</a>（※LINE WORKSには対応しておりません）</li>\n<li><a href=\"https://mackerel.io/ja/docs/entry/howto/alerts/chatwork\" target=\"_blank\" rel=\"noopener\">Chatwork</a></li>\n<li><a href=\"https://mackerel.io/ja/docs/entry/howto/alerts/typetalk\" target=\"_blank\" rel=\"noopener\">Typetalk</a></li>\n<li><a href=\"https://mackerel.io/ja/docs/entry/howto/alerts/hipchat\" target=\"_blank\" rel=\"noopener\">HipChat</a></li>\n<li><a href=\"https://mackerel.io/ja/docs/entry/howto/alerts/twilio\" target=\"_blank\" rel=\"noopener\">Twilio</a></li>\n<li><a href=\"https://mackerel.io/ja/docs/entry/howto/alerts/reactio\" target=\"_blank\" rel=\"noopener\">Reactio</a></li>\n<li><a href=\"https://mackerel.io/ja/docs/entry/howto/alerts/pagerduty\" target=\"_blank\" rel=\"noopener\">PagerDuty</a></li>\n<li><a href=\"https://mackerel.io/ja/docs/entry/howto/alerts/OpsGenie\" target=\"_blank\" rel=\"noopener\">Opsgenie</a></li>\n<li><a href=\"https://mackerel.io/ja/docs/entry/howto/alerts/yammer\" target=\"_blank\" rel=\"noopener\">Yammer</a></li>\n<li><a href=\"https://mackerel.io/ja/docs/entry/howto/alerts/microsoft-teams\" target=\"_blank\" rel=\"noopener\">Microsoft Teams</a></li>\n<li><a href=\"https://mackerel.io/ja/docs/entry/howto/alerts/webhook\" target=\"_blank\" rel=\"noopener\">Webhook</a></li>\n<li><a href=\"https://mackerel.io/ja/docs/entry/howto/alerts/eventbridge\" target=\"_blank\" rel=\"noopener\">Amazon EventBridge</a></li>\n</ul>\n</li>\n</ul>\n<ul>\n<li>上記一覧にないサービスとの連携には対応しておりません。</li>\n<li>非対応のサービスはWebhookなどを用いてお客様側にて連携する仕組みをご用意いただくようお願いしております。</li>\n</ul>"
+    "body": "<ul>\n<li>監視において発報したアラート通知をチャットなどの外部サービスと連携することが出来ます。</li>\n<li>対応しているサービスは以下の通りです。\n<ul>\n<li><a href=\"https://mackerel.io/ja/docs/entry/howto/alerts/slack\">Slack</a></li>\n<li><a href=\"https://mackerel.io/ja/docs/entry/howto/alerts/chatwork\">Chatwork</a></li>\n<li><a href=\"https://mackerel.io/ja/docs/entry/howto/alerts/typetalk\">Typetalk</a></li>\n<li><a href=\"https://mackerel.io/ja/docs/entry/howto/alerts/twilio\">Twilio</a></li>\n<li><a href=\"https://mackerel.io/ja/docs/entry/howto/alerts/pagerduty\">PagerDuty</a></li>\n<li><a href=\"https://mackerel.io/ja/docs/entry/howto/alerts/OpsGenie\">Opsgenie</a></li>\n<li><a href=\"https://mackerel.io/ja/docs/entry/howto/alerts/microsoft-teams\">Microsoft Teams</a></li>\n<li><a href=\"https://mackerel.io/ja/docs/entry/howto/alerts/webhook\">Webhook</a></li>\n<li><a href=\"https://mackerel.io/ja/docs/entry/howto/alerts/eventbridge\">Amazon EventBridge</a></li>\n</ul>\n</li>\n<li>上記一覧にないサービスとの連携には対応しておりません。</li>\n<li>非対応のサービスはWebhookなどを用いてお客様側にて連携する仕組みをご用意いただくようお願いしております。</li>\n</ul>\n"
   }
 }
