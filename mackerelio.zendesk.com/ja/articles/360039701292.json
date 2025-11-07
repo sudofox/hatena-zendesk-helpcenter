@@ -12,18 +12,18 @@
     "vote_count": 0,
     "section_id": 360007911812,
     "created_at": "2020-02-24T07:46:34Z",
-    "updated_at": "2021-12-21T08:53:34Z",
+    "updated_at": "2025-11-07T08:05:30Z",
     "name": "インスタンスを再作成しても同じホストとして認識させたい",
     "title": "インスタンスを再作成しても同じホストとして認識させたい",
     "source_locale": "ja",
     "locale": "ja",
     "outdated": false,
     "outdated_locales": [],
-    "edited_at": "2020-02-24T09:21:53Z",
+    "edited_at": "2025-11-07T08:05:30Z",
     "user_segment_id": null,
     "permission_group_id": 1305651,
     "content_tag_ids": [],
     "label_names": [],
-    "body": "<h2>Amazon EC2 や Azure VM の場合</h2>\n<p>それまで監視対象としていたインスタンスとは異なるインスタンスを、Mackerel側では同じホストとして認識させる（情報を引き継ぐ）ことはできません。 既存のホストを<a href=\"https://mackerel.io/ja/docs/entry/howto/host-retirement\">退役</a>させ、新たなホストとして監視を開始してください。</p>\n<h2>上記以外の仮想ホスト・VMの場合</h2>\n<p>インスタンスの再作成をする際、再作成の前後で同じホストと認識させたい場合はホストID（Linux系OSのホストの場合は <code>/var/lib/mackerel-agent/id</code> に、Windows Server の場合はインストールフォルダ内の <code>id</code> ファイルに、保存されています。詳しくは<a href=\"https://mackerel.io/ja/docs/entry/glossary#host\">用語集のホストの項目</a>を参照ください）が記録されたファイルをインスタンスの再作成前に退避しておき、再作成した後にそのファイルを配置・エージェントを起動することで対応できます。</p>\n<p>ただし、同じホストIDで複数の mackerel-agent が動作すると、メトリックの投稿や監視が正しく動作しなくなりますので、ご注意ください。（IDが同じホストが複数存在する場合、Mackerel ではそれぞれのホストからのメトリック送信を同一ホストからのメトリック送信とみなし、メトリック値の上書きをおこなってしまいます。）</p>"
+    "body": "<h2>Amazon EC2 や Azure Virtual Machines, Google Compute Engine の場合</h2>\n<p>それまで監視対象としていたインスタンスとは異なるインスタンスを、Mackerel側では同じホストとして認識させる（情報を引き継ぐ）ことはできません。 既存のホストを <a href=\"https://mackerel.io/ja/docs/entry/howto/host-retirement\">退役</a> させ、新たなホストとして監視を開始してください。</p>\n<h2>上記以外の仮想ホスト・VMの場合</h2>\n<p>インスタンスの再作成をする際、再作成の前後で同じホストと認識させたい場合はホストID（Linux系OSのホストの場合は <code>/var/lib/mackerel-agent/id</code> に、Windows Server の場合はインストールフォルダ内の <code>id</code> ファイルに、保存されています。詳しくは <a href=\"https://mackerel.io/ja/docs/entry/glossary#host\">用語集のホストの項目</a> を参照ください）が記録されたファイルをインスタンスの再作成前に退避しておき、再作成した後にそのファイルを配置・エージェントを起動することで対応できます。</p>\n<p>ただし、同じホストIDで複数の mackerel-agent が動作すると、メトリックの投稿や監視が正しく動作しなくなりますので、ご注意ください。（IDが同じホストが複数存在する場合、Mackerel ではそれぞれのホストからのメトリック送信を同一ホストからのメトリック送信とみなし、メトリック値の上書きをおこなってしまいます。）</p>\n"
   }
 }
