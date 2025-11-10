@@ -12,14 +12,14 @@
     "vote_count": 0,
     "section_id": 360011775831,
     "created_at": "2021-09-28T05:52:29Z",
-    "updated_at": "2024-10-11T08:58:30Z",
+    "updated_at": "2025-11-10T06:21:19Z",
     "name": "mackerel-agentのアンインストール方法を教えて",
     "title": "mackerel-agentのアンインストール方法を教えて",
     "source_locale": "ja",
     "locale": "ja",
     "outdated": false,
     "outdated_locales": [],
-    "edited_at": "2024-10-11T08:58:30Z",
+    "edited_at": "2025-11-10T06:21:19Z",
     "user_segment_id": null,
     "permission_group_id": 1305651,
     "content_tag_ids": [],
@@ -27,6 +27,6 @@
       "解約",
       "アンインストール"
     ],
-    "body": "<p>mackerel-agentのアンインストールは、各OSのアンインストール方法に従って実施してください。</p>\n<h2 id=\"h_01J9XCSJP79R95AT0DPTDV7FSP\">Linux環境でご利用の場合</h2>\n<p>パッケージマネージャーのアンインストールコマンドにてアンインストール可能です。</p>\n<p>プラグインなども含め、全てアンインストールする場合は以下のコマンドを実行してください。</p>\n<h3 id=\"h_01J9XCSJP7YR6R7QCXZHKTRABR\">Amazon Linux / Amazon Linux2 / CentOS / Red Hat</h3>\n<pre>sudo yum remove mackerel-agent mackerel-agent-plugins mackerel-check-plugins mkr</pre>\n<h3 id=\"h_01J9XCSJP750GBK7F3NF20ENH6\">Ubuntu / Debian</h3>\n<pre>sudo apt-get remove mackerel-agent mackerel-agent-plugins mackerel-check-plugins mkr</pre>\n<h2 id=\"h_01J9XCSJP7DKZR6QAE06X893P0\">Windows環境でご利用の場合</h2>\n<p>スタート &gt; コントロールパネル &gt; プログラム &gt; プログラムと機能 より mackerel-agent のアンインストールを実施してください。</p>"
+    "body": "<p>mackerel-agentのアンインストールについては、以下のヘルプを参照してください。</p>\n<ul>\n<li><a href=\"https://mackerel.io/ja/docs/entry/howto/install-agent#uninstall\">エージェントのアンインストール</a></li>\n</ul>\n"
   }
 }
