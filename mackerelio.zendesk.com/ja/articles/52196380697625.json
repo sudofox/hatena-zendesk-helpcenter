@@ -1,0 +1,29 @@
+{
+  "article": {
+    "id": 52196380697625,
+    "url": "https://mackerelio.zendesk.com/api/v2/help_center/ja/articles/52196380697625.json",
+    "html_url": "https://support.mackerel.io/hc/ja/articles/52196380697625",
+    "author_id": 1900158221828,
+    "comments_disabled": false,
+    "draft": false,
+    "promoted": false,
+    "position": 0,
+    "vote_sum": 0,
+    "vote_count": 0,
+    "section_id": 360008120511,
+    "created_at": "2025-11-06T06:38:07Z",
+    "updated_at": "2025-11-14T05:38:26Z",
+    "name": "ホストが自動退役されない",
+    "title": "ホストが自動退役されない",
+    "source_locale": "ja",
+    "locale": "ja",
+    "outdated": false,
+    "outdated_locales": [],
+    "edited_at": "2025-11-14T05:38:25Z",
+    "user_segment_id": null,
+    "permission_group_id": 1305651,
+    "content_tag_ids": [],
+    "label_names": [],
+    "body": "<p>mackerel-agentの<a href=\"https://mackerel.io/ja/docs/entry/spec/agent#AUTO_RETIREMENT-Linux%E7%92%B0%E5%A2%83\">自動退役</a>を有効にしているにも関わらず、OSの停止時にホストが自動退役されない場合があります。</p><p>原因としては、自動退役はmackerel-agentの停止処理のなかで<a href=\"https://mackerel.io/ja/api-docs/entry/hosts#retire\">ホストの退役</a>をリクエストすることで行われますが、OSの異常終了などにより退役のリクエストが送信される前にmackerel-agentが停止してしまった可能性が考えられます。また、<a href=\"https://mackerel.io/ja/docs/entry/howto/container-agent\">mackerel-container-agent</a>によって登録されたホストの自動退役の失敗についても同様の原因が考えられます。</p><p>EC2インスタンスに限り、<a href=\"https://mackerel.io/ja/docs/entry/integrations/aws\">AWSインテグレーション</a>の連携対象であり、<a href=\"https://mackerel.io/ja/docs/entry/integrations/aws#auto-retirement\">自動退役</a>が有効になっていれば、mackerel-agentによる自動退役に失敗してもインスタンスの終了時に自動退役できます。mackerel-agentによる自動退役の失敗を避けたい場合には、AWSインテグレーションの併用を検討してください。</p>"
+  }
+}
