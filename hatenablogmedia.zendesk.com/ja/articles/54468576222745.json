@@ -1,0 +1,30 @@
+{
+  "article": {
+    "id": 54468576222745,
+    "url": "https://hatenablogmedia.zendesk.com/api/v2/help_center/ja/articles/54468576222745.json",
+    "html_url": "https://hatenablogmedia.zendesk.com/hc/ja/articles/54468576222745",
+    "author_id": 378867417791,
+    "comments_disabled": false,
+    "draft": false,
+    "promoted": false,
+    "position": 0,
+    "vote_sum": 0,
+    "vote_count": 0,
+    "section_id": 360006001371,
+    "created_at": "2026-01-22T02:12:03Z",
+    "updated_at": "2026-01-28T03:20:03Z",
+    "name": "外部リンクで記事を投稿する",
+    "title": "外部リンクで記事を投稿する",
+    "source_locale": "ja",
+    "locale": "ja",
+    "outdated": false,
+    "outdated_locales": [],
+    "edited_at": "2026-01-23T09:24:33Z",
+    "user_segment_id": null,
+    "permission_group_id": 972331,
+    "content_tag_ids": [],
+    "label_names": [],
+    "body": "<h2 id=\"h_01KFHQHJARWA8E3W8G8VV6W4KR\">機能の概要</h2><p>「外部リンクで投稿」は、外部サイトのURLを記事として投稿できる機能です。</p><h3 id=\"h_01KFHQHJAR40P7YYNCKTAGG40X\">主な特徴</h3><ul>\n<li data-list-item-id=\"e2a2f3991a9d8299ab4e887dfee0be437\">外部サイトのURLを記事として登録できます</li>\n<li data-list-item-id=\"e51457ce3d366f0121bb15e4f4b8139a4\">通常の記事と同様に、タイトル・カテゴリー・投稿日時・概要文を設定できます</li>\n<li data-list-item-id=\"ec7df24ddbb66b68482c6ef908173bd04\">記事一覧ページやカテゴリーページなどに、通常の記事と一緒に表示されます</li>\n<li data-list-item-id=\"e18d32bcc1689ef9cc6ae73cafee49220\">記事一覧では、記事タイトルの末尾に「外部リンク」のラベルが表示され、通常の記事と区別できます</li>\n</ul><h2 id=\"h_01KFHQHJAR4X0CAEVZZZQX812Q\">使い方</h2><h3 id=\"h_01KFHQHJAR2HKKEA1R4XNM2BKT\">1. 投稿画面を開く</h3><p>管理画面のサイドバーにある「記事を書く」ボタンの右側にある矢印をクリックし、表示されるメニューから「外部リンクで投稿」を選択します。</p><p><img src=\"https://cdn-ak.f.st-hatena.com/images/fotolife/h/hatenablog/20260122/20260122122805.png\" alt=\"管理画面のサイドバーにある「記事を書く」ボタンの右側にある矢印をクリックし、表示されるメニューから「外部リンクで投稿」を選択\"></p><h3 id=\"h_01KFHQHJAREXVNHGV3SGDV7R2S\">2. 外部リンクのURLを入力する</h3><p>投稿画面が表示されたら、「外部リンクのURL」フォームに記事としてリンクしたい外部サイトのURLを入力します。</p><p><img src=\"https://cdn-ak.f.st-hatena.com/images/fotolife/h/hatenablog/20260122/20260122142822.png\" alt=\"投稿画面が表示されたら、記事としてリンクしたい外部サイトのURLを入力\"></p><h3 id=\"h_01KFHQHJARDKTFG8DZSCTBGXNF\">3. 記事情報を入力する</h3><ul>\n<li data-list-item-id=\"e9208b6c8869654cfbc92c3b7f051655e\">\n<strong>タイトル</strong>: 記事のタイトルを入力します（必須）</li>\n<li data-list-item-id=\"e26afa3767e533877f37afdce85f53c0f\">\n<strong>カテゴリー</strong>: 記事に設定するカテゴリーを選択または入力できます</li>\n<li data-list-item-id=\"e7c59b87819f87468d8ea918e81fe4ed0\">\n<strong>投稿日時</strong>: 記事を公開する日時を設定できます</li>\n<li data-list-item-id=\"e25449c3717027a17d4c92748837ee385\">\n<strong>概要文（メタディスクリプション）</strong>: 記事の概要文を設定できます</li>\n</ul><h3 id=\"h_01KFHQHJAR3HB0FXEB7EDERY6C\">4. 記事を公開する</h3><p>入力が完了したら、「公開する」ボタンをクリックして記事を公開します。</p><p><img src=\"https://cdn-ak.f.st-hatena.com/images/fotolife/h/hatenablog/20260122/20260122142826.png\" alt=\"「公開する」ボタンをクリックして記事を公開\"></p><ul><li data-list-item-id=\"e66cede92e3975bd12ec7d064a6f6fdd9\">「下書き保存する」をクリックすると、下書きとして保存されます</li></ul><h2 id=\"h_01KFHQHJARAMR8C4CDPD02QG22\">投稿した記事を編集・削除する</h2><h3 id=\"h_01KFHQHJAR8BPG9132CRY7C1FV\">編集する場合</h3><ol>\n<li data-list-item-id=\"e341e8ecd0c88c09cff243931ac4cf47e\">管理画面 &gt; 「記事の管理」を開きます</li>\n<li data-list-item-id=\"e382d08db121b7994ec774debb98b8ecd\">編集したい記事を探し、記事タイトルをクリックします</li>\n<li data-list-item-id=\"e91eaa54ef837aecdc3557633d4dc1e01\">編集画面で内容を変更できます</li>\n</ol><h3 id=\"h_01KFHQHJARY12V8VK3FZYZENA8\">削除する場合</h3><ol>\n<li data-list-item-id=\"e729808cd46f8d686c82def28754e145e\">管理画面 &gt; 「記事の管理」を開きます</li>\n<li data-list-item-id=\"e5a6afc9d3317535c36182c01ded9139d\">削除したい記事を探し、記事タイトルをクリックします</li>\n<li data-list-item-id=\"e8c484ce00c7295a0defffd1a7c182b1c\">編集画面の右上にある「...」をクリックし、「削除する」を選択すると記事が削除されます</li>\n</ol><p class=\"alert alert-warning\">外部リンクの記事は、削除するとゴミ箱には入らずに即時削除されるためご注意ください。</p><p><img src=\"https://cdn-ak.f.st-hatena.com/images/fotolife/h/hatenablog/20260122/20260122143138.png\" alt=\"編集画面の右上にある「...」をクリックし、「削除する」を選択\"></p><h2 id=\"h_01KFHQHJARKHZRTJG0J86AND0W\">記事一覧での表示について</h2><p>外部リンクURLで投稿した記事は、記事一覧ページで「外部リンク」の識別ラベルが表示されます。</p><p>また読者が、記事一覧から外部リンクの記事をクリックすると、外部サイトが別タブで開きます。</p><p class=\"alert alert-info\">識別ラベルのデザインはCSSでカスタマイズできます。</p><p><img src=\"https://cdn-ak.f.st-hatena.com/images/fotolife/h/hatenablog/20260122/20260122123718.png\" alt=\"外部リンクURLで投稿した記事は、記事一覧ページで「外部リンク」の識別ラベルが表示されます\"></p><h2 id=\"h_01KFHQHJASR4XVQSJZP1Z862TH\">関連記事</h2><ul><li data-list-item-id=\"e4047e2a3d3d4e02c9f8c981cf01a4445\"><a href=\"https://hatenablogmedia.zendesk.com/hc/ja/articles/54468237197593\">PDFファイルで記事を投稿する</a></li></ul>",
+    "user_segment_ids": []
+  }
+}
