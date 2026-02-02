@@ -1,0 +1,30 @@
+{
+  "article": {
+    "id": 53656293240985,
+    "url": "https://hatenablogmedia.zendesk.com/api/v2/help_center/ja/articles/53656293240985.json",
+    "html_url": "https://hatenablogmedia.zendesk.com/hc/ja/articles/53656293240985",
+    "author_id": 378867417791,
+    "comments_disabled": false,
+    "draft": false,
+    "promoted": false,
+    "position": 0,
+    "vote_sum": 0,
+    "vote_count": 0,
+    "section_id": 53985642731289,
+    "created_at": "2025-12-25T00:31:36Z",
+    "updated_at": "2026-02-02T07:55:08Z",
+    "name": "0. アカウントを作成",
+    "title": "0. アカウントを作成",
+    "source_locale": "ja",
+    "locale": "ja",
+    "outdated": false,
+    "outdated_locales": [],
+    "edited_at": "2026-01-20T07:30:38Z",
+    "user_segment_id": null,
+    "permission_group_id": 972331,
+    "content_tag_ids": [],
+    "label_names": [],
+    "body": "<h2 id=\"h_01KD9ERVWQ7RA1CZZ2NGPMGEG0\">1．はてなIDを作成する</h2><ol>\n<li data-list-item-id=\"e5c49e5f9b333556b3203fe2e455e2ad9\">「<a href=\"https://accounts.hatena.ne.jp/register\" target=\"_blank\" rel=\"noopener noreferrer\">ユーザー登録</a>」を開いて、はてなIDを作成します</li>\n<li data-list-item-id=\"e895545323ba7f5ffa571adcb17682c72\">登録したメールアドレス宛に届くメールのURLから、本登録に進んでください</li>\n</ol><p><img src=\"https://cdn-ak.f.st-hatena.com/images/fotolife/h/hatenablog/20260106/20260106162739.png\" alt=\"はてなIDを作成\"></p><h4 id=\"h_01KD9EYSG5D1WYKFF99Z9FQDC9\">注意点</h4><ul>\n<li data-list-item-id=\"e56ca33857a11287649f4a0cb03b8ec03\">見られても問題ない、社名やサービス名に近いはてなIDでの取得がおすすめです<ul>\n<li data-list-item-id=\"e47bbd6506751a93cf83e8b1491b36226\">ブログのオーナーID・記事の作者として画面上やHTML、各SNSのauthorで表示されます</li>\n<li data-list-item-id=\"e404ade3e7344e29b0c978c19b83b561b\">CSSで非表示にしても、サイトのソースに含まれています</li>\n</ul>\n</li>\n<li data-list-item-id=\"e59665f9aa56f54e7077c118d42bae290\">はてなIDの変更は原則できませんが、社名変更等で変更されたい場合には、はてなまでご連絡ください</li>\n</ul><p> </p><h2 id=\"h_01KD9F0EWQTKQFZFM26EJZHNMG\">2.サイトを準備する</h2><h3 id=\"h_01KD9F16Y96TQ8N7BYYKBW9FGS\">サイトを開設する</h3><ol>\n<li data-list-item-id=\"ef1ee92eaea39f92e1ce479b0d043a7f3\">「<a href=\"https://blog.hatena.ne.jp/register/blog_media\" target=\"_blank\" rel=\"noopener noreferrer\">かんたんブログMedia作成</a>」を開きます</li>\n<li data-list-item-id=\"e4fd6dad83fb41daeac60b4d9304cb85d\">「企業名」と「サイトのURL」を入力します</li>\n<li data-list-item-id=\"ed7054dcad1037ba5fb03e7b41c87b34d\">サイトのデザインを選択します（デザインはあとからカスタマイズして変更できます）</li>\n<li data-list-item-id=\"ec073b67835867f2f802b897bae13dca1\">「ブログを作成」ボタンをクリックすると、サイトが非公開状態で作成されます</li>\n</ol><p class=\"alert alert-info\">独自ドメインを設定する場合でも、まずは 「https://●●●.hatenablog.com/」 のURLでサイトの作成をお願いします（独自ドメインの設定はあとからできます）</p><p><img src=\"https://cdn-ak.f.st-hatena.com/images/fotolife/h/hatenablog/20251225/20251225095936.png\" alt=\"サイトを開設\"></p><p> </p><h3 id=\"h_01KD9F3BZBJCDZNYYSQ3CCGTDC\">テスト用サイトの作成</h3><p>サイトのデザインや、モジュールの表示確認用に、テスト用のサイトを作成しておくと便利なので、必要に応じて作成してみてください。</p><ol>\n<li data-list-item-id=\"e6677d206ecb02c2c51ab2ac06fac6cf0\">「<a href=\"https://blog.hatena.ne.jp/register/blog_media\" target=\"_blank\" rel=\"noopener noreferrer\">かんたんブログMedia作成</a>」から作成します</li>\n<li data-list-item-id=\"e1f047a6e12a395c6a02188367d8145cc\">すでに作成済みのサイトをコピーしたい場合は「<a href=\"https://hatenablogmedia.zendesk.com/hc/ja/articles/360034949712\" target=\"_blank\" rel=\"noopener noreferrer\">テスト用ブログから本番用ブログにデザインコピーする方法を教えてください</a>」をご覧ください</li>\n</ol><h4 id=\"h_01KF0EJXQ5HDD8SS3PEY96YT1D\">注意点</h4><p>サイトを追加作成する際は、必ず「<a href=\"https://blog.hatena.ne.jp/register/blog_media\" target=\"_blank\" rel=\"noopener noreferrer\">かんたんブログMedia作成</a>」から行ってください。 管理画面にある通常の「新しいサイトを作成」から作ると、法人プランが適用されず機能が制限されてしまいます。</p><h4 id=\"h_01KF0ESMYK7MRQQX9KBANR8BK4\">もし誤って作成してしまった場合</h4><ul data-path-to-node=\"5,2\">\n<li data-list-item-id=\"e1c20829a817a341435bbaa3b2645739f\">該当のサイトを削除し、「<a href=\"https://blog.hatena.ne.jp/register/blog_media\" target=\"_blank\" rel=\"noopener noreferrer\">かんたんブログMedia作成</a>」から作り直してください</li>\n<li data-list-item-id=\"eb072eb66ad58d47f866ec0c941ee90e5\">または、<a href=\"https://hatenablogmedia.zendesk.com/hc/ja/requests/new?ticket_form_id=360000466552\" target=\"_blank\" rel=\"noopener noreferrer\">サポート窓口</a>にご連絡いただければ修正対応いたします</li>\n</ul><p> </p><p> </p><h3 id=\"h_01KD9F7ZQAPH2RD3GKX1WKTNYP\">無料トライアルについて</h3><p>サイト作成時点では無料トライアル権限が自動的に付与され、ダッシュボード内でサイト名の右に「無料トライアル」と表示されます。</p><p><img src=\"https://cdn-ak.f.st-hatena.com/images/fotolife/h/hatenablog/20251225/20251225100908.png\" alt=\"サイトを開設\"></p><p class=\"alert alert-info\">無料トライアルの権限は、1サイトにつき1つまでです</p><p class=\"alert alert-warning\">お申し込み手続きが完了しましたら、無料トライアルの権限から正式利用の権限に変更します<br>弊社より権限変更完了の連絡を差し上げるまでサイトの公開をしないようにしてください</p><p> </p><p> </p><p style=\"color: #426cd2; font-size: 0.9em; line-height: 1.2em;\">次のステップへ</p><p><a style=\"color: inherit;\" href=\"https://hatenablogmedia.zendesk.com/hc/ja/articles/53658140995609\">サイトの基本設定 に進む</a> →</p>",
+    "user_segment_ids": []
+  }
+}

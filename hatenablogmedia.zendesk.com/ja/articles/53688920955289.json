@@ -1,0 +1,30 @@
+{
+  "article": {
+    "id": 53688920955289,
+    "url": "https://hatenablogmedia.zendesk.com/api/v2/help_center/ja/articles/53688920955289.json",
+    "html_url": "https://hatenablogmedia.zendesk.com/hc/ja/articles/53688920955289",
+    "author_id": 378867417791,
+    "comments_disabled": false,
+    "draft": false,
+    "promoted": false,
+    "position": 5,
+    "vote_sum": 0,
+    "vote_count": 0,
+    "section_id": 53985642731289,
+    "created_at": "2025-12-26T05:06:06Z",
+    "updated_at": "2026-02-02T07:56:39Z",
+    "name": "5. サイトを運用する",
+    "title": "5. サイトを運用する",
+    "source_locale": "ja",
+    "locale": "ja",
+    "outdated": false,
+    "outdated_locales": [],
+    "edited_at": "2026-01-20T07:36:27Z",
+    "user_segment_id": null,
+    "permission_group_id": 972331,
+    "content_tag_ids": [],
+    "label_names": [],
+    "body": "<p>ここからは、サイトをより良く育てていくための「運用」フェーズです。最後に、サイトの成長を数字で見るための設定と、困ったときの相談窓口についてご案内します。</p><h2 id=\"h_01KD9ERVWQ7RA1CZZ2NGPMGEG0\">1.  Google アナリティクス 4 (GA4) を設定する</h2><p>「どの記事が読まれているか」「どこから人が来ているか」を知ることは、サイト運営の第一歩です。 Google アナリティクス 4（GA4）のアカウントをお持ちの場合は、測定IDを入力するだけで簡単に連携できます。</p><p class=\"alert alert-info\">詳しい設定方法は「<a href=\"https://hatenablogmedia.zendesk.com/hc/ja/articles/360031261791\" target=\"_blank\" rel=\"noopener noreferrer\">Google Analyticsを導入する</a>」をご覧ください。</p><p> </p><h2 id=\"h_01KDCQ7YCWXHQSS22AJFMV7D48\">2. 困ったときは</h2><p>操作方法がわからなくなったり、何かトラブルが起きたときは、以下のサポートページをご活用ください。</p><p> </p><p><strong id=\"h_01KDCQ8NH0ME6GA5EJFJDTEPRK\" data-path-to-node=\"13,1,0\" data-index-in-node=\"0\">よくある質問・操作ガイド</strong><strong id=\"h_01KDCQ8NH0ME6GA5EJFJDTEPRK\"> </strong></p><ul data-path-to-node=\"13,1,1\">\n<li data-list-item-id=\"e486d152d8993e129a4fdf077745ea4ac\"><a href=\"https://hatenablogmedia.zendesk.com/hc/ja\" target=\"_blank\" rel=\"noopener noreferrer\">はてなCMSヘルプセンター</a></li>\n<li data-list-item-id=\"e58390401c52ea498ddd0b368ec95cb19\">基本的な使い方から応用まで、詳しいマニュアルをご用意しています。</li>\n</ul><p><strong id=\"h_01KDCQ8SYQ5T9HYW3Y5Z82N913\" data-path-to-node=\"13,2,0\" data-index-in-node=\"0\">お問い合わせ</strong><strong id=\"h_01KDCQ8SYQ5T9HYW3Y5Z82N913\"> </strong></p><ul data-path-to-node=\"13,2,1\">\n<li data-list-item-id=\"e66b79a63e895e62291b5ab64a38db40b\"><a href=\"https://hatenablogmedia.zendesk.com/hc/ja/requests/new?ticket_form_id=360000466552\" target=\"_blank\" rel=\"noopener noreferrer\">サポート窓口へ連絡する</a></li>\n<li data-list-item-id=\"eb5f8cfa3fa6fda06fb9cf376b67fd685\">技術的な不明点やトラブルがあれば、お気軽にお問い合わせください。専門スタッフがサポートします。</li>\n</ul>",
+    "user_segment_ids": []
+  }
+}

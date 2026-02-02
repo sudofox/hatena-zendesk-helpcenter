@@ -1,0 +1,30 @@
+{
+  "article": {
+    "id": 53680031829145,
+    "url": "https://hatenablogmedia.zendesk.com/api/v2/help_center/ja/articles/53680031829145.json",
+    "html_url": "https://hatenablogmedia.zendesk.com/hc/ja/articles/53680031829145",
+    "author_id": 378867417791,
+    "comments_disabled": false,
+    "draft": false,
+    "promoted": false,
+    "position": 2,
+    "vote_sum": 0,
+    "vote_count": 0,
+    "section_id": 53985642731289,
+    "created_at": "2025-12-26T00:25:20Z",
+    "updated_at": "2026-02-02T07:56:06Z",
+    "name": "2. 最初の記事を書く",
+    "title": "2. 最初の記事を書く",
+    "source_locale": "ja",
+    "locale": "ja",
+    "outdated": false,
+    "outdated_locales": [],
+    "edited_at": "2026-01-20T07:34:03Z",
+    "user_segment_id": null,
+    "permission_group_id": 972331,
+    "content_tag_ids": [],
+    "label_names": [],
+    "body": "<p>サイトの設定が完了したら、さっそく最初の記事を書いてみましょう。 はてなCMSのエディタは、直感的な操作で簡単に記事を作成できます。「見たままモード」（初期設定の編集モード）を使ってアイキャッチが設定された記事を作成し、サイト上に公開（または下書き保存）してみましょう。</p><h2 id=\"h_01KD9ERVWQ7RA1CZZ2NGPMGEG0\">1．記事編集画面を開く</h2><p>管理画面の左メニュー、またはヘッダーにある「記事を書く」ボタンをクリックします。</p><p><img src=\"https://cdn-ak.f.st-hatena.com/images/fotolife/h/hatenablog/20251226/20251226102030.png\" alt=\"記事編集画面を開く\"></p><p> </p><h2 id=\"h_01KDC11ZPCEN916X5YB8W7P5FH\">2．タイトルと本文を入力する</h2><p>編集画面が開いたら、記事の中身を作っていきます。まずは「見たままモード」で書いてみましょう。通常の文書作成ソフトと同じ感覚で編集できます。</p><ol>\n<li data-list-item-id=\"ec7b8e7691f737188fd18fd697ed961f1\">\n<strong data-path-to-node=\"17,0,0\" data-index-in-node=\"0\">タイトルを入力</strong>: タイトルを入力します</li>\n<li data-list-item-id=\"e3043e75e7ce01b6dcd6e5109f94b31f3\">\n<strong data-path-to-node=\"17,1,0\" data-index-in-node=\"0\">本文を書く</strong>: 大きな入力欄に文章を書きます</li>\n<li data-list-item-id=\"e127551d47c26ceb645d56afd1953a2c0\">\n<strong data-path-to-node=\"17,2,0\" data-index-in-node=\"0\">文字を装飾する</strong>: 文字を太くしたり、斜体にする場合は、変更したい文字を選択してからツールバーのボタンをクリックします</li>\n</ol><p><img src=\"https://cdn-ak.f.st-hatena.com/images/fotolife/h/hatenablog/20251226/20251226102624.png\" alt=\"タイトルと本文を入力\"></p><p><strong data-path-to-node=\"18,0\" data-index-in-node=\"0\">Point：編集モードについて</strong></p><p>初めて利用される方は、直感的に操作できる「見たままモード」がおすすめです。慣れてきたら「はてな記法」や「Markdown」も選択可能です。<a href=\"https://hatenablogmedia.zendesk.com/hc/ja/articles/360030920992-%E7%B7%A8%E9%9B%86%E3%83%A2%E3%83%BC%E3%83%89\" target=\"_blank\" rel=\"noopener noreferrer\">詳しくはこちら</a></p><p> </p><h2 id=\"h_01KDC12P53698P5KGQGPWCMJ6A\">3．画像を挿入する（アイキャッチの設定）</h2><p>記事の中に写真を入れると、読者にイメージが伝わりやすくなります。 記事内に貼り付けた「一番先頭の画像」が、自動的にアイキャッチとして設定されます。</p><ol>\n<li data-list-item-id=\"efb38421dde4459f9b2ccc5b1efb5faca\">右側のサイドバーまたは、ツールバー内にある「写真を投稿」アイコンをクリックします</li>\n<li data-list-item-id=\"eab6df8e07b3e10961839eb6646bdd34b\">「写真を投稿」ボタンをクリックし、使いたい画像を選択します</li>\n<li data-list-item-id=\"e8f0b133e88ff2844030f7ff2e63fa4de\">アップロードされた画像を選択し、「記事編集画面に貼り付ける」ボタンをクリックすると本文に挿入されます</li>\n</ol><p><img src=\"https://cdn-ak.f.st-hatena.com/images/fotolife/h/hatenablog/20251226/20251226112312.gif\" alt=\"画像を入れる（アイキャッチ）\"></p><p><strong data-path-to-node=\"18,0\" data-index-in-node=\"0\">Point：別の画像をアイキャッチにしたい場合</strong></p><p>本文にはない画像をアイキャッチに設定したい場合は、右サイドバーの「編集オプション（歯車アイコン）」 &gt; 「アイキャッチ画像」から、事前に「写真を投稿」でアップロードした画像または、デフォルトアイキャッチから選択して設定することができます。</p><p> </p><p> </p><h2 id=\"h_01KDC13MCC3YN58QBJ31BMNHC9\">5．公開（または下書き保存）する</h2><p>記事が書けたら、いよいよ公開です。まだ公開したくない場合は「下書き」として保存もできます。</p><p> </p><h3 id=\"h_01KDC8M0G7EX1466J9FYH3PJAR\">公開する</h3><ol>\n<li data-list-item-id=\"ea6ca66ce660ebaeace01aaff17a7c976\">実際の表示を確認したい場合は「プレビュー」タブをクリックします</li>\n<li data-list-item-id=\"ebdf96ca48716a6ecaf52d845eeb59c38\">画面右下の「公開する」ボタンをクリックすると、記事がサイトに反映されます</li>\n</ol><p><img src=\"https://cdn-ak.f.st-hatena.com/images/fotolife/h/hatenablog/20251226/20251226114828.png\" alt=\"記事を公開\"></p><p> </p><h3 id=\"h_01KDC8MC9VHC0WKHMKSE8FDKTG\">下書き保存する</h3><ol><li data-list-item-id=\"e768a779928baf5ac38fbd9254a7859c9\">まだ公開したくない場合は「公開する」ボタンの右にある、上矢印をクリックし、「下書き保存する」を選んでボタンをクリックしてください</li></ol><p><img src=\"https://cdn-ak.f.st-hatena.com/images/fotolife/h/hatenablog/20251226/20251226115504.gif\" alt=\"下書き保存\"></p><p> </p><h4 id=\"h_01KDC2EFBCYZ7NEZFG381RFGJG\" data-path-to-node=\"30\">もっと詳しく知りたい方へ</h4><p data-path-to-node=\"31\">リンクの埋め込み、目次の作成、予約投稿など、より高度な機能を使いたい場合は、各機能のヘルプページをご覧ください。</p><ul>\n<li data-list-item-id=\"eb6baf29568a049a3d74e64658931de60\"><a href=\"https://hatenablogmedia.zendesk.com/hc/ja/sections/360006001371\">記事の作成・編集について</a></li>\n<li data-list-item-id=\"ef410d342ab312eed58b387e320bcb329\"><a href=\"https://hatenablogmedia.zendesk.com/hc/ja/sections/360006001351-%E3%83%AA%E3%83%B3%E3%82%AF%E3%82%84%E7%94%BB%E5%83%8F%E3%81%AE%E6%8C%BF%E5%85%A5\" target=\"_blank\" rel=\"noopener noreferrer\">リンクや画像の挿入について</a></li>\n</ul><p> </p><p> </p><p style=\"color: #426cd2; font-size: 0.9em; line-height: 1.2em;\">次のステップへ</p><p><a style=\"color: inherit;\" href=\"https://hatenablogmedia.zendesk.com/hc/ja/articles/53686319043609\">デザインをカスタマイズ に進む</a> →</p>",
+    "user_segment_ids": []
+  }
+}
