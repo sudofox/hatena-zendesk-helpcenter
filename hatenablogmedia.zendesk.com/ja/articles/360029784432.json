@@ -12,19 +12,19 @@
     "vote_count": 0,
     "section_id": 360004976171,
     "created_at": "2019-07-02T03:19:11Z",
-    "updated_at": "2025-02-18T03:47:56Z",
+    "updated_at": "2026-03-09T01:48:30Z",
     "name": "構造化データのマークアップ方法を教えてください",
     "title": "構造化データのマークアップ方法を教えてください",
     "source_locale": "ja",
     "locale": "ja",
     "outdated": false,
     "outdated_locales": [],
-    "edited_at": "2025-02-18T03:47:55Z",
+    "edited_at": "2026-03-09T01:48:30Z",
     "user_segment_id": null,
     "permission_group_id": 972311,
     "content_tag_ids": [],
     "label_names": [],
-    "body": "<h2 id=\"h_01JKWFXX6W1ADC45H7KDAJ63JM\">構造化データに対応する方法</h2>\n<p>はてなCMSでは構造化データの「Articles」と「Breadcrumbs」には標準で対応しておりますが、その他のタイプについてはサポートしておりません。</p>\n<p>その他のタイプについては、記事本文に必要なマークアップを記述いただくことで構造化データとして認識されます。</p>\n<p>構造化データの種類や解説に関しては<a href=\"https://developers.google.com/search/docs/guides/intro-structured-data\" target=\"_blank\" rel=\"noopener noreferrer\">googleの開発者向けサイト</a>もご確認ください。</p>\n<h2 id=\"h_01JKWFXX6WNTZ27CFRCDS7DNAJ\">記述する際の注意点</h2>\n<p>見たままモードのHMTL編集で構造化データのJavaScriptを挿入すると、入力していない要素 // &lt; ![CDATA[ // &gt; が自動で挿入されます。要素を挿入しない為には、見たままモード以外の「はてな記法」「Markdown」「HTML」モードをご利用ください。</p>",
+    "body": "<h2 id=\"h_01JKWFXX6W1ADC45H7KDAJ63JM\">構造化データに対応する方法</h2><p>はてなCMSでは構造化データの「Articles」と「Breadcrumbs」には標準で対応しておりますが、その他のタイプについてはサポートしておりません。</p><p>その他のタイプについては、記事本文に必要なマークアップを記述いただくことで構造化データとして認識されます。</p><p>構造化データの種類や解説に関しては<a href=\"https://developers.google.com/search/docs/guides/intro-structured-data\" target=\"_blank\" rel=\"noopener noreferrer\">googleの開発者向けサイト</a>もご確認ください。</p><h2 id=\"h_01JKWFXX6WNTZ27CFRCDS7DNAJ\">記述する際の注意点</h2><p>見たままモードのHMTL編集で構造化データのJavaScriptを挿入すると、入力していない要素 // &lt; ![CDATA[ // &gt; が自動で挿入されます。要素を挿入しない為には、見たままモード以外の「はてな記法」「Markdown」「HTML」モードをご利用ください。</p><p> </p><h2 id=\"h_01KK7XCC0ZKK979CJ5PDXRCJFX\">対応している構造化データ（2026年3月現在）</h2><h3 id=\"h_01KK7XCGXCE9RFYN0D4HGSFNR7\">記事詳細ページ（Article）</h3><figure class=\"wysiwyg-table\" style=\"width: 100%;\"><table class=\"wysiwyg-table-resized\">\n<colgroup>\n<col style=\"width: 24.07%;\">\n<col style=\"width: 75.93%;\">\n</colgroup>\n<tbody>\n<tr>\n<th>headline</th>\n<td>記事タイトル（110文字まで）</td>\n</tr>\n<tr>\n<th>datePublished</th>\n<td>公開日時</td>\n</tr>\n<tr>\n<th>dateModified</th>\n<td>最終更新日時</td>\n</tr>\n<tr>\n<th>description</th>\n<td>記事のメタディスクリプション</td>\n</tr>\n<tr>\n<th>mainEntityOfPage</th>\n<td>記事のURL</td>\n</tr>\n<tr>\n<th>image</th>\n<td>サムネイル画像のURL配列（画像がない場合はデフォルトOG画像）</td>\n</tr>\n<tr>\n<th>author</th>\n<td>著者情報（プロフィールカードにて設定可能）</td>\n</tr>\n<tr>\n<th>publisher</th>\n<td>発行元情報（CMSの基本設定にて設定可能）</td>\n</tr>\n</tbody>\n</table></figure><p>固定ページに設置したい場合、または記載以外の構造化データを設置する場合は見たままモード以外の編集モードにて直接マークアップを記述してください。</p><h3 id=\"h_01KK7XG16XTBWBPBWA1EABE6CY\">パンくずリスト（BreadcrumbList）</h3><figure class=\"wysiwyg-table\" style=\"width: 100%;\"><table class=\"wysiwyg-table-resized\">\n<colgroup>\n<col style=\"width: 24.5%;\">\n<col style=\"width: 75.5%;\">\n</colgroup>\n<tbody><tr>\n<th>itemListElement</th>\n<td>パンくず項目の配列</td>\n</tr></tbody>\n</table></figure>",
     "user_segment_ids": []
   }
 }
