@@ -1,0 +1,30 @@
+{
+  "article": {
+    "id": 55941870751129,
+    "url": "https://hatena.zendesk.com/api/v2/help_center/ja/articles/55941870751129.json",
+    "html_url": "https://hatena.zendesk.com/hc/ja/articles/55941870751129",
+    "author_id": 383252406071,
+    "comments_disabled": false,
+    "draft": false,
+    "promoted": false,
+    "position": 0,
+    "vote_sum": 0,
+    "vote_count": 0,
+    "section_id": 52153812940185,
+    "created_at": "2026-03-12T06:52:04Z",
+    "updated_at": "2026-03-12T07:09:42Z",
+    "name": "【はてなブログ】【Androidアプリ】ブログの設定を変更する",
+    "title": "【はてなブログ】【Androidアプリ】ブログの設定を変更する",
+    "source_locale": "ja",
+    "locale": "ja",
+    "outdated": false,
+    "outdated_locales": [],
+    "edited_at": "2026-03-12T07:03:10Z",
+    "user_segment_id": null,
+    "permission_group_id": 972331,
+    "content_tag_ids": [],
+    "label_names": [],
+    "body": "<div>\n<p>ホーム画面右上に表示されるブログアイコンをタップすると、ログインしているアカウントのブログが表示されます。</p>\n<figure class=\"wysiwyg-image\"><img style=\"aspect-ratio: 352/727;\" src=\"https://hatena.zendesk.com/hc/article_attachments/55941870743065\" alt=\"20251107171821.png\" width=\"352\" height=\"727\"></figure><ul><li data-list-item-id=\"e65afc1b5ff38346b0c6df61bb780809f\">\n<img src=\"https://hatena.zendesk.com/hc/article_attachments/55941909660953\" alt=\"20251107171730.png\" width=\"21\" height=\"20\"> からアプリの設定画面、<img src=\"https://hatena.zendesk.com/hc/article_attachments/55941870745625\" alt=\"tune.png\" width=\"24\" height=\"24\">からは各ブログの設定画面に遷移します。</li></ul>\n<h3 id=\"editmode\">記事を書く時の記法を設定する</h3>\n<p><img src=\"https://hatena.zendesk.com/hc/article_attachments/55941870745625\" alt=\"tune.png\" width=\"24\" height=\"24\">アイコンをタップし、投稿設定＞編集モードから選択します。</p>\n</div><div>\n<h3 id=\"photoupload\">アップロードする画像サイズを変更する</h3>\n<p><img src=\"https://hatena.zendesk.com/hc/article_attachments/55941870745625\" alt=\"tune.png\" width=\"24\" height=\"24\">をタップしてブログ設定画面を開き、記事にアップロードする「画像サイズ」を選択できます。</p>\n</div><div>\n<h3 id=\"switchblogs\">ブログを切り替える</h3>\n<p>ホーム画面右上に表示されるあなたのブログアイコンをタップするとブログ一覧が表示されます。この画面では複数のブログを切り替えられ、また新しくブログを作成することができます。</p>\n</div><div>\n<h3 id=\"profile\">「プロフィール」の表示内容を設定する</h3>\n<p>記事一覧タブ右上のアイコンから、ログインしているアカウントのブログが表示されます。<img src=\"https://hatena.zendesk.com/hc/article_attachments/55941870745625\" alt=\"tune.png\" width=\"24\" height=\"24\">をタップしてブログ設定画面を開き、「デザイン」を選択すると「自己紹介」の項目がございます。表示させたい内容を書いた後に「変更する」ボタンをタップしてください。</p>\n</div>",
+    "user_segment_ids": []
+  }
+}
