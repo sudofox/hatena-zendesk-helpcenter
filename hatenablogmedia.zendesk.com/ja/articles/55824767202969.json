@@ -1,0 +1,30 @@
+{
+  "article": {
+    "id": 55824767202969,
+    "url": "https://hatenablogmedia.zendesk.com/api/v2/help_center/ja/articles/55824767202969.json",
+    "html_url": "https://hatenablogmedia.zendesk.com/hc/ja/articles/55824767202969",
+    "author_id": 900846704823,
+    "comments_disabled": false,
+    "draft": false,
+    "promoted": false,
+    "position": 0,
+    "vote_sum": 0,
+    "vote_count": 0,
+    "section_id": 360006084031,
+    "created_at": "2026-03-09T01:17:39Z",
+    "updated_at": "2026-03-13T01:50:07Z",
+    "name": "リダイレクト設定を行う",
+    "title": "リダイレクト設定を行う",
+    "source_locale": "ja",
+    "locale": "ja",
+    "outdated": false,
+    "outdated_locales": [],
+    "edited_at": "2026-03-12T00:31:04Z",
+    "user_segment_id": null,
+    "permission_group_id": 972311,
+    "content_tag_ids": [],
+    "label_names": [],
+    "body": "<p>リダイレクト設定は、ブログ内の古いURLへのアクセスを、新しいURLへ自動的に転送（リダイレクト）する機能です。<br>記事やページのURLを変更または削除した場合に、以前のURLにアクセスした読者を新しいページへ自動的に案内できます。これにより、読者が「ページが見つかりません」というエラーに遭遇することを防ぎ、検索エンジンからの評価を新しいURLへ引き継ぐことができます。</p><p>この機能は、はてなCMS、はてなブログBusiness、DevBlogでご利用いただけます。</p><h2 id=\"h_01KKB7CCFNTJQVW3RT7QDAQFBS\">設定方法</h2><p>管理画面 &gt; [<strong>設定</strong>] &gt; [<strong>リダイレクト設定</strong>] をクリック</p><figure class=\"wysiwyg-image\"><img style=\"aspect-ratio: 1920/1000;\" src=\"https://hatenablogmedia.zendesk.com/hc/article_attachments/55892026065433\" width=\"1920\" height=\"1000\"></figure><h3 id=\"h_01KKB9EJAMBTG5X29VHKSM68JJ\">リダイレクトを新たに作成する</h3><ol>\n<li data-list-item-id=\"ecb1e83500b12490e06e76ad2c3145d88\">リダイレクト設定画面で「リダイレクトを作成する」ボタンをクリックします</li>\n<li data-list-item-id=\"ef460dcf3b6541a4f6b41b7efb879aabc\">表示されるモーダル画面で、以下の項目を設定します</li>\n<li data-list-item-id=\"e495ac09f7c43170089261adce8a9c639\">すべての項目を設定したら「保存」ボタンをクリックします</li>\n</ol><figure class=\"wysiwyg-image\"><img style=\"aspect-ratio: 2880/1558;\" src=\"https://hatenablogmedia.zendesk.com/hc/article_attachments/55892026066201\" alt=\"ルールを追加.png\" width=\"2880\" height=\"1558\"></figure><h4 id=\"h_01KKB9F8WM2BF59P520ATJKW46\">転送元のパス</h4><p>リダイレクト元となるURLのパスを入力します。ブログのドメイン以降の部分を指定してください。<br> </p><p class=\"alert alert-warning\">非公開または削除済みページのパスを指定してください。現在公開中の記事のURLを転送元に設定した場合、そのページが優先して表示され、リダイレクトは行われません。<br>また、ドメインが異なるページ間での設定はできません。</p><h4 id=\"h_01KKB9FZ0P2YPQ6AYVEVC6JM8G\">転送先のパス</h4><p>リダイレクト先となるURLのパスを入力します。転送元と転送先には、異なるパスを指定してください。</p><h4 id=\"h_01KKFQ6ZXT92HVGCDA62MX8HFF\">クエリパラメータ</h4><p>URL末尾の「?key=value」形式で付与されるトラッキング情報（アクセス解析用など）の扱いを選択してください。</p><figure class=\"wysiwyg-table\" style=\"width: 100%;\"><table class=\"wysiwyg-table-resized\">\n<colgroup>\n<col style=\"width: 26%;\">\n<col style=\"width: 74%;\">\n</colgroup>\n<thead><tr>\n<th>選択肢</th>\n<th>内容</th>\n</tr></thead>\n<tbody>\n<tr>\n<td><strong>そのまま引き継ぐ</strong></td>\n<td>転送元URLのクエリパラメータを、そのまま転送先URLに引き継ぎます。（デフォルト）</td>\n</tr>\n<tr>\n<td><strong>引き継がない（削除する）</strong></td>\n<td>転送元URLに付与されているクエリパラメータを削除し、転送先URLにはクエリパラメータを付けません。</td>\n</tr>\n<tr>\n<td><strong>別のパラメータに変更する</strong></td>\n<td>転送先URLに付与するクエリパラメータを任意に指定できます。「key=value&amp;key2=value2」の形式で入力してください。</td>\n</tr>\n</tbody>\n</table></figure><h4 id=\"h_01KKFQ84SDTQ6W7EGNSH62ZBS5\">ステータスコード</h4><p>リダイレクトの種類を選択します。</p><figure class=\"wysiwyg-table\" style=\"width: 100%;\"><table class=\"wysiwyg-table-resized\">\n<colgroup>\n<col style=\"width: 26%;\">\n<col style=\"width: 74%;\">\n</colgroup>\n<thead><tr>\n<th>選択肢</th>\n<th>内容</th>\n</tr></thead>\n<tbody>\n<tr>\n<td><strong>301（恒久的なリダイレクト）</strong></td>\n<td>URLが永久に変更されたことを示します。<br>検索エンジンに対して、新しいURLへ評価を移行するよう伝えます。通常はこちらを選択してください。</td>\n</tr>\n<tr>\n<td><strong>302（一時的なリダイレクト）    </strong></td>\n<td>URLが一時的に変更されていることを示します。<br>将来的に元のURLに戻す予定がある場合に選択してください。</td>\n</tr>\n</tbody>\n</table></figure><h3 id=\"h_01KKB9Q67Y9R51CBPNX2QXF8DR\">リダイレクトを編集する</h3><ol>\n<li data-list-item-id=\"ebae4296db1409e587b1f9e779f81ae96\">リダイレクト設定画面のルール一覧で、編集したいルールの「…」メニューをクリックします</li>\n<li data-list-item-id=\"ec2f33b819f31f16f611ebb2e3465bbf1\">「編集」を選択します</li>\n<li data-list-item-id=\"e4d50f2b24cde909f3f728f348020c215\">モーダル画面で設定を変更し、「保存」ボタンをクリックします</li>\n</ol><p>注意： 転送元のパスは編集できません。転送元のパスを変更したい場合は、既存のルールを削除して新しいルールを作成してください。</p><h3 id=\"h_01KKB9RWC88VX62BQF2HD64WJ4\">リダイレクトを削除する</h3><ol>\n<li data-list-item-id=\"e59651296c114d4319f0d28a7a28e19fe\">リダイレクト設定画面のルール一覧で、削除したいルールの「…」メニューをクリックします</li>\n<li data-list-item-id=\"e04232bfeeed9b41009766e6569fc2e99\">「削除」を選択します</li>\n<li data-list-item-id=\"ea8a7b6e6842616ac8055453fa73bfacc\">確認ダイアログが表示されるので、「OK」をクリックします</li>\n</ol><h2 id=\"h_01KKB9SS00P25T3W5QJS32EDWJ\">ご注意</h2><ul>\n<li data-list-item-id=\"ef8db9dfad271c299aa9297336c8732ff\">現在公開中のURLを転送元に設定しても、記事が優先して表示され、リダイレクトは行われません。リダイレクトを有効にするには、対象の記事またはページを非公開にするか削除してください。</li>\n<li data-list-item-id=\"e6705a8e31b489d54b96ddf05016618c0\">サブディレクトリオプションをご利用の場合、パスの指定にはサブディレクトリを含めたパスを使用してください。</li>\n</ul>",
+    "user_segment_ids": []
+  }
+}
