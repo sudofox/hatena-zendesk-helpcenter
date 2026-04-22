@@ -12,18 +12,18 @@
     "vote_count": 2,
     "section_id": 360007820312,
     "created_at": "2020-02-24T07:55:31Z",
-    "updated_at": "2024-11-18T02:11:30Z",
+    "updated_at": "2026-04-22T01:27:43Z",
     "name": "What is the source IP address for Webhook and other services’ alert notifications from Mackerel?",
     "title": "What is the source IP address for Webhook and other services’ alert notifications from Mackerel?",
     "source_locale": "ja",
     "locale": "en-us",
     "outdated": false,
     "outdated_locales": [],
-    "edited_at": "2024-11-18T02:11:05Z",
+    "edited_at": "2026-04-22T01:27:25Z",
     "user_segment_id": null,
     "permission_group_id": 1305651,
     "content_tag_ids": [],
     "label_names": [],
-    "body": "<p>Below is the range of source IP addresses for notification requests from Mackerel. In the event of a change, an announcement will be made in advance.</p>\n<ul>\n<li><code>52.193.111.118/32</code></li>\n<li><code>52.196.125.133/32</code></li>\n<li><code>13.113.213.40/32</code></li>\n<li><code>52.197.186.229/32</code></li>\n<li><code>52.198.79.40/32</code></li>\n<li><code>13.114.12.29/32</code></li>\n<li><code>13.113.240.89/32</code></li>\n<li><code>52.68.245.9/32</code></li>\n<li><code>13.112.142.176/32</code></li>\n<li>See the following page for destination IP addresses for requests from mackerel-agent.\n<ul>\n<li><a href=\"https://support.mackerel.io/hc/en-us/articles/360039633271\">What is Mackerel's IP address and port number?</a></li>\n</ul>\n</li>\n<li>It is also possible to obtain it in JSON format. For more information, please see the following page.\n<ul>\n<li><a href=\"https://mackerel.io/docs/entry/spec/metadata#IP-address-ranges\">IP address ranges</a></li>\n</ul>\n</li>\n</ul>\n<h1>Records</h1>\n<ul>\n<li>Established on May 8, 2014</li>\n<li>Amended on Aug 21, 2017</li>\n</ul>\n"
+    "body": "<ul>\n<li>Below is the range of source IP addresses for notification requests from Mackerel. In the event of a change, an announcement will be made in advance.\n<ul>\n<li><code>52.193.111.118/32</code></li>\n<li><code>52.196.125.133/32</code></li>\n<li><code>13.113.213.40/32</code></li>\n<li><code>52.197.186.229/32</code></li>\n<li><code>52.198.79.40/32</code></li>\n<li><code>13.114.12.29/32</code></li>\n<li><code>13.113.240.89/32</code></li>\n<li><code>52.68.245.9/32</code></li>\n<li><code>13.112.142.176/32</code></li>\n<li><code>2406:da14:f83:2600::/56</code></li>\n</ul>\n</li>\n<li>See the following page for destination IP addresses for requests from mackerel-agent.\n<ul>\n<li><a href=\"https://support.mackerel.io/hc/en-us/articles/360039633271\">What is Mackerel's IP address and port number?</a></li>\n</ul>\n</li>\n<li>It is also possible to obtain it in JSON format. For more information, please see the following page.\n<ul>\n<li><a href=\"https://mackerel.io/docs/entry/spec/metadata#IP-address-ranges\">IP address ranges</a></li>\n</ul>\n</li>\n</ul>\n<h1>Records</h1>\n<ul>\n<li>Established on May 8, 2014</li>\n<li>Amended on Aug 21, 2017</li>\n<li>Amended on Apr 22, 2026</li>\n</ul>\n"
   }
 }
