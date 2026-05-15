@@ -8,11 +8,11 @@
     "draft": false,
     "promoted": false,
     "position": 2,
-    "vote_sum": 5,
-    "vote_count": 11,
+    "vote_sum": 13,
+    "vote_count": 19,
     "section_id": 900000342163,
     "created_at": "2021-01-12T06:16:04Z",
-    "updated_at": "2024-02-20T03:25:09Z",
+    "updated_at": "2026-05-15T10:55:41Z",
     "name": "【はてなブログ】Amazonや楽天以外のアフィリエイトサービス（ASP）を利用できますか？",
     "title": "【はてなブログ】Amazonや楽天以外のアフィリエイトサービス（ASP）を利用できますか？",
     "source_locale": "ja",
@@ -26,6 +26,7 @@
     "label_names": [
       "アフェリエイト"
     ],
-    "body": "<p>はてなブログではAmazonや楽天に限らず、各種アフィリエイトサービスをご利用いただけます。</p>\n<p>なお、アフィリエイト広告を掲載される場合「<a href=\"https://help.hatenablog.com/entry/commercial-guidelines\" target=\"_blank\" rel=\"noopener noreferrer\">はてなブログ個人営利利用ガイドライン（2019年10月1日施行）</a>」が適用されます。</p>\n<p>アフィリエイト広告を掲載なさる前に、ガイドラインをご確認いただき、禁止事項に該当するようなご利用をされぬように、ご利用方法には十分ご注意いただきますようお願い申し上げます。</p>"
+    "body": "<p>はてなブログではAmazonや楽天に限らず、各種アフィリエイトサービスをご利用いただけます。</p>\n<p>なお、アフィリエイト広告を掲載される場合「<a href=\"https://help.hatenablog.com/entry/commercial-guidelines\" target=\"_blank\" rel=\"noopener noreferrer\">はてなブログ個人営利利用ガイドライン（2019年10月1日施行）</a>」が適用されます。</p>\n<p>アフィリエイト広告を掲載なさる前に、ガイドラインをご確認いただき、禁止事項に該当するようなご利用をされぬように、ご利用方法には十分ご注意いただきますようお願い申し上げます。</p>",
+    "user_segment_ids": []
   }
 }
