@@ -8,11 +8,11 @@
     "draft": false,
     "promoted": false,
     "position": 1,
-    "vote_sum": 179,
-    "vote_count": 193,
+    "vote_sum": 309,
+    "vote_count": 337,
     "section_id": 900000342263,
     "created_at": "2020-09-14T03:14:58Z",
-    "updated_at": "2024-04-29T17:17:47Z",
+    "updated_at": "2026-05-15T03:09:11Z",
     "name": "はてな市民制度について",
     "title": "はてな市民制度について",
     "source_locale": "ja",
@@ -24,6 +24,7 @@
     "permission_group_id": 972311,
     "content_tag_ids": [],
     "label_names": [],
-    "body": "<p><img title=\"はてなをたくさん使うと「プラチナ」「金」「銀」「銅」の市民メダルが貰えます！\" src=\"https://www.hatena.ne.jp/images/info/helpcitizen_img.gif\" alt=\"はてなをたくさん使うと「プラチナ」「金」「銀」「銅」の市民メダルが貰えます！\"></p>\n<div class=\"section\">\n<h3>はてな市民とは</h3>\n<p>はてなにユーザー登録した日から本日までの日付で、対応サービスを合計7日分以上利用すると自動的にはてな市民となり、各サービスのプロフィールページなどに市民メダル <img src=\"https://www.hatena.ne.jp/images/medal-diary-1.gif\"> が表示されます。</p>\n<p>サービスの利用日数によってメダルの色は以下のように変化します。</p>\n<ul class=\"medal-list\">\n<li>\n<img src=\"https://www.hatena.ne.jp/images/medal-diary-1.gif\">（銅/7日）→ <img src=\"https://www.hatena.ne.jp/images/medal-diary-2.gif\">（銀/100日）→ <img src=\"https://www.hatena.ne.jp/images/medal-diary-3.gif\">（金/300日）→ <img src=\"https://www.hatena.ne.jp/images/medal-diary-4.gif\">（プラチナ/1000日）</li>\n</ul>\n<p>現在、「<a href=\"https://hatenablog.com/\">はてなブログ <img src=\"https://www.hatena.ne.jp/images/medal-blog-1.gif\"></a>」「<a href=\"http://f.hatena.ne.jp/\">はてなフォトライフ <img src=\"https://www.hatena.ne.jp/images/medal-fotolife-1.gif\"></a>」ではてな市民制度に対応しており、サービスごとに異なる種類の市民メダルを提供しています。</p>\n<p>ぜひはてなを長くお使いいただき、たくさんのメダルを集めてみてください。</p>\n</div>\n<div class=\"section\">\n<h3>カラースターのプレゼント</h3>\n<p>はてな市民になると、市民メダルの種類に応じてはてなカラースターをプレゼントしています。</p>\n<p>プレゼントの内容については、<a href=\"https://www.hatena.ne.jp/shop/star/help\">こちらのページ</a>をご覧ください</p>\n</div>\n<div class=\"section\">\n<h3>ご注意</h3>\n<ul>\n<li>最後にそのサービスを利用した日から30日以上更新がない場合、市民権は一時的に無効となります。再度記事を投稿することで、市民権を復帰することが可能です。</li>\n<li>サービス利用の実態のない市民権取得行為が明らかになった場合や、はてなの利用規約やヘルプ、各種ガイドラインなどに違反した場合は、市民権を停止する場合があります。</li>\n</ul>\n</div>"
+    "body": "<p><img title=\"はてなをたくさん使うと「プラチナ」「金」「銀」「銅」の市民メダルが貰えます！\" src=\"https://www.hatena.ne.jp/images/info/helpcitizen_img.gif\" alt=\"はてなをたくさん使うと「プラチナ」「金」「銀」「銅」の市民メダルが貰えます！\"></p>\n<div class=\"section\">\n<h3>はてな市民とは</h3>\n<p>はてなにユーザー登録した日から本日までの日付で、対応サービスを合計7日分以上利用すると自動的にはてな市民となり、各サービスのプロフィールページなどに市民メダル <img src=\"https://www.hatena.ne.jp/images/medal-diary-1.gif\"> が表示されます。</p>\n<p>サービスの利用日数によってメダルの色は以下のように変化します。</p>\n<ul class=\"medal-list\">\n<li>\n<img src=\"https://www.hatena.ne.jp/images/medal-diary-1.gif\">（銅/7日）→ <img src=\"https://www.hatena.ne.jp/images/medal-diary-2.gif\">（銀/100日）→ <img src=\"https://www.hatena.ne.jp/images/medal-diary-3.gif\">（金/300日）→ <img src=\"https://www.hatena.ne.jp/images/medal-diary-4.gif\">（プラチナ/1000日）</li>\n</ul>\n<p>現在、「<a href=\"https://hatenablog.com/\">はてなブログ <img src=\"https://www.hatena.ne.jp/images/medal-blog-1.gif\"></a>」「<a href=\"http://f.hatena.ne.jp/\">はてなフォトライフ <img src=\"https://www.hatena.ne.jp/images/medal-fotolife-1.gif\"></a>」ではてな市民制度に対応しており、サービスごとに異なる種類の市民メダルを提供しています。</p>\n<p>ぜひはてなを長くお使いいただき、たくさんのメダルを集めてみてください。</p>\n</div>\n<div class=\"section\">\n<h3>カラースターのプレゼント</h3>\n<p>はてな市民になると、市民メダルの種類に応じてはてなカラースターをプレゼントしています。</p>\n<p>プレゼントの内容については、<a href=\"https://www.hatena.ne.jp/shop/star/help\">こちらのページ</a>をご覧ください</p>\n</div>\n<div class=\"section\">\n<h3>ご注意</h3>\n<ul>\n<li>最後にそのサービスを利用した日から30日以上更新がない場合、市民権は一時的に無効となります。再度記事を投稿することで、市民権を復帰することが可能です。</li>\n<li>サービス利用の実態のない市民権取得行為が明らかになった場合や、はてなの利用規約やヘルプ、各種ガイドラインなどに違反した場合は、市民権を停止する場合があります。</li>\n</ul>\n</div>",
+    "user_segment_ids": []
   }
 }
