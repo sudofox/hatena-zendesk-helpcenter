@@ -8,11 +8,11 @@
     "draft": false,
     "promoted": false,
     "position": 0,
-    "vote_sum": 8,
-    "vote_count": 10,
+    "vote_sum": 61,
+    "vote_count": 69,
     "section_id": 900000475543,
     "created_at": "2022-09-16T03:34:36Z",
-    "updated_at": "2023-12-16T11:21:42Z",
+    "updated_at": "2026-05-17T14:34:31Z",
     "name": "【はてなブログ】無料版と有料プランの違いってなんですか？",
     "title": "【はてなブログ】無料版と有料プランの違いってなんですか？",
     "source_locale": "ja",
@@ -24,6 +24,7 @@
     "permission_group_id": 972311,
     "content_tag_ids": [],
     "label_names": [],
-    "body": "<p>はてなブログは基本的な機能を無料で利用することができます。</p>\n<p>有料プラン「<a href=\"https://hatenablog.com/guide/pro\" target=\"_blank\" rel=\"noopener noreferrer\">はてなブログPro</a>」は、無料で利用できる基本的な機能に対し、下記のような機能を追加することができる有料オプションとなります。</p>\n<ul>\n<li>はてなによる広告の非表示設定</li>\n<li>独自ドメインの利用</li>\n<li>写真のアップロード容量の増加</li>\n<li>合計10個までの複数ブログが所有可能　など</li>\n</ul>\n<p>その他の機能については、<a href=\"https://hatenablog.com/guide/pro\" target=\"_blank\" rel=\"noopener noreferrer\">はてなブログPro</a>の「無料版との機能比較表」をご確認ください。</p>"
+    "body": "<p>はてなブログは基本的な機能を無料で利用することができます。</p>\n<p>有料プラン「<a href=\"https://hatenablog.com/guide/pro\" target=\"_blank\" rel=\"noopener noreferrer\">はてなブログPro</a>」は、無料で利用できる基本的な機能に対し、下記のような機能を追加することができる有料オプションとなります。</p>\n<ul>\n<li>はてなによる広告の非表示設定</li>\n<li>独自ドメインの利用</li>\n<li>写真のアップロード容量の増加</li>\n<li>合計10個までの複数ブログが所有可能　など</li>\n</ul>\n<p>その他の機能については、<a href=\"https://hatenablog.com/guide/pro\" target=\"_blank\" rel=\"noopener noreferrer\">はてなブログPro</a>の「無料版との機能比較表」をご確認ください。</p>",
+    "user_segment_ids": []
   }
 }
