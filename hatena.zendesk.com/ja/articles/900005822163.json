@@ -8,11 +8,11 @@
     "draft": false,
     "promoted": false,
     "position": 0,
-    "vote_sum": 112,
-    "vote_count": 118,
+    "vote_sum": 174,
+    "vote_count": 188,
     "section_id": 900000475543,
     "created_at": "2021-03-10T08:40:43Z",
-    "updated_at": "2024-04-30T22:16:47Z",
+    "updated_at": "2026-05-17T06:17:05Z",
     "name": "【はてなブログ】「購読リスト」とありますが有料でしょうか",
     "title": "【はてなブログ】「購読リスト」とありますが有料でしょうか",
     "source_locale": "ja",
@@ -27,6 +27,7 @@
       "読者",
       "購読"
     ],
-    "body": "<p>「購読リスト」は無料の機能です。読者になったブログが更新されると「購読リスト」にあがってきますので、ブログの更新チェックにご利用ください。こちらの機能の詳細を確認したい場合、はてなブログヘルプ「<a href=\"https://help.hatenablog.com/entry/reading/subscribe\" target=\"_blank\" rel=\"noopener noreferrer\">読者機能で更新をチェックする</a>」をご確認ください。</p>"
+    "body": "<p>「購読リスト」は無料の機能です。読者になったブログが更新されると「購読リスト」にあがってきますので、ブログの更新チェックにご利用ください。こちらの機能の詳細を確認したい場合、はてなブログヘルプ「<a href=\"https://help.hatenablog.com/entry/reading/subscribe\" target=\"_blank\" rel=\"noopener noreferrer\">読者機能で更新をチェックする</a>」をご確認ください。</p>",
+    "user_segment_ids": []
   }
 }
