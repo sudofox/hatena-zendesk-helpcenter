@@ -8,11 +8,11 @@
     "draft": false,
     "promoted": false,
     "position": 2,
-    "vote_sum": -21,
-    "vote_count": 39,
+    "vote_sum": -51,
+    "vote_count": 93,
     "section_id": 900000347206,
     "created_at": "2021-04-23T03:05:54Z",
-    "updated_at": "2024-04-21T16:54:10Z",
+    "updated_at": "2026-05-21T23:51:08Z",
     "name": "【はてなブックマーク】［動画あり］ブックマークレットを使ってブラウザから簡単にはてなブックマークする方法",
     "title": "【はてなブックマーク】［動画あり］ブックマークレットを使ってブラウザから簡単にはてなブックマークする方法",
     "source_locale": "ja",
@@ -24,6 +24,7 @@
     "permission_group_id": 972311,
     "content_tag_ids": [],
     "label_names": [],
-    "body": "<p>ご利用のブラウザでブックマークレットを登録することで、ブックマークボタンのないページでも簡単にブックマークできます。</p>\n<p>ブックマークレットとは、現在みているページをはてなブックマークに追加するときに使う、便利なポップアップ画面です。詳しい方法については、以下をご覧ください。</p>\n<h2 id=\"h_01HD61X2BA2VQWS1WKS8RFTJFP\">Firefox にブックマークレットを設定する</h2>\n<p>1. 以下の文字列をコピーします</p>\n<pre>javascript:(function(){var%20d=(new%20Date);var%20s=document.createElement('script');s.charset='UTF-8';s.src='https://b.hatena.ne.jp/js/Hatena/Bookmark/let.js?'+d.getFullYear()+d.getMonth()+d.getDate();(document.getElementsByTagName('head')[0]||document.body).appendChild(s);})();</pre>\n<p>2. Firefox のメニューバーにて、ブックマーク &gt; すべてのブックマーク を表示します<br>3. ブックマークツールバーを開き、歯車アイコンもしくは右クリックで「ブックマークを追加」を選択します<br>4. 「名前」にブックマークレット名、「URL」に手順1の文字列を貼り付けて「保存」をクリックします<br>5. はてなブックマークしたいページを開き、ブックマークバーに表示されたブックマークレットをクリックします<br>6. ブックマークを追加するページが開くので、コメントやタグを入力のうえ「ブックマーク」ボタンをクリックします</p>\n<h3 id=\"h_01HD61X2BA9M2XZ7HV7PB3TN2P\">動画で手順を見る</h3>\n<p><iframe src=\"//www.youtube-nocookie.com/embed/SeM4FCk3Gz0?rel=0\" width=\"100%\" height=\"315\" frameborder=\"0\" allowfullscreen=\"\"></iframe></p>\n<p> </p>\n<h2 id=\"h_01HD61X2BAN2Z4TNC1A0XNWDSN\">Chrome にブックマークレットを設定する</h2>\n<p>1. 以下の文字列をコピーします</p>\n<pre>javascript:(function(){var%20d=(new%20Date);var%20s=document.createElement('script');s.charset='UTF-8';s.src='https://b.hatena.ne.jp/js/Hatena/Bookmark/let.js?'+d.getFullYear()+d.getMonth()+d.getDate();(document.getElementsByTagName('head')[0]||document.body).appendChild(s);})();</pre>\n<p>2. ご利用のブラウザで任意のページをブラウザブックマーク（お気に入り）します</p>\n<p>3. わかりやすい名前に変更し「その他...」をクリックします</p>\n<p>注：ブックマーク編集のポップアップが閉じてしまった場合にはブラウザブックマークの★アイコンをクリックして表示させてください</p>\n<p>4. URLの欄に、1でコピーした文字列を貼り付けて「保存」をクリックします</p>\n<p>5. はてなブックマークしたいページを開き、ブックマークバーに表示されたブックマークレットをクリックします</p>\n<p>6. ブックマークを追加するページが開くので、コメントやタグを入力のうえ「ブックマーク」ボタンをクリックします</p>\n<h3 id=\"h_01HD61X2BAYKA6BKQFAV1ZX2KJ\">動画で手順を見る</h3>\n<p><iframe src=\"https://www.youtube.com/embed/f5Ozz6LT6BM?rel=0\" width=\"100%\" height=\"315\" frameborder=\"0\" allowfullscreen=\"\"></iframe></p>\n<p> </p>"
+    "body": "<p>ご利用のブラウザでブックマークレットを登録することで、ブックマークボタンのないページでも簡単にブックマークできます。</p>\n<p>ブックマークレットとは、現在みているページをはてなブックマークに追加するときに使う、便利なポップアップ画面です。詳しい方法については、以下をご覧ください。</p>\n<h2 id=\"h_01HD61X2BA2VQWS1WKS8RFTJFP\">Firefox にブックマークレットを設定する</h2>\n<p>1. 以下の文字列をコピーします</p>\n<pre>javascript:(function(){var%20d=(new%20Date);var%20s=document.createElement('script');s.charset='UTF-8';s.src='https://b.hatena.ne.jp/js/Hatena/Bookmark/let.js?'+d.getFullYear()+d.getMonth()+d.getDate();(document.getElementsByTagName('head')[0]||document.body).appendChild(s);})();</pre>\n<p>2. Firefox のメニューバーにて、ブックマーク &gt; すべてのブックマーク を表示します<br>3. ブックマークツールバーを開き、歯車アイコンもしくは右クリックで「ブックマークを追加」を選択します<br>4. 「名前」にブックマークレット名、「URL」に手順1の文字列を貼り付けて「保存」をクリックします<br>5. はてなブックマークしたいページを開き、ブックマークバーに表示されたブックマークレットをクリックします<br>6. ブックマークを追加するページが開くので、コメントやタグを入力のうえ「ブックマーク」ボタンをクリックします</p>\n<h3 id=\"h_01HD61X2BA9M2XZ7HV7PB3TN2P\">動画で手順を見る</h3>\n<p><iframe src=\"//www.youtube-nocookie.com/embed/SeM4FCk3Gz0?rel=0\" width=\"100%\" height=\"315\" frameborder=\"0\" allowfullscreen=\"\"></iframe></p>\n<p> </p>\n<h2 id=\"h_01HD61X2BAN2Z4TNC1A0XNWDSN\">Chrome にブックマークレットを設定する</h2>\n<p>1. 以下の文字列をコピーします</p>\n<pre>javascript:(function(){var%20d=(new%20Date);var%20s=document.createElement('script');s.charset='UTF-8';s.src='https://b.hatena.ne.jp/js/Hatena/Bookmark/let.js?'+d.getFullYear()+d.getMonth()+d.getDate();(document.getElementsByTagName('head')[0]||document.body).appendChild(s);})();</pre>\n<p>2. ご利用のブラウザで任意のページをブラウザブックマーク（お気に入り）します</p>\n<p>3. わかりやすい名前に変更し「その他...」をクリックします</p>\n<p>注：ブックマーク編集のポップアップが閉じてしまった場合にはブラウザブックマークの★アイコンをクリックして表示させてください</p>\n<p>4. URLの欄に、1でコピーした文字列を貼り付けて「保存」をクリックします</p>\n<p>5. はてなブックマークしたいページを開き、ブックマークバーに表示されたブックマークレットをクリックします</p>\n<p>6. ブックマークを追加するページが開くので、コメントやタグを入力のうえ「ブックマーク」ボタンをクリックします</p>\n<h3 id=\"h_01HD61X2BAYKA6BKQFAV1ZX2KJ\">動画で手順を見る</h3>\n<p><iframe src=\"https://www.youtube.com/embed/f5Ozz6LT6BM?rel=0\" width=\"100%\" height=\"315\" frameborder=\"0\" allowfullscreen=\"\"></iframe></p>\n<p> </p>",
+    "user_segment_ids": []
   }
 }
