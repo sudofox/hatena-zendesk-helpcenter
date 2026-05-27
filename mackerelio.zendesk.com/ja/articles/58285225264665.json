@@ -1,0 +1,29 @@
+{
+  "article": {
+    "id": 58285225264665,
+    "url": "https://mackerelio.zendesk.com/api/v2/help_center/ja/articles/58285225264665.json",
+    "html_url": "https://support.mackerel.io/hc/ja/articles/58285225264665",
+    "author_id": 1900158221828,
+    "comments_disabled": false,
+    "draft": false,
+    "promoted": false,
+    "position": 0,
+    "vote_sum": 0,
+    "vote_count": 0,
+    "section_id": 360008120511,
+    "created_at": "2026-05-26T02:12:15Z",
+    "updated_at": "2026-05-27T07:35:40Z",
+    "name": "Failed to post metrics valueというエラーが発生した",
+    "title": "Failed to post metrics valueというエラーが発生した",
+    "source_locale": "ja",
+    "locale": "ja",
+    "outdated": false,
+    "outdated_locales": [],
+    "edited_at": "2026-05-27T07:35:39Z",
+    "user_segment_id": null,
+    "permission_group_id": 1305651,
+    "content_tag_ids": [],
+    "label_names": [],
+    "body": "<p>エージェントがMackerelへのメトリック投稿に失敗した際に、以下のエラーメッセージがログに出力されます。</p><pre class=\"wysiwyg-code-block\"><code class=\"language-auto\">Failed to post metrics value (will retry): 原因\n</code></pre><h2 id=\"h_01KSM5RBH87NA1Y5VSBB02RJPW\">原因</h2><p>具体的なエラーの原因は、エラーメッセージの後半部分に記載されています。</p><p>よくあるケースとして、ネットワークが一時的に不安定な状況となり、タイムアウトが発生した可能性が考えられます。</p><h2 id=\"h_01KSM5RBH8S05SQ5THZPRPJ77Z\">対処方法</h2><p>エラーの発生が一時的であれば対処は不要です。投稿に失敗したメトリックはエージェントにバッファリングされ、その後も自動的に投稿をリトライします。</p><p>現在も継続してエラーが発生している場合は対処が必要です。エラーメッセージの内容およびMackerelとの通信が正常におこなえるかを確認してください。</p><h3 id=\"h_01KSM5RBH85D4TVFG8MA6A2JBV\">参考</h3><ul>\n<li data-list-item-id=\"ebb81ef3b8758e0b9a6d06548644add89\">\n<a href=\"https://support.mackerel.io/hc/ja/articles/360039633271\">サービスがホストされているIPアドレスとポート番号を教えて下さい</a>に記載のIPアドレスに対して、443番ポートの通信がおこなえるか。</li>\n<li data-list-item-id=\"e0f9927bde533a7f2e9e70f3bb35c512d\">\n<a href=\"https://mackerel.io/ja/docs/entry/spec/agent#config-file-proxy\">プロキシサーバー</a>を利用している場合は、プロキシサーバーの動作に問題がないか。</li>\n</ul>"
+  }
+}
