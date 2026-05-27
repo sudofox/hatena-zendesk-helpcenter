@@ -1,0 +1,29 @@
+{
+  "article": {
+    "id": 58285225264665,
+    "url": "https://mackerelio.zendesk.com/api/v2/help_center/en-us/articles/58285225264665.json",
+    "html_url": "https://support.mackerel.io/hc/en-us/articles/58285225264665-Failed-to-post-metrics-value-error-occurred",
+    "author_id": 1900158221828,
+    "comments_disabled": false,
+    "draft": false,
+    "promoted": false,
+    "position": 0,
+    "vote_sum": 0,
+    "vote_count": 0,
+    "section_id": 360008120511,
+    "created_at": "2026-05-26T02:12:15Z",
+    "updated_at": "2026-05-27T07:42:34Z",
+    "name": "Failed to post metrics value error occurred",
+    "title": "Failed to post metrics value error occurred",
+    "source_locale": "ja",
+    "locale": "en-us",
+    "outdated": false,
+    "outdated_locales": [],
+    "edited_at": "2026-05-27T07:38:09Z",
+    "user_segment_id": null,
+    "permission_group_id": 1305651,
+    "content_tag_ids": [],
+    "label_names": [],
+    "body": "<p>When the agent fails to post metrics to Mackerel, the following error message is output to the log.</p>\n<pre><code>Failed to post metrics value (will retry): &lt;reason&gt;\n</code></pre>\n<h2>Cause</h2>\n<p>The specific cause of the error is described in the latter part of the error message.</p>\n<p>A common scenario is that the network became temporarily unstable, resulting in a timeout.</p>\n<h2>Action Required</h2>\n<p>If the error is temporary, no action is required. Metrics that failed to post will be buffered by the agent and automatically retried.</p>\n<p>If the error persists, action is required. Please check the error message content and whether communication with Mackerel can be performed normally.</p>\n<h3>Reference</h3>\n<ul>\n<li>Check connectivity on port 443 to the IP addresses listed in <a href=\"https://support.mackerel.io/hc/en-us/articles/360039633271\">What is Mackerel's IP address and port number?</a>.</li>\n<li>If you are using a <a href=\"https://mackerel.io/docs/entry/spec/agent#config-file-proxy\">proxy server</a>, verify that it is operating correctly.</li>\n</ul>\n"
+  }
+}
