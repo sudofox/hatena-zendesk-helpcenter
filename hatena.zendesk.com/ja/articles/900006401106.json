@@ -8,11 +8,11 @@
     "draft": false,
     "promoted": false,
     "position": 0,
-    "vote_sum": 5,
-    "vote_count": 31,
+    "vote_sum": -1,
+    "vote_count": 43,
     "section_id": 900000342163,
     "created_at": "2021-05-26T06:16:51Z",
-    "updated_at": "2023-11-10T22:14:48Z",
+    "updated_at": "2026-06-03T05:26:16Z",
     "name": "【はてなブログ】アクセス解析が動いていません",
     "title": "【はてなブログ】アクセス解析が動いていません",
     "source_locale": "ja",
@@ -26,6 +26,7 @@
     "label_names": [
       "アクセス解析"
     ],
-    "body": "<p>はてなブログ管理画面にあるアクセス解析機能では、ログイン状態の管理者自身のアクセスはなるべくカウントされない仕様となっております。</p>\n<p>アクセス解析が動作しているかご確認いただきたい場合には、はてなからログアウトした状態でご自身のはてなブログにアクセスいただき、その後数値をご参照ください。</p>\n<p><br>＜はてなブログの管理画面の「アクセス解析」ページについて＞<br><a href=\"https://help.hatenablog.com/entry/setting/accesslog\" target=\"_self\">https://help.hatenablog.com/entry/setting/accesslog</a></p>\n<p><br>また、アクセス解析の数値につきましては、簡易的な機能としての提供を行っているため、より詳細な解析を希望される場合はGoogle Analytics のご利用をご検討ください。</p>\n<p><br>＜Google Analyticsを導入する - はてなブログ ヘルプ＞<br><a href=\"https://help.hatenablog.com/entry/external/google_analytics\" target=\"_self\">https://help.hatenablog.com/entry/external/google_analytics</a></p>"
+    "body": "<p>はてなブログ管理画面にあるアクセス解析機能では、ログイン状態の管理者自身のアクセスはなるべくカウントされない仕様となっております。</p>\n<p>アクセス解析が動作しているかご確認いただきたい場合には、はてなからログアウトした状態でご自身のはてなブログにアクセスいただき、その後数値をご参照ください。</p>\n<p><br>＜はてなブログの管理画面の「アクセス解析」ページについて＞<br><a href=\"https://help.hatenablog.com/entry/setting/accesslog\" target=\"_self\">https://help.hatenablog.com/entry/setting/accesslog</a></p>\n<p><br>また、アクセス解析の数値につきましては、簡易的な機能としての提供を行っているため、より詳細な解析を希望される場合はGoogle Analytics のご利用をご検討ください。</p>\n<p><br>＜Google Analyticsを導入する - はてなブログ ヘルプ＞<br><a href=\"https://help.hatenablog.com/entry/external/google_analytics\" target=\"_self\">https://help.hatenablog.com/entry/external/google_analytics</a></p>",
+    "user_segment_ids": []
   }
 }
