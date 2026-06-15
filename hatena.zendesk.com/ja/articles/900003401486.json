@@ -8,11 +8,11 @@
     "draft": false,
     "promoted": false,
     "position": 4,
-    "vote_sum": 17,
-    "vote_count": 19,
+    "vote_sum": 31,
+    "vote_count": 41,
     "section_id": 7062791075865,
     "created_at": "2020-11-05T07:46:17Z",
-    "updated_at": "2024-04-09T10:33:24Z",
+    "updated_at": "2026-06-15T05:28:34Z",
     "name": "【はてなブログ】好きな曲の歌詞を掲載して良いですか？",
     "title": "【はてなブログ】好きな曲の歌詞を掲載して良いですか？",
     "source_locale": "ja",
@@ -26,6 +26,7 @@
     "label_names": [
       "JASRAC"
     ],
-    "body": "<p>はてなは<a href=\"https://www.jasrac.or.jp/\" rel=\"noreferrer\">一般社団法人日本音楽著作権協会</a>（以下JASRAC）と契約楽曲の包括的利用許諾契約を結んでいるため、ブログ記事に歌詞を掲載していただくことができます。<br>対象となる歌詞はJASRACの管理楽曲のみとなります。JASRACの管理していない楽曲については本契約にて掲載が許諾されません。楽曲の著作者または著作権管理者を確認し、直接許諾を得て掲載してください。<br>JASRACの管理楽曲は、下記サイトにて検索が可能です。<a href=\"http://www2.jasrac.or.jp/eJwid/\" target=\"_blank\" rel=\"noopener noreferrer\">http://www2.jasrac.or.jp/eJwid/</a><br><br>また、以下は禁止事項となります。</p>\n<ol dir=\"auto\">\n<li>商用目的のブログ（個人営利利用ブログ）への掲載、利用</li>\n<li>著作者に無断での改変（替え歌など）や翻訳といった、著作者人格権を侵害する態様での利用</li>\n<li>転載された歌詞を主体として構成されているブログ、歌詞集、歌詞検索サイトとしての利用</li>\n<li>一旦はてなブログに掲載した歌詞を、さらにはてなブログ外のサービスに転載しての利用</li>\n</ol>\n<p>楽曲の利用についてわからないことがある場合は、JASRACまでお問い合わせください。<a href=\"https://www.jasrac.or.jp/smt/news/20/200410.html\" target=\"_self\">→お問い合わせ窓口</a></p>"
+    "body": "<p>はてなは<a href=\"https://www.jasrac.or.jp/\" rel=\"noreferrer\">一般社団法人日本音楽著作権協会</a>（以下JASRAC）と契約楽曲の包括的利用許諾契約を結んでいるため、ブログ記事に歌詞を掲載していただくことができます。<br>対象となる歌詞はJASRACの管理楽曲のみとなります。JASRACの管理していない楽曲については本契約にて掲載が許諾されません。楽曲の著作者または著作権管理者を確認し、直接許諾を得て掲載してください。<br>JASRACの管理楽曲は、下記サイトにて検索が可能です。<a href=\"http://www2.jasrac.or.jp/eJwid/\" target=\"_blank\" rel=\"noopener noreferrer\">http://www2.jasrac.or.jp/eJwid/</a><br><br>また、以下は禁止事項となります。</p>\n<ol dir=\"auto\">\n<li>商用目的のブログ（個人営利利用ブログ）への掲載、利用</li>\n<li>著作者に無断での改変（替え歌など）や翻訳といった、著作者人格権を侵害する態様での利用</li>\n<li>転載された歌詞を主体として構成されているブログ、歌詞集、歌詞検索サイトとしての利用</li>\n<li>一旦はてなブログに掲載した歌詞を、さらにはてなブログ外のサービスに転載しての利用</li>\n</ol>\n<p>楽曲の利用についてわからないことがある場合は、JASRACまでお問い合わせください。<a href=\"https://www.jasrac.or.jp/smt/news/20/200410.html\" target=\"_self\">→お問い合わせ窓口</a></p>",
+    "user_segment_ids": []
   }
 }
