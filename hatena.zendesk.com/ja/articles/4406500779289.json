@@ -8,11 +8,11 @@
     "draft": false,
     "promoted": false,
     "position": 6,
-    "vote_sum": -8,
-    "vote_count": 12,
+    "vote_sum": -6,
+    "vote_count": 18,
     "section_id": 900000347206,
     "created_at": "2021-09-15T10:04:38Z",
-    "updated_at": "2023-11-24T03:33:30Z",
+    "updated_at": "2026-06-29T01:05:19Z",
     "name": "【はてなブックマーク】ブックマークすると、違うURLのブックマークになったり、違うURLにブックマークコメントが表示される（canonical設定）",
     "title": "【はてなブックマーク】ブックマークすると、違うURLのブックマークになったり、違うURLにブックマークコメントが表示される（canonical設定）",
     "source_locale": "ja",
@@ -24,6 +24,7 @@
     "permission_group_id": 972331,
     "content_tag_ids": [],
     "label_names": [],
-    "body": "<p>はてなブックマークでは、以下のように同一内容を表すページが複数ある場合、記事元のサイトにて、それらのURLのうち1つを「正規URL」として指定することができます。</p>\n<p><img src=\"https://cdn-ak.f.st-hatena.com/images/fotolife/h/hatenabookmark/20201104/20201104145821.png\"></p>\n<p>記事元のサイト管理者のcanonical設定によっては、複数の関連しないページにおいて同一のcanonicalを設定されていることで、違うURLのブックマークになったり、違うページのブックマークコメントが表示されることがあります。</p>\n<p>この場合、サイト管理者にcanonical設定の変更を行っていただく必要があるため、お気づきの場合はお手数ですが記事元のサイト管理者へお問い合わせください。</p>\n<p>詳細については、以下ヘルプをご覧ください。</p>\n<p><strong>＜コメント一覧ページやブックマークを統合する（エントリー正規化機能）＞</strong><a href=\"https://b.hatena.ne.jp/help/entry/canonicalization\" target=\"_blank\" rel=\"noopener noreferrer\">https://b.hatena.ne.jp/help/entry/canonicalization</a></p>\n<p> </p>\n<p> </p>"
+    "body": "<p>はてなブックマークでは、以下のように同一内容を表すページが複数ある場合、記事元のサイトにて、それらのURLのうち1つを「正規URL」として指定することができます。</p>\n<p><img src=\"https://cdn-ak.f.st-hatena.com/images/fotolife/h/hatenabookmark/20201104/20201104145821.png\"></p>\n<p>記事元のサイト管理者のcanonical設定によっては、複数の関連しないページにおいて同一のcanonicalを設定されていることで、違うURLのブックマークになったり、違うページのブックマークコメントが表示されることがあります。</p>\n<p>この場合、サイト管理者にcanonical設定の変更を行っていただく必要があるため、お気づきの場合はお手数ですが記事元のサイト管理者へお問い合わせください。</p>\n<p>詳細については、以下ヘルプをご覧ください。</p>\n<p><strong>＜コメント一覧ページやブックマークを統合する（エントリー正規化機能）＞</strong><a href=\"https://b.hatena.ne.jp/help/entry/canonicalization\" target=\"_blank\" rel=\"noopener noreferrer\">https://b.hatena.ne.jp/help/entry/canonicalization</a></p>\n<p> </p>\n<p> </p>",
+    "user_segment_ids": []
   }
 }
