@@ -8,11 +8,11 @@
     "draft": false,
     "promoted": false,
     "position": 0,
-    "vote_sum": 13,
-    "vote_count": 27,
+    "vote_sum": 23,
+    "vote_count": 43,
     "section_id": 900000347146,
     "created_at": "2021-05-12T04:04:47Z",
-    "updated_at": "2024-04-25T04:38:15Z",
+    "updated_at": "2026-07-05T02:17:57Z",
     "name": "【はてなブログ】独自ドメインを使用するのにサーバーの契約は必要ですか？",
     "title": "【はてなブログ】独自ドメインを使用するのにサーバーの契約は必要ですか？",
     "source_locale": "ja",
@@ -24,6 +24,7 @@
     "permission_group_id": 972311,
     "content_tag_ids": [],
     "label_names": [],
-    "body": "<p>独自ドメインを「はてなブログ」で使用される場合にはレンタルサーバーは<span class=\"wysiwyg-underline\">不要</span>です。</p>\n<p><span class=\"wysiwyg-font-size-medium\">※ただし、独自ドメインを設定いただくには有料プランの「はてなブログPro」へのお申し込みが必要となります</span></p>"
+    "body": "<p>独自ドメインを「はてなブログ」で使用される場合にはレンタルサーバーは<span class=\"wysiwyg-underline\">不要</span>です。</p>\n<p><span class=\"wysiwyg-font-size-medium\">※ただし、独自ドメインを設定いただくには有料プランの「はてなブログPro」へのお申し込みが必要となります</span></p>",
+    "user_segment_ids": []
   }
 }
