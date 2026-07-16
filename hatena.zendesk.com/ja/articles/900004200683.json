@@ -8,11 +8,11 @@
     "draft": false,
     "promoted": false,
     "position": 4,
-    "vote_sum": 41,
-    "vote_count": 77,
+    "vote_sum": 57,
+    "vote_count": 123,
     "section_id": 900000342143,
     "created_at": "2020-10-22T08:26:01Z",
-    "updated_at": "2024-04-25T03:52:29Z",
+    "updated_at": "2026-07-16T14:38:27Z",
     "name": "【はてなブログ】Proを解約したい",
     "title": "【はてなブログ】Proを解約したい",
     "source_locale": "ja",
@@ -24,6 +24,7 @@
     "permission_group_id": 972311,
     "content_tag_ids": [],
     "label_names": [],
-    "body": "<p>解約をしても有効期限日の前日までご利用いただけます。解約操作後に有効期限日を迎えますとはてなブログProは解約され、はてなブログProの全機能が利用できなくなります。<br>※解約操作はアプリからは行っていただくことはできません。</p>\n<p> </p>\n<p>＜はてなブログPro解約手順＞</p>\n<ol>\n<li>はてなにログイン状態で <a href=\"https://blog.hatena.ne.jp/-/pro\" target=\"_self\">https://blog.hatena.ne.jp/-/pro </a>にアクセスする </li>\n<li>ページ下部にある「はてなブログProの解約手続き」をクリックする</li>\n<li>アンケートにお答えいただき「送信して進む」か「アンケートには答えず進む」をクリックする</li>\n<li>「はてなブログProを解約」ボタンをクリックする</li>\n</ol>"
+    "body": "<p>解約をしても有効期限日の前日までご利用いただけます。解約操作後に有効期限日を迎えますとはてなブログProは解約され、はてなブログProの全機能が利用できなくなります。<br>※解約操作はアプリからは行っていただくことはできません。</p>\n<p> </p>\n<p>＜はてなブログPro解約手順＞</p>\n<ol>\n<li>はてなにログイン状態で <a href=\"https://blog.hatena.ne.jp/-/pro\" target=\"_self\">https://blog.hatena.ne.jp/-/pro </a>にアクセスする </li>\n<li>ページ下部にある「はてなブログProの解約手続き」をクリックする</li>\n<li>アンケートにお答えいただき「送信して進む」か「アンケートには答えず進む」をクリックする</li>\n<li>「はてなブログProを解約」ボタンをクリックする</li>\n</ol>",
+    "user_segment_ids": []
   }
 }
