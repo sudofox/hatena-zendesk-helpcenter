@@ -8,11 +8,11 @@
     "draft": false,
     "promoted": false,
     "position": 0,
-    "vote_sum": 1,
-    "vote_count": 5,
+    "vote_sum": 17,
+    "vote_count": 41,
     "section_id": 900000475543,
     "created_at": "2022-09-16T03:27:33Z",
-    "updated_at": "2024-01-12T14:37:27Z",
+    "updated_at": "2026-07-21T02:27:29Z",
     "name": "【はてなブログ】スマートフォンやタブレットからブログを利用したいです",
     "title": "【はてなブログ】スマートフォンやタブレットからブログを利用したいです",
     "source_locale": "ja",
@@ -24,6 +24,7 @@
     "permission_group_id": 972311,
     "content_tag_ids": [],
     "label_names": [],
-    "body": "<p>スマートフォンやタブレットから記事を投稿したい場合、<a href=\"https://apps.apple.com/jp/app/%E3%81%AF%E3%81%A6%E3%81%AA%E3%83%96%E3%83%AD%E3%82%B0/id583299321\" target=\"_blank\" rel=\"noopener noreferrer\">iOSアプリ「はてなブログ」</a>、<a href=\"https://play.google.com/store/apps/details?id=jp.ne.hatena.blog\" target=\"_blank\" rel=\"noopener noreferrer\">Androidアプリ「はてなブログ」</a>をご利用ください。<br>ブログの設定変更もアプリから行うことができますが、詳細な設定の中にはPC画面でしか操作できない項目があります。PCからのみ操作可能な項目については、スマートフォンやタブレットのブラウザーから自身のブログの<a href=\"https://blog.hatena.ne.jp/\" target=\"_blank\" rel=\"noopener noreferrer\">ダッシュボード</a>を開き、<a href=\"https://help.hatenablog.com/entry/change_device_type\" target=\"_blank\" rel=\"noopener noreferrer\">PC版への切り替え</a>を行って操作してください。</p>"
+    "body": "<p>スマートフォンやタブレットから記事を投稿したい場合、<a href=\"https://apps.apple.com/jp/app/%E3%81%AF%E3%81%A6%E3%81%AA%E3%83%96%E3%83%AD%E3%82%B0/id583299321\" target=\"_blank\" rel=\"noopener noreferrer\">iOSアプリ「はてなブログ」</a>、<a href=\"https://play.google.com/store/apps/details?id=jp.ne.hatena.blog\" target=\"_blank\" rel=\"noopener noreferrer\">Androidアプリ「はてなブログ」</a>をご利用ください。<br>ブログの設定変更もアプリから行うことができますが、詳細な設定の中にはPC画面でしか操作できない項目があります。PCからのみ操作可能な項目については、スマートフォンやタブレットのブラウザーから自身のブログの<a href=\"https://blog.hatena.ne.jp/\" target=\"_blank\" rel=\"noopener noreferrer\">ダッシュボード</a>を開き、<a href=\"https://help.hatenablog.com/entry/change_device_type\" target=\"_blank\" rel=\"noopener noreferrer\">PC版への切り替え</a>を行って操作してください。</p>",
+    "user_segment_ids": []
   }
 }
