@@ -1,0 +1,30 @@
+{
+  "article": {
+    "id": 61341843527065,
+    "url": "https://hatena.zendesk.com/api/v2/help_center/ja/articles/61341843527065.json",
+    "html_url": "https://hatena.zendesk.com/hc/ja/articles/61341843527065",
+    "author_id": 378867417791,
+    "comments_disabled": true,
+    "draft": false,
+    "promoted": false,
+    "position": 5,
+    "vote_sum": 0,
+    "vote_count": 0,
+    "section_id": 61319674897049,
+    "created_at": "2026-08-20T03:14:38Z",
+    "updated_at": "2026-08-20T03:15:54Z",
+    "name": "【はてなパークス】はてなを退会した後のコンテンツはどうなりますか？",
+    "title": "【はてなパークス】はてなを退会した後のコンテンツはどうなりますか？",
+    "source_locale": "ja",
+    "locale": "ja",
+    "outdated": false,
+    "outdated_locales": [],
+    "edited_at": "2026-08-20T03:15:33Z",
+    "user_segment_id": null,
+    "permission_group_id": 972331,
+    "content_tag_ids": [],
+    "label_names": [],
+    "body": "<p>はてなを退会した後、はてなパークスの記事は退会者による投稿であることを表示した状態で残ります。</p><p>投稿の削除を行いたい場合は、退会前にご自身で行なってください。</p><p> </p>",
+    "user_segment_ids": []
+  }
+}
