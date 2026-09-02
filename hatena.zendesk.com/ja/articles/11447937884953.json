@@ -8,11 +8,11 @@
     "draft": false,
     "promoted": false,
     "position": 0,
-    "vote_sum": 11,
-    "vote_count": 19,
+    "vote_sum": 14,
+    "vote_count": 40,
     "section_id": 900000475543,
     "created_at": "2022-10-13T04:06:47Z",
-    "updated_at": "2024-02-02T03:13:21Z",
+    "updated_at": "2026-09-01T22:33:20Z",
     "name": "【はてなブログ】デザインを変えたいです",
     "title": "【はてなブログ】デザインを変えたいです",
     "source_locale": "ja",
@@ -24,6 +24,7 @@
     "permission_group_id": 972311,
     "content_tag_ids": [],
     "label_names": [],
-    "body": "<p>はてなブログの「<a href=\"https://blog.hatena.ne.jp/-/store/theme/\" target=\"_blank\" rel=\"noopener noreferrer\">テーマストア</a>」をご利用いただくと、好きなデザインをブログに反映させることができます。どのデザインも無料でご利用いただけますので、下記の手順でデザインの変更をお試しください。</p>\n<ol>\n<li>はてなにログインした状態で「<a href=\"https://blog.hatena.ne.jp/-/store/theme/\" target=\"_blank\" rel=\"noopener noreferrer\">テーマストア</a>」にアクセスする</li>\n<li>好きなデザインテーマのページを開く</li>\n<li>画面右側の「プレビューしてインストール」ボタンをクリックする</li>\n<li>デザインを適用させたいブログを選択する</li>\n<li>プレビューが表示されるので、問題がないか確認する</li>\n<li>画面上部の「このテーマをインストール」ボタンをクリックする</li>\n</ol>\n<p>テーマストアではなく、ご自身で詳細なデザイン設定をなさりたい場合には、はてなブログのヘルプページ「<a href=\"https://help.hatenablog.com/entry/design\" target=\"_blank\" rel=\"noopener noreferrer\">ブログのデザインを変更する</a>」を、スマートフォンのデザインを変更したい場合には「<a href=\"https://help.hatenablog.com/entry/design/smartphone\" target=\"_blank\" rel=\"noopener noreferrer\">ブログのデザインを変更する（スマートフォン）</a> 」をご確認ください。</p>\n<p>また、サイドバーの内容を変更したい場合には「<a href=\"https://help.hatenablog.com/entry/sidebarmodules\" target=\"_self\">サイドバーにモジュールを設置する</a>」 をご確認ください。</p>"
+    "body": "<p>はてなブログの「<a href=\"https://blog.hatena.ne.jp/-/store/theme/\" target=\"_blank\" rel=\"noopener noreferrer\">テーマストア</a>」をご利用いただくと、好きなデザインをブログに反映させることができます。どのデザインも無料でご利用いただけますので、下記の手順でデザインの変更をお試しください。</p>\n<ol>\n<li>はてなにログインした状態で「<a href=\"https://blog.hatena.ne.jp/-/store/theme/\" target=\"_blank\" rel=\"noopener noreferrer\">テーマストア</a>」にアクセスする</li>\n<li>好きなデザインテーマのページを開く</li>\n<li>画面右側の「プレビューしてインストール」ボタンをクリックする</li>\n<li>デザインを適用させたいブログを選択する</li>\n<li>プレビューが表示されるので、問題がないか確認する</li>\n<li>画面上部の「このテーマをインストール」ボタンをクリックする</li>\n</ol>\n<p>テーマストアではなく、ご自身で詳細なデザイン設定をなさりたい場合には、はてなブログのヘルプページ「<a href=\"https://help.hatenablog.com/entry/design\" target=\"_blank\" rel=\"noopener noreferrer\">ブログのデザインを変更する</a>」を、スマートフォンのデザインを変更したい場合には「<a href=\"https://help.hatenablog.com/entry/design/smartphone\" target=\"_blank\" rel=\"noopener noreferrer\">ブログのデザインを変更する（スマートフォン）</a> 」をご確認ください。</p>\n<p>また、サイドバーの内容を変更したい場合には「<a href=\"https://help.hatenablog.com/entry/sidebarmodules\" target=\"_self\">サイドバーにモジュールを設置する</a>」 をご確認ください。</p>",
+    "user_segment_ids": []
   }
 }
