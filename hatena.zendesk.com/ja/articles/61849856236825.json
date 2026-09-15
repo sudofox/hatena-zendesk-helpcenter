@@ -1,0 +1,30 @@
+{
+  "article": {
+    "id": 61849856236825,
+    "url": "https://hatena.zendesk.com/api/v2/help_center/ja/articles/61849856236825.json",
+    "html_url": "https://hatena.zendesk.com/hc/ja/articles/61849856236825",
+    "author_id": 901655087063,
+    "comments_disabled": true,
+    "draft": false,
+    "promoted": false,
+    "position": 0,
+    "vote_sum": 0,
+    "vote_count": 0,
+    "section_id": 61848745375769,
+    "created_at": "2026-09-03T02:40:03Z",
+    "updated_at": "2026-09-15T00:47:30Z",
+    "name": "【はてなブログ】【iOSアプリ】アプリの設定を変更する",
+    "title": "【はてなブログ】【iOSアプリ】アプリの設定を変更する",
+    "source_locale": "ja",
+    "locale": "ja",
+    "outdated": false,
+    "outdated_locales": [],
+    "edited_at": "2026-09-03T06:28:11Z",
+    "user_segment_id": null,
+    "permission_group_id": 972331,
+    "content_tag_ids": [],
+    "label_names": [],
+    "body": "<p>ホーム画面右上の歯車マークから、アプリ設定を変更できます。</p><figure class=\"wysiwyg-image wysiwyg-image-resized\" style=\"width: 50%;\"><img style=\"aspect-ratio: 1320/1501;\" src=\"https://hatena.zendesk.com/hc/article_attachments/61849872039193\" width=\"1320\" height=\"1501\"><figcaption> </figcaption></figure><figure class=\"wysiwyg-image wysiwyg-image-resized\" style=\"width: 50%;\"><img style=\"aspect-ratio: 1320/2733;\" src=\"https://hatena.zendesk.com/hc/article_attachments/61849856229401\" width=\"1320\" height=\"2733\"></figure><p> </p><ul>\n<li class=\"wysiwyg-list-bold\" data-list-item-id=\"e620895af37dc56c0ee2ac53cd161fc65\">\n<h4 id=\"h_01M1JZ7Y5MM06VMCC03E0EMM82\"><strong>記法</strong></h4>\n<ul>\n<li data-list-item-id=\"ea72c37fcb63627a73e98ebb612473243\">アプリから新規記事を作成する際の記法が選択できます。<ul>\n<li data-list-item-id=\"e5f4136c17c3a4a85645b16f5dd6754bb\">ブログの設定に従う<ul><li data-list-item-id=\"e89606d4dc6788ca7a2f44a3a5bc65c91\">はてなブログWEB版で設定しているブログの記法が選択されます</li></ul>\n</li>\n<li data-list-item-id=\"e0d56ed804982fd3ced64bda2c51a4891\">見たまま<ul><li data-list-item-id=\"e431a8b4b3b7235fa9b08e46a221ebd79\">記事中でフォントを変更したり、見出しや箇条書きなどを適用した際に、文章のどこがどのスタイルになっているかを見たままで確認できます。</li></ul>\n</li>\n<li data-list-item-id=\"ea583157c160760a0d707fc4a6dac3887\">はてな記法<ul><li data-list-item-id=\"e93b1e795d2b67df72785a9084594a264\">Webページを簡単に記述できる「<strong>はてな記法</strong>」を利用できます。はてな記法については<a href=\"https://help.hatenablog.com/entry/text-hatena-list\">こちら</a>をご参照ください。</li></ul>\n</li>\n</ul>\n</li>\n<li data-list-item-id=\"ed4d9c56d9b1ea64b17469df68242319b\">Markdown<ul><li data-list-item-id=\"e09454e590518262bdec27f201439feff\">Markdownを利用できます。Markdownは記号を使って見出しや太字などの文章装飾を簡単かつスピーディーに入力できる、シンプルなテキスト記述方法です。</li></ul>\n</li>\n</ul>\n</li>\n<li class=\"wysiwyg-list-bold\" data-list-item-id=\"e8b5bc6b9c941c01feef81b0bd10db03a\">\n<h4 id=\"h_01M1JZ81J15CSPG4X48G0MDT8R\"><strong>画像サイズ</strong></h4>\n<ul><li data-list-item-id=\"ef32fc0d52c53293a0f7360c945720605\">ブログ記事内に画像を貼り付ける際のデフォルトの画像サイズをオリジナル、大（2,048px）、中（1,296px）、小（640px）から選択できます。</li></ul>\n</li>\n</ul><p> </p><p> </p><p> </p>",
+    "user_segment_ids": []
+  }
+}

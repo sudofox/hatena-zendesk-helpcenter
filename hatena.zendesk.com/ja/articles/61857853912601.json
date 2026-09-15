@@ -1,0 +1,30 @@
+{
+  "article": {
+    "id": 61857853912601,
+    "url": "https://hatena.zendesk.com/api/v2/help_center/ja/articles/61857853912601.json",
+    "html_url": "https://hatena.zendesk.com/hc/ja/articles/61857853912601",
+    "author_id": 901655087063,
+    "comments_disabled": false,
+    "draft": false,
+    "promoted": false,
+    "position": 0,
+    "vote_sum": 0,
+    "vote_count": 0,
+    "section_id": 61848745375769,
+    "created_at": "2026-09-03T06:10:49Z",
+    "updated_at": "2026-09-15T00:49:19Z",
+    "name": "【はてなブログ】【iOSアプリ】記事に写真を貼り付ける",
+    "title": "【はてなブログ】【iOSアプリ】記事に写真を貼り付ける",
+    "source_locale": "ja",
+    "locale": "ja",
+    "outdated": false,
+    "outdated_locales": [],
+    "edited_at": "2026-09-15T00:49:19Z",
+    "user_segment_id": null,
+    "permission_group_id": 972331,
+    "content_tag_ids": [],
+    "label_names": [],
+    "body": "<p>ブログの記事に写真を貼り付けられます </p><p> </p><h4 id=\"h_01M1JXAJ0QFEPS8H4KKGK4DMM7\"><strong>端末のライブラリから貼り付ける</strong></h4><ol>\n<li data-list-item-id=\"e85fb683d4e4617832d71320b211490f4\">\n<p>記事の編集画面を開き、写真ボタンをタップ</p>\n<figure class=\"wysiwyg-image wysiwyg-image-resized\" style=\"width: 50%;\"><img style=\"aspect-ratio: 1320/2724;\" src=\"https://hatena.zendesk.com/hc/article_attachments/61857874091929\" width=\"1320\" height=\"2724\"></figure><p> </p>\n</li>\n<li data-list-item-id=\"e47ebbde39d77b47436404d2df5e482e0\">\n<p>「このiPhone/iPad内」をタップすると端末のライブラリが表示されます（初回起動時は写真の許可ダイアログが表示されます）</p>\n<figure class=\"wysiwyg-image wysiwyg-image-resized\" style=\"width: 50%;\"><img style=\"aspect-ratio: 1320/2735;\" src=\"https://hatena.zendesk.com/hc/article_attachments/61857874094105\" width=\"1320\" height=\"2735\"></figure>\n</li>\n<li data-list-item-id=\"e9eb7fdcf5f3c8f4d5d228b94cc0f3242\">写真をタップすると選択中の記法に応じて画像が記事に貼り付けられます</li>\n</ol><figure class=\"wysiwyg-image wysiwyg-image-resized\" style=\"width: 50%;\"><img style=\"aspect-ratio: 1320/2696;\" src=\"https://hatena.zendesk.com/hc/article_attachments/61857853895449\" width=\"1320\" height=\"2696\"></figure><p> </p><p> </p><h4 id=\"h_01M1JZ6AGTFHTMKTX43NEV65J0\"><strong>端末のライブラリ写真を複数選択して貼り付け</strong></h4><ul style=\"list-style-type: disc;\"><li data-list-item-id=\"e408a43c289cf20a4d3b4a684fd19c4ef\">ライブラリ右下の写真マークからライブラリを開くと複数枚の写真を選択できます</li></ul><p> </p><p><img class=\"wysiwyg-image-resized\" style=\"aspect-ratio: 1320/2735; width: 50%;\" src=\"https://hatena.zendesk.com/hc/article_attachments/61857874094105\" width=\"1320\" height=\"2735\"><img class=\"wysiwyg-image-resized\" style=\"aspect-ratio: 1320/2709; width: 50%;\" src=\"https://hatena.zendesk.com/hc/article_attachments/61857853896601\" width=\"1320\" height=\"2709\"></p><p> </p><h4 id=\"h_01M1JXXQ4ZVEF66ZWR6R3S8ANK\"><strong>カメラで撮影する</strong></h4><ol>\n<li data-list-item-id=\"e0d0d22caa2c344cfb5b371c2874d3d21\">記事の編集画面を開き、写真ボタンをタップ</li>\n<li data-list-item-id=\"e6cd3f5d58f3a33b779d05e6f631c5670\">右上・・・をタップ</li>\n<li data-list-item-id=\"e2294dc14945c6e8f21eaf602421b606d\">\n<p>カメラをタップするとカメラが起動します</p>\n<figure class=\"wysiwyg-image wysiwyg-image-resized\" style=\"width: 50%;\"><img style=\"aspect-ratio: 1320/1819;\" src=\"https://hatena.zendesk.com/hc/article_attachments/61857874099609\" width=\"1320\" height=\"1819\"></figure>\n</li>\n<li data-list-item-id=\"ed804aaba0ca32ddc1495e53a621bbd0b\">撮影し「写真を使用」をタップすると選択中の記法に応じて画像が記事に貼り付けられます</li>\n</ol><p> </p><h4 id=\"h_01M1JY4BYJV1P9WX5MA3Y7E5T1\"><strong>はてなフォトライフの画像を貼り付ける</strong></h4><ol>\n<li data-list-item-id=\"eb3f5380e0b476d35ef6025f8ccf7e0ca\">記事の編集画面を開き、写真ボタンをタップ</li>\n<li data-list-item-id=\"e78e8ab6ebee8fd32d67e362dd5bd64b8\">\n<p>「投稿済み」にはログインしているアカウントの<a href=\"https://help.hatenablog.com/entry/hatena/fotolife\">はてなフォトライフ</a>「Hatena Blog」フォルダ内の写真が表示されています</p>\n<figure class=\"wysiwyg-image wysiwyg-image-resized\" style=\"width: 50%;\"><img style=\"aspect-ratio: 1320/1728;\" src=\"https://hatena.zendesk.com/hc/article_attachments/61857853904793\" width=\"1320\" height=\"1728\"></figure>\n</li>\n<li data-list-item-id=\"effd30edfbc979f3321b35d8e33268d73\">タップすると選択中の記法に応じて画像が記事に貼り付けられます</li>\n</ol><p> </p>",
+    "user_segment_ids": []
+  }
+}
