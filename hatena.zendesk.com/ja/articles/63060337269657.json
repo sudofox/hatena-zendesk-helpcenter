@@ -1,0 +1,32 @@
+{
+  "article": {
+    "id": 63060337269657,
+    "url": "https://hatena.zendesk.com/api/v2/help_center/ja/articles/63060337269657.json",
+    "html_url": "https://hatena.zendesk.com/hc/ja/articles/63060337269657",
+    "author_id": 383252406071,
+    "comments_disabled": true,
+    "draft": false,
+    "promoted": false,
+    "position": 0,
+    "vote_sum": 0,
+    "vote_count": 0,
+    "upvote_count": 0,
+    "downvote_count": 0,
+    "section_id": 61848745375769,
+    "created_at": "2026-10-09T06:33:50Z",
+    "updated_at": "2026-10-14T08:07:11Z",
+    "name": "【はてなブログ】【iOSアプリ】記事・下書きを削除する",
+    "title": "【はてなブログ】【iOSアプリ】記事・下書きを削除する",
+    "source_locale": "ja",
+    "locale": "ja",
+    "outdated": false,
+    "outdated_locales": [],
+    "edited_at": "2026-10-13T06:27:35Z",
+    "user_segment_id": null,
+    "permission_group_id": 972331,
+    "content_tag_ids": [],
+    "label_names": [],
+    "body": "<p>公開済みの記事や下書きは、記事一覧または編集画面から削除できます。削除した記事は元に戻せませんので、ご注意ください。</p><h2 id=\"h_01M4FN2M2AEPNKNFW1ZGWWZHXF\">記事一覧から削除する</h2><ol>\n<li data-list-item-id=\"e2d85eb89c9d4ce57b28434c636b5c7eb\">ブログ一覧（ホーム）で対象のブログをタップし、記事一覧を開きます。下書きを削除する場合は「下書き」に切り替えます。</li>\n<li data-list-item-id=\"e459144ef9668a7ae28d719becf262203\">削除したい記事を右から左へスワイプします。</li>\n<li data-list-item-id=\"ee77437a772ac1d18001bbdcb259752f0\">「削除」をタップします。</li>\n<li data-list-item-id=\"ee9d1d7a85d862283e6a93ea3585ec127\">記事のタイトルが入った確認画面が表示されます。削除する記事に間違いがないか確認し、削除します。</li>\n</ol><h2 id=\"h_01M4FN2M2DB17FQBQB4A23GCZ7\">編集画面から削除する</h2><ol>\n<li data-list-item-id=\"e769e66c24d16969c598bc4b62f88048e\">削除したい記事の編集画面を開きます。</li>\n<li data-list-item-id=\"edd8361ab1f91018d5d497368283f7c3b\">「・・・」メニューを開き、「削除」をタップします。</li>\n<li data-list-item-id=\"e6cff8d03e1ebcd3cd5a561b792d8fd0d\">確認画面で削除します。</li>\n</ol><h2 id=\"h_01M4FN2M2EYQMZMGDG21GDE75G\">ご注意</h2><ul>\n<li data-list-item-id=\"e588b73cd8c2b3c5e0076051b5221b2d0\">削除した記事・下書きは30日間「ゴミ箱」に保存されます。30日経過後は復元できません。「ゴミ箱」には、ブラウザからはてなブログにログインし、「記事の管理」画面からアクセスできます。</li>\n<li data-list-item-id=\"e9c7c1239b462885490f293809564eca6\">一時的に非公開にしたいだけの場合は、削除せずに下書きに戻すことができます。</li>\n</ul>",
+    "user_segment_ids": []
+  }
+}

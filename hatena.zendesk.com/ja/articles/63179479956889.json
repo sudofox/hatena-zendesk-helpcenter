@@ -1,0 +1,32 @@
+{
+  "article": {
+    "id": 63179479956889,
+    "url": "https://hatena.zendesk.com/api/v2/help_center/ja/articles/63179479956889.json",
+    "html_url": "https://hatena.zendesk.com/hc/ja/articles/63179479956889",
+    "author_id": 383252406071,
+    "comments_disabled": true,
+    "draft": false,
+    "promoted": false,
+    "position": 0,
+    "vote_sum": 0,
+    "vote_count": 0,
+    "upvote_count": 0,
+    "downvote_count": 0,
+    "section_id": 61848745375769,
+    "created_at": "2026-10-13T04:46:31Z",
+    "updated_at": "2026-10-14T08:07:20Z",
+    "name": "【はてなブログ】【iOSアプリ】ログアウトする",
+    "title": "【はてなブログ】【iOSアプリ】ログアウトする",
+    "source_locale": "ja",
+    "locale": "ja",
+    "outdated": false,
+    "outdated_locales": [],
+    "edited_at": "2026-10-14T07:48:04Z",
+    "user_segment_id": null,
+    "permission_group_id": 972331,
+    "content_tag_ids": [],
+    "label_names": [],
+    "body": "<p>はてなブログiOSアプリでのログアウト手順です。</p><h2 id=\"h_01M4SS4VKEWKRN46PG8BAD27XY\">ログアウトする</h2><ol>\n<li data-list-item-id=\"e08e0ea5a16a2ec81c47b5ff0ca3792c2\">ブログ一覧（ホーム）上の歯車アイコンをタップし、設定画面を開きます。</li>\n<li data-list-item-id=\"ec520afe2eff95ef49630789d9ff9a57c\">「ログアウト」をタップします。</li>\n<li data-list-item-id=\"e50984492bce403d7bd42a65436399205\">ようこそ画面が表示されたら、ログアウトは完了です。</li>\n</ol><h2 id=\"h_01M4SS4VKH2CKZPJF8P0PE6ZH4\">ログアウト中は使えない機能</h2><ul>\n<li data-list-item-id=\"e6b6d1d187ec8d621455ed15d95b0873c\">プッシュ通知は届きません。</li>\n<li data-list-item-id=\"ed3c8ef0bc238b1e74757475f39e2dac2\">アプリアイコンを長押しして使うクイックアクション（新しい記事、購読リスト、お知らせ）は使えません。</li>\n<li data-list-item-id=\"ec3c3b1cf4100b70f48e5833fdf2355ae\">ウィジェットには、ログインしていない旨が表示されます。</li>\n</ul>",
+    "user_segment_ids": []
+  }
+}
