@@ -1,0 +1,32 @@
+{
+  "article": {
+    "id": 63387727659289,
+    "url": "https://hatena.zendesk.com/api/v2/help_center/ja/articles/63387727659289.json",
+    "html_url": "https://hatena.zendesk.com/hc/ja/articles/63387727659289",
+    "author_id": 383252406071,
+    "comments_disabled": false,
+    "draft": false,
+    "promoted": false,
+    "position": 0,
+    "vote_sum": 0,
+    "vote_count": 0,
+    "upvote_count": 0,
+    "downvote_count": 0,
+    "section_id": 61848745375769,
+    "created_at": "2026-10-19T06:44:41Z",
+    "updated_at": "2026-10-26T05:51:07Z",
+    "name": "【はてなブログ】【iOSアプリ】記事一覧・下書き一覧の見方",
+    "title": "【はてなブログ】【iOSアプリ】記事一覧・下書き一覧の見方",
+    "source_locale": "ja",
+    "locale": "ja",
+    "outdated": false,
+    "outdated_locales": [],
+    "edited_at": "2026-10-26T05:51:03Z",
+    "user_segment_id": null,
+    "permission_group_id": 972331,
+    "content_tag_ids": [],
+    "label_names": [],
+    "body": "<p>ブログ一覧（ホーム）でブログをタップすると、そのブログの記事一覧が開きます。公開済みの記事と下書きを切り替えて表示できます。</p><h2 id=\"h_01M59DT3V58CA7G4W87Q3KMFWA\">記事と下書きを切り替える</h2><p>画面上部で「記事」と「下書き」を切り替えます。</p><h2 id=\"h_01M59DT3V660E6HTAN4MEQKVXD\">並び順</h2><ul>\n<li data-list-item-id=\"ed132be52efc68362dfee65edf8c5aed3\">記事：公開日時の新しい順</li>\n<li data-list-item-id=\"e320b659283f0c071812fbf0e3876512f\">下書き：作成日の新しい順</li>\n</ul><h2 id=\"h_01M59DT3V7XP00EG76ZCFNQ29B\">一覧に表示されるもの</h2><p>各記事には、タイトル、本文の抜粋、サムネイル画像が表示されます。<br>予約投稿した記事は「下書き」欄に一覧表示され、予約日時が表示されます。</p><h2 id=\"h_01M59E2NKRA3JHBSQ5AXW79NM1\">記事一覧を最新の状態に更新する</h2><p>パソコンやブラウザで記事を書いたり修正したりしたときや、ほかのメンバーが記事を公開したときなどに、アプリの記事一覧にすぐに反映されないことがあります。その場合は、次の手順で一覧を更新してください。</p><ol>\n<li data-list-item-id=\"e8baf414aefb301ea0a27afbc58655e7e\">記事一覧の一番上を表示します。</li>\n<li data-list-item-id=\"e0a8d93b425f992496357454aa3c37b0b\">一覧を指で下に引っ張ってから離します。</li>\n<li data-list-item-id=\"ece0355337137e9e45c3d86590bd5563f\">読み込み中の表示が消えると、一覧が最新の状態に更新されます。</li>\n</ol><p>下書き一覧は、「下書き」に切り替えてから同じ操作で更新します。</p><h2 id=\"h_01M59E33A0GYKWYAD93HSK50VA\">更新しても反映されないときは</h2><ul>\n<li data-list-item-id=\"eb5656342fe6c8e4e0e1abe3e9d2c388e\">通信環境のよい場所で、もう一度お試しください。</li>\n<li data-list-item-id=\"e9dc6798456eb403a07e67a60dc0b9f63\">ブログ一覧（ホーム）に戻り、ブログをタップして記事一覧を開き直してください。</li>\n<li data-list-item-id=\"e9b4bf324474229ae0bc10e50e29d47b1\">\n<p>アプリを終了して、起動し直してください。</p>\n<p> </p>\n</li>\n</ul>",
+    "user_segment_ids": []
+  }
+}
