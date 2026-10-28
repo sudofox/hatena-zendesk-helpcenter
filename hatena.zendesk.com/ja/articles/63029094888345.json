@@ -14,19 +14,19 @@
     "downvote_count": 0,
     "section_id": 61848745375769,
     "created_at": "2026-10-08T08:31:34Z",
-    "updated_at": "2026-10-14T08:07:36Z",
+    "updated_at": "2026-10-28T10:08:28Z",
     "name": "【はてなブログ】【iOSアプリ】アプリにログインする・ログインできないときは",
     "title": "【はてなブログ】【iOSアプリ】アプリにログインする・ログインできないときは",
     "source_locale": "ja",
     "locale": "ja",
     "outdated": false,
     "outdated_locales": [],
-    "edited_at": "2026-10-14T07:40:22Z",
+    "edited_at": "2026-10-28T10:08:27Z",
     "user_segment_id": null,
     "permission_group_id": 972331,
     "content_tag_ids": [],
     "label_names": [],
-    "body": "<p>iOSアプリ「はてなブログ」には、はてなID、Googleアカウント、Apple ID、Xアカウントのいずれかでログインできます。はてなIDを持っていない場合は、アプリから新しく登録することもできます。</p><h2 id=\"h_01M4D9X9FQYZT25JMA6QQ98HV6\">ログインする</h2><ol>\n<li data-list-item-id=\"edb6a9712c98529ac8d226771660a5c5b\">アプリを起動し、「はてなブログをはじめる」をタップします。</li>\n<li data-list-item-id=\"e4cff9b23e4aae86a1d30c1284896adef\">「\"はてなブログ\"がサインインのために\"accounts.hatena.ne.jp\"を使用しようとしています」と表示されたら、「続ける」をタップします。</li>\n<li data-list-item-id=\"ef0ea49acf8e401f079574cf9d5ac6686\">ログイン方法（はてなID、Google、Apple、X）を選び、画面の案内に沿ってログインします。</li>\n<li data-list-item-id=\"e606fe7c9cb917cb5e4718b21fb5c0d25\">アプリへのアクセスの許可を求める画面が表示されたら、内容を確認して許可します。</li>\n<li data-list-item-id=\"e01be5877d83199610233ebb36b0582cb\">ブログ一覧（ホーム）が表示されたら、ログインは完了です。</li>\n</ol><h2 id=\"h_01M4D9X9FVZHTM06XFNDJ31B4M\">ログインできないときは</h2><ul>\n<li data-list-item-id=\"e16c89268fa5b662b428385f0bbdd6a5c\">通信環境のよい場所で、もう一度お試しください。</li>\n<li data-list-item-id=\"ec777d262425d790c1995b99857905ba4\">それでもログインできない場合は、ログインできない状況（エラーメッセージなどが表示されている場合はその内容）を添えてアプリ内の設定＞フィードバックからお問い合わせください。</li>\n</ul><h2 id=\"h_01M4D9X9FW7B29C88GASP7S776\"> </h2>",
+    "body": "<p>iOSアプリ「はてなブログ」には、はてなID、Googleアカウント、Apple Account、Xアカウントのいずれかでログインできます。はてなIDを持っていない場合は、アプリから新しく登録することもできます。</p><h2 id=\"h_01M4D9X9FQYZT25JMA6QQ98HV6\">ログインする</h2><ol>\n<li data-list-item-id=\"edb6a9712c98529ac8d226771660a5c5b\">アプリを起動し、「はてなブログをはじめる」をタップします。</li>\n<li data-list-item-id=\"e4cff9b23e4aae86a1d30c1284896adef\">「\"はてなブログ\"がサインインのために\"accounts.hatena.ne.jp\"を使用しようとしています」と表示されたら、「続ける」をタップします。</li>\n<li data-list-item-id=\"ef0ea49acf8e401f079574cf9d5ac6686\">ログイン方法（はてなID、Google、Apple、X）を選び、画面の案内に沿ってログインします。</li>\n<li data-list-item-id=\"e606fe7c9cb917cb5e4718b21fb5c0d25\">アプリへのアクセスの許可を求める画面が表示されたら、内容を確認して許可します。</li>\n<li data-list-item-id=\"e01be5877d83199610233ebb36b0582cb\">ブログ一覧（ホーム）が表示されたら、ログインは完了です。</li>\n</ol><h2 id=\"h_01M4D9X9FVZHTM06XFNDJ31B4M\">ログインできないときは</h2><ul>\n<li data-list-item-id=\"e16c89268fa5b662b428385f0bbdd6a5c\">通信環境のよい場所で、もう一度お試しください。</li>\n<li data-list-item-id=\"ec777d262425d790c1995b99857905ba4\">それでもログインできない場合は、ログインできない状況（エラーメッセージなどが表示されている場合はその内容）を添えてアプリ内の設定＞フィードバックからお問い合わせください。</li>\n</ul><h2 id=\"h_01M4D9X9FW7B29C88GASP7S776\"> </h2>",
     "user_segment_ids": []
   }
 }
