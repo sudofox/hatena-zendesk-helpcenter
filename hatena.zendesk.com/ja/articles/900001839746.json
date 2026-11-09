@@ -8,11 +8,13 @@
     "draft": false,
     "promoted": false,
     "position": 3,
-    "vote_sum": 4,
-    "vote_count": 10,
+    "vote_sum": 3,
+    "vote_count": 15,
+    "upvote_count": 9,
+    "downvote_count": 6,
     "section_id": 900000347166,
     "created_at": "2020-07-21T07:28:18Z",
-    "updated_at": "2024-04-07T06:39:25Z",
+    "updated_at": "2026-11-09T10:49:33Z",
     "name": "【はてなブログ】スマートフォンから閲覧したときのブログのデザインをカスタマイズできますか？",
     "title": "【はてなブログ】スマートフォンから閲覧したときのブログのデザインをカスタマイズできますか？",
     "source_locale": "ja",
@@ -24,6 +26,7 @@
     "permission_group_id": 972311,
     "content_tag_ids": [],
     "label_names": [],
-    "body": "\t\t\t<p>PC版のデザイン設定画面でカスタマイズできます。詳しくはヘルプをご覧ください。</p>\n\n\t\t\t<ul>\n\t\t\t\t<li> <a href=\"http://help.hatenablog.com/entry/design/smartphone\" target=\"_blank\" rel=\"noopener noreferrer\">ブログのデザインを変更する（スマートフォン） - はてなブログ ヘルプ</a>\n</li>\n\t\t\t</ul>\n\t\t\t<p>なお、デザイン設定画面で設定できる項目以外のカスタマイズはサポートしていません。</p>\n"
+    "body": "\t\t\t<p>PC版のデザイン設定画面でカスタマイズできます。詳しくはヘルプをご覧ください。</p>\n\n\t\t\t<ul>\n\t\t\t\t<li> <a href=\"http://help.hatenablog.com/entry/design/smartphone\" target=\"_blank\" rel=\"noopener noreferrer\">ブログのデザインを変更する（スマートフォン） - はてなブログ ヘルプ</a>\n</li>\n\t\t\t</ul>\n\t\t\t<p>なお、デザイン設定画面で設定できる項目以外のカスタマイズはサポートしていません。</p>\n",
+    "user_segment_ids": []
   }
 }
