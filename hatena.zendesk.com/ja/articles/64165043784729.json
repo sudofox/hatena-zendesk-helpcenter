@@ -1,0 +1,32 @@
+{
+  "article": {
+    "id": 64165043784729,
+    "url": "https://hatena.zendesk.com/api/v2/help_center/ja/articles/64165043784729.json",
+    "html_url": "https://hatena.zendesk.com/hc/ja/articles/64165043784729",
+    "author_id": 383252406071,
+    "comments_disabled": true,
+    "draft": false,
+    "promoted": false,
+    "position": 0,
+    "vote_sum": 0,
+    "vote_count": 0,
+    "upvote_count": 0,
+    "downvote_count": 0,
+    "section_id": 52153812940185,
+    "created_at": "2026-11-10T07:47:18Z",
+    "updated_at": "2026-11-13T07:07:51Z",
+    "name": "【はてなブログ】【Androidアプリ】ログアウトする・別のはてなIDに切り替える",
+    "title": "【はてなブログ】【Androidアプリ】ログアウトする・別のはてなIDに切り替える",
+    "source_locale": "ja",
+    "locale": "ja",
+    "outdated": false,
+    "outdated_locales": [],
+    "edited_at": "2026-11-11T04:47:16Z",
+    "user_segment_id": null,
+    "permission_group_id": 972331,
+    "content_tag_ids": [],
+    "label_names": [],
+    "body": "<p>複数のはてなIDを使い分けるときは、いったんログアウトしてから、別のはてなIDでログインします。</p><h2 id=\"h_01M726SQQGGB89KM833MNGX6Y6\">ログアウトする</h2><ol>\n<li data-list-item-id=\"e3db13433432b2a09d538f406c5dc36ac\">画面右上のアイコンをタップし、歯車のアイコンからアプリの設定を開きます。</li>\n<li data-list-item-id=\"e77f2cf12b630d1ced301a64fae9d9bbc\">「ログアウト」をタップします。</li>\n</ol><figure class=\"wysiwyg-image wysiwyg-image-resized\" style=\"width: 25%;\"><img style=\"aspect-ratio: 1080/2279;\" src=\"https://hatena.zendesk.com/hc/article_attachments/64197387277465\" alt=\"settings_logout.png\" width=\"1080\" height=\"2279\"></figure><h2 id=\"h_01M726SQQJSMXFTZ8NK8G0WQVT\">別のはてなIDに切り替える</h2><ol>\n<li data-list-item-id=\"e3508ce8a85896932763c9dd993a53cfb\">上の手順でログアウトします。</li>\n<li data-list-item-id=\"e667ac375c3e584201704f4fc6c735128\">使いたいはてなIDでログインします。</li>\n</ol><p>ログインし直すと、ブログ、購読中のブログ、お知らせも、新しくログインしたはてなIDのものに切り替わります。</p><p><br> </p>",
+    "user_segment_ids": []
+  }
+}

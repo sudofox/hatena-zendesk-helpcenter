@@ -1,0 +1,32 @@
+{
+  "article": {
+    "id": 64202135564825,
+    "url": "https://hatena.zendesk.com/api/v2/help_center/ja/articles/64202135564825.json",
+    "html_url": "https://hatena.zendesk.com/hc/ja/articles/64202135564825",
+    "author_id": 383252406071,
+    "comments_disabled": true,
+    "draft": false,
+    "promoted": false,
+    "position": 0,
+    "vote_sum": 0,
+    "vote_count": 0,
+    "upvote_count": 0,
+    "downvote_count": 0,
+    "section_id": 52153812940185,
+    "created_at": "2026-11-11T06:43:18Z",
+    "updated_at": "2026-11-13T07:12:31Z",
+    "name": "【はてなブログ】【Androidアプリ】記事の予約投稿",
+    "title": "【はてなブログ】【Androidアプリ】記事の予約投稿",
+    "source_locale": "ja",
+    "locale": "ja",
+    "outdated": false,
+    "outdated_locales": [],
+    "edited_at": "2026-11-13T07:12:31Z",
+    "user_segment_id": null,
+    "permission_group_id": 972331,
+    "content_tag_ids": [],
+    "label_names": [],
+    "body": "<p>記事を公開する日時を指定して、予約しておけます。</p><h2 id=\"h_01M74H6RKCV841R0P14ZW9JRKA\">予約する</h2><ol>\n<li data-list-item-id=\"e923f132681dcd915a55b21a6df182109\">記事の編集画面で、<img class=\"wysiwyg-image-resized\" style=\"aspect-ratio: 80/80; width: 20px;\" src=\"https://hatena.zendesk.com/hc/article_attachments/64202135558937\" alt=\"info_1.png\" width=\"80\" height=\"80\">ボタンをタップして記事情報を開きます。</li>\n<li data-list-item-id=\"eb65e5074e4c9968615f57eef4060d13a\">予約投稿をオンにし、公開したい未来の日時を指定します。</li>\n<li data-list-item-id=\"e833294491f03fac1acdb26633986b108\">公開ボタンが「予約投稿」に変わります。タップして予約します。</li>\n</ol><h2 id=\"h_01M74H6RKDBXH9BRKH59NCV983\">予約した記事を確認する</h2><p>予約した記事は下書き一覧に表示され、時計のマークがつきます。</p><h2 id=\"h_01M74H6RKEJQRVS3WY55MA1D1K\">ご注意</h2><ul>\n<li data-list-item-id=\"efa151fd11f3b11c93a2697061eefd699\">予約投稿をオフにして公開すると、すぐに公開されます。</li>\n<li data-list-item-id=\"ef2442878601e60c13a4b74e5e3ffadf5\">寄稿者権限では、予約投稿のボタンは表示されません。</li>\n</ul>",
+    "user_segment_ids": []
+  }
+}
