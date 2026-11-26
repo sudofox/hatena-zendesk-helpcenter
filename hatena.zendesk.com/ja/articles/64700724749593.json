@@ -1,0 +1,32 @@
+{
+  "article": {
+    "id": 64700724749593,
+    "url": "https://hatena.zendesk.com/api/v2/help_center/ja/articles/64700724749593.json",
+    "html_url": "https://hatena.zendesk.com/hc/ja/articles/64700724749593",
+    "author_id": 383252406071,
+    "comments_disabled": true,
+    "draft": false,
+    "promoted": false,
+    "position": 0,
+    "vote_sum": 0,
+    "vote_count": 0,
+    "upvote_count": 0,
+    "downvote_count": 0,
+    "section_id": 52153812940185,
+    "created_at": "2026-11-25T07:49:41Z",
+    "updated_at": "2026-11-26T01:43:58Z",
+    "name": "【はてなブログ】【Androidアプリ】アプリでアクセス解析を見る",
+    "title": "【はてなブログ】【Androidアプリ】アプリでアクセス解析を見る",
+    "source_locale": "ja",
+    "locale": "ja",
+    "outdated": false,
+    "outdated_locales": [],
+    "edited_at": "2026-11-25T07:55:49Z",
+    "user_segment_id": null,
+    "user_segment_ids": [],
+    "permission_group_id": 972331,
+    "content_tag_ids": [],
+    "label_names": [],
+    "body": "<p>「アクセス解析」タブでは、選んでいるブログのアクセス解析を確認できます。</p><h2 id=\"h_01M88T7M2C530HYSPA359JZ9H6\">手順</h2><ol>\n<li data-list-item-id=\"e67e837c7ff9686bbc6ff873f32d4143c\">画面右上のアイコンから、アクセス解析を見たいブログを選びます。</li>\n<li data-list-item-id=\"e0aa8d5e9a3b7f1c02eb59077173ffa32\">「アクセス解析」タブをタップします。</li>\n</ol><h2 id=\"h_01M88T7M2FYXBCNFSS5GF3MCVT\">寄稿者権限の場合</h2><p>寄稿者権限では、アクセス解析は表示されません。</p><h2 id=\"h_01M88T7M2F4C89C7F0GVXSTSZW\">ウィジェットで見る</h2><p>ホーム画面にアクセス解析のウィジェットを置くと、アプリを開かずにアクセス数を確認できます。</p><figure class=\"wysiwyg-image wysiwyg-image-resized\" style=\"width: 25%;\"><img style=\"aspect-ratio: 573/458;\" src=\"https://hatena.zendesk.com/hc/article_attachments/64700724743705\" alt=\"widget_access_analysis.png\" width=\"573\" height=\"458\"></figure><h3 id=\"h_01M88TV5A65TJSCK9MPSSVFTWJ\">ウィジェットの設置方法</h3><ol>\n<li data-list-item-id=\"eb91a73e43c41116730a746c034e0d946\">ホーム画面の空いている場所を長押しする</li>\n<li data-list-item-id=\"e6ef14cc9ad29c267269c5e1d5a7ea62b\">表示されたメニューから「ウィジェット」を選ぶ</li>\n<li data-list-item-id=\"ef988624654cf14b87d9b53e85388fdb2\">アプリ一覧から「はてなブログ」を選び、追加したいウィジェットを長押しする</li>\n<li data-list-item-id=\"e341b31f5318d07ac6f5874604750fb1a\">ホーム画面のウィジェットを置きたい場所までドラッグする</li>\n</ol><p>※ 機種やOSのバージョンによって、メニューの名前や操作が異なる場合があります</p>"
+  }
+}
