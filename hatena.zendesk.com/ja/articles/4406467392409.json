@@ -8,11 +8,13 @@
     "draft": false,
     "promoted": false,
     "position": 1,
-    "vote_sum": -28,
-    "vote_count": 136,
+    "vote_sum": -29,
+    "vote_count": 137,
+    "upvote_count": 54,
+    "downvote_count": 83,
     "section_id": 900000347206,
     "created_at": "2021-09-15T07:23:20Z",
-    "updated_at": "2026-08-25T09:02:02Z",
+    "updated_at": "2026-11-26T19:49:08Z",
     "name": "【はてなブックマーク】サイトにはてなブックマークボタンを設置したい（サイト管理者向け）",
     "title": "【はてなブックマーク】サイトにはてなブックマークボタンを設置したい（サイト管理者向け）",
     "source_locale": "ja",
@@ -21,10 +23,10 @@
     "outdated_locales": [],
     "edited_at": "2023-10-20T08:05:23Z",
     "user_segment_id": null,
+    "user_segment_ids": [],
     "permission_group_id": 972331,
     "content_tag_ids": [],
     "label_names": [],
-    "body": "<p><strong>「<a href=\"https://b.hatena.ne.jp/guide/bbutton\" target=\"_blank\" rel=\"noopener noreferrer\">はてなブックマークボタン</a>」</strong>のページより、ボタンのデザインや各種設定を選択することで、かんたんに貼り付けコードを生成できます。生成したコードを、設置したい任意の箇所へと掲載することで、ボタンの設置が可能です。</p>",
-    "user_segment_ids": []
+    "body": "<p><strong>「<a href=\"https://b.hatena.ne.jp/guide/bbutton\" target=\"_blank\" rel=\"noopener noreferrer\">はてなブックマークボタン</a>」</strong>のページより、ボタンのデザインや各種設定を選択することで、かんたんに貼り付けコードを生成できます。生成したコードを、設置したい任意の箇所へと掲載することで、ボタンの設置が可能です。</p>"
   }
 }
